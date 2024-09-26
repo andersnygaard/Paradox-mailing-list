@@ -1,0 +1,18 @@
+From: "randoneur" <pdmartin@ukonline.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 24 May 2010 22:32:46 -0000
+Subject: New Sail measurements
+
+I'm just about to pay the deposit on a nice new sail using the dimensions for the mark 2 sail.
+
+I've just been checking all the measurements and drawing up a sketch and I've just noticed that the angle at the tack turns out at 95.6 degrees as opposed to the original sail which has a tack angle of 91.3 (assuming my rusty trigonometry is correct). If I swap the tack to peak and throat to clew measurements, I get a sail with a tack angle of 90.66 degrees. Either sail looks right but I'm worried about the furling on the one with the greater angle. I can't imagine for a moment that Matt has reversed the measurements by mistake, but I need some reassurance before parting with lots of money!
+
+The one with the lower tack angle also means that the COE is further aft, which I'd reckon would be a good thing to lessen the chance of lee helm, considering 200mm has already been lost off the foot (from the original).
+
+I've uploaded a picture of my interpretations in the photo gallery.
+
+Can anyone comment on whether the 95.6 angle sounds correct and is not a problem to furl, especially if you are using the mark2 sail.
+
+Thanks
+Pete
+http://www.freewebs.com/paradoxbuild/

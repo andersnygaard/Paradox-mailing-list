@@ -1,0 +1,12 @@
+From: johannes.rodin@gmail.com
+To: paradoxbuilders@yahoogroups.com 
+Subject: Re: Best shape for Chine Runners?
+Date: 24 Aug 2014 06:18:38 -0700
+
+I have not found anything similar for displacement hulls, but the chinerunners are short for the speed of waterflow around the hull, and it is important to have a clean well defined flow-separation in their trailing edge, directing the waterflow for maximum lift to windward (compare with the trailing edges of wings). The chines on a Paradox should fence the flow around the bottom ("sucking" the boat downwards and to windward when leening) from the higher pressure on the lee-side of the hull - resisting leeway. At higher speed the waterflow around the hull should part cleanly in the aft part of the hull behind the chinerunners. The Paradox seems to easily start surfing down waves, and this is in part because of the sharp chines.
+
+Since it is a lifting body, it is important to maximize lift and minimize drag over the chines, as they will to a large degree govern the lift/drag ratio of the whole body. One cannot easily use a higher aspect deep fin-keel like on monohull racers. 
+
+Compare with Steve Dashew's video of the flow-separation and shaping of the wake aft from Beowulf and Windhorse among others.
+
+Wind Horse High Def Videos - DashewOffshore http://dashewoffshore.smugmug.com/Boats/Wind-Horse-High-Def-Videos/16446540_xvKd3#!i=1238506971&k=UBqrT&lb=1&s=L

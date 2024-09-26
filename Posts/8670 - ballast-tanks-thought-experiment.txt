@@ -1,0 +1,26 @@
+From: creditscorenz@yahoo.com.au
+To: paradoxbuilders@yahoogroups.com
+Subject: Ballast Tanks Thought Experiment
+Date: 28 Feb 2016 18:31:31 -0800
+
+
+
+After playing around with a siphon during the weekend I concluded that siphoning the tanks isn't practical, so we're back to pumping them out. Al's got bilge pumps in the tanks themselves. I'm wondering whether this scenario might also work.
+
+1. Don't install the ballast tank breathing tubes. The large diameter pipe described below should allow enough airflow to forego the breathing tubes when filling and emptying.
+
+2. Install large diameter pipe (I'm thinking 32mm or 1.25 inches) flush to the inside of the tank wall using a gentle curve into the tank. Thread a garden hose (18mm or 3/4 inch) down through the large diameter pipe and use that to fill the tanks. Filling the tanks to overflowing and then withdrawing the garden hose will allow the water level to drop enough to cap off the large diameter pipe.
+
+3. To empty the tanks, again insert a garden hose attached to a pump (foot pump or 12v - it doesn't matter) into the large diameter pipe.
+
+Problems:
+
+1. How to cap off the large diameter pipe without raising it above deck level (I want to keep the opening at deck level, so that I have the option of filling the tanks from rainfall). This is a problem no matter what size pipe I install. Are any of you using expanding plugs? Any chance they will come loose and fall out?
+
+2. If I don't install the breather tubes is some kind of pressure imbalance going to occur that I haven't thought of?
+
+Your thoughts are appreciated.
+
+Cheers,
+
+Rob.

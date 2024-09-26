@@ -1,0 +1,31 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 27 Nov 2003 00:10:30 -0000
+Subject: Mast Construction help
+
+Well, the good news is I think I understand the vent trunk. Then I started looking at the mast drawings. I looked back through the archives and found someone answered a similiar question, but I must be thick, I still don't get it.
+
+The "section at deck" obviously shows the cross section at that point. I assume the top to be the front. It is superimposed over a vertical section of mast with dimensions. Is the left side dimensions showing mast width? The 86 seems to be the width of the section at that point. It doesn't look like the 86 is measured with respect to the centerline indicated. The 24 seems to be the width of the side piece at that point. The copper ground strap on the cross section lines up with the vertical section of the mast, so is the side looking from the back curved on both the inside and outside edges? 
+
+The next section shown if measured with respect to the centerline indicated, seems to be half the mast width (except this idea seems to fail towards the top of the mast), so is this middle section just the aft view? The section at deck seems to be superimposed over this, or is this just coincidence?
+
+The section to the right of the "section at deck" where it is labeled 20 then 19. Is the 20 the depth of the side, and the 19 the depth of the front?
+
+I don't see how to determine the size of the rear piece of the mast.
+
+Don's Building Paradox articles seem to show a different mast construction, or maybe I'm really confused. How do you go about building this thing?
+
+Help!
+Paul
+
+The plans show 3 views of the mast.
+
+1/ a half section labelled 'Section at Deck' which shows a section through the stbd half of the mast and is scale 1:1
+
+2/ Behind 1 a side view section of the whole mast showing front and rear panel dimensions.
+
+3/ To the right a half section viewed from aft showing one (stbd) side panel.
+
+I found it confusing at first. I think it is the way the dimension lines cut across the two views. the view from aft finishes at the line labelled CL.
+
+I hope this makes sense. If not I will try again with pictures. It is easier to make than to explain.

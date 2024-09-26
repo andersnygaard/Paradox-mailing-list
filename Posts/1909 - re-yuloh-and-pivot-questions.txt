@@ -1,0 +1,45 @@
+From: "Glen Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: yuloh and pivot questions
+Date: Thu, 5 Feb 2004 22:15:33 -0500
+
+I brazed on some filler material to the top of a bronze bolt, hardware bonded the bolt into the transom after shaping a ball on the end. Installed the gas line cap as per the plans in the yuloh which was build as per the plans (like Al's) and have had no problems with it. Only problems were with my learning curve which I described in the sea trials article.
+
+Tailwinds
+
+Glen
+
+To: paradoxbuilders@yahoogroups.com
+From: Alastair 
+Subject: Re: [paradoxbuilders] yuloh and pivot questions
+Date: Thursday, February 05, 2004 3:26 PM
+
+
+I laminated my yuloh from two planks, bending them over a 30mm high block. This seems to work.
+
+My pivot bolt is made from some 10mm SS studding with the ball out of a spherical bearing epoxied on the end.
+
+The socket was made from a tufnol block, recessed into the yuloh, drilled out to the diameter of the ball, one diameter deep. This also seems to work.
+
+The yuloh would be easier to learn if it didn't jump off the ball quite so easily. Dave Bolduc described a system using a bit of bungee to hold it on, which I have successfully used. This may be an area where some other bright ideas may produce a better solution. The drawback to a fixing is that it then takes time to set up. With Matt's system it only takes seconds to turn on the engine.
+
+To: paradoxbuilders@yahoogroups.com
+From: "Steve" <sdhender@sbcglobal.net>
+Subject: [paradoxbuilders] yuloh and pivot questions
+Date: Wed, 04 Feb 2004 16:08:11 -0000
+
+I'm looking for some suggestions regarding the yuloh and its pivot bolt. 
+
+The plans specify a 30mm longitudinal concavity.  Is this a 30mm offset from a straight line connecting one end of the yuloh to the other end?  Or, is the 30mm "offset" from one end of the "blade" portion of the yuloh to the other end of the "blade?"  
+
+Also, I'd appreciate ideas on forging the pivot bolt which mounts atop the stern.  I have a friend who is handy with oxy/acetelyene.  Can the head of a stainless steel or silicon bronze lag bolt be built up by melting another piece of ss/sb onto it?  I notice in Bill's recent posts of Al's "Little Jim" a very shapely yuloh pivot.  
+
+Lastly, how about shaping the portion of the pivot joint which is embedded in the yuloh.  I bought an acorn nut with intentions of grinding it to a fairly smooth concave surface, but would appreciate hearing how others have approached this or plan to do so.
+
+Thanks in advance, 
+Steve
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

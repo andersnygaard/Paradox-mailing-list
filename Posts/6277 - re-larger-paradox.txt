@@ -1,0 +1,12 @@
+From: "sandinmytea" <sandinmytea@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 14 Dec 2009 00:18:51 -0000
+Subject: Re: larger paradox
+
+My big concern with extending the hull without changing the beam would be that you would be creating a longer "lifting hull" profile. According to everything I've read about the Paradox design, its leeway prevention is greatly affected by the chine runners, which assist the curved bottom in providing some resisting force on the leeward side of the boat (which is flat, so its a Bernoulli Principle design).
+
+Now on the other hand, a few more feet of waterline would allow the boat to sail a tad faster, and maybe in sailing faster you would compensate for a flattening out of that underwater "lifting" profile, the one that the flat sides and curved bottom creates.
+
+It took me a month to understand what the hell the chine runners actually did. For the longest time, I could only conceive of them as mini, long keels. They don't do that at all really, or only marginally, from all the explanations I've read. Good luck!
+
+Mike

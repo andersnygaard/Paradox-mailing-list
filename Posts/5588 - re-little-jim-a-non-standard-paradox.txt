@@ -1,0 +1,31 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 01 Oct 2008 09:35:48 +0100
+Subject: Re: Little Jim, a non-standard Paradox
+
+On 30 Sep 2008 at 23:10, Rodney Cannon wrote:
+
+This is helpful to me as I will begin the yulah, boom, and yard this 
+week..... getting small stuff out of the way ... um.... do need some 
+help though.=A0 I figured out the mast due to the append. of the Don's 
+builders manual.... but on drw #12 I have no clue what it its trying 
+to tell me in regards to the boom and yard, I have figured out some of 
+the yulah.=A0 What troubles me is say... take the yard... there is a 
+square in the middle of the drawing with dimensions, I understand the 
+length and width at top and bottom... but I don't get the rest. =A0 If 
+anyone with patience and time would like to email me to help me figure 
+it out I would greatly appreciate it. =A0 Thanks, Rod
+
+That square is a section through the yard at that location. Similarly 
+for the square on the boom and the funny shapes on the yuloh. So on 
+the yard 700mm from one end the section should be 42 x 38 with 12mm 
+radius corners. On the boom, 1850mm from the tack it is 47 x 38. 
+950mm from the tack it is 43 x 38.
+
+On the yuloh the flatter side is on the top when in use.
+
+Hoping for calm nights
+
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

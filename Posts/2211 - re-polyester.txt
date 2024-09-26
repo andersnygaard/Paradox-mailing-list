@@ -1,0 +1,10 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: polyester?
+Date: Sat, 28 Aug 2004 22:07:15 -0000
+
+I fundamentally agree with James, but it could probably be argued whether the majority of the layup on the bottom needs to be epoxy. Perhaps the first and last laminates could be wet out in epoxy, while the rest could be done in polyester. This method would necessitate a good dewaxing job of both epoxy (amine blush) and polyester (styrene), with ammonia water and MEK repectively, and/or a commercially available dewaxing solution. The bond between the different resins would be pure secondary (mechanical); no chemical adhesion. The layup on the bottom of the boat is probably intended primarily as a skidplate of sorts, as well as ballast. This is one reason why so many have speculated on the viability of steel, bronze, UHMW, etc... in lieu of fiberglass.
+
+As for the rest of the boat, definitely stick with epoxy (so to speak).
+
+DC

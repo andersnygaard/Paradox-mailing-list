@@ -1,0 +1,23 @@
+From: "William" <wyliewesty@yahoo.com>
+To: paradoxsailboat@groups.io
+Date: Mon, 17 Feb 2020 08:18:51 +0000 (UTC)
+Subject: Re: [paradoxsailboat] Electronic device for race
+
+
+Thank you, I will look at that better when I get home. I believe the problem with having a short boat race with a prize against people in different areas is you cannot protect against cheating. That is what I realized with the first race I tried to do and I now understand it to be the hurdle to overcome. I am not sure how involved it would be to build us an app specific for remote races with our paradoxes. I work in a place with computer engineers and I have been waiting for one of them to wake up all night so I can ask them about this. Maybe we could hide anti cheating detection within the phone app based on the unique movement of a paradox possibly comparing it to wind conditions at the time etc. vibration detection for motors, sudden movement to detect towing. At the same time this app would feed info back so spectators could see who is winning.
+
+William     
+
+On Monday, February 17, 2020, 01:28:35 AM CST, Francis Roussel <franc.roussel@wanadoo.fr> wrote:  
+
+Le 17/02/2020 à 02:44, William via Groups.Io a écrit :
+> https://kwindoo.com/
+>
+> Someone on here mentioned phone apps. There are several phone apps out there
+> for boat racing that look good. Will any of these work for us to race each
+> other at the same time when we are in different places. If we used this what
+> else would we need to have.
+
+
+https://play.google.com/store/apps/details?id=com.frederic.sailfreegps
+fr

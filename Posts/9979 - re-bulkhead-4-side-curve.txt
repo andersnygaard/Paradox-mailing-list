@@ -1,0 +1,13 @@
+From: andreas.westerberg@gmail.com
+To: paradoxsailboat@groups.io
+Subject: Re: Bulkhead #4 (side curve)
+Date: Thu, 16 Mar 2023 02:37:51 -0700
+
+Hi Erik,
+
+I checked my cad drawings and I have no curvature on the outside of bulkhead 4.
+I don't know if I understood the second question, but if you mean the radii of the cutouts, I think that you can be creative.
+I will close bulkhead 1 and 4 and install hatches to add buoyancy.
+
+Best regards,
+Andreas

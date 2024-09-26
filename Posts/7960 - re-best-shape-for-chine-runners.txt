@@ -1,0 +1,23 @@
+From: John Starkie <john.starkie@talk21.com>
+Date: Thu, 26 Jun 2014 12:07:41 +0100
+Subject: Re: Best shape for Chine Runners?
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+
+Aspect ratio?
+For a keel or a sail the ratio of leading edge to chord?
+
+For any rectangle,  it's the ratio of the longest side to the shortest side.
+
+How are you measuring aspect ratio of a chine runner?   which has no "leading edge"?
+
+
+
+I've always thought of a chine runner,  together with the bottom of the boat,  as equivalent to a delta wing (vide Concord, or a Crab Claw sail):  the fluid pressure distribution is entirely different,  and depends on the generation of lift vortices rather than on laminar flow.
+
+For this reason,  the entire chine runner must be below the water surface,  and the boat must be heeled to get the upper,  planar,  surface of the runner tending to vertical.
+To keep a centre-board or dagger-board vertical (at its most efficient) the boat must be horizontal.
+
+Or have I misunderstood the whole thing?
+
+
+John

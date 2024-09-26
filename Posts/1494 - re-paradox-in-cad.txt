@@ -1,0 +1,16 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Paradox in CAD
+Date: Fri, 12 Dec 2003 01:12:46 -0000
+
+Hi Nels,
+
+I forgot to leave the bottom extra wide, so the chine runners as shown are separate pieces, so they don't quite blend in correctly either. They are however taken right from sheet 11, and are accurately scaled. Depending on the view angle they can appear quite small. The picture in the file section with Zoe on the trailer, mentions that the angle was just right to show off the chine runners, I see what he means.
+
+Well the whole point in making a model is to make your mistakes in miniature, so it has served it purpose. I could go back and fix things, I just needed a break, so I posted what I did so far. If you see anything wrong just mention it, I'll add it to the to-do list, and if I actually decide to make a real boat, I will probably correct the model beforehand.
+
+Input figures? Well here is what I did, although it probably doesn't answer your question. I took the dimensioned face of the bulkheads to be opposite of the side shown (it just made more sense to me to do it that way with the bevels as shown, normally the dimensioned face would be indicated, or assumed to be the side shown, so it may be the thickness of the ply off, oh well) and created an outline. Also an outline of the transom, and stem. Waterlines are shown on the bulkheads, so using sheet 2, measure the approximate vertical positions of the transom and stem, and knowing the station position, position the outlines in 3d space, and use a surface loft, to create the hull shape ( I lofted the deck separately). When I added a deck arc to Bulkhead 3, the top of BH3 seemed too low and the deck came out icky, so when I finally lofted the deck, I did not use the top of Bulkhead 3 in the loft. I think Don mentions in the construction manual about adding a bit to the top of BH3, so I wonder if that is what he means. So this is more like building a boat on a strongback, so you position the frames, and go from there. Since we know the actual positions of the BH's in the middle, the ends are measured from the scaled drawings, but it all comes out looking smooth anyway. So everything else was added relative to these lofted surfaces. 
+
+Greg Carlson's Hull design software is great for chined boats, to develop the hull shape, so once you have lines, you can get them into a modeller. Designing a boat is a lot of work, and Matt has done a wonderful job, which is why it was relatively easy to have it fit so well together (despite my errors).
+
+Paul

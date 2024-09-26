@@ -1,0 +1,14 @@
+From: Rachel <penokee@cheqnet.net>
+Date: Sat, 19 Aug 2006 14:09:22 -0500
+Subject: Re: Paradox sails
+To: paradoxbuilders@yahoogroups.com
+
+Derek,
+
+Your query on how to make the degree symbol on a Mac has brought me out of the woodwork. I've been reading the list for awhile as I might like to build a Paradox sometime.
+
+To make the degree symbol, hold down the "option" key (to the left of the space-bar) and then press the number zero.
+
+For example, I can say that now it is 73=BA outside, and test whether the symbol comes through properly to the list.
+
+--- Rachel

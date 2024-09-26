@@ -1,0 +1,12 @@
+From: "DC" <kd7ixk@yahoo.com>
+Date: Thu, 10 Jun 2004 04:28:04 -0000
+Subject: Re: Yuloh
+To: paradoxbuilders@yahoogroups.com
+
+Hi David.
+
+Going for that variable stroke motor are you? I think that the yuloh is one of the parts of the design for which a guideline is provided, but which may vary by the particular builder. I seem to remember Dave Bolduc mentioning that Matt had a new yuloh aboard Paradox which was substantially different from the original. Sorry, don't remember if it is more or less curved.
+
+I think that probably the most important consideration (mine anyway) is that the yuloh stow fully on deck while avoiding hard contact with the cabin sides. This can be best seen on sheet #3. I take the 30mm figure to be deflection from the centerline of the yuloh. This is all rather subjective, as the yuloh is laminated with the bend (at a rather arbitrary center), and then shaped asymmetrically. This shaping will allow some degree of springback. Essentially, what one starts with is hardly similar to how the yuloh finishes. I eyeballed my yuloh lamination with somewhat more than 30mm deflection.
+
+DC

@@ -1,0 +1,11 @@
+From: "adventures_in_astrophotography" <jon@kolbsadventures.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 09 Dec 2009 14:27:43 -0000
+Subject: Re: Materials - Plywood
+
+Any fir plywood, even marine grade, will eventually check on the side exposed to the weather unless it is fiberglassed or otherwise sheathed.  I've built several boats with ACX by putting the good side in and glassing the C side.  This works fine, but you'll have to fill a lot of checks, dents, and holes in the C side veneer before you glass.  I got tired of that and switched to BS 1088 Meranti.  It's expensive, particularly since I have it ship it to CO, but it's a big improvement over ACX.  
+
+Another option is MDO (medium density overlay), commonly used for signs.  It's available with one or both sides covered with some sort of heavy paper or fabric that's set in phenolic resin.  The better grades are typically made of fir ply and have few voids.  This requires no glassing to avoid checking, but the exterior surface is more prone to damage than a sheathed surface.
+
+Jon Kolb
+www.kolbsadventures.com

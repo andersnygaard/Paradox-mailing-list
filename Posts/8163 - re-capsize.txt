@@ -1,0 +1,11 @@
+From: croeserpl@amnet.net.au
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: capsize
+Date: 01 Apr 2015 19:10:17 -0700
+
+Geoff Davis recently sent me a link to this article. It explains why the Paradox is a very good sea boat. The Paradox is not overly beamy, is heavy displacement for its size, has a favourable prismatic coefficient which means that it does not hobby horse excessively, the ballast ratio is not excessive and the ballast is not too low down, the rig is relatively heavy which slows down the roll motion. The A/B ratio which is the ratio of boat above and below the water is also good.  Not covered in this article is the fact that the mast will float when submersed, adding more to the ultimate stability. 
+
+I have previously built a free standing mast and have used the same calculations to check the design of the Paradox mast. I think it is strong. If anyone is concerned about the strength of the mast it might be worth considering a mast tabernacle which will help to support the mast. I considered this but decided to stick with the plan, mostly because it is so neat. When I questioned Geoff about the capsize he thought the rudder had given way first. I think it is worth having a good look at how you build your rudder. Make sure it is strong - there is a lot of force going through it.
+
+http://www.kastenmarine.com/beam_vs_ballast.htm
+Custom yacht design services. Blue water yachts with 'modern-classic' design in steel, aluminum, fiberglass or wood.

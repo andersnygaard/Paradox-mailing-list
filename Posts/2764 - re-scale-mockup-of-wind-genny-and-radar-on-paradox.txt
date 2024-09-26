@@ -1,0 +1,30 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 10 Jun 2005 01:30:55 -0700
+Subject: Re: Scale mockup of wind genny and radar on Paradox
+
+Hi Chris,
+
+I like that you're pushing the envelope of technology on the Paradox design with the inclusion of generators and radar units.
+
+With the addition of the 9lb. unit at the top of the mast, is there any consideration as to what this will do to righting moment corrections that might be necessary.
+
+I understand that this was just to see if the units could fit as a conceptual approach. I was just curious if you had also looked into the balance needs any further.
+
+If I went with a radar, I'd probably build the mast out of stika spruce or other very light material (maybe even carbon fiber), and might leave out the lighting rod. Combined, these changes would probably compensate for the weight of the radar-- but a proper calculation would have to be done to make sure.
+
+One interesting note I remember reading in the list archives (I went through and read all archive messages), was a note about someone considering adding extra weight to the mast to ease the roll motion of their Paradox.  I'll have to try and find that message again.
+
+I would like to see a suggested radar reflector, though, with a boat this close to the water. It's nice to think we could now see what was out there in lots of conditions, it's another to be seen and have some sort of chance to be avoided by a freighter that is clipping along at some astounding speed in the middle of the night.
+
+I used to race cats and was once capsized in the main shipping channel outside the L.A Harbor at night. Very scary experience. Later, one of my friends, who was a first mate on a giant oil tanker, said I would have made the slightest of blips on the tachometer as my 20' cat ran through the churning prop. Not good to think about.
+
+If I had do choose between radar or a reflector, I'd take the radar.  With a reflector, you are depending on the other guy to see you and react (assuming they even have the radar on.)
+
+I'm just an armchair sailor at the moment, but I'm convinced that most small ships that are lost without a trace are a direct result of being hit by a larger ship that was probably running without radar or without an alert watch and never even knew the collision happened.
+
+If I was going with a reflector, I would probably use the trick involving stuffing a hollow wood mast (and all the spars while you're at it if hollow) with aluminum foil.  I hear that works good.  If you have the money, I would combine that trick with a Sea-Me active radar reflector.
+
+Nice drawing, by the way.
+
+BRENT - The Usenet typo king. :)

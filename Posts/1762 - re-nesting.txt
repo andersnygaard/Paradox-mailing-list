@@ -1,0 +1,12 @@
+From: "Glen Maxwell" <ifida@alltel.net>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Sun, 4 Jan 2004 21:12:23 -0500
+Subject: Re: nesting
+
+Hi Bert,
+
+The 3D dxf files are in the files section in the CAD Drawing folder as for what Sven thinks of the Paradox's seaworthiness I can only recommend that you look in the Files section and read Chapter 9.
+
+Tailwinds
+
+Glen

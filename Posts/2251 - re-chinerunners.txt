@@ -1,0 +1,12 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: chinerunners
+Date: Thu, 09 Sep 2004 06:53:54 -0000
+
+Yes, but I would also lose one of the reasons to use the metal like this: to get a sturdy edge.
+
+One more thing, which I forgot to mention in an earlier posting, as to sheet metal fastenings:
+Epoxy does not glue to stainless steel (almost). But Krister, who builds the Sofia, still uses it on the bottom. He grinds the sheet heavily, than applies the elastic filler within seconds (how on earth he can accomplish this, since this epoxy is VERY tixotropic). No other fastenings. He claims he has tried to remove one such sheet after several years, but the polyesterlaminations beneath tore, rather than the sheet.
+Anyway, with bronze there shouldn't be such glueing problems. But it still makes sense to me to have an elastic glueing between polyester and metal, so I followed Krister in this aspect.
+
+Kjell

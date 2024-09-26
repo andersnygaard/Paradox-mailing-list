@@ -1,0 +1,11 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 14 Jun 2005 15:18:36 -0700
+Subject: Re: Air-x wind generators
+
+Southwest Windpower says the Air-X does not use the "aero-elastic" blades, like it did on the older 403. Instead, they use the electric break concept you describe. In their website they say:
+
+"Much Lower Noise: Previous AIR wind modules relied on their aero-elastic blade design for protection in high winds. This caused a loud flutter noise in winds above 35 mph (16 m/s). AIR-Xs circuit monitors the wind speed and electronically slows the blades as it reaches its rated output preventing it from going into flutter. This results in a much quieter wind turbine. In high winds, the AIR-X will continue to produce power at a reduced level until the wind decreases, at which point maximum potential output will resume."
+
+So say the sales department. :) But wind gennies will always be louder than solar, but also cheaper than solar. TANSTAAFL still applies
+-- BRENT - The Usenet typo king. :)

@@ -1,0 +1,29 @@
+From: Dave <aikidave@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 16 Oct 2019 22:50:28 -0400
+Subject: Re: The end is nigh...again!
+
+HI Matt,
+
+I would be interested in using the API myself. I have a Matt Layden Enigma group on Yahoo and I will have to migrate that myself. I would like to create my own archive.
+I also read all the posts in paradoxbuilders and want to subscribe to the new group.
+
+Thanks,
+Dave
+
+
+On Wed, Oct 16, 2019 at 9:23 PM creditscorenz@yahoo.com.au [paradoxbuilders] <paradoxbuilders@yahoogroups.com> wrote:
+
+Hi Matt,
+
+That's pretty cool. Can you provide a link that describes the API? For fun I'll have a go with my own tiny group which went defunct years ago.
+
+I'd also be interested in anything you decide to self-host. Of late, the activity on this group has been sporadic. I post a video link and there's a bit of activity and then it goes quiet for long periods of time, so my feeling is that there's no more than 100 people actively following what happens here. As far as builds in progress, perhaps there's 2?
+
+How you choose to self-host is an interesting question. The group format is a sort of combined bulletin board / mailing list / cms. That's quite a stack to self-host. The software is easy enough to find (http://groupserver.org/ is one example written in Python using Zope and SQL Relay, although I haven't downloaded it to check it out), but, I wouldn't want to expose myself to the email security issues of a mailing list, yet without that, you won't get active community engagement. Neither would I want my server getting clogged with masses of photos, videos and other content which would soon saturate my bandwidth capacity, but again those things are expected to be available.
+
+There's no free lunches, that's for sure!
+
+Cheers,
+
+Rob.

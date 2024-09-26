@@ -1,0 +1,21 @@
+From: "" <openboat@as6jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 24 Apr 2013 10:50:22 +0100
+Subject: Re: Engine for the Paradox
+
+After I had been using Little Jim for a few years I fitted an electric trolling motor (Minn Kota 28lb thrust). This was mounted on a removable bracket alongside the cabin, which puts it out of the way of the main sheet. The main purpose of this motor was to get the last mile up the river, against the current, to my usual launch site. It was powered by an 80Ah sealed battery. The motor takes about 30A flat out.
+
+I have, on a number of occasions, been left becalmed when on coastal trips where the endurance of the motor is not enough to get me to port. So I thought about this idea of a generator that I could take on the longer trips.
+
+A survey of conventional generators was not very encouraging. They were all bigger than was convenient and either gave out a small current at 12v or required a battery charger to run off the 240v AC output. Not the most efficient or quickest arrangement.
+
+What I wanted was a petrol engine driving an automotive alternator, which is designed to charge a battery at high current. Then a couple of months ago I came across this <http://www.thesupercharger.co.uk>. It claims an output 50A continuous so will drive the motor directly while still charging the battery.
+
+Early trials look promising. I intend to mount the generator on the aft deck (bolted down). If I can get it close to the cabin it should be clear of the sheet. At the moment I have a prototype mounting at the transom which I shall use for this year and see how it behaves.
+
+--
+Hoping for calm nights
+
+Alastair Law,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

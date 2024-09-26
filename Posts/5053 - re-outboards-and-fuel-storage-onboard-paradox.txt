@@ -1,0 +1,27 @@
+From: "Nels" <arvent@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 13 Apr 2008 16:06:47 -0000
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+I would agree with Al about the choice of battery - the AGM giving the higher bang for the buck and the Gell Cells the best overall. Make sure the AGM is designated deep cycle or you won't have the amp/hour capacity required without the threat of shortening it's life span. 
+
+I did some solar and wind power research for Environment Canada - years ago now so the technology may be greatly improved these days but here are a few of my observations.
+
+1. Solar panel performance figures are vastly exaggerated as they are measure with new panels under ideal conditions and located directly facing the sun rays. (Which hardly ever happens on a horizontal panel.) You will be lucky to get 50% of the advertised power in a pitching boat, salt spray, blockage by the sails and spars and cloud cover.
+
+2. Wind generators - the same. When under sail with any wind the generator will not work unless your are going to weather in which case it will likely slow the boat down. In port you will be badly blocked off from the wind by the larger boats and on-shore structure. Not to mention the inherent danger from the prop and having enough clearance for it.
+
+During my research I had to carry a microwave oven and a generator to power some of the test equipment. The smallest mw oven available at that time was 800 watt output and it took at least 10 amps to get it
+going from the 120 volt outlet on the generator. Therefore I needed a 1000 watt (nominal 1250 peak) generator. It had a little 4-stroke engine - the above inverter built in as well as a battery charger and weighed a good 40 pounds.
+
+I see the tiny oven mentioned requires 6 amps and puts out 350 watts? That is not very efficient is it? 350 watts is not much above the defrost setting on a regular mw oven. Electrical energy is one of the least efficient ways of creating heat.
+
+Also I don't think there is sufficient deck space on a Paradox to install enough photovoltaic panels to re-charge a depleted battery. Probably only enough to keep it topped up to power 12 volt electronic devices.
+
+Therefor the best solution by far is what Bill has decided (Or even the little 2 HP Honda) and using a yuloh as back-up. And a small gimbaled gas stove for cooking. But storing the fuel is a challenge for sure, with a Paradox.
+
+I would suggest to anyone considering solar/wind/battery power to look very closely at all the potential disadvantages. Fossil fuel still has by far the best performance when considering weight and cost per btu of energy output availability. 
+
+I bet a 1 Liter jug of gas and a 2 HP Honda with take you a lot farther and faster than 80 pounds of deep-cycle batteries and a trolling motor.
+
+Nels

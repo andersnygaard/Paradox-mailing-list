@@ -1,0 +1,24 @@
+From: "" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 03 Aug 2005 19:37:37 +0100
+Subject: Re: Enuf's Calamity Update &amp; the Yard
+
+On 3 Aug 2005 at 18:22, dclark52001 wrote:
+
+Structurally it is a double cantilever. As you move away from the 
+support (mast) the bending moment decreases and the yard can be 
+thinner. If the load is correctly matched to the varying stiffness 
+then the top of the sail will have a constant curvature.
+
+If it's a double cantilever then it's back to the Douglas Fir! Actually I'm not sure what a double cantilever is but a bamboo spar isn't going to be one and as Jack said will need lining up with the mast.
+
+A shelf bracket (or mast) is a single cantilever, a seesaw is a 
+double cantilever (2 ends). The Forth rail bridge is a series of 
+double cantilevers (http://www.geo.ed.ac.uk/scotgaz/features/featurefirst1053.html). 
+Bamboo may well work, but would probably need strengthening to 
+prevent crushing where it presses against the mast
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

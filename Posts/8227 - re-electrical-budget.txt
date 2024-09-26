@@ -1,0 +1,22 @@
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Electrical budget
+Date: Sun, 10 May 2015 21:37:13 +0100
+
+
+Hi and thanks for reminding me of that post by Geoff. I've tried to get the boat to self steer, without any extra gadgets,  as I'm sure we all have, but it only works to a limited extent for me
+
+It's Ok- ish   while going to windward, with  the tiller fixed, until the wind increases or diminishes - . like most boats . So she holds a reasonable course when sailing like that for most of the time.
+
+When sailing with the wind from aft, with the sail squared off, there's a big turning moment caused by most of the sail being outboard. So a very slight change in wind speed will make the boat change course. This tendency is more pronounced than you get in normal Bermudan  rigged boat where the boom is very short and most of the sail nearer the mast. I've never had any luck self steering then unless i reef drastically 
+So it's while sailing downwind that I most need a helm assistant....
+
+A nice wind vane set-up with a servo pendulum would do the job but there's already too much weight hanging off the aft end - due to the outboard engine - and it would be silly to add more. Besides it would complicate things hugely when getting ready to launch. 
+
+Schemes using the sails to self steer downwind generally need a headsail. They  work by the head sail being blanked by the mainsail when the boat bears away too much, which reduces the tension on the head sail sheet,    which is connected to the tiller. Adding a head sail would be another huge complication.
+
+So, I'm stuck with the electronic tiller pilot thing,I reckon. I hope it keeps going better in the future than it has so far.. Fingers crossed.
+
+Best
+Jim 
+http://jimtimes.wordpress.com/

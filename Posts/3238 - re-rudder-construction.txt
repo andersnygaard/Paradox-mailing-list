@@ -1,0 +1,12 @@
+From: "Chris Ostlind" <Chris@Wedgesail.com>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Rudder construction...
+Date: Tue, 6 Dec 2005 16:30:05 -0700
+
+The plans simply show holes in both the stock and the rudder, but how does one stop the ingress of water here, especially as this part is below the waterline?
+
+I'd drill-out the pivot locations on the cheekblock(s) and the rudder stock with an oversized bit. Then fill the holes in both with thickened epoxy after first brushing on a penetrating layer of straight epoxy so that the end grain and long fibers have been coated and given a chance to "take-up" some of the straight adhesive.
+
+Once cured, drill the epoxy plugs in all the parts with the correct drill for the pivot bolt. The rudder will rotate butter smooth and the parts will be protected from water. If you want to be really deluxe, find an appropriate set of silicon bronze bushings and drill the epoxy to fit the OD of those and assemble the whole thing for a long lasting and near bullet-proof rudder assembly.
+
+Chris

@@ -1,0 +1,32 @@
+From: Glen Maxwell <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Question about lightning protection
+Date: Tue, 08 Aug 2006 09:34:39 -0400
+
+Hi Matt,
+
+The copper strip is a grounding plane and must be in the water. With out 
+taking the time to go look I think that I have some pictures in the 
+files section showing how I tackled it. If memory serves me I got the 
+copper from a piece of flashing bought at a roofing supply house. After 
+cutting it to size I drilled 3/16 inch holes about every six inches 
+around the edges and then countersunk the out side. It was then vacuum 
+bagged to the hull (you can use any small vacuum source for this) and 
+the counter sunk holes act like epoxy rivets to give it a good 
+mechanical bonding as well as the glued inside surface. The flashing is 
+about 1/16 inch thick so I then covered the lot with micro balloons and 
+sanded it fair to the bottom.
+
+Hope this helps
+
+Glen
+
+twitch_816 wrote:
+
+The copper flashing: beneath the roving (against the wood), beneath 
+the bottom paint but on
+top of the glass, or exposed to the water?
+
+Working on the chine runners right now, then.. rollover time!
+
+Matt

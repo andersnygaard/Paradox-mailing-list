@@ -1,0 +1,26 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 28 Jun 2002 20:03:37 +0000
+Subject: Re: Running Lights
+
+My paradox has (will have) both a tricolour and white-all-round light built into a mast-head unit less than 2" diameter and 1.5" tall. Using LEDs either the white or tricolour uses about one tenth the power of a filament bulb for the same output
+
+I only use 2 wires up the mast, as the diodes are wired in opposite directions. So connect to the battery one way round for white and reverse polarity for tricolour.
+
+I have no steaming light as I am not intending to use an engine (this may prove to be a mistake :-)
+
+To: paradoxbuilders@yahoogroups.com
+From: "buster38801" <dlb@dixie-net.com>
+Date: Fri, 28 Jun 2002 14:54:01 -0000
+Subject: Running Lights
+
+Hi All,
+
+Why does Paradox and Little Cruiser have a mast head light and not the green/red running lights?
+
+David
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

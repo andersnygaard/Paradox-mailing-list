@@ -1,0 +1,19 @@
+From: "Alan" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 30 Oct 2008 00:39:18 -0000
+Subject: Re: MAST
+
+Hello friends,
+
+I want to change the mast of a timber for aluminum. I have one of these materials to 63.5 mm in diameter. Can he work? 
+
+Best regards,
+Alberto 
+Rawson Chubut
+
+Hi,
+
+What is the wall thickness? It may be ok if not too thin. You could strengthen it by inserting an internal sleeve inside the lower end. This can be done by using the same tube and cutting along the length to allow it to be forced inside. It should also be cut at an angle at the top to avoid a sudden change in strength, perhaps about 6:1 slope.
+
+Cheers,
+Alan.

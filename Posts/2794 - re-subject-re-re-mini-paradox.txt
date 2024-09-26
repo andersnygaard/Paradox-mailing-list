@@ -1,0 +1,12 @@
+From: "Glen C. Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 11 Jun 2005 18:46:59 -0700
+Subject: Re: Subject: RE: Re: Mini Paradox
+
+I mention this because I wonder how best to place chine runners in relation to sail CofE.  Should you treat the area of the runners as a keel extension, in determining the center of lateral plane?  Yes I think you should and I would imagine if you added the profile to the bottom of the chine curve and computed the lateral resistance from the resulting profile you would be real close. 
+
+BTW, I finally ordered the Paradox plans.  I'm looking forward to getting a firsthand look.
+
+Great!
+
+Glen

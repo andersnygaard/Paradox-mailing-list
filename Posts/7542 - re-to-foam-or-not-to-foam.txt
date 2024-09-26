@@ -1,0 +1,13 @@
+From: "nshawl" <nshawl@chartermi.net>
+Date: Tue, 04 Jun 2013 20:38:39 -0000
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: To foam or not to foam...
+
+Ethafoam is the answer (IMHO). Easy to work with. Tough and impervious to solvents.
+
+To save money... extruded Styrofoam may be useful in some areas where not subject to damage. Though the foil faced Polyisocyanurate would probably be better. Bead-board type Styrofoam would be pretty much useless in any boating applications.
+
+For floatation purposes it seems about 1.75" of foam and wood combined would be enough to keep it afloat if completely flooded. 
+Rough calculation: 150 sq ft of hull &amp; deck * .147' =3D 22 cu ft =3D 1410 lbs. So the foam positions and thickness in the plans look completely reasonable.
+
+It would be best to calculate everything to be sure the volume of everything times the density of water is greater than the weight of everything on the boat. That way it would be unsinkable as long as it stays together. Judging from the plans, it appears the designer has probably already done a good job of that.

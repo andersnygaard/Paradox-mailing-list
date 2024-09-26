@@ -1,0 +1,33 @@
+From: openboat@as6jg.freeuk.com
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 02 Sep 2012 10:56:52 +0100
+Subject: Re: mast design
+
+If it is of any help here is a table of the plank sizes I made for another builder:-
+
+Distance from foot | front and rear planks | side planks | Assembly	
+0                               | 40x24                         | 86x19          | 86x78*	The assembled foot is, later, cut down to fit the mast step
+500                          | 40x24                         | 86x19          | 86x78	
+1400                        | 38x23                         | 82x19          | 82x76	
+2300                        | 34x21                         | 74x17          | 74x68	
+3200                        | 26x16                         | 58x14          | 58x54	
+4000                        | 14x12                         | 37x10          | 37x34	
+
+As this will undoubtedly be messed up by the various email readers I have divided each column with a "|" symbol.
+
+On 2 Sep 2012 at 9:06, mattlippey wrote:
+
+Roberto,
+Lezlie did a write-up on how to understand the mast plan:
+Lezlie's World
+<http://lezliesworld.blogspot.com.au/2012/03/mast-construction.html>
+
+Regards,
+Matt
+
+-- 
+Hoping for calm nights
+
+Alastair Law,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

@@ -1,0 +1,22 @@
+From: Dmitry Orlov <dmitry.orlov@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 2 Mar 2013 14:25:37 -0500
+Subject: Re: Next Question - rudder lock-down??
+
+I don't know whether anyone has tried it on Paradox, but here is the system Chris Morejohn and I came up with for his 32-foot sharpie Hogfish. 
+
+Weighing down the rudder blade doesn't work, for a couple of reasons. For one, the force is in the wrong direction. To get a balanced helm the rudder blade has to pivot slightly forward, and you can't do that with gravity. 
+
+For another, when the boat is charlie-horsing in chop, the weighted rudder blade builds up angular momentum on the upswing, causing it to jump up. This makes for an absolutely unmanageable helm.
+
+The pivoting rudder blade has a groove cut into the upper part of it, and a Dyneema line sits in that groove and goes around a pulley in the back of it and up. Pulling on this line causes the blade to go down. 
+
+This line is then spliced to what's called a fool's purchase on the upper part of the rudder, which two stationary blocks with a thin (1/4" or 3/16") nylon line that loops through them. The end of that line goes to a jam cleat.
+
+The effect is a springy tensioner: you put just enough force on it to drive the blade all the way down, but if you hit bottom all that happens is that the nylon line stretches a bit.
+
+If anyone is interested, I can provide some photos of Hogfish's arrangement. Hogfish used to have the same arrangement as Paradox, and I found it to be deficient and fixed it with Chris's help. Now it's perfect.
+
+Dmitry Orlov
+S/V Prince Kropotkin
+Boston Harbor Shipyard &amp; Marina

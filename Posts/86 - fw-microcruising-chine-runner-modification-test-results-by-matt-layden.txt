@@ -1,0 +1,38 @@
+From: "Glen C. Maxwell" <ifida@nefcom.net>
+To: "Paradox Builders" <paradoxbuilders@yahoogroups.com>
+Subject: Fw: [microcruising] Chine runner modification test results by Matt Layden.
+Date: Mon, 22 Oct 2001 06:41:28 -0400
+
+
+Well, I just got a note from Matt Layden stating the results of tests he did comparing Paradox' performance on various points of sail using the old chine runner and then the modified runner. Incidently, Matt extended the port chine runner about 16-18 inches forward. This note also answers questions about Paradox' windward performance too. He wrote:
+
+
+I took Paradox out to a part of the Indian River ... where there is practically no current, uniformly deep water and little boat traffic, and did a series of timed runs to try to quantify her windward performance and determine if the modified chine runner on the port side was an improvement.  
+
+I tried to do what I reasonably could to keep inaccuracy from accumulating, but I don't really know how good the results are. I laid out a triangular course with legs over a mile long, using fixed channel markers and a point of land that were all on my chart, but I don't know for sure how accurately they are plotted on the chart. I took compass bearings and did some timed runs to other charted features nearby; everything checked out reasonably well, so I'll use the data as they stand, but I would really like to double check the mark positions by GPS or survey from shore some time.
+
+I did 3 circuits of the triangle, timing the downwind leg as well as the 2 upwind ones, as a control for changing wind strength, etc. At the end of each leg I measured (by timing the run) any offset distance to windward or leeward of the finshing mark, to use in calculating distance made good to windward. I dipped the standing lug sail to leeward of the mast at each tack (which I don't ever normally do) to reduce any error from the otherwise asymmetric rig. I had no way to accurately measure wind direction (compass bearings are not accurate enough to be meaningful at this level), so I used half of the total angle between the windward legs as sailed in calculating VMGW. This may not be a true representation if there was a difference in leeway between the new and old chine runner, but any difference should be very small and anyway it was the best I could do with the instruments at hand.
+
+The data all seemed okay, but there were fluctuations of several percent from one run to the next on each leg, and the last 2 legs were complicated by the arrival of a short raain squall that made the wind a little uneven for about 30 minutes, so I would say that there is a margin of error of at least 1/10 knot in the results, I think doing much better would probably require a towing tank.
+
+I will include a copy of the raw data in case you are interested, but the short results, averaging the 3 runs for each leg, go like this:
+
+Downwind leg VMG: 4.53 kt.
+
+Starboard tack VMG: 3.63 kt.
+Starboard tack angle made good to wind: 51 deg.
+Starboard tack VMGW: 2.29 kt.
+
+Port tack VMG: 3.49 kt.
+Port tack angle made good to wind: 51 deg.
+Port tack VMGW: 2.21 kt.
+
+(VMG = Velocity Made Good along course; VMGW = Velocity Made Good to Windward)
+
+These results pretty much bear out what I have observed before, so I'm willing to believe them. There may be a slight improvement in the modifcation to the port runner (the difference if any is within the margin of error so I can't say for sure)  What this mostly does is tell me in numerical terms that yes, she really does go to windward passably well without a centerboard, and no, the as-built chine runners are not dismally bad though they may be susceptible to improvement. It supports my experience that in real world conditions, the rare few times Paradox has been near other small shallow-draft cruising boats, she has usually sailed right past them, upwind or downwind. This of course isn't because Paradox is a particularly fast boat but because, by and large, other other small shoal cruisers are not particularly fast either.
+
+
+To unsubscribe from this group, send an email to:
+microcruising-unsubscribe@yahoogroups.com
+
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.

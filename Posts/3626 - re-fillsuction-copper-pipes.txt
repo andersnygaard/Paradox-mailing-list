@@ -1,0 +1,33 @@
+From: "" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 17 May 2006 11:46:26 +0100
+Subject: Re: Fill/suction copper pipes
+
+Drawing 5 shows the diameter of the fill/suction copper pipe as 12 mm. How does this work in practice? Does it take a long time to fill or suck out the water from the ballast tanks?
+
+I have never timed it, but I suppose it takes about 5 to 10 minutes per side to fill from a tap (about twice as long using the bilge pump). I usually set it filling and then sort out rigging the mast and sail. The filling is quicker than the rigging.
+
+I believe Al uses a 12 volt bilge pump to remove the water, presumably with a pipe that just fits the internal diameter of the fill/suction pipe? Is this how it is done? What is the best method of filling the tanks? Does one use a funnel, or is the bilge pump in reverse mode used to fill the tanks, especially if filling with sea or lake water?
+
+I got a couple of deck fittings at a boat jumble, and made a plug that screws in and connects to the pump inlet. For filling, as the fittings are outside, I just point the hose somewhere near, and any water that doesn't go in the tank just goes over the side.
+
+I suppose one could use a garden hose system for filling the tanks where there is a fresh water tap near the launching slipway.
+
+Beware of forcing the water in too fast. I blew off one of my inspection hatches doing that.
+
+Does anyone fill up at home before setting off on the road to the location where the boat is to be sailed?
+
+If I was going to do this I would replace with lead ballast and do away with the bother.
+
+It seems to me that with 180 kilos of lead ballast permanently fitted to the boat, 70 litres (70 kilos) of water will not change the situation drastically for when the boat is on the road. She probably sails well without water ballast, or at least without the full 70 kilos, as Matt intended it as fresh water for drinking, providing, of course, precautions and preparations are made - apparently, System Three epoxy is suitable. I'd be interested to have comments from those who have tried the boat with and without water ballast and if you use the tanks for drinking water, what epoxy you used.
+
+On a couple of occasions, in light conditions, I have left out the water, but it has a noticeably effect on the initial stability.
+
+Neither of my epoxy suppliers (system 3 and epoxy-resins.co.uk) would clear their resin for potable water. Perhaps the resins have changed since my build.
+
+What's the best way of closing off the fill/suction pipes at deck level so that the tanks can be replenished with rain water collected on the decks? I note from my photos of Al's `Little Jim' that he has installed what looks like stainless steel screw in caps.
+
+In theory I only have to remove the filler plug and block the gap in the toe rail with a rubber block to permit filling with rain water. In practice I don't see this ever being necessary. Though I suppose if I want to sail in the SE this summer it might be the only legal way to fill with fresh water. :-(
+
+Hoping for calm nights,
+Al, Yeovil, England.

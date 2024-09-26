@@ -1,0 +1,36 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 12 Aug 2009 00:51:49 +0100
+Subject: Re: Lower rudder pintle
+
+--=======AVGMAIL-46416ED7======
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: Quoted-printable
+
+Do you think you could drill a cross hole for a small pin/rivet?
+
+I don't think that would fix the problem.
+
+I now put some pictures into the Photo section at http://groups.yahoo.com/group/paradoxbuilders/photos/album/361439237/pic/list. You can see there is a little longitudinal crack. I don't know how deep down that goes.
+
+A member of my sailing club, who has some design experience, suggested drilling two small holes to aid in drying out, leaving it for some weeks, pouring in epoxy and laminating across the crack.
+
+I can't go onto the rudder side, unless I build up the whole surface smoothly.  Otherwise, the rudder won't pivot.
+
+At the moment, my tentative plan is to sand down to the wood, assist the drying out by applying hot water bottles.  Before I pour in epoxy, I again heat up the wood around the pintle with hot water bottles and a hot air gun. The idea is that this both increases the viscosity of the epoxy (until it sets) and when the air inside the wood contracts as it cools, it sucks the epoxy deeper into the wood. I've tried that before, and it helps a bit.  I have a little unidirectional carbon. I am thinking if I take some across after pouring in epoxy, that should stop the crack from widening. Some laid longitudinally should stabilise the pintle. I could take some around in a loop. To prevent galvanic corrosion between steel pintle and carbon, I would put a thin layer of glass around the base of the pintle.
+
+That, or I see if I can find a transom hung rudder for a medium-size catamaran or trimaran, something with similar span and chord and suitable distance between the pintles. I'd lose the step for climbing out of the water and the shallow water steering by using the rudder head, and I might lose a bit of drag, though I don't know whether it would even be noticeable.
+
+Regards
+
+Robert Biegler
+
+I doubt a commercial rudder would stand up to the grounding loads unless the stock was short enough that it never hits the bottom.
+
+Hoping for calm nights
+
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>
+
+--=======AVGMAIL-46416ED7======--

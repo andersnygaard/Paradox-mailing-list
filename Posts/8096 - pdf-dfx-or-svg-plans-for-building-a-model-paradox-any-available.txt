@@ -1,0 +1,15 @@
+From: nogging <estiforta@yahoo.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Subject: pdf, dfx or svg plans for building a model Paradox - any available?
+Date: Sat, 20 Dec 2014 07:40:35 +0000 (UTC)
+
+Hello,
+
+I have the plans and I scanned and printed the bulkheads to make balsa cutouts and started on the side panels but there are two things - one the model will be larger than what I'd like and two, lofting the plans directly or transcribing them into CAD takes some time. If anyone has a pdf, dxf or svg (or perhaps some other format) that I can print direct for making a model it would be great.
+
+My son and I wish to make an autonomous model both to get some feel for the Paradox design and to experiment with autonomous sailing. I've got a cubieboard2, usb servo controller, usb gps and a 3-axis accelerometer ready to stuff into the model :). I will need to figure out how to get wind speed and direction - most sensors either use too much power or are physically too large but we can hack something up I'm sure. It is not a practical project - just some fun tinkering.
+
+I am hoping that the Paradox sails fairly well as a scale model but that remains to be seen. Most models need a wider beam than the full size for for decent sailing so I may have to scale the design for the model which would make the CAD option much appreciated. Also I have no idea if the chine runners provide lateral resistance at model scales.
+
+Thanks,
+Matt-=-

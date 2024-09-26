@@ -1,0 +1,39 @@
+From: "barnacleid" <william@serjeant5445.fslife.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 31 Oct 2006 19:01:44 -0000
+Subject: Re: Has anyone investigated the practicality of a junk rig
+
+
+Ned Mellon,
+
+I'm another new group member and hopeful Paradox builder.  I had been looking for a boat to build for quite a while before settling on the Paradox design.  During my search, I became enamored with the Chinese Lug Rig.  For a small cruiser, it appears to have several advantages.  It reefs easily, is controlled during gybes, and doesn't put too much stress on the sailcloth.  Windward performance seems to be pretty good if the sails are made with some camber in the panels.
+
+So, my question.  Has anyone out there already done some analysis and perhaps some experimentation with rigging a Paradox with a Chinese lug sail?
+
+Would a Chinese lug not have more sail forward of the mast? If so wouldn't the mast have to be moved aft to keep the boat in balance?
+
+From the photos I've seen, the luff is anywhere from a few percent in front of the mast to maybe 20%.  Some of the more complex rigs have the ability to move the sail forward and aft to affect sail balance via the yard parrel and the luff parrel.
+
+Does a Chinese lug not have to have sheets coming aft from the battens?. The existing Paradox sail extends behind the transom so you would either need some sort of bumkin or else move the center of effort even further forward ruining the existing almost perfect balance.
+
+The most logical arrangement that I've seen uses two main sheets, one on the windward side and one to leeward.  They are connected to the boom about 20% in from the aft end.  I would not consider any change to the center of effort of the sail or position of the mast.
+
+Would a Chinese lug rig stow on the side deck as the designed sail does, or would it be left swinging about above your head (and getting in the way when you stand up) on the topping lift?
+
+All of the Chinese lug rigs seem to employ lazy jacks to control the sail.  If you need to stow the boom, yard, and sail then you would need to release the lazy jack halyards.
+
+So to partly answer your question, it has never occurred to me that a Chinese lug rig would be superior to the designed rig. I am a fan of the Chinese lug, but not on this boat.
+
+I've been reading through the message archives and noticed that some builders have added a topping lift due to difficulty controlling the boom during reefing.  It occurred to me that if I were to go as far as adding a topping lift, why not go a bit further and make the topping lift into lazy jacks. The Hasler type lazy jacks run through eyes attached to the under side of the boom; therefore this arrangement could not work on the Matt Layden standing lug that rotates the boom for reefing. Since I've now added lazy jacks now why not add some battens to the sail and dispense with the roller reefing boom.
+
+At this point everything is hypothetical. I'm hoping that someone has already tried this or at least has put a lot of thought into it and can tell me that it is either a brilliant idea or complete lunacy. The advantages of the Chinese lug appear to be ease of reefing and control of sail twist.  The disadvantages are windage from the additional rigging and in the extra weight of the battens carried high up on the sail.
+
+Other main differences between the Matt's standing lug and most junk sails are that Matt's arrangement has a very low center of effort, unlike the Hasler type junk.  Also, the junk rig is much heavier aloft and would induce heeling more rapidly than the lug sail. The simplicity of the rolling reefing lug is its simplicity.
+
+Paradox has been thoroughly worked out over a period of about 15 years of trial and error.  Improving the design is pretty difficult.  The only differences I've been able to incorporate in my Paradox is some of the internal arrangements, i.e., changing the supports to the side shelving so that I can have immediate and clear access to the ballast areas.  I think I've improved the underfloor storage system by having floors that can be removed and pushed to one side or the other; thus hinges have been eliminated.  It means I can have access to the whole of the underfloor lockers without having to move the raised seat from which the boat is worked when the hatch is open.  Even when the hatch is closed, and I am sitting on the floor, one side at a time can easily be opened.
+
+Thanks for your reply.  I hope this gets an interesting discussion going.  I've just received my plans and construction booklet and I'm excited to get started.  I'm planning to build a scale model this winter and get started on the construction of the real thing next spring.
+
+Best regards,
+
+William

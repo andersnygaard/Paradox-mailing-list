@@ -1,0 +1,18 @@
+From: "copterpack" <gilbertvm@pandora.be>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 13 Sep 2010 05:47:01 -0000
+Subject: Re: replacing wood spars for aluminum
+
+
+Hello Gil,
+
+I understand that you seem to "miss one axis" in "my" system because there are only two hinge bolts showing.
+The "trick",if you would like to call it like that, is in the castor wheel frame at the very bottom.
+This frame can turn around  which will give complete movement in 3D for the whole system.
+I will go out and take some more pictures for better understanding.
+The only disadvantage is that when you hoist the roller system,it needs to be brought into position (small movement) which means that the bolt at the side plates of the castor plate needs to be parralel with the hull....if that makes any sense.
+Hope this will give a bit of better understanding of the system.
+The new pictures will show the system hoisted but the boom is not completely horizontal (have to do this outside of the workshop/junkyard)) so you'll notice that the line guard beneath the drum is touching the tabernacle.When the boom is horizontal,the guard isn't touching anything.
+
+regards,
+Gilbert

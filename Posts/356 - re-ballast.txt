@@ -1,0 +1,11 @@
+From: "Glen Maxwell" <ifida@nefcom.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Ballast
+Date: Tue, 19 Feb 2002 15:06:04 -0800
+
+Hi David,
+
+To calculate weight shift you must think in terms of leaver arm from the CG. So, making some assumptions, let's say that the boat is now in trim and you add 65lbs 7ft from the CG the moment arm is 7 X 65 = 455 lbs. Now you are going to add extra ballast 3ft forward of the cg so you divide 455 by 3 and come out with 151.6, let's call it 152 lbs of ballast needed to counteract the weight of the engine. Of course, the further you can add weight forward of the CG the less extra ballast you will need.
+
+Tailwinds, 
+Glen

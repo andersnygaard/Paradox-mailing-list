@@ -1,0 +1,17 @@
+From: "surfgarden" <surfgarden@yahoo.com.au>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 11 May 2013 13:34:53 -0000
+Subject: Re: Bugs of a different kind
+
+Hello Dave,
+
+I can't remember how bad the various bugs are. Since it should not be too hot you can make nets about a foot wider than the opening and sew some kind of light chain around the perimeter of the net to keep it in place. If it rains a lot some kind of tarp that keeps most of the water out but lets some air in would be a joy.
+
+Lights, I use home made Leds (try leading-led.com) I use their light strips for below deck. The strips are for 12v, I mount them on pieces of wooden yard sticks using 24 guage wire. For anchor or nav lights, I am using 12 inch long pieces of clear plastic tubing. For caps, I use standard PVC ends. I grind out the ends for a tight fit on the tubing and then drill holes in the caps for the 24 guage wire. For the Leds, I have been buying individual leds and resistors and soldering them in strings following Ohms law.
+
+For anchors and chain, I follow the bigger, heavier and longer rule. To avoid bugs, I often anchor a long ways from shore.
+
+I enjoy the internet so I pay for some sort of monthly service.
+
+See you on the water,
+John

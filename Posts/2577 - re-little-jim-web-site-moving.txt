@@ -1,0 +1,8 @@
+From: James Greene <jamesgreene@christian.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 23 Feb 2005 22:21:57 +0800
+Subject: Re: Little Jim web site moving
+
+http://www.as4jg.freeuk.com
+
+URLs use forward slashes not backslashes, try this instead:

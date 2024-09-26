@@ -1,0 +1,30 @@
+From: paradox@as6jg.freeuk.com
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 29 Jan 2018 13:47:48 -0000
+Subject: Re: Building the mast
+
+Very wise to start with the small stuff.
+
+The mast drawing is, by far, the most confusing of all. Mostly because Matt has tried to get as much information as possible in a small space. 
+
+It is not helped by the fact that there are superfluous dimension arrows. (This may have been corrected in later plans) Find the vertical line labelled CL. If there are arrow heads to the left of this line, pointing right at the line, delete them, they should not be there.
+
+To the right of the CL is a half section, the stbd half viewed from the stern (The port half will be a mirror image on the CL). At deck level the dimensions are 19mm for the side cheek plus a 20mm hole (which will be half the width of the front and rear infill pieces). Double this up to a total width of 78mm.
+
+To the left of the CL is a section viewed from the port side. At deck level the width is 86mm, 24mm for each of the front and rear infill piece and 38mm left for the hole.
+
+Where it says "Section At Deck" is a half section showing a plan of the stbd half of the mast at deck level. (Port half will be mirror image.) 
+
+On each horizontal dimension line, from the left:
+The first number is the width of the finished mast fore and aft (which is also the width of the port and stbd side cheeks).
+The second number is the thickness of the front (and rear) infill piece.
+The third number is half the width of the front and rear infill pieces.
+The fourth number is the thickness of the port and stbd side cheeks.
+
+I hope this is of help.
+
+--
+Sail when you can, row when you must, motor only when you have to be at work in the morning.
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

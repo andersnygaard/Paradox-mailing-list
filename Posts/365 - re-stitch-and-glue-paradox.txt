@@ -1,0 +1,74 @@
+From: Jeff Forrest <paddler@mind.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Stitch and Glue Paradox
+Date: Mon, 31 Dec 2001 14:04:13 -0800
+
+Jeff Please wrote:
+
+Hi jeff, I agree and I would go one step further and make the sides
+from 3/8" thick marine ply and make the bottom panel from two layers
+of 3/8" with a heavy layup of glass and Kevlar, as I have said before.
+I don't think a lot of us would be doing the sort of cruising Matt,
+Dave and Mindy do. 3/8" marine ply is just as strong as 1/2" exterior
+ply and costs about the same but lasts longer, and it bends with a
+fairer curve.
+SHRIMPY the plywood CAPRICE which sailed around the World by Shane
+Acton had a skin thickness of only 5/16" and was built just down the
+road from me in Cowes.
+I said in an early posting that the chine runners would act as an
+outer chine and I still stand by that. But on my version the bottom
+panel is 4' wide so the chine runner will have to be fixed to the
+outside flush with the bottom, then glassed over as per PARADOX.
+I read somewhere that the epoxy fillet radius need only be twice the
+thickness of the plywood. Any thoughts on that.
+        Its bloody windy here. Wind speeds to nearly 50 MPH!
+
+    Jeff UK
+
+
+I feel that there are many advantages to stitch and glue
+construction
+beyond any weight savings or non-use of chine logs, that
+would simplify
+Paradox construction.  For instance, bulkhead construction
+would be
+greatly simplified.  Much of the bulkhead framing would be
+not required,
+and also
+all of the precise beveling would be eliminated.  Parts in
+general to
+not have to be precisely fitted in stitch and glue
+construction, as they
+do in normal framed construction.  Any loss in weight could
+surely be
+made up in ballast.
+
+As far as bending of 1/2" plywood, if anyone is familiar
+with Sam
+Devlin's various projects in stitch and glue, I can't see
+that it would
+be much of a issue.  Paradox is basically a box.  So many
+more complex
+hull designs have been constructed in stitch and glue than
+paradox with
+fine results.  I feel that it is a construction technique
+worth looking
+at in Paradox, it just has not been done yet.
+
+Jeff Forrest
+
+According to Sam Devlin, "The depth of the hull fillets should equal
+the thickness of the thickest piece of plywood being fastened, and
+should
+extend outward from the centerline of the joint 1 1/2 to 2 times its
+thickness.  Depending on the angle of the joint, the fillet might be
+wider."  This is quoted from Devlin's Boat Building.  Hope that helps.
+
+Jeff, when do you think your version will be done?  Also can you easily
+determine the bottom panel dimensions for the 14' version with you
+software?
+
+To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.

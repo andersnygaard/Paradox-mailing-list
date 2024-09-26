@@ -1,0 +1,22 @@
+From: "" <paradox@as6jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 06 Feb 2015 11:43:35 -0000
+Subject: Re: Mast construction
+
+If Lezlie's page that Matt pointed to does not sort it for you this may also be of help.
+
+There appears to be a minor error in the drawing.
+
+On the line labelled CL (centre line) are pairs of dimension arrows, 6 in all. Take some correction fluid and paint out the right-pointing arrow heads, they should not be there.
+
+Note also that the "Section At Deck" is only a half section that should be mirrored about the 24mm dimension line. The lines below that are a continuation of the side view.
+
+Hope this helps
+
+--
+Sail when you can, row when you must, motor 
+when you have to be at work in the morning.
+
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

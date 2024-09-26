@@ -1,0 +1,19 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 10 Jun 2005 01:31:32 -0700
+Subject: Re: Questions regarding Paradox plans.
+
+On Thu, 09 Jun 2005 11:57:08 +0100, "" <openboat@as4jg.freeuk.com> wrote:
+
+Your description makes it easier to understand the page 12, but I'm sure I'll still have more questions about it once I get up to it (still stuck on page 7 for now.)
+
+On thing a lot of people have had trouble with is the mast drawing on sheet 12. I believe that there is an error in the form of extra dimension arrows that should not be there.
+
+If you look at the vertical dimensions (500; 900; 900 etc.), immediately to the right is a set of arrow heads pointing right. If you paint these out with correcting fluid the dimensioning is then correct, and it helps to separate the 2 views (side section view to left and half end section view to right).
+
+Hope that makes sense.
+
+Well, it doesn't totally yet, but I'm not up to that page (*sill(on page 7), so my mental powers (meager as they may be :)) aren't completely focused on comprehending page 12.  I'll keep the message for when I do get to page 12.
+
+-- 
+BRENT - The Usenet typo king. :)

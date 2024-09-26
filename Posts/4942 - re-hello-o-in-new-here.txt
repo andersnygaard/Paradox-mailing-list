@@ -1,0 +1,21 @@
+From: "Alan" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 13 Mar 2008 21:22:36 -0000
+Subject: Re: Hello :o) In new here.
+
+Hi,
+
+Since there would only need to be about 600mm movement
+forward of the sheet attachment point out of a total
+boom-length of 3350, then any difference in downward
+force should be minimal I think. If I could remember
+more of my old applied-maths courses I guess I could calculate it!
+Also, I'm not convinced about the bridle having more tension than the 
+sheet, and might try a wee scale experiment with rubber-band
+measuring devices to try and get my head round this-again I ought to 
+know how to calculate it! I think the sheet load should be split into
+two vectors, one each way along the bridle from the sheet attach 
+point, and each one LESS than the sheet load?
+
+Cheers,
+Alan.

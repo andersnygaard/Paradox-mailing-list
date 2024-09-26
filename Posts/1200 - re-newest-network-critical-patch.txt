@@ -1,0 +1,8 @@
+From: DC <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: newest network critical patch
+Date: Tue, 23 Sep 2003 02:23:25 -0000
+
+Looks like someone invited a Trojan Horse into their machine. First clue that it was malicious was the fact that Microsoft never issues a patch, upgrade, or product via email. Second clue is that the email specifies it's applicability to Windows Me. Needless to say, if you receive this email, do not open the attachment. If you're unsure whether you need a patch, go to Microsoft's website. 
+
+DC

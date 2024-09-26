@@ -1,0 +1,13 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Tue, 23 Dec 2003 19:02:33 -0500
+Subject: What Sven Yrvind Said
+
+I had a nice chat with Sven on the phone yesterday and asked him what he thought about the sail on the Paradox. I told him that it was the one feature on the boat that I thought could be improved. I suggested that it should be taller, though without increasing the square footage (higher 'aspect ratio'). I noted that a longer leading edge would increase power per square foot. That's why airplane wings and windmill blades are long and thin. The leading edge creates most of the power.
+
+Sven agreed with my assertion about the physics of wings, but set me straight about why I was wrong in this case. He pointed out that an airplane has two wings, one on either side of the "hull". Thus when one wing is lifting and trying to rotate the "hull" (fuselage), it is being counteracted by the other wing. Improving the efficiency of a wing design helps both wings and benefits the airplane. BUT: On a boat, you only have the one wing. If you improve the power of the single sail by lengthening its leading edge you are also demanding that the hull/keel do more work in resisting that rotation. A lower sail plan asks the hull/keel to do less work and is better suited for a "keel-less" boat like the Paradox. A higher aspect ratio rig would not work well on this design. Sven assesses the sail to be the right design for this boat.
+
+I think Paradox fans should be heartened to know an expert like Sven approves of the boat's "engine".
+
+Happy holidays,
+Bill Longyard

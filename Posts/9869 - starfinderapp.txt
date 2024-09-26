@@ -1,0 +1,25 @@
+From: "Sybe Starkenburg" <sybe34@yahoo.com>
+To: paradoxsailboat@groups.io
+Subject: StarFinderApp
+Date: Tue, 14 Dec 2021 23:44:34 -0800
+
+Hi All,
+
+I am Sybe Starkenburg, Paradox builder (almost completed), live in Montagu, South Africa and am a retired mariner, navigator.
+
+I have created a StarFinder app for Android, a tool for finding stars and calculating a Line of Position. The sun, moon and planets are also included.
+
+Before I can put the app on Google Play I have to test the App before launching.
+
+I am asking for email addresses from those of you willing to participate. Your email address will be used by Google Play for testing purposes only.
+
+My private email address is: sybe.starkenburg@gmail.co.za
+
+I will update you should the testing fail for any reason and should I have to withdraw the App.
+
+Thank you in advance for your interest.
+
+Kind Regards,
+
+Sybe Starkenburg
+Montagu

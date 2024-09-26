@@ -1,0 +1,46 @@
+From: Rodney Cannon <rdnycannon@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 11 Mar 2009 21:41:46 -0700 (PDT)
+Subject: Re: sail plan
+
+Heh.. well... the retirement comment was really a joke.. lol... I retired from a my career in magic about 8 years ago and started a window cleaning business a few years later. I closed that business down earlier this year because it was my first real business and so it did not do so well. (but I learned alot and will try a diffirent business later.) I began flipping burgers about 3 and a half weeks ago and discovered that I am actually having alot of fun at this job. (I would never have guessed I would like it.) I took this job because I am moving to Fort Lauderdale on Sept. 9th of this year and did not see a reason to start a new business only to close it down in 6 months. 
+
+My paradox build has slowed because I decided to build all the parts I could before the hull sides and bottom, that way I can transport it to Florida and then finish assembly there. The concept is sound but with the Paradox alot of parts are fitted as you build so there is really only so much I can do. Anyway gonna order the sail kit from Sailrite this month and begin my search for a good sewing machine.
+
+Thank-you for this information... I wondered how well the lug sail would heave-to and it seems that at least on the Paradox, well enough to suit my needs.
+
+May you find many more calm nights,
+Rod Cannon
+
+From: <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 11 Mar 2009 11:29:00
+Subject: Re: [paradoxbuilders] Re: sail plan
+
+On 11 Mar 2009 at 8:22, Rodney Cannon wrote:
+
+Hiya Al,
+ Still building... had to take a job recently as a burger flipper in a local cafe to be able to finish my boat... who woulda thought retirement would be so expensive?! Only have one day a week to build now... oh well. 
+
+I have a question about "parking" a paradox. I brought up heaving to in one in a previous post and was giving the answer that it could be done by raising the rudder and sheeting in the main just as you have stated. My question is does this park the boat like the Pardys are talking about? Will it create a "water slick" before the oncoming waves thus creating a calming effect on the water? Or does the boat simply head to the wind and slow to a stop before slowly turning again? I have searched the net using keywords like "heaving to with a lug rig" and have not found an answer to this. Thanks for your time, Rod Cannon
+
+I suspect the fact that the rudder plays such a big part in lateral resistance makes it's behaviour different to more conventional craft 
+
+My own experiments in a F4 off Plymouth:-
+
+Rudder up, sheet in, full sail. 0.75kn, head 20=B0 off the wind
+Rudder up, sheet in, minimum sail. 0.9kn, head 90=B0 off the wind
+Rudder up, no sail. 0.9kn, head 90=B0 off the wind.
+Rudder down, no sail. 1.4kn, head 180=B0 off the wind, stearable
+
+All conditions appeared to be stable. As far as I can tell the speeds (from gps) were all directly down wind (though I don't know what the current was doing).
+
+I have not tried it but these results suggest that by varying the amount of sail it should be possible to set the angle between the hull and the wind to whatever you want.
+
+I have used the 'full sail rudder up' condition a number of times where I wanted to wait for something. I do not often heave too for a brew up as I can usually do that while sailing.
+
+Hoping for calm nights
+
+Al, 
+Yeovil, England.
+<http://www.little. jim.freeuk. com> 

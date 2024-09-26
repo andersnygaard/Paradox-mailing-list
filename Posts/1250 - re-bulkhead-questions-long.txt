@@ -1,0 +1,117 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bulkhead questions (long)
+Date: Sat, 8 Nov 2003 15:00:23 +0000
+
+I have started studying the plans to make sure I understand what is involved in building Paradox. I have Don's Building Paradox articles, but these are more specific beginner's questions, as I have only built a few kayaks, and these plans are much more involved.
+
+Bulkhead 1: 
+
+I assume "Bottom Bevel left standing" means an "outy" bevel. I would follow Jim Michalak's advice in his "Bulkhead Bevels" article in his newsletters. Basically bevel the cleats, and not the plywood. This leaves a small missing triangle of plywood where the extra material should have been, but he just fills the gap with epoxy, basically to seal the end grain. 
+
+I tried to follow Dons advice on this, and cut the bevels to match the angles taken from sheet 2. If I were to do it again I would cut the ply to size, fit the cleats proud (for an "outy" bevel) and plane to fit during the trial assembly. I had a couple where I had removed too much material and had to fill with wooden shims and lots of epoxy.
+
+The bottoms are beveled but not the sides?
+
+both are bevelled to fit the panel they are joined to.
+
+Is the plywood curved, but the cleat straight? Is the plywood curved out and the cleat straight so we don't have to bevel the cleat?
+
+If you mean the 5mm curve in the sides, both ply and cleat will have this curve
+
+On Bulkhead 1 is the opening curve dimensions marked somewhere or do you just roughly cut a rounded shape staying within the rectangular box dimensions shown? I ask because Bulkhead 2 gives a radius of 100mm to the curves. Or just scale up from the sheet?
+
+Be artistic :-) but make sure it is big enough to get your head through.
+
+Do the cleats go under the deck beam, or the deck beam between the side cleats? I guess I would laminate the deck beam longer and trim back to the plywood edge, thus going over the cleats. Since there is a cutout for the sheer clamp, I guess it doesn't make much difference.
+
+It probably doesn't matter, but if you laminate the deck beams they will be too long and will need cutting down anyway.
+
+Little Jim's web page shows vertical cleats that are not on the plans?
+
+This is an error on the plans. The port one must line up with the cleat on b'head 2. I put the starboard one 220mm from the centreline, and that worked ok.
+
+Bulkhead 2:
+
+What is a Limber hole? Is this for drainage? Any particular radius, or whatever looks right?
+
+Yes, drainage. Don't make it too small, you will want to get your finger in to fillet the joint when you've put the bottom on.
+
+There is a 6mm "ply scab" shown. But there is a cleat shown over it. Is 6mm of ply removed from the 12mm ply bulkhead so the "scab" can fit into it, so the cleat fits flush over this? 
+
+I fitted the cleat over the scab. This means that the hatch must be cut to clear it also. It works ok for me.
+
+The tiller rope holes are marked 25 followed by a o with a / through it, as well as a smaller wiring hole. What does the symbol mean,and what should the radius be of the wiring hole? It has the same dimensions, but is smaller.
+
+The symbol means diameter. The size of the wiring hole depends on how much wire you want to put through it.
+
+I put a number of holes through each bulkhead as I new there would be lots of wires and pipes to be fitted over the years. It is much easier to put them in now than to drill and seal them when the boat is finished. The only problem is they are never in the right place :-(
+
+The vertical cleats are beveled on top, I assume for safety reasons. 45 degrees sound right?
+
+Yes
+
+There is a V shaped piece of filler wood between the V shaped cleats. Should that be ply or hardwood?
+
+Wood, this will eventually become part of the mast step.
+
+2mm dados? I assume that's a slot to slide in dividers. Seems very small? Probably makes more sense later on.
+
+This had me puzzled too. I never did work out what it meant so ignored it.
+
+The 19mm wide dado is 1mm away from the centerline? Marked at 20mm line.
+
+If you end up building to better than 1mm you are out of my class :-)
+
+The vertical cleats on the forward face stop short of the bottom. Any particular distance?
+
+Doesn't matter
+
+Bulkhead 3:
+
+No side cleats?
+
+No, it is 18mm thick, doesn't need any more reinforcing
+
+Bulkhead 4:
+
+No side curve. Why are the sides not beveled then?
+
+The sides are bevelled
+
+Transom:
+
+Looks like a side curve, but no dimensions indicated? It says "bevels left standing" and points to bottom and sides. If the sides are beveled here I don't understand why the sides of the bulkheads aren't beveled.
+
+I think I put in a couple of mm curvature here.
+
+The sides an bottom of all the bulkheads are bevelled to match the angle of the ply attached to it.
+
+There is no dimension for the height of the deck beam, but since the deck beams all have the same curvature, this should be easy to figure out. I get about 57mm. Laminate all deck beams first, then cut plywood to match?
+
+My plans now have 57mm? in pencil, so I think you are correct
+
+What is the shape of the tiller opening? There is a small drawing of the back of the boat with a kidney shaped opening.
+
+I drilled a couple of guide holes so that I knew where the baffle cleat was. After assembly when the rudder was on I cut a hole for the tiller to go through and then carved it out to clear as the rudder was swung from side to side.
+
+In Don's article he mentions cutting a cleat to clear the insulation. What cleats need to be cut?
+
+No idea.
+
+What is a carline?
+
+These are the fore and aft horizontal beams that support the deck under the windows between b'head 2 and 4. See sheet 3, port side of deck plan.
+
+Getting overwhelmed,
+
+Don't worry. accuracy is good, but not of overwhelming importance. most of the assembly is done by putting it together and adjusting till it fits. If it is too small add in a piece, if too big cut more off and always remember that epoxy is stronger than wood so all those gaps in the joints just make it stronger :->
+
+There was one trick I discovered that made the assembly much easier. Most of the nails I used needed a 2.5mm pilot hole. I found that I had a bag of wire nails that were 2.5mm diameter. Wherever 2 bits needed joining I could use these wire nails as dowel pins to locate everything, and when the other nails were in they could be replaced with the bronze ring nails.
+
+Have fun building, It will be the last boat you build for some time, you will be too busy sailing!
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

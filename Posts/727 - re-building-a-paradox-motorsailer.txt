@@ -1,0 +1,19 @@
+From: Alastair <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Building a Paradox (motorsailer?)
+Date: Wed, 2 Oct 2002 22:30:19 +0000
+
+To start with I must say that I know little about boat design, others on this forum can cover that much better than me, but to quote one of them "why make a sows ear out of a silk purse?"
+
+Paradox is designed as a coastal cruiser, and a very sturdy and heavy one at that. If you want a river or canal boat I would start with something designed for that environment.
+
+On your comment about balancing the extra weight aft with extra weight forward, I know from my day job that static balance is easy to achieve but getting the moment of inertia right is much more difficult.
+
+As to CAD it can be used to show whatever shape you want to give it, but that will tell you nothing about how it will perform. As a real engineer (Sir Alec Issigonis) once told me "First do the design, then when it is finished put it on paper".
+
+However, as I say, I know nothing about boat design, so you may have a great idea. 
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

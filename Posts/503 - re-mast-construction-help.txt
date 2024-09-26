@@ -1,0 +1,8 @@
+From: "Glen Maxwell" <ifida@nefcom.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Mast Construction Help
+Date: Wed, 29 May 2002 08:33:03 -0700
+
+The mast is a little confusing at first. It is common practice to draw objects that are long but have small sections in two scales. The sections are drawn in a large scale and the length in a small one, this results in a compressed length and can result in some head and butt scratching. The Paradox mast is flat on the backside and the sides are tapered near the top on the front side. When the front plate is installed it will naturally follow the taper of the sides. Once you draw your model mast to the scale you will be using for transfer to your material it should make since.
+
+Tailwinds Glen

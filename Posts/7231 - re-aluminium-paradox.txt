@@ -1,0 +1,63 @@
+From: allen ridgway <allenjridgway@yahoo.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Date: Fri, 14 Sep 2012 18:23:09 -0700 (PDT)
+Subject: Re: Aluminium Paradox
+
+Build it with what you want to. My bass boat is built of 5052-H3. Seems to work fine. I was speaking more of stringer, supports, and masts. My bad. Be hell to bend 60660-T6 to the shape of a boat hull.
+
+From: Diego Carmo <diego_carmo123@yahoo.com.br>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com> 
+Date: Fri, 14 Sep 2012 19:32:00 
+Subject: Re: [paradoxbuilders] Re: Aluminium Paradox
+
+Hello
+
+It's still just an idea, I'll buy the project and still see the possibility of this change;
+I'll try to talk to the designer to have some more information.
+
+But I found a fantastic project, Magina if he had the advantages of an aluminum sailboat!
+The size of it is possible to tow the car if he were made of aluminum to reduce weight would help a lot on shipping.
+Not to mention that with the shallow draft, there may be some collision with stones in the hull, with aluminum and the resistance would almentar enough!
+
+Relative to the matter on the alloy material, a friend you want to build with me and is mechanical engineer / designer spoke exatamamente this alloy and 5083 alloy also about 5086.
+So I believe we are on the right path.
+
+Good Winds everyone.
+
+Diego
+
+From: Rick Morel <rick.morel@att.net>
+To: paradoxbuilders@yahoogroups.com 
+Date: Fri, 14 Sep 2012 21:22:00
+Subject: Re: [paradoxbuilders] Re: Aluminium Paradox
+
+First, let me say that 1. My dad rebuilt airplanes and I've built several experimental aircraft, including several all aluminum. 2. I'm in South Louisiana, where many aluminum boats are built, including those by Breaux Brother's Enterprises, who make boats for international customers and government agencies.
+
+Do NOT use 6061-T6 for anything on a boat except for mast, boom, spreaders and sometimes lifeline stanchions. This is what those items are made of. Do NOT weld it. It will lose it's Temper (the "T6" part). Allen, the skin of airliners, and any airplanes, are not 6061-T6, but are 2025, a much stronger, but more brittle, alloy. Please take this in the spirit of a friendly correction, I mean no malice at all. 6061-T6 is used only as extrusions, such as angle, I-Beam, tube, etc., on aircraft. Ultralights use it in tubular form.
+
+For boats, use marine grade aluminum, such as 5083 or 5086. This is made for marine use, IOW saltwater, and to be welded. Plus it's a lot less expensive than the aircraft grades.
+
+I have not built any aluminum boats, but have friends that had an aluminum airboat building company, and now work for aluminum boat-building companies. If there's interest, I'd be glad to talk with them and get info as to thickness and any other knowledge they have. I would think 1/8" would be ideal from other boats I've seen, but again, I really don't have any firsthand experience with aluminum boats, just aircraft.
+
+Rick
+
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com 
+Date: Fri, 14 Sep 2012 13:20:00
+Subject: Re: [paradoxbuilders] Re: Aluminium Paradox
+
+You would have to use sheets of metal which are much thinner than plywood so presumably would have to build in much more framing to give the required stiffness.
+
+Jim
+
+--- On Fri, 14/9/12, boldav38 <mailto:mbolduc%40triad.rr.com> wrote:
+
+> From: boldav38 <mailto:mbolduc%40triad.rr.com>
+> Subject: [paradoxbuilders] Re: Aluminium Paradox
+> To: mailto:paradoxbuilders%40yahoogroups.com
+> Date: Friday, 14 September, 2012, 18:12
+> I don't think anyone has tried to
+> fabricate an aluminum Paradox before; though, one has been
+> made of divinycell foam. Nonetheless, I think it would
+> be a worth while project provided the proper aluminum was
+> employed. It would certainly make a very sturdy vessel!

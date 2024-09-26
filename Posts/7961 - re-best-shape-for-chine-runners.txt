@@ -1,0 +1,30 @@
+From: John Starkie <john.starkie@talk21.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Subject: Re: Best shape for Chine Runners?
+Date: Thu, 26 Jun 2014 12:16:59 +0100
+
+I should have said that I find your experiments very interesting and I hope to see more.
+
+Aspect ratio?
+For a keel or a sail the ratio of leading edge to chord?
+
+For any rectangle,  it's the ratio of the longest side to the shortest side.
+
+How are you measuring aspect ratio of a chine runner?   which has no "leading edge"?
+
+I've always thought of a chine runner,  together with the bottom of the boat,  as equivalent to a delta wing (vide Concord, or a Crab Claw sail):  the fluid pressure distribution is entirely different,  and depends on the generation of lift vortices rather than on laminar flow.
+
+For this reason,  the entire chine runner must be below the water surface,  and the boat must be heeled to get the upper,  planar,  surface of the runner tending to vertical.
+To keep a centre-board or dagger-board vertical (at its most efficient) the boat must be horizontal.
+
+Or have I misunderstood the whole thing?
+
+John
+
+I have built a slightly more narrow and slender scale-model from the Paradox plans and i made the chinerunners twice the width compared to the scaled original. I made the wider to test this very aspect, knowing i can sand them down with my belt sander in small increments to test out optimal shape and aspect ratio. My small scalemodel is 83 cm long, 20 cm wide, 5 cm deep rocker, 12 cm high freeboard. The chinerunners are 32 mm wide for a total hull-width of 26,4 cm. 
+I have found the oversized chinerunners to be a lot better in little wind and low speeds, but as the wind and hull speed increases the boat starts trying to surf on the very wide bottom. It lifts the bow very high above the surface and creates a very big energy wasting bow-wave from the point the chinerunners start extending out from the hull.
+
+https://www.youtube.com/watch?v=3DKj7YvL5wngQ
+
+Cheers,
+Johannes

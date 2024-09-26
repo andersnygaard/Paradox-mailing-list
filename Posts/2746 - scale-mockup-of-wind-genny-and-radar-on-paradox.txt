@@ -1,0 +1,11 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 09 Jun 2005 02:03:02 -0700
+Subject: Scale mockup of wind genny and radar on Paradox
+
+I was curious to see if a wind generator and radar could be fitted to Paradox, so for a mental exercise I made a scale mockup. It's in the paradoxbuilders2 group file section.
+
+The Wind generator is Southwest Windpower's 13 pound Air-X Marine, and the Radar is the JRC's under 9 lb Radar 1000 Mk II.
+
+-- 
+BRENT - The Usenet typo king. :)

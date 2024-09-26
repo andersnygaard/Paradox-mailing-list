@@ -1,0 +1,32 @@
+From: "daraffa" <aikidave@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 25 Nov 2009 22:38:37 -0000
+Subject: Re: Roller reefing question
+
+d) Provides mechanical means to reef / unreef the sail by means of roller drum and reefing line.
+e) Provides lead for reefing line to pass unobstructed inside deck to cabin.
+f) Must have mechanical strength to accomplish all of above.
+
+Your a) should read allow the "boom" to spin...
+
+I think it is a current design is pretty nifty to do all the above.
+Dave
+https://aiki.pbworks.com/Enigma-sailboat
+
+From: "Kellan" <kellan_hatch@...>
+To: paradoxbuilders@yahoogroups.com
+Date: (date missing)
+Subject: Roller reefing question
+
+Hi,
+
+I got my Paradox plans a few weeks ago.  I don't plan to start a build right away, so I thought in the meantime I would adapt the Paradox roller reefing scheme to one of my other boats as a learning project.
+
+Is it just me, or is the forward end reefing attachment (not sure what Matt calls it) more complex than it needs to be?  It seems like its purpose is a)allow the mast to spin, b)bring the attachment point back near the mast without fouling the roller and c)allow the whole thing some freedom to pivot around the mast.
+
+It just seems like it does that in an overly complex way. I can imagine several simpler ways of doing this, which makes me think I must be missing something.
+
+Could someone please clarify the need for all of the connections and articulations?
+
+Thanks,
+Kellan

@@ -1,0 +1,26 @@
+From: "Jeff Michals-Brown" <JMichalsbr@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 21 Jan 2008 02:42:39 -0000
+Subject: Re: Charcoal Stove
+
+The flowerpot guy doesn't know much science.  A candle gives off heat-
+no argument there.  But there's no point in "concentrating" it 
+or "radiating" it.  The rate at which you generate heat is governed 
+by how fast the candle uses fuel, and how efficiently it burns that 
+fuel.  Trouble is, a candle isn't all that efficient because it also 
+give off partially-burned fuel (which is why it glows--that glow is 
+soot particles heated to high temps).  You don't want to breathe 
+that.  It also gives off a fair amount of water, which you probably 
+also don't want.  Whatever your source of heat, it would be a good 
+idea to vent it, either with a dedicated chimney or by cracking the 
+hatch, since most burning produces noxious gases.  I'm planning on 
+adding a kerosene wick stove with a simple copper pipe for venting it-
+this mainly for cooking indoors in cold.  
+
+Storing heat is a different matter.  A brick or whatnot would work, 
+but in terms of simple ability to store the most heat in the smallest 
+package, it's hard to beat plain water.  Since I have a drafty cabin 
+that's virtually impossible to heat, I favor filling a hot water 
+bottle from the tea kettle and putting it down my sleeping bag.  I 
+got the idea from Charles Stock, who's been sailing 3 seasons for 
+decades.

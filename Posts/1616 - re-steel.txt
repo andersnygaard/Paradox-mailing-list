@@ -1,0 +1,15 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Mon, 29 Dec 2003 00:43:35 -0500
+Subject: Re: Steel?
+
+If you really want to go nuts you could go without tubing altogether. Just have the "frames" bent out of .10 on a brake. They could be, say, 2" x 1" "L" shapes, with the long leg being the web and the short the flange. These pieces would be welded together to form the frame, and the skin welded to the outer edge of the web. That way you have NO areas to trap water. I've attempted to illustrate this below:
+
+Bill Longyard
+
+Hull skin 
+
+<------- weld
+Web ---->                                                       |
+                                                                        |
+ Flange--->                                                ___|

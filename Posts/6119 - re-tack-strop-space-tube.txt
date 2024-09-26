@@ -1,0 +1,23 @@
+From: Rodney Cannon <rdnycannon@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 23 Oct 2009 11:17:54 -0700 (PDT)
+Subject: Re: tack strop space tube
+
+OMG...Just discovered the plans that came on disc are different than hard paper copy. LOL..was lookn at digital copy on pc.  paper plans show revision on this part with fork! 
+Please disregard this post. Thx for info though Al. :)
+
+On Fri Oct 23rd, 2009 8:51 AM PDT, Rod wrote:
+Just searched old post and got alot on this spacer tube for the tack strop but I am a little confused.  My plans show the tube is not forked.. it is tied to the boom hook with a knot.  I see construction pics from other builds and they show the tube with a fork.  Am I missing something in the plans?  Or is this a modification?  Why was it done this way and not according to plans?  On reading the back post I found most related to the forked tube.  Are there instructions on making this piece anywhere? (forked)
+
+Thanks for your help,
+Rod
+
+In the plans, at the top of sheet 9, there is a side and end view of the strut assembly. The left hand, end view, shows the spindle (12mm brass rod) bending down and splitting. Joined to it by a 6mm ss bolt and peened nut is shown the split top of the the strut tube. The tack strop is fed through the tube and the knot nestles in the Y and stops the strop pulling back through.
+
+When you make it, be aware that this assembly needs to be fairly sturdy as it sees significant compressive and bending loads when sailing reefed.
+
+Hoping for calm nights
+
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

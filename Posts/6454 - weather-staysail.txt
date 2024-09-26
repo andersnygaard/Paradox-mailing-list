@@ -1,0 +1,21 @@
+From: "silkalsahab" <clarkgpaul@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 24 Apr 2010 21:39:11 -0000
+Subject: weather staysail
+
+thanks for the interest in the weather staysail.
+
+i have never seen a diagram of this particular system in any book so i cannot point those interested to a source. the Amateur Yacht Research Society's little book on self steering makes no reference to it. hopefully my description will suffice to get you started.
+
+this is how i had it arranged on my ketch: the inboard end of the boom which was no longer than 8 ft pivoted on a goose neck fitting close to the base of the mast. the tack of the staysail (clew cut high to counter lift) which if memory served was about 80 sq ft (main about 400sq ft), was fastened just fwd of the boom pivot. a spare halyard raised the sail, no stay-wire. the clew, fastened to the end of the boom, projected to weather. in other words, if the boat was on a broad reach, wind on starboard quarter, all the sails would be lying to port of center line except the stay-sail which would be to starboard of the center line (hence "weather stays'l"), and its lateral plane would more or less conform to that of the mainsail. so the staysail is set vertically, boomed to weather as though it were a continuation of the mainsail. sheet led back on the stbrd side, if on stbrd tack, thru a quarter block to tiller. tension balanced on port side of tiller by shock cord. the action of the sail is as  i described in the previous posting.
+
+the staysail continuously corrected the helm as though it had a mind of its own, steering in most situations far better than i could do myself. sometimes a certain combination of wind and wave would make it cranky, but if the line of wave followed the wind the boat would track like an arrow, and this with a heavy boat (small version of the Colin Archer) that did not respond well to the helm and frequently missed stays unless the mizzen was backed, a boat that would never balance itself off the wind. hard on the wind most  long keeled boats seem to steer themselves with tiller lashed.
+
+after thinking some more about adapting this system to PARADOX i realised that the sail cannot be flown off  the fwd end of the yard because it would interfere with reefing; however, it could be set from the mast head. in that case two halyards would be needed because the standing lug projects fwd of the mast somewhat: one for port, the other for stbrd. the boom, which could be light weight (carbon fibre or bamboo) and about 6 ft long could pivot on a fitting on the deck abreast the mast and switched from side to side, or two booms could be used. for a little vessel as well balanced as PARADOX maybe only twenty or thirty sq ft needed. and the sail can be quickly put together from poly tarp.
+
+if building from poly tarp this tip may be helpful; to hold the seams in place prior to stitching, "tack weld" them with a glue gun. just a dab.
+
+a piece of bamboo, a few sq ft of tarp, improvised deck fitting, some line, i think this is all that is needed to dig the grave of tyrant tiller.
+
+cheers, paul
+XEO

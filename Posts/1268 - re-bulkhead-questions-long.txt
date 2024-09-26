@@ -1,0 +1,24 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bulkhead questions (long)
+Date: Wed, 12 Nov 2003 21:25:25 -0000
+
+Hi Paul.
+
+You beat me to the punch. I was mistaken when I wrote that the least width measurement of the cleats was 35mm. The MOST width measurement is 35mm.
+
+My cleats all started out oversize. Because I cut the camber of the hull sides into both inboard and outboard faces of the cleats (5mm-7mm depending on design specs), my cleats measure 35mm wide against their respective bulkheads. The inboard plane of the cleats is at 90 deg to the bulkhead (parallel to CL), while the outboard plane is beveled same as the edge of the bulkhead. In other words, on each cleat, the bulkhead plane to inboard plane is 90 deg.
+
+On my boat, the least width measurements of the cleats are:
+blkd #1: 25mm; blkd #2: 30mm; blkd #4: 33mm. Blkd #3 has no cleats against the hull, and the transom cleats are 45mm wide, as drawn.
+Please don't try to use these numbers to find the bevels. The bevels are easily gotten from sheet #2.
+
+If one were to start cutting out the cleats from 35mm material, the cleats would end up being too small. This would become most apparent when fitting the foam board against the hull. If one were to skip the step of sawing the camber into the inboard face of the cleats, it would certainly work, but would be at least unsightly with the foam board installed.
+
+Studying the plans will generally answer most if not all questions, but I know that there are some details which are difficult to envision without someone else's help. Like chess, it pays to think ahead not merely to the next move, but the next ten moves.
+
+I found last night that to date, the most difficult part of building to the Paradox design is actually uploading photos to the Yahoo! group. When I figure out how to do so, I hope that they will be of some use. Until then, the photos and files of the other boats are well worth study.
+
+Have fun.
+
+DC

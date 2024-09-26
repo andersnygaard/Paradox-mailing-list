@@ -1,0 +1,20 @@
+From: "DC" <kd7ixk@yahoo.com>
+Date: Tue, 29 Jul 2003 06:31:24 -0000
+Subject: Re: HAM savvy?
+
+I'd say that you're about half right, David. SailMail is the marine SSB Pactor I/II system. Winlink/Airmail is the same software, but used with Ham. SailMail requires a subscription, but allows the exchange of business information, whereas Ham radio is of course limited to communications of a more casual nature. It is illegal to use Ham for any kind of business communication which could possibly be conceived by another party to be gainful financially to either party. It's a broad stroke, but some of the old timer Hams police the freqs quite strictly.
+
+Both SailMail and AirMail/Winlink can utilize a Terminal Node Controller (TNC), or what many folks refer to as a modem, costing a few hundred bucks. These are only Pactor I though, and run quite slowly; somewhere around 130 bps. It takes a while. 
+
+Pactor II TNCs are much faster, but still incredibly slow compared to a typical dial-up modem at home. These can run quite a bit. AirMail/Winlink operators who use this modem can up/download pictures, but it's best to have something else to do while the rig is doing it's thing... like replacing the packing in the gland... Internet access is not possible.
+
+I ran a KAM Plus TNC, which was only Pactor I, but it got the job done. I was one of the first year users of SailMail on the North American west coast and found it to be incredibly convenient. I would use only AirMail/Winlink in the future, as it keeps the Ham freqs in use, and requires no subscription. Business coms are usually only necessary in an emergency (for me).
+
+As far as expense is concerned, when phone calls to the States run at $1.00USD per minute, it gets easy to justify an HF solution. There are other ways nowdays. I have been told that the NetPhone deal works pretty well, though one is then forced to visit an internet cafe. While in the States, and many other industrialized nations, a cell phone can be used for email. This is way fast, less expensive, but there's that damn umbilical cord that I personally can't stand.
+
+Admittedly, HF communications are probably unnecessary on most folks' microcruisers, but even a summer in the Sea of Cortez, or a winter in
+the Bahamas could benefit from an HF installation. There's nothing at all wrong with foregoing all means of communication.
+
+Thanks Dave, for the rundown of your experiences, and the photo.
+
+DC

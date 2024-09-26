@@ -1,0 +1,39 @@
+From: John Starkie <john.starkie@talk21.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Subject: Re: Bulkhead side curvature
+Date: Fri, 28 Nov 2014 09:05:28 +0000
+
+It's related to the curvature of the sides along the boat.
+Plywood that thick can be bent only into conical or cylindrical sections:  the curve and the twist of the sides forces a conic section.
+If you leave the sides of the bulkheads straight the side panels may not touch at all points.
+If you hammer the nails in properly,  and fill the (tiny) gaps with thickened epoxy,  it might not matter.   Or you could shim the sides of the bulkheads.
+
+I notice that Al (it was you,  Al?) curved the sides of the transom even though it's not on the plans;  didn't seem to matter?
+
+Best wishes,
+
+John
+Sailing at Brancaster
+
+
+Hello,
+
+I've cut out bulkhead 3 (no others yet) and just noticed that it is supposed to have 5mm convex curvature on the sides.  I see that bulkheads 1, 2, possibly the transom, but not 4, also have varying degrees of curvature.
+
+Why do you think Matt specified that?
+
+Looks, a little more space in the side lockers, more efficient form through the water when healed, strength and rigidity through creating a slight compound curve or what?
+
+In other words how important do you think these convex bulkhead curves are?  Would the boat look a lot more boxy without them?  I suspect so, so I'm thinking it's mainly a looks thing, but I don't really know.
+
+To solve my problem I have three options:
+
+1.  Cut all the bulkheads with straight sides and forget about convexity.
+2.  Buy a new piece of plywood and start again (I should be able to use the remainder to cut out a full size bulkhead 2 although it will be 18mm instead of 12mm and use the rest as cleats)?
+3.  Glue overlapping cleats on bulkhead 3 to gain the 5mm convex curvature (but, it seems that bulkhead 3 doesn't have side cleats).
+
+What do you think?
+
+Cheers,
+
+Rob.

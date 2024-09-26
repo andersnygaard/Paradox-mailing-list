@@ -1,0 +1,38 @@
+From: "openboat@as6jg.freeuk.com" 
+To: paradoxbuilders@yahoogroups.com 
+Subject: Re: Roller reefing question 
+Date: Thu, 26 Nov 2009 09:33:34 -0000 
+
+
+Hi,
+
+I got my Paradox plans a few weeks ago.  I don't plan to start a build right away, so I thought in the meantime I would adapt the Paradox roller reefing scheme to one of my other boats as a learning project.
+
+Is it just me, or is the forward end reefing attachment (not sure what Matt calls it) more complex than it needs to be?  It seems like its purpose is a)allow the mast to spin, b)bring the attachment point back near the mast without fouling the roller and c)allow the whole thing some freedom to pivot around the mast.
+
+It just seems like it does that in an overly complex way. I can imagine several simpler ways of doing this, which makes me think I must be missing something.
+
+Could someone please clarify the need for all of the connections and articulations?
+
+Thanks,
+Kellan
+
+
+----------
+From: "Al" 
+To: paradoxbuilders@yahoogroups.com 
+Subject: Re: Roller reefing question 
+Date: Fri, 27 Nov 2009 08:42:28 -0000 
+
+
+I too thought I could out guess Matt, and made some simplifications to this system. Fortunately the first time I did a test hoist of the sail it was obvious that my mods would not work so I rebuilt as per plan and it works perfectly.
+
+When the full sail is up the tack fixing is in tension and the lower strut is superfluous. Once the sail is reefed the tack fixing comes into compression and, as the boom swings round the mast, is subject to some interesting bending loads.
+
+On the Paradox it is also an essential part of the sail stowage system.
+
+My advice would be to not fiddle with something that works well. If you do be sure to let us know how it turns out.
+
+Hoping for calm nights
+Al, Yeovil, England.
+<http://www.little.jim.freeuk.com>

@@ -1,0 +1,14 @@
+From: "DC" <kd7ixk@yahoo.com>
+Date: Tue, 11 Nov 2003 15:59:05 -0000
+Subject: Re: Bulkhead questions (long)
+To: paradoxbuilders@yahoogroups.com
+
+Another note about bulkheads. Pay particular attention to the placement of the bulkheads, with regard to the bottom and side panels. 
+
+On "instant" boats and most jigs, the station molds, frames, or bulkheads are placed such that beveling is entirely unnecessary (forward bulkhead lies AFT of station line). 
+
+To the contrary, the Paradox design shows the bulkheads beveled from the given measurements. In the case of Paradox, a forward bulkhead lies FORWARD of the station line. This of course is the case for both the bottom and sides (though not floors). Beveling really is no big deal and may be accomplished with a bandsaw, skilsaw, jigsaw (even freehand tablesaw **with familiarity**). So long as the specified edge of the bulkhead falls on the station line, the geometry will be as designed. One can cut a rather more severe bevel and then backfill with epoxy filler, or cut the bevel accurately in the first place and just glue everything together without the hassle of also filling. As I said, I found it straightforward to cut the bulkhead bevels as I was cutting them from the sheets, and then add the beveled cleats and floors, rather than try to bevel everything at once. 
+
+Beveling is necessary.
+
+DC

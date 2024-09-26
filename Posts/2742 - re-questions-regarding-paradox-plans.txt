@@ -1,0 +1,8 @@
+From: "Glen C. Maxwell" <ifida@alltel.net>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Wed, 8 Jun 2005 09:25:47 -0700
+Subject: Re: Questions regarding Paradox plans.
+
+Brent, the spar lengths are given on the spar drawing page Drawing #12. Everything stows inside the boat though the opening port in the back (you do have to remove the lighting rod). The drawings are somewhat confusing to someone not familiar with spar drawings because dimensions are given full size for the fore and aft and side ways dimensions and scaled for the length dimensions. This way a designer can get the most detail and the entire spar on the page. It is also easy to fair a long curve this way by compressing the length. Study drawing #12 very carefully and you will see all the information you need.
+
+Glen

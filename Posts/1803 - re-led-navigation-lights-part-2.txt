@@ -1,0 +1,30 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 10 Jan 2004 09:38:37 -0000
+Subject: Re: LED navigation lights part 2
+
+Hi Al.
+
+I've very much enjoyed your pieces on LED nav lights, particularly the
+bit regarding two wire installation for the anchor light and the
+tricolor. This polarity switching makes a lot of sense for remotely
+switched red/white combinations down below.
+
+Are your calculations based upon a power supply regulated to 12 volts?
+If not, what affect would a charging battery (say, 14.4 vdc) have on
+the LED clusters? What about an at rest, fully charged battery,
+at 12.6 vdc?
+
+According to COLREGS, our boats only require a white light be shown to
+avoid collisions. It is convention that a 360 degree masthead light is
+in accordance with the law, and as Glen points out, this all around
+white light provides many advantages, with regard both to safety and
+legality. With a few exceptions, other vessels must give way to an all
+around white.
+
+Also according to COLREGS, our boats must show side lights, steaming
+light, and stern light if under power. The stern light and steaming
+light may be combined as an all around white, but the side lights may
+not be comprised within a tricolor.
+
+DC

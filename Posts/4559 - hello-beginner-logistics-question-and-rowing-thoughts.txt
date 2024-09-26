@@ -1,0 +1,11 @@
+From: "Steve" <steve@microyacht.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 06 Jul 2007 08:16:42 -0000
+Subject: Hello, beginner logistics question and rowing thoughts
+
+The trouble is that I have so many things to work on at the moment . .no chance of getting bored! The generator is more of a longer term project. I started to wind the coils but that's as far as I've got. It's based on a reduced size PMG unit that's use for windpower. Being pedal driven and in order to avoid gearing, a lot more magnets are required. 
+
+I go cycling every day for exercise and as alternative transport. I consider that a unit producing 60 Watt (5A @ 12V approx) to be a reasonable amount of power that almost anyone can use for a few hours a day (battery charging + exercise). This on it's own is in excess to the power demands for the electronic gear I would be using and that's without taking a solar panel(s) into account. I'll post more info as I progress with it.
+
+Steve
+http://www.microyacht.com

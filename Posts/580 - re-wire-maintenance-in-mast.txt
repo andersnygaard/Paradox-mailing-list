@@ -1,0 +1,22 @@
+From: Alastair <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Wire maintenance in Mast
+Date: Sat, 13 Jul 2002 20:22:39 +0000
+
+You have to sort this out for yourself. 
+
+My solution is to have a socket at the bottom of the mast which can be extracted leaving a 20mm hole. At the top the wire comes out through a hole just big enough for the wire and is then sealed in place with silicone sealer. I hope this keeps out the water, but it won't be tested in anger till next year.
+
+The wire just hangs inside the mast (with padding to stop slapping) so should be easy to replace. I just used 5 amp flex.
+
+From: roger chan <light369369@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: [paradoxbuilders] Wire maintenance in Mast
+Date: Sat, 13 Jul 2002 00:33:54 -0700 (PDT)
+
+I noticed that one of the freqently replaced item on sailboat is electrical wiring due to corrosion. If the lighting wiring and the Mast-head light wiring are epoxy to the interior of the mast. Does it mean one have to cut the Mast open each time to replace these wirings?? (Or is there a Paradox design feature which allow one to do this that I overlook? )
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

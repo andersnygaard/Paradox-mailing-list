@@ -1,0 +1,25 @@
+From: Selby John Starkie <john.starkie@talk21.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Introduction, Chine runner / mast questions. [2 Attachments]
+Date: Wed, 3 Feb 2016 09:52:45 +0000
+
+Having ballast as far outboard as possible might improve the roll characteristics and the dynamic balance,  but will not help the righting moment.
+Each outboard weight will balance the other:  as one creates a righting moment the other will balance with a heeling moment.
+
+Hello! I am Erik from northeast Ohio I have a Com-Pac 23 sailboat and sail primarily on Lake Erie. I have been bitten by the Paradox bug and I am researching building one. My main purpose for building will be to sail in the Great Lakes/Georgian Bay skinny waters and a Florida to Bahamas adventure in a couple years (crossing GulfStream of course). I love the elegant simple design of the Paradox but I am still not 100% sold on a keel-less boat out in offshore conditions. In an effort to increase the chance of righting the boat I have been trying to work on a solution to instill more confidence in the event of a capsize. My ideas are in order of preference.
+
+1. Add lead to gap between chine runner and side of boat covering with fiberglass. This will increase the moment arm for self righting. I don't think this will help for a 180 degree roll though.
+2. Adding a bolt on lead bulb-keel of 10-12 kg concentrated near end of keel perhaps 15-20cm in length. This will also increase the righting moment arm. It could be taken off when offshore passage is completed.
+3. Installing as buoyant mast as possible and/or running a tube through/alongside mast with an inflatable "balloon bladder" at top of mast. Tube could be attached to a small compressed air cylinder allowing it to be filled several times if you get in series of BAD survival storms. 
+
+So there are my ideas on this subject. I want to increase my odds of righting my craft. Have these ideas been tried yet, would they work?
+
+Sent from my iPad
+
+--
+Nick Bell 
+( THOR) 
+
+Attachment(s): 
+image1.JPG
+image2.JPG

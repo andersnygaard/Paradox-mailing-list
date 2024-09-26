@@ -1,0 +1,60 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com 
+Date: Sat, 28 May 2005 20:25:31 -0700
+Subject: Re: Introduction
+
+
+1. The intend is to stay mostly to the plan, but I will probably deviate in the cabin area, making smaller and thicker windows.
+
+I was thinking maybe 3/8" for the Lexan, and give 50% more bearing area at the frames for the windows to "sit" on. Split the side windows in two (or maybe still leave as one) and make the hanging knees wide enough to meet the windows and provide additional support for the mid span of the side windows.  I might also place a ring around the outside rim of the windows where the bolts go through.
+
+This would all but insure that the windows could never be popped out or stove in. Cheap insurance IMO.  I'm a coward so it would add to my peace of mind. :)  I don't imagine these changes would be stealing any visibility and very little of the light.
+
+>1/4" in plenty strong, and the larger windows are really nice to have when you are sailing from down below. Good visibility and lighting is a real plus.
+
+2. I also plan on a more waterproof boot for the tiller, and I may eliminate the stern port.
+
+I hope I can describe what I have in mind...
+
+Add a bit of plywood or whatever to both sides of the tiller right before it enters the slot on the stern.  The plywood runs in a channel attached above and below the tiller slot.  The plywood will cover over the slot as you manipulate the rudder. Then, fit a boot on the tiller that will also cover the plywood and channel.
+
+The idea being that boot provides the water-proofing and the bits of plywood in the channel prevent the boot from be ripped off or stove by a wave that might otherwise.
+
+Regarding the port on the stern, I've thought about keeping it, but I can't see me using it for it's intended purpose. The secondary purpose (ventilation) seems attractive at first, but just how effective could it be?  In good weather, the hatch can be opened for ventilation.  In poor weather that forced closing the hatch, I would not leave the port open either.
+
+How much have you used the stern port for ventilation, and how effective have you found it?
+
+3. Another change I'm planning is the water tank construction.  From what I have read, it's easy to make tanks out of cut up poly sheets and a plastic welder like
+http://www.harborfreight.com/cpi/ctaf/Displayitem.taf?itemnumber=41592.
+
+I'm concerned about the water tanks. As per the plans, I don't think they are safe for potable water.  And epoxy isn't *really* waterproof anyway.  Say you make your own poly tanks and drop them into that space there are still problems.  First, how to
+access the tanks at a later date?  They are under a "permanent"
+floor.  You could instead add hatches to the sole, just as is done forward of the tanks, but I think the floor over the tanks is structural and might be compromised by adding the hatches.
+
+4. I notice that most are using LEDs for a mast light, has anyone thought of using Cold Cathode Fluorescent (CCFL)?  The advantage is CCFL's are over three times more efficient than the best white LEDs-- 80 lumens per watt vs 23 lumens per watt! CCFL are also dimmable like LEDs.  The disadvantages of CCFL's are they won't start below -4F/-20C (but this is much better than standard fluorescent,) the ballast *may* be a source of radio frequency interference, and CCFLs they have a life of about 25K-50K hours (vs the theoretical 100K life for LEDs.)
+http://www.elwirecheap.com/coldcathodes.html sells complete kits for $12 and http://www.j-right.com/html/ccfl_lcd_backlighting.htm has some info.
+
+Another neat idea worth trying; though, white LEDs are pretty cheap to buy now at around $1 apiece. We use a homemade 8 bulb LED masthead light on LITTLE CRUISER ( http://www.microcruising.com/review.htm#low ).  At the moment I am working on an anchor light that is based on a $6 "solar" garden light that I got at BIG LOTS, a dollar store.  It's pretty nice for the money considering it has its own miniature solar panel, two nicad batteries and an LED light.
+
+5. What insulation are most using for their project?  From most of the pictures I have seen, most seem to be using the white expanded polystyrene (EPS.)  However, this stuff will absorb water (killing the insulation value more than the flotation properties) and I would think that at least extruded polystyrene (XEPS-- the blue or pink stuff) would be a much better choice, especially if you are sealing it against the wood (epoxy sealed or not) like in the plans.
+
+LITTLE CRUISER has Celotex brand insulation and SWAMP THING had white polystyrene. The Pink foam that you can get at HOME DEPOT would probably be better than the two that were used in our boats.
+
+6. Does anyone know of good sources for quality plywood at a reasonable price in the Los Angeles area?
+
+Exterior grade plywood should be sufficient, but you will need to seal it with epoxy and fiberglass if you do not want the plywood to check. Of course if you want to save money and you are not too particular about the boat's appearance, just painting it will work.  This is what Matt did on all of his boats prior to PARADOX.  If it was me, I would at least seal the boat in 6 oz glass for the topsides and 10-20 oz glass on the bottom, paying special attention to add extra layers to the chines.  Of course the best way is still to do it exactly as the plans state.
+
+I almost had a heart attack when I read the price for top-of-the-line marine ply.  However, all ply is way overprice
+now'days.  But then so is steel (the only other great boat building material IMO.)  Even good ACX ply will cost me at least 1/3 the price of the good stuff, but will not last as long and will probably take more work for finishing it.  So my gut says go with the top marine ply.
+
+I'm not afraid to admit that I'm cheap, and a lazy penny pincher at that. :)  My hope is that *when* the boat gets damaged, that the price of the good stuff will pay off in the long run by being easier and cheaper to repair.  What do you think?  False economy?
+
+I was also looking at the weight of plywood, and the top Okoume marine ply is almost half the weight of the cheaper marine ply made of laun (I don't know how fir ply compares in weight.)  Maybe not all that important in the scheme of things, but would allow more stores to be carried if needed, or allow more protecting epoxy and glass to be applied without a weight penalty to deal with.  
+
+I'm planning for the interior five coats of epoxy below the waterline, and probably three elsewhere inside.  Then, painting any exposed locations to protect from UV and leaving the rest uncovered for easier inspection.
+
+I'm rambling a bit but I thought I point out that I'm not a boat builder like many on this list.  I'm building because I like to know exactly how something is put together, thus making me more independent (and economical) when the time comes to repair it and it's very comforting to know the level of care taken in its construction.
+
+After this one, I might have one more boat in me, a nice steel Brent Swain 30 footer built in the origami style.  But paradox will be it for me for at least 10-15 years... and maybe forever.
+
+-- BRENT - The Usenet typo king. :)

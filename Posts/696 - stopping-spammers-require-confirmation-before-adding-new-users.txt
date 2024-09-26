@@ -1,0 +1,6 @@
+From: "Paul V." <admin@cruisenews.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 27 Sep 2002 01:50:38 -0000
+Subject: Stopping spammers - require confirmation before adding new users?
+
+Apparently there are scripts which allow someone to sign up to become members of Yahoo and join groups to post spam. Could we get this group changed so that new members have to be approved by the moderator?

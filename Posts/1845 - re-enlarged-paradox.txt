@@ -1,0 +1,26 @@
+From: LJGeib@aol.com
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 21 Jan 2004 22:47:49 EST
+Subject: Re: enlarged paradox?
+
+Jason,
+
+There are several ways to stretch a Paradox, all of which would work as long as you don't try to increase by more that 10% or so. After that, you may as well design your own boat to be sure that the elements of the boat are still in harmony.
+
+Here are three ways:
+
+1) BIG PARADOX
+This is the most mentioned method. I think Glenn put lines for a version in the Files section. This would get you a boat that is more like Little Cruiser in feel and would be a nice 2 person boat.
+
+2) STRETCH PARADOX
+Just increase the length dimensions-spread out the stations. This would get you a boat you could get you tall frame into, yet still give you a boat that is more like Paradox's' style and feel. the sail plan, mast, and other fittings on the boat could be very much like the standard version. Because of its longer water line, it would be easier to drive with the existing sailplan (except possibly in very light airs because of increased wetted surface). In moderate or heavy airs, it would be a faster boat. The displacement would only increase linearly, and not cubically. It would be a smaller boat than the "BIG"
+
+3) PUG PARADOX
+This is like the stretch, but the elongation is linear but not uniform. The boat is stretched more amidships that at the ends of the boat. Stretch it maybe 1" between the first two stations, 2" between the second and third, etc. Reverse once you reach amidships. You could even stretch it a bit more in the bow than in the stern. the line will still be fair if the change follows a regular pattern and is a small percentage of the distance between stations.
+I have seen different designs mention ratios of addition in inches like 1:2:3:3:2:1, 1:2:4:2:1:, and even 1:4:2:4:2:4:1 (I couldn't wrap my brain around that one).
+This type of thing is pretty common in Kayaks. I learned of it from a book by Eric Schrade of Guillemot Boats in his book on strip building kayaks. He recommended it to make a boat finer, but in small increments it will work either way. I used it to shrink a CLC kayak design a few inches so it would fit in a storage space I had, and performance was virtually identical to a full version of the same boat. 
+This design would give you the bigger main cabin with a smaller overall length. performance would be between the standard and the stretch boat.
+
+The "Pug" name is a misnomer, you are still stretching the boat everywhere. A friend named my old kayak that to annoy me :-)
+
+Larry

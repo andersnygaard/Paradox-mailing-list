@@ -1,0 +1,18 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: rolling bevels
+Date: Wed, 19 Nov 2003 00:39:36 -0000
+
+Probably the most conspicuous rolling bevels on the Paradox design are those of the chine runners, less so are the bulkhead side bevels on bulkheads 2 and 3. 
+
+A rolling bevel is simply one that changes, or rolls, over the length of the edge in question. On sheet #2 of the Paradox plans, please find station #2. At the top of the page, you will see "sheer" and "design WL". Where these two lines cross the station #2 line, you should note a difference in their respective angles. This difference is the "roll" of the bevel. I have measured the "cut bevel" of the edge of bulkhead #2 at 8 degrees at the sheer, and 13 degrees at the chine.
+
+This rolling bevel is not that extreme. I cut the entire bevel on my bandsaw, to 8 degrees, and then hand planed the roll down to the chine, 13 degrees. This is very easy, as the materials are quite lightweight and manageable. If a helper is available, and the bandsaw is set up for it, I could start the cut and call out the bevels to the helper, who would adjust the bevel on the saw. This takes practice and teamwork. Alternatively, a shipsaw could be employed, or a very practiced hand with a jigsaw or skilsaw. The shipsaw is really tremendous overkill, but I prefer the bandsaw over the jigsaw or skilsaw.
+
+Because we have epoxy and fillers, a cut of 13 degrees on the aforementioned edge would suffice. Simply fill the minor gap on the forward side of the joint.
+
+The chine runners are a different matter. They possess two rolling bevels. This is a lot of work, with constant checking to be sure your work is correct. Installing the chine runner fillers in short pieces (negligible roll), or long laminations is much simpler. Both alternates have their own pros and cons; understanding them will lead to your own "right" decision.
+
+Let me know if I've left anything to wonder.
+
+DC

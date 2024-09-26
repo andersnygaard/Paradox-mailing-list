@@ -1,0 +1,10 @@
+From: "fadeev.alexander" <fadeev.alexander@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: lightening rod
+Date: Wed, 01 Dec 2010 16:07:14 -0000
+
+I did the following.  The rod is held in place by two points and is easily removed.  
+The top point: the rod slides through the whole in the plate (3/4 ply glassed over) which is located at the top of the mast (above the block) and serves as a support for the mast light assembly.  
+The bottom attachment point: ~ 4 inches below that plate, there is a copper bolt (5/16) coming out from the mast may be 1/2 inch or so.
+Once the rod is in the whole, it can be attached to that bolt with a nut (to make it easy, the bottom end of the lightning rod is screwed to a short piece of a copper tube, which is flattened at the end).
+Inside the mast, this bolt is permanently attached to the copper tube running all the way down inside the mast.

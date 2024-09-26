@@ -1,0 +1,42 @@
+From: Shane Hersey <shersey@rocketmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 2 Sep 2004 18:43:13 -0700 (PDT)
+Subject: Re: Digest Number 575
+
+G'day John
+
+What a great place to have a Paradox, Tassie! Maybe you can cruise down to the Dewent one day. I lived in Hobart for awhile and that was a great waterway but Launceston is a top spot too. Thanks for enlightening me about the metric plywood sizes. I knew there was a problem re Australian metric sizes but was unsure what it was. Do you have a workaround for the glitch ("...problem with our plywood with bulkhead No3 at 1214mm wide...") besides using imported ply? Even though it's a beautiful timber, Gaboon is Okoume (Aucoumea klaineana) aka Samara. As you probably know it is a West African hardwood that may have been harvested from old growth forests or rainforests overseas. I would prefer to use a local ply using a sustainable timber species if possible.
+
+All the best
+Shane
+   
+--- John Hall <Johndhall@mac.com> wrote:
+
+> Hi Shane
+> I though all PARADOX plans were in metric ? The problem we have here in 
+> Australia is that our locally produced plywood is a metric size (2400mm*1200mm) the imported stuff seems to actually fit the layout on 
+> the plans better - Gaboon for instance is (2500mm*1220mm). This gives 
+> us a problem with our plywood with bulkhead No3 at 1214mm wide if we 
+> use Matt's sheet layout.
+> 
+> I have not yet started building the real thing yet but have a 1:5 scale 
+> model in aircraft ply well advanced. Next step is to finish producing 
+> the CNC files so I can cut the full size parts using a local CAD 
+> cutting service.
+> 
+> I would be happy to make the CNC DXF files available to Dave &amp; Mindy 
+> for distribution with plans set if that would be of interest to anyone 
+> ?
+> 
+> Best regards
+> 
+> John Hall
+> 41.5 South   147.1 East
+> Launceston Tasmania
+> 
+> On 31/08/2004, at 11:20 PM, paradoxbuilders@yahoogroups.com wrote:
+> 
+> > Just wondering how you are getting on with Australian metric plywood and US Paradox plans in Imperial measure. That is, how are you doing 
+> > fitting inches and feet into cms and metres?
+> > Shane
+> > p.s. I have a set of Paradox plans and live in Canberra.

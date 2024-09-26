@@ -1,0 +1,8 @@
+From: "davidandrewallen" <dallen@lull.us>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 01 Mar 2012 01:18:50 -0000
+Subject: Re: CA?
+
+It was worth checking out, but amazingly (to me, anyway), the centroid stayed in the same position horizontally when I heeled the hull (centered on the waterline) until the chine just touched the waterline (about 25 degrees). The centroid did, however, move down about 5 mm.
+
+So that still leaves the same question: What does CA stand for?

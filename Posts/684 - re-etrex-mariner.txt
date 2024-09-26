@@ -1,0 +1,51 @@
+From: "Glen Maxwell" <ifida@nefcom.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Etrex Mariner
+Date: Sun, 8 Sep 2002 07:46:12 -0700
+
+Great Post Dave, Thanks
+Glen
+
+
+Well, I got my Etrex Mariner GPS the other day and it works great.  
+Thanks Glen for the recommendation.  However, I didn't want to spend 
+$37 + tax for the cigarette lighter adaptor at West Marine so I 
+started looking around the internet for an alternative.  It seems 
+that the Etrex is a very popular GPS, but Garmin doesn't sell just 
+the power/data cable.  Therefore quite a few people have been making 
+their own plugs.  Some examples can be found at 
+http://pfranc.com/projects/g45contr/emap/diy/index.htm .  For a more 
+professionally made plug check out the ePlug which runs $7.50 apiece 
+at http://pfranc.com/projects/g45contr/emap/index.htm .  For an 
+adaptor you can get a 3 volt switching version for $12.98 at 
+http://pfranc.com/cgi-bin/P/P3V .  All together, this comes out to 
+$22.50 (including shipping) for a professional adaptor and a plug 
+that you assemble.  For a preassembled adaptor it will run $25 at 
+http://www.blue-hills-innovations.com .  Finally, if you just want 
+an original Garmin adaptor it will cost you $29.94 including free 
+shipping from Amazon.com. I think I've over reasearched this adaptor 
+thing abit.  Still, it just kills me that a company makes a great 
+product at a reasonable price and then tries to capitalize on all 
+the accessories.  I guess that's why I never upgraded my old printer 
+which I can still get cartridges that are refillable.   
+
+Next I thought to myself, I don't want to input all my waypoints 
+through the GPS so I went on the internet again to find a simple 
+program to upload/download waypoints from my computer to the Etrex.  
+Fortunately, this search was much quicker and I located a page that 
+had what I needed at http://www.firstwaypoint.com/ .  The program I 
+settled on was EasyGPS, which is shareware and is available at 
+http://www.easygps.com/ . I found that it worked very nicely. 
+
+The last thing I did was update my Etrex to the latest firmware at 
+http://www.garmin.com/products/etrexVenture/download.html and then I 
+reloaded the Marine data base (POI). In the end everything went  
+smoothly. 
+
+Yahoo! Groups Sponsor 
+  ADVERTISEMENT
+
+To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.

@@ -1,0 +1,13 @@
+From: eerikmee@gmail.com
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: bulkhead cutting
+Date: 01 Jun 2017 17:34:55 +0000
+
+Hi Sybe,
+
+The length of the side line at the joint with transom panel is 459mm, so is the heigth of the transom panel at side panel attachment. As the transom side is not vertical, but at slight angle, the joint line is actually a bit longer, but insignificantly (maybe 1mm), As it is not very clear the issue with bulkhead no2, I guess that is also correct on the drawings; also keeping in mind that other paradox builders, including me, have not complained. So try to double check what you have marked and try to find your error.
+
+Q2 The deck beams are attached to the bulkheads, as are cleats; it doesn't really matter if the beam runs all the way to the side of the bulkhead or cleat runs all the way up. You will cut the notch out of the corner anyway.
+
+Regards,
+Eerik

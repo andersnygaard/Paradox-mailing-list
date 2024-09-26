@@ -1,0 +1,6 @@
+From: "boldav38" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Little Cruiser's sail
+Date: Sat, 22 Dec 2001 17:08:13 -0000
+
+The unstretched Paradox sail is 100 square feet, so if you increase the design by 10% then it would be 110 square feet. However, Little Cruiser is 15'1" long, and she has a sail area of about 120 sq feet. Therefore, 120 square feet would be a good point to start at if you stretched Paradox 10%, (approximately 15.4 feet).

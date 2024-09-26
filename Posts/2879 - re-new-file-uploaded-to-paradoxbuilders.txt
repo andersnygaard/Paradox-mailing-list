@@ -1,0 +1,22 @@
+From: John Gardiner <alex29@cox.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 02 Jul 2005 14:53:13 -0400
+Subject: Re: New file uploaded to paradoxbuilders
+
+Hi Nels,
+
+    What we are using is bitcomet, its a peer to peer file sharing program, what it does is, you download the very small torrent file, that tells the bitcomet software where the file is being hosted, and alows you to download it, also the more users that download it and keep running bit comet help to serve the file, as there are more "copies" of it on servers. now, after bitcomet downloads it, you goto the folder that saves the downloads and play it, whats happening to you is you are trying to play a torrent file and real player is trying to find a codec to play it, and of course there isnt one. hope this helps. if not I can walk anybody thru this or just go for MSN messenger or AIM and I would gladly send it.
+
+Jack
+
+Nels wrote:
+
+Hi Folks,
+
+When I try to open the file you mention, realplayer pops up and gives me a message that  "new software is required to play this clip" then a notice it cannot find the software. So how do I go about connecting the torrent software up with realplayer? Or should I be using Windows Media Player or my favorite which is Winamp?
+
+I was unable to follow the dialog that was flying back and forth here. But I have some video clips I would like to upload as well.
+
+Paul, do you have the clip on your website which is what I was waiting for. Do you have the url for it?
+
+Thanks, Nels

@@ -1,0 +1,25 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 27 May 2005 18:57:49 -0700
+Subject: Introduction
+
+Hi, just a quick introduction and a couple of thoughts.
+
+Well I feel I know you all already, after reading through all the messages in paradoxbuilders, paradoxboatbuilders, and microcruising lists.
+
+I already have Don's construction book, and the plans just showed up today. I want to start building in the in the fall. I'm in Los Angeles, so winter building is better than building in 100 degree heat.
+
+I'm an apartment dweller, so I'm going to have to construct the boat in the space for a outside car parking spot; about 8 feet X 15 feet, with additional temporary room available just to the front of this spot.
+
+The intend is to stay mostly to the plan, but I will probably deviate in the cabin area, making smaller and thicker windows. I also plan on a more waterproof boot for the tiller, and I may eliminate the stern port.
+
+Another change I'm planning is the water tank construction. From what I have read, it's easy to make tanks out of cut up poly sheets and a plastic welder like http://www.harborfreight.com/cpi/ctaf/Displayitem.taf?itemnumber=41592.
+
+I notice that most are using LEDs for a mast light, has anyone thought of using Cold Cathode Fluorescent (CCFL)? The advantage is CCFL's are over three times more efficient than the best white LEDs-- 80 lumens per watt vs 23 lumens per watt! CCFL are also dimmable like LEDs. The disadvantages of CCFL's are they won't start below -4F/-20C (but this is much better than standard fluorescent,) the ballast *may* be a source of radio frequency interference, and CCFLs they have a life of about 25K-50K hours (vs the theoretical 100K life for LEDs.) http://www.elwirecheap.com/coldcathodes.html sells complete kits for $12 and http://www.j-right.com/html/ccfl_lcd_backlighting.htm has some info.
+
+What insulation are most using for their project? From most of the pictures I have seen, most seem to be using the white expanded polystyrene (EPS.) However, this stuff will absorb water (killing the insulation value more than the flotation properties) and I would think that at least extruded polystyrene (XEPS-- the blue or pink stuff) would be a much better choice, especially if you are sealing it against the wood (epoxy sealed or not) like in the plans.
+
+PS: Does anyone know of good sources for quality plywood at a reasonable price in the Los Angeles area?
+
+-- 
+BRENT - The Usenet typo king. :)

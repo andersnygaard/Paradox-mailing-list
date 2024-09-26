@@ -1,0 +1,24 @@
+From: "Glen C. Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 21 Aug 2008 10:12:13 -0400
+Subject: Re: Vane Gear was: Main sheet
+
+Hi Mark'
+
+That's the same website I used and mine is a combination of a few of the ones there. I used 35% of the rudder area for the servo blade and balanced it with (most recently) 30% of it's area ahead of the centerline of the post. I have not experimented with tiller lines due to their friction. Most recently I have become aware of the 'Cape Horn" gear and like it very much. Look at their website for ideas. www.capehorn.com . The best advice I can give you is to have fun experimenting. I think the most difficult part was making the mount, for that I made up a mock up of the transom and rudder and bolted it to a wall in my shop. Good luck!
+
+Glen
+
+mwatersworld wrote:
+
+Hi Glen,
+
+I also have some questions about your vane gear but want to be sensitive to your need to spend time with your wife.
+
+You were kind enough to offer some encouraging words about the Paradox I built a couple of years ago. Pictures of "Raffles" can be seen on Bill's site as 'Mark Waters' Paradox'. Unfortunately, I have not been able to take the boat out much due to one personal crisis after the next. Hopefully, that is now all behind me and I can finish the one remaining project - building a self-steering wind vane.
+
+I am wondering if you could point me, Rod, and anyone else who is interested to some good sources of information. I have found one site on the web - www.mindspring.com/~waltmur/Self-Steering . Looking at some of these designs I see some similarities with the vane on "Zoe". Is that correct and if so which design did you go with and did you make any dimensional changes? Also I was wondering if you have done any sheet to tiller experiments? I was happily suprised at how well "Raffles" tracks and could not help but wonder whether a more simple old fashioned direct vane (non servo pendulum) might work?
+
+Many thanks,
+
+Mark

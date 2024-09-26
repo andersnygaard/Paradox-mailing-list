@@ -1,0 +1,23 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: ballast
+Date: Sun, 05 Oct 2003 09:06:53 -0000
+
+
+Hi Mike.
+
+Sounds like a good idea to use a metal plate, but steel? Don't get me wrong, I really like steel boats, but I have a fundamental problem with steel/wood composites. If you can absolutely solve the corrosion potential, steel plates would have a lot going for them. Structurally, they could take groundings with nary a wince. The problems appear when the finish is damaged. Also, can you be absolutely certain that the bedding compound between steel and wood is sound? I've learned that trust in bedding compounds is not well deserved.
+
+Now, bronze plate might be worth some serious consideration. It's spendy, but electrolytic action will be less of a worry if you use bronze fasteners too. When the bottom is done, just paint with antifouling and never give a care about striking rocks, moorings, etc. Even with a scraped and scarred finish, the bronze will be just fine.
+
+The chine runners on the Paradox design are not comprised of "fillets", in the traditional sense of the word. They consist of the plywood and glass/epoxy bottom, and what are essentially fairing blocks. I suppose that the fairing blocks, or fillers, are structural to the extent that they strengthen the bottom where it protrudes past the chine, but I believe (and please correct me if I am wrong, anyone) that they are designed with efficient hydrodynamic properties which a simple fillet would not provide. I was taught that a curved fairing block, either convex or concave, produces more drag than a straight surface. The chine runner fillers are triangular in section, but also exhibit (2) rolling bevels, one being against the hull, the other being the outboard surface. These rolling bevels could be ignored with enough epoxy and skill with a grinder, but they look to be quite a challenge to install as drawn. Glen and Al have both opted to install the fillers in pieces.
+
+I'm starting to come around to installing my chine runner fillers as Glen and Al have. Regardless how much ballast can be installed on the chine runners, it will still be necessary to have trim ballast. As Al has noted, ballast must be initially installed by shifting it fore and aft, and side to side. All boats will be different, due to vagaries of construction and materials, and weight and stowage of crew and stores. Thus, it can't be accurately anticipated exactly how much ballast is necessary, or where it must be placed. Further, as Al noted, this design is probably best sailed at close to her designed displacement, though like Glen, I will likely sail light on many occassions. I will endeavor at all costs, to avoid the removal of any lead ballast, or shifting trim ballast. I believe that trim ballast is to be forgotten once it has been properly installed. Proper and attentive loading of gear and stores will be necessary, as will taking on weight as the stores are depleted.
+
+I think that if one had molds for the chine runner fillers, lead castings would be really trick. I'm just thinking that the molds and casting would be a whole lot more work than the benefits warrant. It would be simple to fabricate the fillers with timber blocking with a mold release, so that the fillers could be used as plugs for molds, but I can't help but think that I will just bork those babies on and be done.
+
+I think that the design of the chine runners is pretty cool. Simple but tough as nails. The 18mm plywood is covered with what amounts to approximately 6mm of glass/epoxy. That is really, really substantial. The glass protects and supports the plywood, and can be easily repaired anywhere. There's no bedding or electrolysis with which to concern oneself.
+
+Have fun with your projects. Thanks for your thoughts.
+
+DC

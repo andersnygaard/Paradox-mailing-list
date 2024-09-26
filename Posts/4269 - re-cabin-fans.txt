@@ -1,0 +1,12 @@
+From: "Steve Blair" <millenniumtree@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 30 Mar 2007 22:00:30 -0000
+Subject: Re: Cabin Fans
+
+Best fan I ever saw was a 220v AC unit for some computer equipment or appliance. It looked like a giant computer fan (9 or 10 inches square possibly). I ran it at 110v (here in the states, ya know). I could barely hear it, but it produced a very nice breeze. The bigger fan, the slower you can run it and still produce good airflow. The slower you run it, the less noise it will make.
+
+Modern CPU fans are terrible, IMO, because they're built to pump 50 cubic feet per minute through a 2x2 inch hole. My computer sounds like a jet taking off.
+
+Also, automotive radiator fans are built to be fairly quiet for their output. The blades are staggered so that they don't set up a consistant hummmm.
+
+Good luck! I too am very sensitive to noise.

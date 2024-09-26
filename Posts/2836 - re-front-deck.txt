@@ -1,0 +1,20 @@
+From: "Chris Ostlind" <Chris@Wedgesail.com>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Front Deck
+Date: Fri, 17 Jun 2005 16:02:16 -0600
+
+Derek,
+
+First thing... Re-check the plans for precise measurements before you get radical with the saw or sander.
+
+Get a sheet of thinner plywood (typically half of the thickness of the original specification, but cold require as thin as one third if the curves are nasty) and see if that will do the trick. If it goes on the hull nicely, glue it down and when it's cured and sanded, add another layer to bring the whole thing to the correct thickness.
+
+If the thin material still won't do it dry, you can soak it, get it very warm with a heat gun or a set of big quartz lamps or leave it close to a heat source without setting it on fire. Keep it moist. The combination of heat and moisture will allow the thin sheet material to bend in ways you never imagined and should get the job done.
+
+Of course the applied water and heat will make a mess of plywood that is not laminated with waterproof glues and you probably won't see the effect for weeks to come.
+
+The second layer is always easier, but take care to paint-on a good coat of epoxy to give full adhesion and guard against trapped air pockets as you bond the second layer of ply.
+
+That's it.
+
+Chris

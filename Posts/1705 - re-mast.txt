@@ -1,0 +1,16 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 01 Jan 2004 16:27:47 -0000
+Subject: Re: Mast
+
+A subject near and dear to my heart.
+
+While there's nothing at all lacking in the designed mast, I do recall that Matt had initially contemplated a carbon fiber stick. I've been considering something on the line of a composite stick of birdmouth sitka spruce and a carbon fiber sleeve. In essence, the spruce is the permanent mandrel, providing "unidirectional" fiber, and the carbon sleeve provides the minimal hoop strength necessary for this small mast. Fabrication would be really easy. The sleeve would be fitted around the "mandrel", then pulled tight like a "Chinese finger cuff", and then wetted out and squeegeed.
+
+I haven't run any numbers for this, but I think that the differences in weight between the design spec mast and such a composite one, would be neglegable. Indeed, the extra weight aloft would provide a more comfortable motion. I think the only really cool reason to build such a composite mast would be the experience gained, and perhaps some measure of bragging rights.
+
+Here's a link to some sleeves.
+http://www.4corthopedic.com/products/fab/braided.htm
+Foresee Orthopedic Products : Products : Braided Carbon Sleeves
+
+DC

@@ -1,0 +1,12 @@
+From: "barnacleid" <w.serjeant@btinternet.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Chine Log shape
+Date: Mon, 01 Dec 2003 22:12:07 -0000
+
+If you look at the lines drawing no 2 you will see the outer corner angle is always greater than 90 degress to fit between the side panel and the bottom.  As Alastair has mentioned it's a matter of attaching the chine logs with the section shown constant.
+
+When the bottom is fitted the chine logs will have to be shaped to allow the bottom to fit snugly.
+
+I think that must be correct.
+
+Bill.

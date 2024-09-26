@@ -1,0 +1,28 @@
+From: John Hall <Johndhall@mac.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 1 Sep 2004 12:09:21 +1000
+Subject: Re: Digest Number 575
+
+
+Hi Shane
+
+I though all PARADOX plans were in metric ? The problem we have here in
+Australia is that our locally produced plywood is a metric size
+(2400mm*1200mm) the imported stuff seems to actually fit the layout on
+the plans better - Gaboon for instance is (2500mm*1220mm). This gives
+us a problem with our plywood with bulkhead No3 at 1214mm wide if we
+use Matt's sheet layout.
+
+I have not yet started building the real thing yet but have a 1:5 scale
+model in aircraft ply well advanced. Next step is to finish producing
+the CNC files so I can cut the full size parts using a local CAD
+cutting  service.
+
+I would be happy to make the CNC DXF files available to Dave & Mindy
+for distribution with plans set if that would be of interest to anybody ?
+
+Best regards
+
+John Hall
+41.5 South   147.1 East
+Launceston Tasmania

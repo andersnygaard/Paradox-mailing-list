@@ -1,0 +1,16 @@
+From: "Alastair" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 23 Feb 2005 18:59:28 +0000
+Subject: Re: Little Jim web site moving
+
+
+URLs use forward slashes not backslashes, try this instead:
+
+http://www.as4jg.freeuk.com
+
+You are, of course, right. Interestingly either version seams to work on my machine. Perhaps Opera is clever enough to spot and correct the mistake.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

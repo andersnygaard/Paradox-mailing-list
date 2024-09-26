@@ -1,0 +1,18 @@
+From: "Chris Ostlind" <Chris@Wedgesail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 29 Jul 2005 13:43:46 -0600
+Subject: Re: Enuff Update
+
+Hi Jack,
+
+While I understand your desire to emphasize your wishes for a boat that always rights itself, perhaps the term nil is a bit of an overstatement. There are lots of conditions that would keep any boat from rolling itself over after a capsize.
+
+I used to race multihulls a lot and while they're not even close to the hull type, they could have a nasty habit of jabbing their masts into the bottom when turtled and the only thing that gets them back on their feet undamaged is a bit of clever help from a power boat or some serious (and lucky) wave action. I emphasize clever.
+
+Since one of the cool elements of the Paradox design is its ability to sail in thin water, the typical owner will likely have much fewer reservations in doing so. Strong winds and coinciding, breaking waves in water thinner than the combined hull/mast height will be a good method for doing the "stick in the bottom thing" with the Paradox. Throw-in a primordial, muddy bottom and you have the correct recipe for a stable, inverted boat.
+
+Other scenarios involve knock-downs with halyards and/or sheets becoming entangled in bottom obstructions with the hull filling due to a leaking set of hatches and hydraulic pressure.
+
+I know it's not nice to think of one's boat in a terminally upside down condition. That's especially true if it was designed to be significantly unstable in that position and an automatic, self-righting process is generally the rule. Unfortunately, humans being what they are, a Paradox will eventually be placed in a scenario in which it's design features will not change the outcome.
+
+Chris

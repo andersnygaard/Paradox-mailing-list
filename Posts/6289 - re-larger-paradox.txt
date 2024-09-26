@@ -1,0 +1,13 @@
+From: "Steve Y" <yahns@wavecable.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 16 Dec 2009 02:01:34 -0000
+Subject: Re: larger paradox
+
+The weight of water per cubic feet is 62 or 63 pounds, by the way.
+Steve 
+
+Making the frames from steel angle would give more room by making thinner vertical parts. The bulkhead at the rear of the sleeping area could be made without the plywood wall. So, by making more length to use out of the "as designed" principal dimensions you may be able to get what you want. I made a steel fram in my boat this way. Hence the name "Ironsides"
+Steve Yahn
+
+Just got the plans.  Dreaming is on steroids.  Just thinking out loud here: suppose I wanted a bigger Paradox but without the humongous displacement (2321lb for a 20% larger boat).  Suppose I only wanted more living space, and were willing to live without more beam.  (Yes, I know about the trick of cutting down the opening in the foreward bulkhead for increased footroom.)  How difficult would it be to lengthen the living area by about 2ft, lengthening the hull overall but keeping the ends the way they are and not messing with the beam.  How hard would it be to work out new dimensions for the sides?  could I simply add a 2ft chunk of hull in the living area at the widest and deepest part--flat-bottomed so I wouldn't need advanced 3D modelling skills to work out new panel shapes?  Am I right in figuring that the displacement would go up by about 390lb (treating below-waterline portion of this added bit as a 2'X4'X0.75' box)?
+Jeff MB

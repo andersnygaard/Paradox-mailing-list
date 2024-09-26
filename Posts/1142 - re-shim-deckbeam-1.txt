@@ -1,0 +1,23 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 19 Aug 2003 20:32:49 +0000
+Subject: Re: Shim deckbeam #1?
+
+Hi Al. 
+
+Your candor is always welcome and refreshing. 
+
+Regarding the mainsheet catching between the rudder head and the transom, there is perhaps an easy fix. Fasten a piece of nylon webbing (or line, or even rigging wire) from the rudder head to the deck. It goes without saying, that the webbing should allow for full motion of the rudder. Shock cord would just stretch, thereby allowing the problem of a fouled sheet to continue regardless.
+
+It's not so much that the sheet goes into the notch that is the problem, it is that as the sail is adjusted the sheet must run in and out over the top of the pintle. I do not feel that a strip of webbing would present a good bearing surface. I made a small cap to fit the top of the pintle over which the line runs (fairly) freely. Interestingly I have had no problem with the sheet fouling the quarter cleats or the yuloh bearing during normal operation.
+
+Have you given any thought to leading the mainsheet through the deck, rather than the transom? Seems to me that such could work better. Provided the fairlead (or?) was over the vent baffle, water ingress would not be an issue.
+
+If it was too high it would let in water when the hull is inverted. Alright, it's probably not the biggest problem you would have under those circumstances. But I suspect that the lead to the boom would be wrong if the sheet were deck mounted.
+
+Actually, if you want to fit a motor I suspect the sheet tangling with that could be an issue, so it may be worth investigating a deck feed. What do the rest of you feel? Could the main sheet be taken from the top of the transom and still allow the roller reefing to work, and apply the correct load to the end of the boom?
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

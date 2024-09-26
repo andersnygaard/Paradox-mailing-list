@@ -1,0 +1,13 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: New file uploaded to paradoxbuilders
+Date: Sat, 02 Jul 2005 20:50:34 -0000
+
+The "*.torrent" file can only be opened by a program such as BitComet which is a peer to peer program. I placed a copy in "paradoxbuilders2\Pauls' Stuff\" as some people couldn't find it.
+
+Once you install Bitcomet open Jack's torrent file such as "paradoxreefin.MPG.torrent". Highlight it and click Start so you get an arrow next to it. As long as someone else has BitComet running it will eventually send you "paradoxreefin.MPG". It will place that in the default location of: "C:\Program Files\BitComet\Downloads\paradoxreefin.MPG". You can play that with Windows Media Player, Winamp, or even Realplayer if you must.
+
+If you have some video clips you need to upload, download Jack's clips first so you can see how BitComet works, and we will help you with the rest.
+
+My Geocities website only holds 50 meg, which is maxed out, sorry :(
+Paul

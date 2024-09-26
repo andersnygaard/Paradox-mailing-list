@@ -1,0 +1,18 @@
+From: Coppotter@gmail.com
+To: paradoxsailboat@groups.io
+Date: Tue, 21 Jun 2022 13:35:53 -0700
+Subject: Re: [paradoxsailboat] Shaping Rudder Blade
+
+I would look for a catalogue of NACA airfoil sections. Find one that closely matches your design parameters; and then use that template to make full size patterns or gauges to form the rudder.
+Jeff
+
+
+On Tue, Jun 21, 2022, 12:12 PM <tony1mind@gmail.com> wrote:
+
+Hi All, building a Paradox in Thailand. Im loving Dons guide but totally baffled by the guide on Shaping the Rudder blade if someone could please set me straight.
+
+The leading edge should be a radius; from the tangent of that radius the line curves to the blades maximum thickness, which is approximately one third of the way back from the leading edge, from there it should curve downward to end, not in a sharp tip, but a small flat at the trailing edge. To make the foil it's best to rethink the idea of it being a continuous curve, and think of it as a series of flats. The strange looking template is made to discover the peaks of the flats.
+
+To make the blade, first make a series of flats, connected to a round front. Draw the finished shape on cardboard full size. Matt provides the shape on Drawing #11. Follow the steps in the illustration. Convert the curve to a series of flats, pick up the peaks, and transfer those peaks to the rudder blade. Draw lines with sharpie pen, the peaks on the blade surface.
+
+Is the shape of the rudder basically done by eye ? Would love any help you can give, thanks in advance. Tony

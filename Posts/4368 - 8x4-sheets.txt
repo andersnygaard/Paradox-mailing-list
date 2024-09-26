@@ -1,0 +1,22 @@
+From: "johnbg8jmb" <jbutton@btinternet.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 25 Apr 2007 22:08:41 -0000
+Subject: 8x4 sheets
+
+Re: Bulkhead #3 and general layout query
+
+1. to shift 8x4s on your own, you need a sling- length of rope with a loop on each edn, length is a bit over 8'. Ply sheet on edge, one loop on each bottom corner,hold rope in centre in on hand and lift, steady top ege with the other.  Still a bugger on your own, but slightly less so.  Hope this sketch helps ( courier font)
+
+    other hand here
+  __________________\
+ |                             |
+ |        lift /|\ here        |
+ |             ,--,            | 
+ |          ,-'    '-,         | 
+ |      ,-'            '-,     |   
+ |..,-'                   '-,..|
+ |__:_______________________:__|
+
+Otherwise, a board with 4 castors screwed to it is a useful all purpose trolley
+
+John

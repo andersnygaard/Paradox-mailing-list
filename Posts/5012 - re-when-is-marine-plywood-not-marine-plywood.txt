@@ -1,0 +1,98 @@
+From: "Greg" <corporal_nobbs2003@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 10 Apr 2008 18:03:34 -0000
+Subject: Re: When is marine plywood NOT marine plywood?
+
+At the risk of being accused of plagiarism, this is what I have learned from the article I mentioned.
+
+BS1088 Plywood for marine craft
+
+This standard covers the minimum requirement for what is acceptable as marine grade plywood.
+
+It embraces BS1203 (plywood adhesive specification) and BS6566 (timber grades for plywood).
+
+Specification.
+
+This British Standard applies to plywood made with untreated tropical hardwood veneers having a suitable prescribed level of resistance to fungal attack with a bond of WBP glue quality between the plies. It does not need to be 'British made material'
+
+Bonding WBP Glue line
+
+Bonding meeting the test requirements of this British Standard and using an adhesive of the type which by systematic tests and by records in service of the product over many years has been proved highly resistant to weather, micro-organisms, cold and boiling water, steam and dry heat. The equates to the use of WBP (weather and boil proof) adheasives which invariably means phenol formaldehyde (PF). Almost all outdoor plywoods - be they 'exterior' grade (mainly Canadian and US terminology) or WBP - use PF adheasive.
+
+Species of Timber
+
+BS1088 specifies that timber species be at least moderately durable 'class' or better and this ensures that species such as birch, alder, poplar and beech for example are not included.
+
+There are five classes of durability - Very Durable, Durable, Moderately Durable, Non-durable and Perishable.
+
+If so specified by the purchaser, Gaboon or Okoume (Aucoume klaineana), which is classed as non-durable, may be used provided that the name of the timber is included in the mark on the boards produced.
+
+A special clause in BS1088 allows Gaboon to be used in marine plywood, the reason being that it's low weight has obvious advantages, particularly in racing dinghies. Gaboon however is classed as non durable, hence the special clause.
+
+Quality of Veneers
+
+Veneers may be rotary cut or sliced. The method of cutting is at the option of the manufacturer unless it is specified by the purchaser at the time of ordering. Veneers shall be smoothly cut.
+
+Face Veneers
+
+These shall present a solid surface, free from open defects. They shall be free from knots, other than sound pin knots, of which there shall be no more than 6 in any area 30cm square (1ft2), and not more than an average of 2 per 30cm square (1ft2) over the whole area of the board. The veneers shall be reasonably free from irregular grain, due note being taken to the characteristics of the species being used. Isolated pinholes not along the plane of the veneers, and occasional closed splits are permissible. Veneers showing compression failure shall be excluded. Occasional minor discoloration is permissible.
+
+There shall be not more than one edge joint in any 30cm (1ft2) width of the board, and the veneers shall, when jointed, be matched for color. There shall be no end joints.
+
+Core Veneers.
+
+The requirements for core veneers shall be the same as those for face veneers, with the following exceptions. Small splits are permitted, and there is no limitation on the number of pin knots or edge joints. Discoloration is permissible, provided this is free from dote. Veneers need not be matched for color. There shall be no end joints.
+
+Limits of Manufacturing Defects in Plywood
+
+Defective Bonding Not Permitted
+
+Pleats and overlaps Not Permitted
+
+Gaps In faces. Not permitted. Occasional gaps that occur during manufacture may be repaired by means of well-fitted veneer inserts bonded with a complying adhesive. In Cores=85 In any edge of a board, not more than one gap, which shall be not wider than 0.5mm. Obviously the presence of defects in cores can only be judged by the appearance of the edges.
+
+Moisture Content.
+
+At the time of leaving the factory, finished boards shall have moisture content from 6 to 14%
+
+Finishing.
+
+Boards will be sanded on both sides equally
+
+Length &amp; Width
+
+The length or width of a board produced as a standard size shall not be less than the specified size nor more than 6.3mm (0.25") greater than the specified size
+
+Squareness
+
+The lengths of the diagonals of a board shall not differ by more than 0.25% of the length of the diagonal
+
+Thickness:
+
+Tolerances vary as follows.
+
+4mm +.02/-0.6 6mm +.04/-0.65 9mm +.06/-0.75 12mm +.09/-0.82
+
+15mm +.1/-0.9 18mm +.12/-0.98 22mm +.16/-1.08 25mm +1.8/-1.16
+
+From the above we can assume that 6mm material will arrive at thickness' between 6.04mm and 5.35mm.
+
+Face Veneer thickness
+
+For any three-ply construction, which applies to 3 and 4mm material, each face veneer shall be not thinner than 1/8" of the total thickness of veneers assembled dry.
+
+Since the dry thicknesses of the boards are 3.6 and 4.6 respectively, we can assume that for these thicknesses only the face veneers will be as follows
+
+3.6mm dry x 12.5% (1/8) =3D 0.45mm 4.6mm dry x 12.5% (1/8) =3D 0.575mm
+
+Multi-Ply Construction.
+
+This applies to boards thicker than 4.8mm (3/16")
+
+Each face veneer shall be a minimum of 1.3mm and not thicker than 3.8mm. Each core veneer shall be no thicker than 4.8mm
+
+Bruynzeel plywood manufactured by the Dutch does not pass BS1088 because it fails the boil test but in every other way matches or exceeds the requirements. The Boil test is meant to be way of artificially accelerating the ageing process of plywood. No one in their right mind would boil his boat and Bruynzeel carries a manufacturers guarantee of 10 to 20 years.
+
+Sadly, the article does not cover epoxy encapsulated plywood so the search continues.
+
+Greg

@@ -1,0 +1,61 @@
+From: jim kerrigan <kerriganjim@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: 28 FOOT PARADOX LIVE A BOARD
+Date: Thu, 22 Jan 2009 13:48:38 -0800 (PST)
+
+
+A couple of thoughts for your 28.
+
+1. Boats at that size generally have some "ballance built into their sail shape and rudder. A lug sail that over laps the mast by 1/4instead of1/5 might be worth thinking about to keep the sail load down on your mail sheet. The rudder when down (assuming your rudder will fold) should have a lead edge slightly (3 to 4 inches) ahead of the line of the pivot line. When the air (sail) and water (rudder) can strike the foil ahead of the pivot point it acerts force against the force transmitted by the rest of the foil to reduce the loadto the sheet and tiller. It reduces the load you will have on your control surfaces aka your arms. 
+
+2. In scaling up a design remember that the shapes you are dealing with are cube functions and not square functions. your boat is easily 4 times the boat of the orginal because of this cube (volume) function. This should be in your thinking when you build masts and spars. I would consider a tabernacle to pivot the mast up and down with. a pin 3 to 4 feet above the deck will allow the mast to be lowered. if you ballast the bottom of the mast such that the short end balances the long end then there will be no big deal with lowering the mast or raising it. consider tackle on the sheet do to the load of your larger sail which might need to be larger than simply scaling up the orginal do to that cube function again.
+
+3 you have built in effect a small "large boat" it should be a great live aboard as long as you are not after speed. The only negitive efffect might be the hull whiping port to starboard due to the beam in rough seas. If you keep the inside of thecabin open then think about hand holds to allow you to walk around inside if the boat is bouncing about in a sea. You don't want to be the loose rock in the beer can.small beam to length ratio boats have this problem when they take on size.
+
+4 You will also need to consider a way back on board if you should fall over board given the amount of freeboard.
+
+5 I assume you are not going to row this boat so do you have a plan for a kicker of some kind?
+
+6 the beauity of shallow draft is getting into areas and beaches that most sailboats can't get into. Have you thought about getting back on board if you chose to beach the boat?Boldgers bowes (like the as29)have walk through bow transoms and cockpits todeal withthis.
+
+7 strong ground tackle do to the windage your boat will have from the freeboard.
+
+8 strong fenders to protect the sides do to the mass of the boat from the ballast.
+
+
+Kerriganjim@yahoo.com 
+
+
+--- On Wed, 1/21/09, David Nemo <nemo@itbloke.net> wrote:
+
+From: David Nemo <nemo@itbloke.net>
+Subject: [paradoxbuilders] 28 FOOT PARADOX LIVE A BOARD
+To: paradoxbuilders@yahoogroups.com
+Date: Wednesday, January 21, 2009, 8:05 PM
+
+28 FOOT PARADOX LIVE A BOARD 
+Hi all,
+
+I have never posted here before, although I have closely followed with great interest this truly inspirational group and I have long idolized nay coveted, all of the Matt Layden inspired, Paradox Cruisers that have been so beautifully crafted all around the world.
+
+On a personal note, for many years now, initially just to save money and to allow for more flexible working arrangements, {teaching scuba diving, swimming and life-guarding} I have chosen to live solely out of the back of my van, otherwise known as Boondocking, in these days of credit crunches and imminently looming country wide depressions. Over the years I have become very accustomed and even enjoy/prefer living this way. 
+
+Although for a long time I have wanted to live on and travel solely by water, I did not want to change my beloved alternative lifestyle to much, except for the odd little extra luxury that I felt the right boat may afford me.
+
+With these factors firmly in mind and because recently a kind person donated a corner of her extremely large stable yard for me to camp and construct in, I have taken a whole year off work and with the savings I have put away over the years, started to build a 28 foot live a board Paradox Cruiser.
+I have had the original plans directly translated from there existing measurements to: twenty eight foot by eight foot, not allowing for a possible bowsprit which will obviously add a little to the overall length. I have also chosen to build it using the Skeg variation, shown in one of the diagrams on this site and add a small but usable open cockpit.
+I have also slightly changed the build materials, keeping with the thick marine ply for the bottom, however with a thin bonded inner lining of Divinycell for insulation and extra flotation, I then used standard Divinycell alone for the sides and the decks.
+All the internal framing is reclaimed hardwood from a church, with peg and hole, mortise and tenon and dovetail joints throughout all double bonded with fibre-glass and resin. I intend to return to more traditional stand alone marine ply for the cabin sides and roof, although I have only recently started work on this. 
+
+I also hand carved and planed the chine runners out of two solid pieces of of reclaimed oak, then hollowed out rectangular ballast sections along there lengths and filled each with lead before bolting them through their reinforced Hull sections. I then fibre-glassed the hull encasing the chine runners, further securing them.
+
+Although I was initially hugely sceptical about holistically mixing all all these materials; marine ply, solid wood and Divinycell, they have truly worked better than I could ever have dreamed, when it came to fibre-glassing the bottom, sides and decks it went down smooth and bonded well. We will see if the application continues to go on so well when I come to fibre-glassing the cabin roof, however, I now in hindsight see no reason why they shouldn't have.
+All has gone fantastically well so far and I already have what I consider, a great looking boat that still very much resembles an over sized Paradox Cruiser.
+However having reached the stage, where in the next few months, I will sell my van and move on-board, {even if she is only on railway sleepers in the yard}. a sudden fear has just gripped me.
+Is it actually feasible to simply double the size of a Paradox and expect her to even float OK let alone sail. Even if she does float and sail OK, will enlarging her in this way, hinder her performance and will she at least inherit some or even any of the wonderful qualities of her little baby sisters that sail so wonderfully.
+So as I personally have very little knowledge of boat design, I was wondering, if amongst our learned number, there is anyone who could theoretically, hypothetically or otherwise answer, my worrying and slightly bizarre question, before I go much further, as I have already spent Eight Thousand Pounds on materials and tools to complete building her.
+Thanks for your time in this matter, I look forward to hearing your views and theories on this ermm "Paradox!"
+Kind Regards - David.
+
+nemo@itbloke. net
+Skype Me: itbloke

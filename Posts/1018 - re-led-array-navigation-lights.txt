@@ -1,0 +1,25 @@
+From: Larry Whited <lwhited@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: LED array navigation lights?
+Date: Wed, 18 Jun 2003 23:11:39 -0700 (PDT)
+
+Take a look at Daves site:
+http://www.microcruising.com/review.htm#low
+The supplier he refers to is prompt on delivery and the prices are reasonable.  I have mine but just haven't had time to wire up the array.
+Larry
+
+
+Susan Davis <futabachan@yahoo.com> wrote:
+Does anyone know a good source for LED array navigation lights?  I'm 
+just about to the point where I need to start thinking about running 
+the wiring before the deck goes on.  I'm under 20 feet, and don't have 
+a motor, so USCG approval isn't strictly necessary, but would be nice.
+I'd like to run everything off rechargeable dry cells and a solar
+charger, where "everything" consists of just the nav lights and a
+night light for the compass.  (And maybe a LED array reading light 
+in the main cabin.)
+
+Does anyone have experience with such things?  I had originally thought
+to use the self-contained dinghy nav lights, but they'd be out of 
+reach from the cockpit, and I don't want to have to crawl around on
+the ends of the deck to turn them on....

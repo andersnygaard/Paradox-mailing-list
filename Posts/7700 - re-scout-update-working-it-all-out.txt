@@ -1,0 +1,76 @@
+From: John Starkie <john.starkie@talk21.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Date: Tue, 1 Oct 2013 14:16:42 +0100
+Subject: Re: Scout Update... Working it all out...
+
+Quite so. Not a 'steaming cone'.
+
+The IRPCS, as the name suggests, are all about preventing collisions. By not flying the ball you've failed to do all you can to prevent a collision: by flying it you have, at the least, told other people what you are doing. The exceptions are interesting. How often do any of us anchor away from 'where other vessels normally navigate'?
+
+My son and I have observed an interesting phenomenon.
+When motor-sailing we always fly a cone. When we hoist it, a remarkable number of other boats do the same!
+When lowering the anchor we hoist the ball: suddenly balls appear on many boats around us!
+
+But this is detail. The real point, which I tried to make to Sean, is that you can't pick'n'choose which rules to obey and which to ignore. Imagine the carnage if we did that on the road!
+
+John
+
+
+In the US from "A BOATER’S GUIDE TO THE FEDERAL REQUIREMENTS FOR RECREATIONAL BOATS" page 30.
+
+During the day: All vessels at anchor must display forward, where it can be best seen, a black ball shape. (See Figure 9.)
+Figure 9
+
+EXCEPTIONS: If your vessel is less than 23 feet (7 meters) in length, it is not required to display an anchor light or shape unless it is anchored in or near a narrow channel, fairway, or anchorage, or where other vessels normally navigate.
+
+I've rarely see any boat displaying the proper "at anchor" signal. 
+Edward 
+
+
+GPS gives Course over the Ground, as you rightly say: it will give a misleading tacking angle because you are tacking through the water, not over the ground. To measure tacking angle you need a compass.
+
+I'm not sure why adding an engine changes your lighting requirement? Paradox is less than 7 metres and capable of less than 7 knots (unless you're adding a silly-big engine) so an all-round white is OK.
+IRPCS Rule 23, d, is quite clear, as is Rule 25.
+Incidentally, Rule 25 doesn't explicitly allow your sailing boat to use an all-round white, but perhaps the implication is there!
+Since you are clearly (and quite rightly) a stickler for the Rules, do you carry a black ball (Rule 30, a) and a black cone (Rule 25, e)?
+
+Of course, it's possible that your local harbour rules modify the IRPCS, but I doubt it.
+
+Are you using a real yuloh or a sculling oar?
+Slieve McGalliard has some useful information about the yuloh: http://www.junkrigassociation.org/slieve
+
+John
+
+PS
+All of the above is intended to be friendly and helpful, not critical.
+
+
+On 1 Oct 2013, at 12:00, Edward <tiki30sailor@yahoo.com> wrote:
+
+
+In the US here are the regulations:
+
+Sidelights are red (port) and green (starboard) and shine from dead ahead to 112.5° aft on either side.
+Stern lights are white and shine aft and 67.5° forward on each side. (Thus, the sidelights and stern light create a full circle of light.)
+All-round lights are white and shine through 360°.
+Masthead lights are white and shine from 112.5° on the port side through dead ahead to 112.5° on the starboard side. They must be above the sidelights.
+Sailboats under power are considered powerboats.
+Sidelights may be combined into a single "bicolor" light.
+Powerboats less than 20m (65.5') in length need to show sidelights, a stern light and a masthead light. Power vessels less than 12m may show a single all-round light in lieu of the separate masthead and stern lights.
+Sailing vessels less than 20m in length need to show sidelights and a stern light. These may be combined into a bicolor light and stern light, or a single tricolor light at the top of the mast. Sailing vessels under 7m must have an electric torch or lantern available for collision avoidance.
+Oar-driven vessels can show either the sailboat lights, or use the electric torch/lantern option.
+When anchored outside a special anchorage, power and sail vessels under 20m must display an all-round light. Vessels under 7m are exempt, unless anchored in a narrow channel or anchorage, or where other vessels usually navigate.
+Sailboats with sails up during the day, but which are also under power, must fly a black "steaming cone," with its point downward, where it can be seen. When under power they must follow the rules of the road for powerboats.
+
+As you can see...sailboats under power must be lit as a powerboat since you relinquish the right of way of a sailing vessel when under power. 
+
+The "Ball" you speak of is actually a steaming cone. No, I don't use one, never have, dont know anyone that does,                   and have not actually ever seen on used (that's not to say that they are not) I have found that most of the time when it is brought up is exactly in this situation when someone is gonna pick at you a bit about lighting rules and regs. :-) 
+
+Am I using a "real" Yuloh or a sculling or???  LOL  Hmmmmmm  Obviously I haven't put that much thought into it. I have a yuloh that is built to the "yuloh" dimensions given in the plans for the Paradox.  To make it simpler we can say I have  a wood stick that I wave back and forth in the water and magically make the boat go forward. That way I don't get caught using the wrong term...since I don't know the difference!  LOL  ;-)
+
+Sean
+
+
+For the update go to the blog...
+
+www.fullnby.com

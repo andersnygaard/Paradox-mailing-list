@@ -1,0 +1,12 @@
+from: james hall <flexwing462@yahoo.co.uk>
+to: paradoxbuilders@yahoogroups.com
+subject: Re: Ballast Tanks Thought Experiment
+date: Tue, 1 Mar 2016 17:40:15 +0000 (UTC)
+
+You're going to need some venting to allow for changes of air pressure and water temperature.
+
+The ballast tanks can't be completely sealed due to the expansion and contraction that happens.
+
+Best
+ Jim
+ http://jimtimes.wordpress.com/

@@ -1,0 +1,37 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Paradox Ballast/Runners
+Date: Sun, 05 Oct 2003 10:05:55 -0000
+
+Hi Jim.
+
+I agree with you regarding the desirability of multifunction ballast.
+If a small boat has room for batteries in place of ballast, cool. I
+find that the problem is fitting a bunch of batteries into odd shapped
+spaces in the bilge. One option to this end would be lots of little
+batteries wired in parallel. Unfortunately, little batteries tend to
+be more expensive on a dollar per amp hour basis. Of course there's
+the matter of getting all of those suckers wet. Sure, AGMs and gel
+cells could take it, but there's all that wiring.
+
+Unfortunately, water as ballast is pretty inefficient. 
+
+Reading your post made me aware of an error in my last post, regarding
+the use of a completed (and removed) chine runner filler as a plug for
+a casting mold. It can't be done this way. The plug would have to be
+straight and fair on the only plane without a rolling bevel; the
+bottom. This would require the plug to be fabricated on the bench. The
+subsequent casting would then need to be wrapped around the hull.
+Otherwise, yes, the bevels could be taken right off of the hull, and
+plugs could be made from lumber, or doorskin, hot glue, duct tape,
+modelers clay, etc, etc. The plug is then pressed into a trough of
+plaster to make the casting mold. The mold would have to be completely
+dry (baked) before casting, or there could likely be extremely
+dangerous splatters/explosions due to steam.
+
+And before I get some sleep.... there's the possibility of concrete
+chine runner fillers. But not on my boat.
+
+Have fun.
+
+DC

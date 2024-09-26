@@ -1,0 +1,16 @@
+To: paradoxbuilders@yahoogroups.com
+From: Chris Ostlind <Chris@Wedgesail.com>
+Date: Tue, 14 Jun 2005 22:18:10 -0600
+Subject: Re: What software is Matt using?
+
+Rhino 3D
+
+The same program I use. It works great for chine or smooth hulled boats and it can accept a set of plugins for full hydrodynamic analysis from RhinoMarine (aka Proteus Engineering who also produce FastShip which is a full-tilt, dedicated, NURBS based, marine design package)
+
+The computer from which these screen grabs originated was not running RhinoMarine.
+
+http://rhino3d.com
+
+http://www.proteusengineering.com/
+
+Chris

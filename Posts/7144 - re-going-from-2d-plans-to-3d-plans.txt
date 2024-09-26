@@ -1,0 +1,19 @@
+From: "stephendyahn" <yahns@wavecable.com>
+Date: Sat, 31 Mar 2012 15:54:02 -0000
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Going from 2d plans to 3d plans
+
+To visualize 3d parts in you mind by reading a 2d plan is an aquired skill. Yes some are worse than others. In the past , for certain structures, it was sometimes on the plans to show an isometric view. And also to show it as a phantom view, as though it were semi-transparent. Befor CAD this took many hours and was expensive.
+Currently it is easy to show a small isometric view next to a 2d view as a courtesy to the craftsman using the drawing.
+
+Isometric views!
+
+It is much easier going from 3D to 3D though. Many parts I have difficulty in understanding in 2d, like the mast or the cabin top. Easier, much easier in 3d, you might understand it but many builders dont get it.
+
+I got the idea for using google sketchup from a post by Stephen Yahn in 2008. Thanks Stephen. Your very much welcome.
+
+There is now a new tool for 3d visualizing and it is "Stereo Lithography"  See this website to see what I mean.
+
+http://reprap.org/wiki/RepRap
+
+Is is a DIY version which most can afford.

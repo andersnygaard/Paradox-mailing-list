@@ -1,0 +1,38 @@
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 10 Oct 2011 14:04:35 -0700 (PDT)
+Subject: Re: Paradox 140%
+
+According to Glen-L they do not recommend 'stretching' a design more than 10% because you run into a domino effect of other problems. If you must stretch they say not to mess with the beam.
+
+	1. For starters you move the bulkheads or stations farther apart and so the hull may be weakened thorough unnecessary flexing.
+
+	2. The original material may be too thin for a larger vessel.	
+	3. Thickening material will add buoyancy and also weight.
+
+	4. The center of gravity and center of buoyancy will almost always change.
+	5. Standing and running rigging will have to be heavier
+
+I and the builder stretched a 21ft Glen L sharpie 5 feet against their recommendations. We inserted additional stations to do it and re-faired the hull. We moved the centerboard trunk aft to the new COG and we compensated for increased buoyancy with additional ballast. We did not widen the beam.. they say therein comes more problems. My boat was already 7.5 ft wide so altering the length from 21 to 26 feet was enough.
+
+I suspect the 20% mark in that article about a larger Paradox is probably the cut off point of stretching before you start to encounter a myriad of other problems. My feeling is if one has to enlarge more than 20% it is time to really consider plans for a larger boat.
+
+Michalak on Duckworks has inexpensive plans for sharpie hulls up to 26 feet. From there one can easily alter the cabin and enclose it to suit.
+
+Consider the Viola 22 and 26 	
+http://duckworksbbs.com/plans/jim/michalak.htm
+
+---------------------------
+
+From: "okiebob@ymail.com" <okiebob@ymail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: [paradoxbuilders] Paradox 140%
+Date: Monday, October 10, 2011 10:58 AM
+
+Okay, I'm not posting this to stir up trouble, but welcome all commentary.
+
+If one were to increase the hull size of the paradox (e.g. 140%) which happens to be the most I could store in my garage.  And if one were inclined to have a small mizzen.  And a small forward placed centerboard, while keeping the chine-runners.
+
+What other crazy things might one want to consider in this enormous little 'paracruiser' that would still be smaller than many trailerable sailboats (e.g. more water ballast)?
+
+How would one get diagrams of little cruiser, for more ideas?

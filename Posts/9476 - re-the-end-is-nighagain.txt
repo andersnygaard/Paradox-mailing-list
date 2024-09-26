@@ -1,0 +1,16 @@
+From: paradox@mattsplatt.com
+To: paradoxbuilders@yahoogroups.com
+Date: 17 Oct 2019 06:48:15 +0000
+Subject: Re: The end is nigh...again!
+
+
+
+Wow. This is the busiest topic on here in years! ;-)
+
+
+
+Rob & Dave, the info I found regarding the API is here https://www.archiveteam.org/index.php?title=Yahoo!_Groups and here https://github.com/andrewferguson/YahooGroups-Archiver. In the second link, under the heading 'Private Groups' you will find the info about which cookies you need to replicate with your script so it can get access.
+
+
+
+Rob, regarding hosting something else. All the web stuff is easy for me. I'd either find something ready to use or write something. Email list management is another story as you know. I think if we want to keep this as a proper email list service, then groups.io would be the way to go.

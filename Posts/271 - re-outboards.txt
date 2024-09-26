@@ -1,0 +1,13 @@
+From: "Longyard William H." <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: outboards
+Date: Sun, 20 Jan 2002 16:48:36 -0500
+
+One way is to simply run a longer fuel line to an electric fuel pump (available at an autoparts store, or JC WHITNEY for about $30.)  Be sure also put a fuel pressure regulator between the pump and the carburetor (get the kind of fpr most appropriate for "foreign" cars).  I'd set the initial pressure at 3psi and see what happens.  With the electric pump on, but the engine off, when you look in the carb. you should see NO fuel flow.  If you do, lower the regulator setting.  If the engine stalls, raise the setting.
+
+ext. fuel tank ---> 12vlt elect. pump ----> regulator ----> Carb.
+
+Good luck, and make sure your connections are absolutely tight, but that there is enough slack for vibration and movement.
+
+yours,
+Bill Longyard

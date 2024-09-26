@@ -1,0 +1,15 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 09 Sep 2003 14:03:04 -0000
+Subject: Re: Glass
+
+I agree with Bill
+See also my earlier postings on Plastic Paradox
+
+Perhaps an anecdote on the sandwich theme;
+I planned to make among other things the aft curved baffle using 5 mm Divinycell. It comes in a full sized sheet (2440x1230 mm, or thereabout)  and gives the feeling more of a veil than a sheet of something to build with. So I started laminating one side with fibreglass (240 g/m2). Considerably stiffer, of course, but still so flaccid that I thought I might just as well laminate the other side, to make it easier to handle. And suddenly the sandwich was so stiff, I had had to use a very forceful strap to achieve the curvature of the baffle. A couple of minutes after I got the right radius, I thought there was an explosion in my shop, when the sandwich sheet collapsed. So, don't try to bend a completed sandwich. it's very stiff.
+I don't know how to calculate what you gain when laminating plywood, but every doubling of the core thickness increases the stiffness seven times. Of course, it depends on the core material. It has to withstand strong sheering forces and perhaps plywood has a weakness here? Adding extra layers of fibreglass does not affect stiffness much.
+
+Besides, Bill's book is fantastic for us microcruisers in spe. Buy it, read it.
+
+Kjell Karlsson

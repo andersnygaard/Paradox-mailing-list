@@ -1,0 +1,12 @@
+From: John Gilbert <gilberj55@yahoo.ca>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 26 Oct 2007 14:32:13 -0700 (PDT)
+Subject: Re: ballast placement
+
+Think of the boat as a whole, not as a collection of parts. If you have two weights with a distance between them then the CG is in the middle. In the whole boat the ballast centre will be at the sum of the total weight-distance equation between the weights. 
+
+Spreading the weights can have either or both good and bad effects, on the motion and behavior of the boat, but not the basic stability, that just reflects the various centres of gravity and buoyancy.  With the weights spread out fore and aft you reduce the ability of the boat to pitch. In calm waters this will be an advantage, less energy is being lost in pitch, and the boat will be faster. In rough water, the boat may not pitch enough and be more wet and slow.
+
+Spread athwartship the ballast like in the Paradox should slow the roll. Paradox is noted for its not rolling, particularly running downwind, when other boats like to roll. This is often attributed to the chine runners, but I suspect the placement of the ballast plays a part. Remember the physics around the radius of gyration and all that, (the figure skater spinning brings her arms in to her body to speed up the spin).
+
+JG

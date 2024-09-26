@@ -1,0 +1,19 @@
+From: "openboat@as6jg.freeuk.com" 
+To: paradoxbuilders@yahoogroups.com 
+Date: Tue, 28 Feb 2012 10:04:15 -0000 
+Subject: Re: CA?
+
+I may be going a bit far here, but Paradox doesn't normally sail upright. Has Matt worked it out for a heeled hull?
+
+On 28 Feb 2012 at 9:42, davidandrewallen wrote:
+
+Thank you both for your answers.
+Center of Area was my first thought. But I'm playing around with Paradox in CAD, and my CAD program placed the centroid about 675mm forward of where Matt wrote "CA". That's why I was wondering if it was something else. I'm checking my work to see if I did something wrong. David
+
+
+-- 
+Hoping for calm nights
+
+Alastair Law,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

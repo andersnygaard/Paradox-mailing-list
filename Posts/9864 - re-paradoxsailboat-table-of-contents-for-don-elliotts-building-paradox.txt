@@ -1,0 +1,58 @@
+From: "Prescott Ford" <robprescottford@gmail.com>
+To: paradoxsailboat@groups.io
+Date: Thu, 25 Nov 2021 22:22:57 -0500
+Subject: Re: [paradoxsailboat] Table of Contents for Don Elliott's Building Paradox
+
+Very nice. Thank you for sharing this!
+
+On Thu, Nov 25, 2021 at 2:21 PM <bbloss@gmail.com> wrote:
+
+As Don Elliott notes in Part 5: "It was more on the order of obscure notes jotted down on a piece of wood scrap from Paradox."
+
+I'm very thankful for the work Don and his family have put in to make this great resource available. However, it can be difficult to approach while building as the important notes can be scattered throughout the different parts.
+
+I made this quick table of contents for myself and realized others might find it useful. The page numbers are what I see on the printed pages, not what shows up in the PDF reader. There are some spelling errors that I've left as-is so you can also search and find by the "Section Heading". A PDF version should be attached.
+
+|-----------------------------------------------------+-----------+----------------------------------|
+| Section Heading                                     |      Page | Tags                             |
+|-----------------------------------------------------+-----------+----------------------------------|
+| Introduction                                        |         v | Features                         |
+| Measuring and Squaring Parts                        |       vii | Measurement                      |
+| Dimensions Shown on the Plans                       |       vii | Measurement, Plans               |
+| (Side Cartoon Drawing)                              |         3 | Layout                           |
+| (Angle Cartoon Drawing)                             |         4 | Layout                           |
+| Plans                                               |         6 | Plans                            |
+| Metric Measurements and Model                       |         6 | Measurement, Plans               |
+| When to Build                                       |         6 | Logistics                        |
+| Materials - and the Plywood Bugaboo                 |         6 | Wood, Lumber, Plywood            |
+| Lumber                                              |         7 | Wood, Lumber, Plywood            |
+| Accuracy &amp; Measurement Methods                      |         7 | Measurement                      |
+| Starting Out                                        |         7 | Epoxy                            |
+| Laying Out the Bulkheads                            |         8 | Bulkheads                        |
+| Quality of Workmanship                              |         8 | Logistics                        |
+| Cutting the Bulkhead Cleats                         |         8 | Bulkheads                        |
+| Bulkhead Lower Floor Frame Members                  |         9 | Bulkheads                        |
+| Laminated Deck Beams                                |         9 | Deck Beams                       |
+| Epoxy Materials                                     |         9 | Epoxy, Tools                     |
+| Epoxy Hardeners                                     |        10 | Epoxy                            |
+| Epoxy Basic Setup                                   |        10 | Epoxy                            |
+| Epoxy Additives                                     |        10 | Epoxy, Additives                 |
+| Mask and Gloves                                     |        10 | Logistics, Safety                |
+| Preparing Surfaces for Gluing                       |        11 | Sanding, Epoxy                   |
+| Marking Parts &amp; Surfaces                            |        11 | Measurement                      |
+| Two-Step Epoxy Gluing Method                        |        12 | Epoxy, Gluing                    |
+| Method of Getting Glue on Surface                   |        12 | Epoxy, Gluing                    |
+| Cleaning Brushes                                    |        12 | Tools, Epoxy                     |
+| Beam Assembly                                       |        13 | Deck Beams                       |
+| Gloves                                              |        14 | Tools                            |
+| Forget About Traditional Boat Building...           |        14 | Epoxy                            |
+| Epoxy Hardened Gobs on the Sides...Beams            |        14 | Epoxy, Sanding, Deck Beams       |
+| Fixing Things with Epoxy                            |        15 | Epoxy, Repairs                   |
+| Bulkhead Assembly                                   |        15 | Bulkheads, Epoxy, Deck           |
+| (Sharpies, History, Imagine)                        |        17 | Sharpie                          |
+| Coating the Bulkheads                               |        18 | Epoxy, Bulkheads, Coating        |
+| No Sanding Section                                  |        18 | Sanding, Tools, Epoxy            |
+| Easy Epoxy Coating                                  |        19 | Epoxy, Tools                     |
+| Sensational Squeeges                                |        19 | Epoxy, Tools                     |
+| Putty Knifes                                        |        20 | Epoxy, Tools                     |
+| Layout and Cutting Side

@@ -1,0 +1,22 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 26 Jun 2005 18:48:52 -0000
+Subject: Re: paradox mpeg movie
+
+
+Jack,
+
+Skip those instructions. Use this:
+http://modtang.sitesled.com/bitcomet/index.html
+
+Within BitComet click on create add the name of the file and a tracker.
+This tracker works:
+http://tracker.desitorrents.com:6969/announce 
+
+Then just upload the torrent file to the file section here.
+
+I think thats it. I tried a test file, but I have a hardware firewall,
+and because it masks my true ip address, it seems to mess up initially
+seeding a file.
+
+Paul

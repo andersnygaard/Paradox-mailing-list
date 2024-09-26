@@ -1,0 +1,15 @@
+From: "David LeBlanc" <whisper@oz.net>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Sat, 19 Jan 2002 10:26:57 -0800
+Subject: Re: Water Tanks
+
+From everything i've read, epoxy lined water tanks are a mistake. It's very difficult (impossible for an amateur using hand tools?) to get them smooth enough to make cleaning them out a reasonable job. Epoxy can continue to release volitales for months after it's used (the "new boat" smell), which is likely to contaminate the water. Epoxy isn't 100% waterproof and osmosis can cause water to be absorbed into the surrounding wood structure and become hydrolized (fancy word for water logged). The potential for this happening is possibly exacerbated by the salt water/fresh water contrast on either side of a piece of wood. Having all your water in a (few) large tank(s) can be hazzardous to your survival if they become contaminated.
+
+If you have your heart set on built-in tanks, i've read that there are a few of things you can do:
+  * Use added solids in the epoxy to improve it's vapor barrier abilities - consult an epoxy professional for details.
+  * Wash the tank(s) out a few times with vinegar. It helps to neutralize/cure the epoxy.
+  * Work hard to get an insanely smooth surface with no nooks or crannies.
+
+I think the 1-2 gallon water jugs or water cubes make more sense, even if you're filling them on deck from a hose. For rain water catchment, 5/10 gallon plastic "jerry cans" makes sense to me.
+
+Dave LeBlanc

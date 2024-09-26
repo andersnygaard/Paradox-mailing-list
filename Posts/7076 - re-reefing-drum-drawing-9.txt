@@ -1,0 +1,55 @@
+From: paradoxpete.pdm@gmail.com
+Date: Wed, 25 Jan 2012 19:12:19 -0000
+Subject: Re: Reefing Drum drawing 9
+To: paradoxbuilders@yahoogroups.com
+
+
+Q1) What type of adhesive holds the copper water pipe into the boom?  Or should it not be glued at all?
+
+I epoxied mine in. I first sealed the inner end (with epoxy) so that the inside of the tube did not get contaminated during the glue up.
+
+
+I plan on ordering a 464 naval brass rod from Duckworks http://www.duckworksbbs.com/materials/navbrass/rod/index.htm.
+
+Q2) I don't know what 464 naval brass is, but I'm assuming this rod can be machined with a Dremel tool?
+
+No idea on the naval brass. I used phosphor bronze as per the plans.
+
+Q3) The end of the brass rod that sticks into the copper pipe, will need a 5mm groove, 5mm from the end of the rod; which will receive a stop screw?  This groove can be cut with a Dremel tool?
+
+I cut a groove in mine but have never got round to fitting a stop screw. I think it's more or less redundant. I can't see how the boom and the strop could ever part company.
+
+
+Q4) The end of the brass rod that is bolted to a 1/4" standard brass pipe will need to be split in half?  The rod can be split in half with a Dremel tool or a hacksaw?
+
+I used a hacksaw. It was tough stuff!
+
+
+Q5) The split ends of the brass rod are then bent into a V-shape, and a 1/4" hole is drilled into them to receive a 1/4" bolt.  A high-speed drill bit will be able to do this?  Again, I haven't worked with this brass before.
+
+Easily drilled.
+
+
+Q6) Before all the above happens, the brass rod must be bent.  The best time to bend it is before it is cut to size?  Should I take it to a muffler shop for the bending?  Or should I use a long steel pipe as a cheater bar?  Would a conduit bender work?
+
+I bent mine by drilling a hole in an old tree stump in the garden and using a piece of steel conduit. I also heated it with a blow lamp as it work hardens.
+
+
+Q7) How on earth is the thimble (Thank God Duckworks sells those too; otherwise, I would have been shopping at a sewing store; not kidding.) seized to the swivel rod (Oh "swivel rod", that's what this thing-a-ma-bob is called.)?  Or maybe even better, How on earth would I attach the Racelite #201 block to the swivel rod?
+
+I screwed a fairlead on mine by drilling 2x 3mm holes.
+
+
+http://paradoxbuild.webs.com/PICT0130.JPG
+
+
+Q8) The tack strop spacer pipe made of 1/4" brass schedule .40 (standard) pipe will be easier or harder to work with than the brass swivel rod discussed above?
+
+I didn't have any of that so used standard copper water pipe. I modified the swivel end by using standard plumbing fittings as it would not be strong enough as shown on the plans. I've found my design works very well.
+
+See 
+http://paradoxbuild-johanna.blogspot.com/2010/07/no-update-does-not-mean-no-progress.html
+
+scroll down for details..
+HTH
+Pete

@@ -1,0 +1,27 @@
+From: Jim Rock <jcelrock@hotmail.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Subject: Re: The end is nigh...again!
+Date: Wed, 16 Oct 2019 22:14:37 +0000
+
+
+I WILL USE IT MATT.  THANK YOU FOR YOUR EFFORTS.
+
+Sent from Mail for Windows 10
+
+________________________________
+From: paradoxbuilders@yahoogroups.com <paradoxbuilders@yahoogroups.com> on behalf of paradox@mattsplatt.com [paradoxbuilders] <paradoxbuilders@yahoogroups.com>
+Sent: Wednesday, October 16, 2019 4:16:19 PM
+To: paradoxbuilders@yahoogroups.com <paradoxbuilders@yahoogroups.com>
+Subject: [paradoxbuilders] Re: The end is nigh...again!
+
+It turns out there's an API I can hit directly with a script. :-)
+
+I've got 80% of the messages downloaded already, and I think the files/photos/etc will be easy too. I have it running with a few seconds delay between requests so it doesn't get blocked.
+
+This will get everything in a database format I can make direct use of, so I'll see what I can cobble together in terms of an archive and forum we can all continue to use.
+
+How many of you are still here, and will use such a thing if I create one?
+
+(It won't happen right away, but I'll at least get a new address figured out before Yahoo shuts down, so I can announce it.)
+
+Matt

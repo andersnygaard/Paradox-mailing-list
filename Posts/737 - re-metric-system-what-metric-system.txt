@@ -1,0 +1,21 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 4 Oct 2002 22:09:08 +0000
+Subject: Re: Metric system? what metric system?
+
+I finally found a cm/inch tape measure, a nice Stanley MaxSteel. I had to look at a couple of different places before finding one. "Whaddya want one a them for?" the hardware store clerk said, eyeing me like I was some kind of commie pinko.
+
+Its going to be a little odd working with metric. First of all, all the materials are nominally english system here. I say nominally because due to some strange grading or classification system, a 2"x4" board is actually more like 1-5/8"x3-1/2". Apparently producers are allowed to sell boards minus about a 1/2" inch of what they specificy. Probably the minimum building codes and lumber grading standards allow.
+
+This is not going to be too hard though. I'll take the tape to the lumberyard and measure actual dimensions in cm, and then I can order wood from real dimensions instead of this approximate stuff. Anything in inches is just approximate, in cm is plus or minus 2mm, thats my goal.
+
+2 inch sawn is sawn to about 2 inches. 2 inch planed is sawn to 2 inches and then has some more planed off.
+
+The sizes on paradox are mm values for inch sizes, after all Matt was buying in inches as well.
+
+Most of the wood, as distinct from plywood, can vary in size several mm without making a significant difference to the final construction.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

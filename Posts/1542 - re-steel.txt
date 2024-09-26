@@ -1,0 +1,10 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Steel?
+Date: Sat, 27 Dec 2003 00:30:16 -0500
+
+12 gauge (.1046") steel weighs 4.3750 lbs per square foot versus 1/4" ply which weighs about 1 lb per square foot. HOWEVER: you need a lot less steel to achieve the same strength. The bulkheads, for instance, will be much more open because so much less material will be used. Yes, the basic hull "skin" will be heavier, but you DON'T need to coat it with epoxy and you don't need to cover it with fiberglass.
+
+Remember this: In aircraft weight matters much more than it does in boats and in the battle between wood and steel fuselages which ran from 1903 through roughly 1933 STEEL won out. In the total scheme of things steel wins because it is stronger per weight and has more predictable strength. It also is easier and faster to build with.
+
+Bill Longyard

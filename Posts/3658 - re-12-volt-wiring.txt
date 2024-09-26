@@ -1,0 +1,8 @@
+From: "Glen C. Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 28 May 2006 09:51:04 -0400
+Subject: Re: 12 volt wiring
+
+Steve, do you really think #10 wire is necessary for a .08 amp current 
+draw? In MHO size the wire to the load.
+Glen

@@ -1,0 +1,20 @@
+From: John Gilbert <gilberj55@yahoo.ca>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 2 Mar 2012 23:09:31 -0800 (PST)
+Subject: Re: CA?
+
+I think Matt got the balance about right on Paradox more by chance (educated guess) than anything else. I note the Enigma 3.6 and 4.6 both had to rake the mast aft considerably to get balance, and these modifications were made after initial sailing trials. It seems Matt was not entirely clear himself on the various relationships between the Lateral Resistance of the hull, rudder and Centre of Effort of the sail. I do not know if there was the same problem with the Elusion.
+
+From: davidandrewallen <dallen@lull.us>
+To: paradoxbuilders@yahoogroups.com 
+Date: Friday, March 2, 2012 8:12:39 AM
+Subject: [paradoxbuilders] Re: CA?
+
+That's it! Thanks Jeff.
+
+You were right, I did not take the rudder into account. And yes, the centroid moved forward approximately 50 mm with the hull heeled about 25 degrees.
+
+So this seems to be what Matt did. His CA seems to mean the Center of Area, including the rudder, when the hull is heeled 25 degrees or thereabouts.
+
+Thanks,
+David

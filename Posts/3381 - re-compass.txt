@@ -1,0 +1,7 @@
+From: John Gardiner <alex29@cox.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 08 Mar 2006 07:57:13 -0500
+Subject: Re: Compass
+
+If it is a GPS Iron wont bother it, because it gets its bearings from 
+satelites, not magnetic north.

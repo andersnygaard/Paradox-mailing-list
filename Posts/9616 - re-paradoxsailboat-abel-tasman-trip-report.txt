@@ -1,0 +1,62 @@
+From: angelo.ribas.adv@gmail.com
+Date: Sun, 9 Feb 2020 23:42:02 -0300
+Subject: Re: [paradoxsailboat] Abel Tasman Trip Report
+To: paradoxsailboat@groups.io
+
+Hi folks,
+
+As I haven't even started to build my boat yet, I can't share any personal
+thoughts, but there are a some interesting inputs on chine runners by boat
+designers Chris Morejohn and Jim Michalak in their blogs that worth sharing:
+
+http://chrismorejohn.blogspot.com/2015/11/chine-runners-for-flat-bottomed.html?m=3D1
+
+http://www.jimsboats.com/1nov14.htm
+
+They also seem to believe that, though not "magical", the concept works as
+long as there is a good draft, a good  heeling angle leeward and a large
+rudder. Michalak also states (and Matt Layden apparently confirmed) that
+the sail area must be more aft than usual in order to distribute the load
+to the rudder more efficiently.
+
+Good winds,
+
+Angelo
+
+On Sun, 9 Feb 2020, 22:10 Graeme Kenyon, <graemekenyon@hotmail.com> wrote:
+
+Thanks Peter, also, I should have said.
+
+From: paradoxsailboat@groups.io <paradoxsailboat@groups.io> On Behalf Of Graeme Kenyon
+Sent: Monday, 10 February 2020 2:09 pm
+To: paradoxsailboat@groups.io
+Subject: Re: [paradoxsailboat] Abel Tasman Trip Report
+
+Thanks Chris, I have read all that, and understand that. And I do know of examples where chine-runners have been mis-applied and a failure. I think they might be useful on my hull, but realise hull shape and other things is part of the deal and accept that they might not work very well in my case – but decided early on to give them a try, without being reliant on their success in this particular application. My only concern, really, is whether I might have taken on a bit more drag than is worth it. I can see where Rob is coming from and agree that the Paradox rudder does play an important part in the equation (I’m having twin kick-up rudders on twin skegs and expect to be “sailing on the rudder” to a small extent but not as much as the Paradox does.
+
+Chris’s later post – yes, I too am not sure how you could make a comparison and conclude that the chine runners are causing drag, buty perhaps Rob just finds her a bit sluggish to propel and one would intuitively expect that chine runners are going to be a hindrance rather than a help to rowing or yulohing. I will see what I can find out with the model, which may or may not be useful.
+
+Moving weight forward while going to windward in a small boat does often help in a number of ways – reduces wetted surface aft, and induces a little weather helm. I imagine heeling a Paradox slightly and increasing the immersion of the lee chine runner would be helpful too, but not having sailed one, that is only a guess.
+
+Thanks you guys.
+
+Graeme
+
+From: paradoxsailboat@groups.io <paradoxsailboat@groups.io> On Behalf Of Peter Martin
+Sent: Monday, 10 February 2020 1:54 pm
+To: paradoxsailboat@groups.io
+Subject: Re: [paradoxsailboat] Abel Tasman Trip Report
+
+The best starting point is to read what Matt himself says.
+
+They can't be treated in isolation.
+
+Small craft advisor interview is here towards the bottom of the page...
+
+https://www.freewebs.com/paradoxbuild/
+
+On Mon, 10 Feb 2020, 00:24 William via Groups.Io, <wyliewesty= yahoo.com@groups.io> wrote:
+
+Hi Graeme, The comments from me and Chris are in support of chine runners on Paradox. There have been other boats that used the chine runner concept with success. The designer Matt Layden also developed this design over a period of time on several different boats also with great success. My understanding is that Chine runners are designed to deal with the unique environment of the Bahamas where shallow draft sailing is required. If you are in an area where a shallow draft sailboat is not required then there are other designs that might be better suited.
+
+William

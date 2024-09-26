@@ -1,0 +1,24 @@
+From: "rags8mygoat" <raghauler@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Water storage on Johanna
+Date: Sat, 05 Nov 2011 07:02:17 -0000
+
+
+Thank-you for your insights... all good food for thought.
+
+I've been struggling with the water/ballast issue, and the practicalities of loading for sailing trim and unloading for trailering.  The jury is still out on this.
+
+
+Is Johanna noticeably tender or more difficult to control (re. immersion of chine runners) as a result? 
+
+
+
+   I've often thought that this would be the case with this design.  The idea of using potable water as part of the ballast introduces a whole set of concerns in terms of boat usage particular to dealing with the transfer of water.  I wonder if there would be a way to draw water using a manual bilge pump, installed as Glen Maxwell did on Zoe (http://groups.yahoo.com/group/paradoxbuilders/files/Bilge%20Pump/) with a set of valves, allowing one to switch from drawing water OUT of the bilge to drawing water IN (from, say, the drain at the base of the mast) and into flexible tanks for just those times when such a large quantity of potable water is not required.
+
+
+   My intention is to trailer the boat often and, yes, stretching the design certainly will require more, and close attention to details regarding, ballast.  Which brings me to my current quandary:  As I work backwards off the drawing, I'm finding that my calculations leave me with a displacement/length ratio for the Paradox of around 261, not the 270 published on sheet #1.  I've been rereading the "bigger Paradox" document in the files section for YEARS and just NOW realized that the calculations for the 20% increase also has the DLR at 261.  Any insights here?  I'm of the impression that the DLR would not change for an(overall)increase in size that does not require a redesign. Not that I'm completely confident in MY calculations, but as I must rely on these numbers for conversion of several factors, it is of concern.
+
+
+    Another very good point.  It is a very big rudder; let alone my folly for a 10% increase.  The strength of that pivot is of concern to me.  I seem to remember that Sven Yrvind went to great lengths to strengthen the rudder pivot on his latest (?) design.  Not that I'll be putting my Paradox derivative to the open ocean challenges that Yrvind designs to!  At least, not at first...
+
+                                 K

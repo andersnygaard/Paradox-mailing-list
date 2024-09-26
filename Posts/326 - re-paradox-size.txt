@@ -1,0 +1,10 @@
+From: LJGeib@aol.com
+To: paradoxbuilders@yahoogroups.com 
+Subject: Re: Paradox size 
+Date: Mon, 11 Feb 2002 21:01:45 EST 
+
+Dan,
+
+Previous posts on this group have hinted at an OK from Matt for modest increases in size. Try increasing length only and not beam or freeboard. Your boat will increase in mass linearly and not as the cube of the dimensions, and you might be able to fit into it. You'll probably just get a faster and straighter tracking boat.
+
+Larry

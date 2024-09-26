@@ -1,0 +1,147 @@
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 11 Apr 2008 13:18:07 -0700 (PDT)
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+This is an issue, I'm not discounting it at all, but the new sealed deep cycle batteries are not as gassy as the older unsealed batteries were.
+
+They can be mounted on their sides or probably even upside down, seems odd though and I wouldn't do it this way. And they can easily be fitted into unusual places on almost any small boat. On the Paradox they would be useful way to replace the useless lead ballast.
+
+It would be pretty hard to seal up a sailboat to the point that the vented hydrogen would be a problem with the new batteries, but it must be accounted for during installation and use.
+
+Denny ...
+
+===
+
+From: james hall <flexwing462@yahoo.co.uk>
+Date: Fri, 11 Apr 2008 23:34:09 +0100 (BST)
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+hello folks
+
+I'd  just like to point out - though I'm sure that you
+already know - that batteries when being charged up
+give off highly flamible/ explosive Hydrogen gas.
+
+Years ago at our garage, the young apprentice was
+detailed to remove a car battery from the charger to
+refit to a customers car. He  failed to turn the
+battery charger off before pulling off the crocadile
+clips from the battery terminals. Next thing there was
+a dull whumph noise , the top had blown off the battery and the young lad was covered in acid.
+
+Not really such a disaster as we chucked a bucket 
+full of dirty water over him which happened to be left
+nearby. So no permanent harm to the kid - just a bit
+shaken up.
+
+This hydrogen gas explosion would have been far more
+serious if it had happened in a confined space  such
+as a Paradox cabin  instead of a large open workshop.
+
+I don't want to rain on your parade. Just would like
+to point out that electric batteries may be just as
+risky as a can of petrol on a little cabin boat.
+
+Petrol has such a distinctive smell that most people
+would be aware of a minor leak before it became a
+safety hazard. That factor alone might mean it's a
+safer alternative.
+
+Must admit though that a small solar charger would
+give a small charging current and cause minimal
+gassing form the battery. And energy for free does
+appeal.
+
+Jim Hall
+
+===
+
+From: Greg <corporal_nobbs2003@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Apr 2008 10:41:47 +0100 (BST)
+Subject: [paradoxbuilders] Re: Outboards and fuel storage onboard Paradox
+
+Hello Denny,
+
+Thanks for the info, electric drive is certainly and
+option and I agree that the batteries would make  great ballast.
+
+I have been digging around on the net and found a
+useful yahoo group dedicated to the subject at
+
+http://groups.yahoo.com/group/electricboats/
+
+I haven't had a good look yet but they have some
+interesting info.
+
+My only concern would be whether solar panels would
+be able to keep up with the charging demand of the batteries though I'm no expert in either field!
+
+Greg
+
+===
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Apr 2008 08:16:57 -0700 (PDT)
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+This is exactly the reason that I think electric auxiliary power is a better option on something this small. The stove is always going to be to close to the outboard fuel supply for my tastes.
+
+My idea was to replace a large amount of the useless lead ballast with some very useful deep cycle batteries. A small wind generator would be adequate for charging the battery bank and the batteries could be used for a lot more than just running the electric outboard.
+
+Some of the new radar system a very small and light weight. An amateur radio for calls home. And of course a way to keep the ever essential computer/gps navigation system alive.
+
+And a small inverter and you can also have a limited amount of AC on board for other essentials.
+
+On something as small as the Paradox I think that everything needs to provide some added value, including the ballast.
+
+When the Paradox is docked in the side yard next to the house the wind generator and battery bank can provide some useful backup power when needed, which is all too often in my area.
+
+Just my two cents worth ... Denny
+
+===
+
+From: Greg <corporal_nobbs2003@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Apr 2008 18:55:28 +0100 (BST)
+Subject: [paradoxbuilders] Re: Outboards and fuel storage onboard Paradox
+
+Bill and all,
+
+I have been reading for the second time Gerry Speiss's account of his west to east Atlantic crossing as well as following Bill Sergeant's cruising blog aboard Faith, both of which I'm enjoying immensely.
+
+In Gerry's book he makes notes about his distress at the odour of fuel in the cabin space of Yanky Girl despite the fact that his fuel cans were not leaking. I read that Bill has recently lost the filler cap for his Honda outboard overboard!
+
+All of which prompted my current line of thinking about the location of fuel on board Paradox.
+
+As I'm at the pre-build stage at the moment, it would be nice to design a space in her stern for fuel storage but avoid the smell of fuel in the cabin.
+
+Could fuel 'bins' be built in the port and starboard quarters much like the water tanks in Paradox's design,
+where filler caps and vents would be placed on the quarter deck and sealed off from the cabin space?
+
+Bill, how are you finding this situation aboard Faith? How are others dealing with it aboard their micro cruisers?
+
+Greg
+
+===
+
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 13 Apr 2008 20:20:39 +0100 (BST)
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+Hi guys
+
+just to add another thought.
+
+Common rail  fuel injection systems on diesel engines requires fuel from the fuel tank at a higher pressure then was previously needed in conventional systems. To avoid  airlocks in the fuel lines, especially if located higher then the engine, these systems require a return to tank from the engine so as to keep the fuel circulating.
+
+Once our boats are up and running the inevitable vibration of everyday crusing will cause all sorts of fittings and hoses to slowly vibrate loose.
+
+I witnessed the consequences of a fuel return line gradually vibrating loose from its fixing point whlist we were returning to the wash and fuel coming out of the small hole where it had vibrated out.
+
+As Greg suggests, perhaps we need to build in the equivalent of aircraft rubber bladder fuel cells for safety sake. In any building project doing it right the first time is always easier.
+
+Jim Hall

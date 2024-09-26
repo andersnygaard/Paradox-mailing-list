@@ -1,0 +1,66 @@
+From: "" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 11 Jun 2005 14:50:50 +0100
+Subject: Re: Scale mockup of wind genny and radar on Paradox
+
+On 10 Jun 2005 at 1:31, Brent Geery wrote:
+
+On Thu, 09 Jun 2005 12:14:56 +0100, ""
+<openboat@as4jg.freeuk.com> wrote:
+
+I have a 12V wet NiCad battery (I was given it in 1977 when it was replaced under routine maintenance from the coal industry). I charge it up in the spring and it powers my gps, echo sounder, lights and water ballast/bilge pump all season without further attention. What will you have on board that will need so much more power?
+
+I suppose if you have the radar it makes more sense.
+
+Lucky you, with the industrial NiCads.  Finding correct chargers
+can be a pain, but they are really nice to use, and they last
+almost forever.
+
+I just use a cheap car charger. The battery was deemed scrap 28 years 
+ago,
+so what harm can I do to it now?
+
+I'm going to be full-timing onboard for a few years, and I really
+could not live happily without my electronic toys-- laptop and
+Internet, movies (with surround sound), music files and satellite
+radio, digital photography and photo editing, electronic books,
+ect.  So, I want to make sure I can generate ample electricity
+(add wind genny, plus my solar panels I already own.)
+
+Plus the excess electricity can be put to good use.  For example,
+I plan on having 12V electric heaters onboard.  When the weather
+gets cold and nasty, and the batteries are already topped off,
+I'll have electric heating available to keep me warm without
+worrying about using all the propane (and the moisture created
+from heating from propane.)  As long as the weather is bad, I
+have a nice dry heat to keep me comfortable.
+
+I'm also looking into building a small 12V watermaker that I can
+use at anchor or good weather-- throw the intake/waste hoses
+overboard, and enjoy "free" water provided by your current excess
+electricity generation.
+
+Anyway, those are a few ideas for using all that electricity.  I
+agree, If you are just weekend sailing, a wind genny would be a
+total waste.
+
+On my first coastal trip I made a tactical error that ended up with 
+me being in a fast tide with wind against tide conditions (I was 
+close hauled going with the tide). The Paradox handled the conditions 
+with no fuss, I handled the conditions slightly less well (but I am often 
+sick on the first day out), However there was a large quantity of green 
+water passing right over the cabin. I decided then that storage on the 
+foredeck (fuel, outboard etc) was not on. In those conditions it would either 
+be washed off or would be inoperable afterwards.
+
+It may be that you never sail close to those sort of conditions (on 
+the south coast of the UK they are common) but if you are relying on 
+your electricity supply for safety functions I would be tempted to test 
+the installation with a fire hose before setting off.
+
+Live the dream, don't die for it.
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

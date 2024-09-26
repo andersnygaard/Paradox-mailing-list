@@ -1,0 +1,63 @@
+From: E Blohm <eblohm@rocketmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Introduction, Chine runner / mast questions.
+Date: Wed, 3 Feb 2016 21:02:21 -0500
+
+Thanks everyone for your speedy replies. I have viewed many videos of the paradox and have decided to build it as designed. I believe the stability is fine as is. I emailed the mbolduc@triad.rr.com address on the micro cruiser website for plans and have been reading through the posts in this group in preparation for the build. I am a very amateur carpenter and look forward to learning as I build. Is there a list of required tools for build as well as an inventory of materials needed for this project? I plan on acquiring the proper tools and materials through the next couple months and starting build in the fall of this year. I'm sure my wife will wonder why I am finally cleaning out the garage ( where I will construct)!
+
+
+From: Nick Bell <nickbell1955@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Introduction, Chine runner / mast questions.
+Date: Wed, 3 Feb 2016 06:04:00 -0800 (PST)
+
+Your right once it's upside down it just matters that it's now heavy on the top side,and trying if you will , to balance on a curved deck .
+The dynamic balance and "feel" is improved by weight outboard
+The static balance is not effected by where the lead is placed in the bilge , providing , that it is symmetrically placed .
+Nick
+
+
+From: Selby John Starkie <john.starkie@talk21.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Introduction, Chine runner / mast questions.
+Date: Wed, 03 Feb 2016 16:22:26 +0000
+
+Having ballast as far outboard as possible might improve the roll characteristics and the dynamic balance,  but will not help the righting moment.
+Each outboard weight will balance the other:  as one creates a righting moment the other will balance with a heeling moment.
+Selby
+
+From: Nick Bell <nickbell1955@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Introduction, Chine runner / mast questions.
+Date: Wed, 3 Feb 2016 04:58:36 -0800 (PST)
+
+Hi Erik , I live in Australia and have tested my paradox in rough seas
+Only to the point of being knocked down , not rolled over
+And the righting moment was fine , I have ballasted the boat with lead bolted along the inside of the hull , inside the chines , as far outboard as I could get it , it helps the dynamic stability , to keep the ballast lead outboard . I asked the engineering department of Adelaide University for advice on it . Nutty I know , but I'm a novice boat builder and like you wanted to be sure .
+The rounded deck and roof coupled with the sheer amount of weight in the bilges has me more than convinced it will right itself , if rolled , there are stability graphs around too , for the a Paradox , I found them on a Google search and again when I ordered the plans . It's very comforting at sea , it feels solid and stable . I fell asleep the first time I was in it , about 5 miles out from shore . I have other boats and this one is big fun .....
+Flotation foam , or if you like , insulation foam , placed wherever the space allows , means if the boat is swamped it should sit proud of the water , even when swamped
+I measured the buoyancy of the woods I used . Did some math on that .
+Calculated the area that I filled with buoyancy foam ( the sort of foam they use to make surfboards , it sands easily and was shaped to fit under the decking and floor in places , see the pic below )
+There are stories around of one being swamped , bailed , and sailing on .
+I let the boat be blown over in about 25 kts of breeze
+It sat on its side momentarily
+I touched nothing , I just laid  there waiting to see what would happen
+It popped up , turned into wind a bit , and laid a hull , or heaved too ,if you like ,  drifting across the chop sideways until I fiddled with sail and tiller to get it going again, I then reefed the sail and went home . It Was an experience that confirmed to me that I'm as safe as the design suggests l
+Uncomfortable yes , being on its side is not natural , but safe all the same .
+Hope this helps
+Nick
+( THOR)
+
+From: E Blohm <eblohm@rocketmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Introduction, Chine runner / mast questions.
+Date: Wed, 3 Feb 2016 13:00:46 -0500
+
+Hello! I am Erik from northeast Ohio I have a Com-Pac 23 sailboat and sail primarily on Lake Erie. I have been bitten by the Paradox bug and I am researching building one. My main purpose for building will be to sail in the Great Lakes/Georgian Bay skinny waters and a Florida to Bahamas adventure in a couple years (crossing GulfStream of course). I love the elegant simple design of the Paradox but I am still not 100% sold on a keel-less boat out in offshore conditions. In an effort to increase the chance of righting the boat I have been trying to work on a solution to instill more confidence in the event of a capsize. My ideas are in order of preference.
+1. Add lead to gap between chine runner and side of boat covering with fiberglass. This will increase the moment arm for self righting. I don't think this will help for a 180 degree roll though.
+2. Adding a bolt on lead bulb-keel of 10-12 kg concentrated near end of keel perhaps 15-20cm in length. This will also increase the righting moment arm. It could be taken off when offshore passage is completed.
+3. Installing as buoyant mast as possible and/or running a tube through/alongside mast with an inflatable "balloon bladder" at top of mast. Tube could be attached to a small compressed air cylinder allowing it to be filled several times if you get in series of BAD survival storms.
+
+So there are my ideas on this subject. I want to increase my odds of righting my craft. Have these ideas been tried yet, would they work?
+
+Sent from my iPad

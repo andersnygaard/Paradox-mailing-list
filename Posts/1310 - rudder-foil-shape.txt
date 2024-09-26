@@ -1,0 +1,11 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Rudder Foil Shape
+Date: Sun, 16 Nov 2003 17:00:56 -0000
+
+Anyone know if Paraox's rudder is based on a standard airfoil shape? 
+I've seen a few references to NACA 0012 and NACA 0015 as common for 
+rudders, but Matt's design is pretty flat in comparison.
+
+Thanks,
+Paul

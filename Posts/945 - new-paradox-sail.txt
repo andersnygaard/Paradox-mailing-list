@@ -1,0 +1,41 @@
+From: "mattlayden" <karen.matt@juno.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: New Paradox Sail
+Date: Thu, 08 May 2003 21:27:46 -0000
+
+Hi everybody,
+
+I've been lurking on the outskirts of the group for a month or 2 and after talking with Glen, Larry and Dave at Cedar Key last weekend I thought I'd put in an appearance.
+
+Glen has been unhappy with his sail and we've discussed on a couple occasions what he might do to improve the current one or if he builds a new one from scratch.  I just made a new sail for Paradox this Feb.  The old sail is pretty tired but still useable, I wanted to get a new one on while there's still some life in the old so I can carry it as a spare.  Thought some of you might be interested in how it turned out.
+
+I experimented with the overall dimensions a little, shortening the foot to reduce the overhang of the boom, and raising the peak a little to get a higher aspect ratio.  The downside of these changes is a sail that doesn't reef and furl quite as nicely, which was more of a priority in the original design; there is a triangle of sail at the peak that doesn't roll up now and it has to be manually scrunched up and stuffed under the boom when stowing the sail.  Not a big deal but not as neat and clean as it was.  The upside is a slightly better setting and more weatherly sail, either full sail or reefed.  Below are the dimensions of the new sail if anyone wants to try it out.  I still stand by the ond sail as in the plans, it works fine and if you have one that is well cut there is no need to change it, but I would go with the new version again if making another.
+
+Dimensions:
+Foot:  3180mm
+Luff:  2630
+Leach:  3700
+Head:  2580
+Tack to Peak:  4150
+Throat to Clew:  4322
+
+With 36" (914mm) cloth there are 3 seams which should be laid out at 90deg. from the leach. 
+
+Bottom seam:  65mm at luff, 25mm at 50%, 45mm at leach; curve should be very full at both ends and flattish in the middle
+Middle seam:  45mm at luff, 25mm at 45%, 37mm at leach; curve should be rather parabolic, stronger in middle than ends
+Top seam:  38mm at luff, 25mm at 40%, 33mm at leach; curve should be about a circular arc.
+
+Foot round:  Total of 28mm, best to apply 14 mm to the sail and 14mm to the sleeve.  Maximum at 50% from tack.  Use a very full-ended curve similar to the bottom seam
+Head Round:  Total of 40mm, best to apply 20 to sail and 20 to sleeve.  Maximum at 35% from throator as seems best with respect to bend of yard.  Use a rather full-ended curve but nearer to a circular arc than the foot
+Luff round:  about 8-10mm at 40% up from tack, A cicular arc or slightly parabolic.  This round will flow back into the belly of the sail and the luff will become hollow in use.
+Leach hollow:  about 50mm at 60% up from clew; a parabolic curve, slightly stronger in top section than bottom.
+
+The foot and head sleeves should get doublers at each end before being sewn on.
+
+I like to use a cut tabling on the leach.  You may need to refer to your sailmaking book of preference if unfamiliar.
+
+For the luff you can either use a cut & folded piece of sailcloth or 2 layers of 2" (51mm) tape.  The trick with the luff tape is to pre-tension the tape.
+
+That's all. Hope it works out for everybody.
+
+Matt

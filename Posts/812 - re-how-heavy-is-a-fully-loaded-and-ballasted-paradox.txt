@@ -1,0 +1,53 @@
+From: LJGeib@aol.com
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 8 Jan 2003 02:42:10 EST
+Subject: Re: How heavy is a fully loaded and ballasted Paradox?
+
+Back to archimedes:
+
+
+Maybe you don't trust Chuck, so try these web sites:
+
+ Water Displacement (US Dept. of energy) 
+
+From that site are the following quotes:
+
+
+"An object that FLOATS displaces the amount of water that has the same weight
+as the object.  If it sinks, it displaces an amount of water that has less
+weight than the object.  This is generally attributed to an ancient Greek
+known as Archimedes.
+
+Greg Bradburn
+=============================================
+If the object is less dense than water (if it floats on water), it
+displaces a weight of water equal to the weight of the object.  If the
+object sinks in water, it simply displaces a volume of water equal to the
+volume of the object.
+
+This is known as the Principle of Archimedes.
+
+
+                Richard Barrans Jr., Ph.D."
+
+Or from this site:
+
+ Elements of Physics  (University of Alaska)
+
+"Archimedes' principle
+Archimedes' principle states that the buoyant force exerted on a body 
+immersed in a fluid is equal to the weight of the fluid displaced by the body
+. ( B = - w of fluid ) "    
+
+
+
+what makes a boat float on a particular waterline  is its weight. If you add 
+,say 100 lbs of weight to the boat, you have just displaced an additional 100 
+lbs of water. They are exactly equivalent. and, of course, the water will 
+have the same volume whether the 100 lbs you added was lead, feathers, or 
+foam. How could it be different? How would the water Know what you added? 
+
+A boat can displace less than it weighs (If it has sunk) but it can NEVER 
+displace more than it weighs.
+
+Larry

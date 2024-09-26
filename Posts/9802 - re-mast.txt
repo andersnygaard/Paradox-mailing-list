@@ -1,0 +1,14 @@
+From: kayaker37@gmail.com
+To: paradoxsailboat@groups.io
+Subject: Re: mast
+Date: Tue, 08 Jun 2021 17:34:15 -0700
+
+Take my reply with suspicion as I haven't built one, but since you haven't gotten any replies here goes:
+
+Sheet diameter given on DWG #1 lower right corner (I'm looking at the low resolution plans on the CD, so hard for me to read).
+
+Can't find halyard diameter on cd drawings but is given in Materials1.text file on cd as 5/16" Dacron line for tiller, halyard, and sheet.
+
+The sheet diameter appears to differ on the drawing as compared to the Materials1.text file, so you should recheck printed plans, CD may be older. ( I got my plans many years ago, so check your set for any revisions.)
+
+The 60 degree angle on the sheave must be because the sail is on the port side, and rotates around the mast a bit, so just picking a midpoint (completely guessing here), as I haven't built one, just reviewing plans lately.

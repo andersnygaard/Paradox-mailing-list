@@ -1,0 +1,10 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bouyancy
+Date: Sat, 27 Dec 2003 10:30:44 -0500
+
+Figure out the square footage of panels and multiply by 4.3 lbs to get a rough idea. Don't forget interior fittings. 3/4 x 3/4 inch steel tubing weighs about .4 lbs per foot depending on wall thickness.
+
+Yes, you can wooden deck a steel hull. Use square tubing for a gunwale and glue and screw plywood on top of it. Make sure you have completely covered the steel with glue (bedding compound) or even run heavy tape along it. Wood and steel are a bad contact combination so keep them separate.
+
+Bill Longyard

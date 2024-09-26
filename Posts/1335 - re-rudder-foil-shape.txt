@@ -1,0 +1,22 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 16 Nov 2003 23:12:15 +0000
+Subject: Re: Rudder Foil Shape
+
+Silly me, still math never was my strong suit.
+
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 16 Nov 2003 20:56:22 -0000
+Subject: [paradoxbuilders] Re: Rudder Foil Shape
+
+Now it makes sense. The rudder foil is 2x12 not 2x24, for a total thickness of 24. So 24/400=.06. That explains why NACA 0006 looks the closest. 
+
+Paul
+
+As the rudder foil is 400mm long and 2x24mm ply thick (not counting the glue) it should be possible to make a 16.66% profile. So NACA 0015 (15%) would be a reasonable shape.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

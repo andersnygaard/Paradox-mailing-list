@@ -1,0 +1,10 @@
+From: "boldav38" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Etrex Mariner mod
+Date: Sat, 07 Sep 2002 05:55:32 -0000
+
+Well, I couldn't leave the little Etrex alone so I went ahead and hacked it with this simple patch at http://ourworld.compuserve.com/homepages/gilles/memap/index.htm  
+
+Now when it turns on it doesn't give you that stupid WARNING message, but instead displays my name, phone number, e-mail address, and REWARD $$$.
+
+Basically, what this program does is allow you to edit the message in the firware update program.  To do this you run the shareware program, "MeMap," and point it to a copy of your firmware update.  It then patches the offending comments with whatever you want.  Next you run the firmware update. This personalizes your GPS and gives the finder contact info if they want to return it to after you lose it.

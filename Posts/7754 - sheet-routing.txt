@@ -1,0 +1,8 @@
+From: phil_e.stine@yahoo.com
+Date: 05 Dec 2013 16:51:38 -0800
+To: paradoxbuilders@yahoogroups.com
+Subject: Sheet Routing
+
+I was watching a video of Dave Bolduc on his Enigma(?) and he briefly panned over the stern. When he did so, I noticed that the sheet routed through a block at the rear center of the aft deck.
+
+I wonder about routing the sheet in a similar manner on a Paradox -- through a block on the deck, down through a fairlead and through another block below the deck before coming forward. The fairlead would be right over the tiller baffle, which could handle any leakage. Assuming that there are no clearance problems in the aft compartment and that the block to boom geometry is viable, this might keep the sheet from tangling in the outboard.

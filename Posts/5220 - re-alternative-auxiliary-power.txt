@@ -1,0 +1,21 @@
+From: "Nels" <arvent@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Alternative auxiliary power...
+Date: Wed, 25 Jun 2008 18:30:02 -0000
+
+
+Since I decided that a small 4-stroke was the best choice for my needs I have rather lost interest in the electric option.
+
+Here is a link to a yahoo group on that subject:
+
+http://groups.yahoo.com/group/electricboats/
+
+And I saved this link that seemed interesting at one point:
+
+http://www.stevproj.com/EMotorIdeas.html
+
+If you want any "real power" you have to go to a 24v motor at least - which means 4 golf cart batteries and a pretty big solar panel array. The little plastic props on trolling motors are generally considered useless by the techies seriously into moving boats using electricity.
+
+If I had deep pockets I would be looking at developing a small motor sailor using a tiny bio diesel engine - with an 90 amp alternator like I had on my camper van conversion  -  although the motor wasn't bio nor tiny!
+
+Nels

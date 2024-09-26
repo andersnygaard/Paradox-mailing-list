@@ -1,0 +1,8 @@
+From: "Steve" <sdhender@sbcglobal.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 13 Jan 2004 17:05:00 -0000
+Subject: Wiring for masthead light
+
+I'm curious as to the routing other Paradox mast builders have used for the wiring of the masthead light. I've got three of the four main pieces of the mast epoxied together, and am contemplating how to get the wiring in place so that it will not interfere with the slot for the sheave later on. Have most routed the wires inside the mast all the way to the top of the mast? Or, have you had the wire exit the mast 100-150mm below the light and then run outside the mast to the light. I'd like to keep the wiring inside. Is this reasonable?
+
+Steve, in the Heartland of the USA

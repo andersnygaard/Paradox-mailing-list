@@ -1,0 +1,16 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 25 Aug 2004 03:42:02 -0000
+Subject: Re: Standing Bevels?
+
+Derek,
+
+Sorry I didn't have time to answer all your questions this morning, but I was running out the door to work.
+
+I think you mean Bulkhead 1 here. The transom is shown on sheet 8. 668mm is the total height of the plywood at the dimensioned face which lies on the station line. Since the rest of the plywood lies forward of that line, it is beveled inwards. The dotted line below Bulkhead 1 refers to the floor. The dimensions as shown are at the station line. Since the floor lies aft of the station line, it is an outy bevel.
+
+Keep in mind the sides are crowned, I didn't understand that at first. So on the left side of Bulkhead 1 it shows a "5". So the sides are slightly curved outwards, as well as being beveled!
+
+Also, what is the extra outer line to the right of the centre line around the transom and bulkheads?
+
+Paul

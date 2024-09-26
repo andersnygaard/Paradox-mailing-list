@@ -1,0 +1,15 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 14 Jun 2005 03:51:42 -0700
+Subject: Re: More Paradox Plans Questions
+
+
+Well I thought I had a grip on things, but bulkhead 1 & 2 have me confused.
+
+Looking on page 7 the stateroom sole is intended to sit on the lower floor frame of bulkhead 1 and a cleat on bulkhead 2. However, these two supports are not level, and the stateroom floor being out of level can be seen on page 4. The difference in height is about 20mm. If the sole is not level, it would seen to make it impossible to use the sole hatch, as it would brush against the bulkhead as it was opened.  It seems that the cleat on bulkhead 2 should be raised, to allow the floor be level. The location of the tank vent and mast ground shown on page 3 and 4 would also seem to also interfere with the operation of the sole hatch, as they are shown protruding from bulkhead 2.
+
+BTW, on page 7 Matt left out all the cleats on bulkhead 1 intended to secure the bin sides. And it's contradictory if there is even a bin on the port side.  On page 3 and 4 no port side bin is shown, but on page 7 bulkhead 2 shows cleats for a port side bin.  A little confusing.
+
+Finally, I could use some help clarifying the dimensions of the outboard bulkhead cleats (the side ones against the hull panels.)The plans show them as 25mmx35mm but then a bevel is shown along the side; for example 7mm for bulkhead 2. Do I move the cleat outboard by 7 mm or plane the board 7mm wider than the 35mm shown in the plans?
+
+- Brent

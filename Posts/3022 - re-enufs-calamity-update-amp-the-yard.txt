@@ -1,0 +1,39 @@
+From: "" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 03 Aug 2005 14:15:17 +0100
+Subject: Re: Enuf's Calamity Update & the Yard
+
+Structurally it is a double cantilever. As you move away from the support (mast) the bending moment decreases and the yard can be thinner. If the load is correctly matched to the varying stiffness then the top of the sail will have a constant curvature.
+
+On 3 Aug 2005 at 12:36, dclark52001 wrote:
+
+Wow! You have viewed the yard as a thin piece of wood thickened where necessary and I have seen it as a thick piece of wood thinned down. I never even thought of it your way about.
+The plans suggest that it can be made hollow so the weight is obviously not an issue. I'll try the bamboo and beef it up at the point by the mast.
+ 
+Derek
+
+On 3 Aug 2005 at 4:44, dclark52001 wrote:
+
+Why is the yard shaped?
+Why can't I use a constant diameter bamboo, for instance, which would give a lot less weight
+aloft? Do I need weight in the yard for some reason that I have missed?
+I'll get on with the yard while I await your wisdom and maybe save myself a piece of
+Douglas Fir for another project.
+ 
+
+For the sail to keep the correct shape the yard needs to be stiffest
+where it is restrained at the mast If the bamboo is not stiff enough
+then the corners of the sail will sag and the sail will lose its
+shape. The taper on the yard puts the stiffness where it is required
+while removing material (weight) where it is not needed.
+
+That's my theory, but as a practical engineer I suggest you try the
+bamboo and see how it works. It would be easy enough to replace if
+there was a problem, and the data would be useful for future builders.
+
+I don't know if the weight of the yard contributes to the docility(?)of an accidental gybe (something I do quite a lot as I tend to pay attention to too many things other than sailing).
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

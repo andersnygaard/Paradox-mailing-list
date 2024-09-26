@@ -1,0 +1,10 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+Date: Wed, 28 Jan 2004 07:54:39 -0000
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Sheet Lead Ballast
+
+Another alternative, which has been discussed here, would be to glue a metal sheet as the outermost layer, by which you would gain also other benefits, apart from ballast.
+
+I myself was originally thinking of stainless steel, which is difficult, but possible, to glue directly on the bottom. I'm now more in for bronze, which is easier to glue and could also serve as ground plate for the lightning rod. Expensive, though.
+
+Kjell

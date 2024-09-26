@@ -1,0 +1,33 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Chine runners
+Date: Fri, 13 Dec 2002 23:36:29 +0000
+
+
+First, visit http://home.triad.rr.com/lcruise/paradox1.htm.
+
+I can give you a very simplified idea of what the chine runners do.
+
+Imagine a disc, the diameter of a tennis ball, mounted square on to 
+a fluid flow. It will experience a force because the fluid that hits the 
+disc stops, and transfers its momentum to the disc.
+
+Now imagine a tennis ball cut in half with the open side towards the 
+fluid flow. Due to the hemispherical shape the fluid enters the ball 
+(or cup) and is deflected back out. This reversal of flow transfers 
+twice the momentum to the cup than was transferred to the disc so 
+it experiences twice the force.
+
+You can see this in operation in a rotating-cup anemometer.
+
+The chine runner extensions behave a bit like the cup and cause 
+the water to be deflected back, rather than just slowing it down as 
+ordinary chines would.
+
+This is obviously a gross simplification, but I hope it helps you to 
+understand the concept.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

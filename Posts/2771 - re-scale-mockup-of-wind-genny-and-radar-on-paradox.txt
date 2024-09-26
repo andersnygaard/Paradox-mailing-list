@@ -1,0 +1,12 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Scale mockup of wind genny and radar on Paradox
+Date: Fri, 10 Jun 2005 04:56:43 -0700
+
+On Thu, 09 Jun 2005 02:03:02 -0700, Brent Geery <fasttimes@mochamail.com> wrote:
+
+I updated the mockup, as I scaled the genny and radar slightly too large. They should be accurate to within about 3mm now. I also corrected the wind genny "Sphere of Operation/Keep Clear Zone" to be the correct size. I just got lazy on the original version.
+http://groups.yahoo.com/group/paradoxbuilders2/files/Scale%20Mockup%20Of%20Wind%20Genny%20And%20Radar%20On%20Paradox.png
+
+-- 
+BRENT - The Usenet typo king. :)

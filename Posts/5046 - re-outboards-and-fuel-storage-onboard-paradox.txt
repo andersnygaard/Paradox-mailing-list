@@ -1,0 +1,29 @@
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Apr 2008 20:29:36 +0100 (BST)
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+I think that the durability problem is caused by the solid state voltage regulator on the aircraft engine. It charges at a healthy 14.4 volts when running at cruising speed. The current flow is unknown but will be high at first and dwindle to a trickle later.
+
+You might get the same problem if you try and recharge such a battery from a boat's alternator.
+Ok for a normal type lead acid battery but lethal for some of the sealed gel type.
+Little aircraft, like little boats, move around jerkily and a sealed battery helps prevent acid spills. So it's worth having it even if it doesn't last very long.
+I had to clean out the fuselage of a light aircraft which had been doing aerobatics with a normal wet lead acid battery once. It made a hell of a mess. Not a pleasant job.
+I'm not sure how a cheap solar panel would do for this battery type. Can that overcharge and cause prolems?
+Jim Hall
+
+--- Dennis Mingear <dennismingear@yahoo.com> wrote:
+
+You should get excellent performance out of a battery of that type.
+You should check to see that you are not over charging or over discharging it, either situation can hurt the battery.
+Taking it below 10.5 volts to many times will slowly degrade the battery to the point that you can't charge it properly any longer. On the other hand even though these batteries can take more abuse than some other types of batteries you can kill them by consistently over charging.
+Here's a good link, perhaps you already have it. It gives a good common sense approach to maintaining these types of batteries and the main reasons for poor performance.
+
+http://www.electronicsteacher.com/battery-tutorial.php
+
+Denny ...
+
+      ___________________________________________________________ 
+Yahoo! For Good helps you make a difference  
+
+http://uk.promotions.yahoo.com/forgood/

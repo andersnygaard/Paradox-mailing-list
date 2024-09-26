@@ -1,0 +1,7 @@
+From: "dclark52001" <dclark@woden.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 28 May 2006 15:05:15 -0000
+Subject: Re: 12 volt wiring
+
+For cost effectiveness you'd size the wire for the current draw, but Steve is right in using the maximum cross section of copper that you can fit. Ideally you aim for no losses in the conductor.
+I've used multi strand 240volt lighting cable and machine tool cable. Big cross section so low resistance; it was in a skip behind a shop so it came for free. Perfick!

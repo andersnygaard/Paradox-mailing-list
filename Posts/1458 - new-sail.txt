@@ -1,0 +1,29 @@
+From: "kjellkkk" <kjell.karlsson@hs.se>
+To: paradoxbuilders@yahoogroups.com
+Subject: new sail
+Date: Fri, 28 Nov 2003 08:23:17 -0000
+
+Hi all, Glen in particular
+
+I have plotted Matt's new sail measures on the sail plan in the drawings.
+
+Assuming tack-point and foot-angle constant, throat-point tilts
+forward/downward, peak-point forward/upward (I guess this is what
+means "higher aspect ratio"). The luff/foot angle is now no more 90
+dgr (or 91) but 95, thereby making the "foresail part" of the sail
+slightly larger. Two questions arise:
+1. To keep the foot/boom at constant angle calls for a new
+attachment-point for the halyard to the yard, from 700 to 900 mm from
+front end of yard. Judging from Glen's NS-photos it looks like the old
+measure has been kept.
+2. Measuring perpendicular from foot to peak, resp. tack/foot to yard,
+there is 6% more sail to furl in the aft part of boom and 6% less to
+furl in the fore end of the boom. This means that it takes about 10mm
+larger circumference in the aft end, resp. 10mm lesser circumference
+in the fore end of the boom, for the sail to reef and furl properly.
+
+Is there any reason for making these adjustments, or is this a futile
+discussion? Perhaps we should discuss how many angels there could be
+dancing on a pinpoint instead.
+
+Kjell Karlsson

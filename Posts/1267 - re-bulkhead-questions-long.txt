@@ -1,0 +1,15 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bulkhead questions (long)
+Date: Wed, 12 Nov 2003 13:54:22 -0000
+
+
+Hi Dc,
+
+Are you beveling the plywood, or are your sides at 90 degrees? With the dimensioned face at the station line, the forward face of the plywood would be an inny bevel, and thus thinner at that face. The side cleats would therefore start out at less than 35mm wide, and would bevel inwards further. I don't see how your side cleats are 35mm wide at the least width measurement.
+
+On the other hand at Bulkhead 1 with the dimensioned face forward of the station line the ply would bevel outwards towards the station line. This would give the cleat width at 35mm at the forward face of the ply, and then beveled in.
+
+I'm probably making this more complicated than it is, but before I start cutting I want to make sure it's right.
+
+Paul

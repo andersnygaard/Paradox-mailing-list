@@ -1,0 +1,19 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 12 Jun 2008 21:51:07 +0100
+Subject: Re: Mast Making
+
+Hi Glen,
+
+Thats wonderful news. I can't wait. By the way I noticed that you left off the big wooden fillet on the chine runners. I'm intending to do the same. I attended a talk once about induced drag in airplane wings. It was by Eugene Larabee from MIT. The focused on chordwise flow over the wings. And also some degree of spanwise flow near the wingtips. The well-known wingtip vortices or spirals trailing in the aircrafts wake is proof of the wasted energy, or induced drag. The solution of winglets to retard spanwise flow is the abstract behind chine runners (IMHO). So therefor I think they should work better if the runners had more "edge-ing".
+
+I think Glen built to plan.
+
+It will be interesting to see how they work without the fillet. It will be easy enough to retrofit if it is not as good. Of course you will have to make some sort of temporary fillet to compare your mod with, otherwise you will never know if it is better or worse (unless it is a lot worse).
+
+My own feeling is that you will get a lot of turbulence in the corner.
+
+Hoping for calm nights,
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

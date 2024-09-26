@@ -1,0 +1,14 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 30 Dec 2003 21:23:47 -0000
+Subject: Re: rudder
+
+Hi David.
+
+It's hard to say for sure, but looking at sheet #1, it appears that the CL of the upper half of the rudder is situated on the vessel CL. This means that the axis is on center. Sheet #11 doesn't seem to contradict it, and I don't see any other indications, elsewhere.
+
+It seems intuitive to align the line between the upper and lower rudder halves with the vessel CL, doesn't it? I think our sense of symmetry might be offended to see the upper half of the rudder off center. The lower half will certainly do its job just fine off center, as will the tiller.
+
+Looking forward to seeing your photos.
+
+DC

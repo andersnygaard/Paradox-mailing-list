@@ -1,0 +1,39 @@
+From: Brent Geery <fasttimes@mochamail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 10 Jun 2005 01:31:37 -0700
+Subject: Re: Questions regarding Paradox plans - recap
+
+On Thu, 9 Jun 2005 13:39:49 -0700, "Glen C. Maxwell" <ifida@alltel.net> wrote:
+
+- I don't at all understand how the "metal angle" shown on page 5
+  is to be used, or attached.  Can someone please go into further
+  detail of this?  What length angle to get, and is that 1"x1"
+  angle iron?
+
+I bought a piece of aluminum angle from the local hardware store 1" X 1".
+It is attached to the underside of the water tank top to capture the bottom
+of the bin face which doesn't extend to the floor like the aft ones because
+your ballast is mounted to the floor in that area and you want it outboard
+as much as possible.
+
+OK, I think I'm starting to understand this a little clearer now,
+and why I thought I must be reading it wrong.  Here's why:
+
+In the aft section, the continuous hinges are supporting the edge
+of the sole through the attachment to the bin sides, which are in
+turn attached to the cleats on the bulkheads.  Forward were the
+tanks are, there is no hinge to support the sole there, so the
+angle seems to be serving that purpose.  However, if that logic
+is true, then the angle should be attached to the side bins and
+"hooked" under the floor edge to support it.
+
+Instead, attaching to the sole and "dropping in" the side bins
+would seem to mean the edge of the sole plywood has no support.
+Granted, it's only about 4 inches max that the sole edge is
+unsupported (bulkhead 3,) but still seems "wrong" to my thought
+of the engineering.  It seems that unsupported sole section would
+warp and sag over time; not a bunch, but some.  I'm probably
+over-thinking the issue.
+
+-- 
+BRENT - The Usenet typo king. :)

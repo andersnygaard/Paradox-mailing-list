@@ -1,0 +1,18 @@
+From: Fernando <magnstd@yahoo.com>
+Date: Sun, 18 Mar 2012 15:00:30 -0000 
+Subject: Transforming blogs in pdf 
+To: paradoxbuilders@yahoogroups.com 
+
+I think many things could happen that could make a site go offline and to prevent loss of data, we could make backups in pdf format and store in the file section on yahoo. 
+
+Using openoffice, a free text editor http://www.openoffice.org/, it is simple to do it. Only create a new document and click File then Export as PDF. 
+
+Is this a good thing? Do the blog authors want to create themselves or do they give the ability to volunteers to make it? 
+
+I uploaded an example from Lezlie blog in this folder:
+http://groups.yahoo.com/group/paradoxbuilders/files/Blogsinpdf/
+
+Like it? :)
+
+Thank you,
+Fernando

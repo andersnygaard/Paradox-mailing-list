@@ -1,0 +1,71 @@
+From: Rodney Cannon <rdnycannon@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 23 Jun 2008 18:43:45 -0700 (PDT)
+Subject: Re: newbie...just ordered plans
+
+Try this one...its better suited made for marine use http://www.nauticexpo.com/prod/african-cats/12v-24v-wind-generator-20089-170751.html
+
+
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 23 Jun 2008 18:34:57 -0700 (PDT)
+Subject: Re: [paradoxbuilders] newbie...just ordered plans
+
+I know about the peddle charger, that might be ok to use, if for no other reason you probably wont get much exercise on a Paradox while sailing.
+
+I'm very interested in your small wind genny but the link didn't work for, I cut and pasted into my browser.
+
+I would definitely like to see what you're talking about, sounds perfect for a Paradox.
+
+Denny ...
+
+From: Rodney Cannon <rdnycannon@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 23 Jun 2008 13:04:44 -0700 (PDT)
+Subject: Re: [paradoxbuilders] newbie...just ordered plans
+
+Dennis,
+Thanks for the link... I ordered plans for the Aquasub by RJ Riley awhile back and he uses a very unique elec. system. The batteries are completely enclosed in a watertight seal using a device to eat hydrogen throwoff. (cheap to make). He uses 2 6volt golf cart batteries to power an exhaust fan and 2 trolling motors and claims to get 4 hours of continuous power motor. I would mainly be using sail, using the electric motor only when needed. I was thinking of either a small movable wind turbine or a combo of solar and generator for power-replacement. The batteries could be mounted on a small plank and moveable to pre-positioned brackets to act as ballast.
+
+Here is a link for a very small genny, http://www.wisesales.com/YamahaEF1000iS.html, but I have seen one almost half this size that was 5oo watts..... also someone posted in the files section a peddle charger...looked kewl.. Thats enough outta me til I get the plans. (no sense in lookn like too big a dumba$$, heh)
+
+Thanks for your time,
+
+Rod
+
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 23 Jun 2008 11:55:39 -0700 (PDT)
+Subject: Re: [paradoxbuilders] newbie...just ordered plans
+
+A hybrid boat, very nice idea. There has been a lot of discussion on one of the Yahoo electric boat lists about hybrid concepts lately.
+
+There isn't much room on a Paradox, 13 and 1/2 feet can disappear pretty quickly, even single-handed.
+
+I wouldn't want to discourage you from at least pursuing the idea because it is interesting.
+
+You would need a battery plus the generator to drive the trolling motor or whatever you try, but you'll need a battery for the minimal electronics you'll have on board anyway. The Paradox is small so a trolling motor might be an option, see link;
+
+http://bbs.trailer-sailor.com/forums/articles/index.cgi/noframes/read/23
+
+The generator will have multiple uses beyond keeping your motor and battery alive but size will be an important consideration as well as venting the exhaust gases.
+
+Hope the link helps get you started.
+
+Denny ...
+
+From: Rodney Cannon <rdnycannon@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 23 Jun 2008 11:04:09 -0700 (PDT)
+Subject: [paradoxbuilders] newbie...just ordered plans
+
+Hi all,
+
+My name is Rod Cannon and I live in Venice, California. I just ordered the plans for Paradox after weeks of deliberation over it or the "Black Skimmer" design. I chose Paradox hands down cause I am a bit of a gadget gizmo man and this craft is wonderous!
+
+I will begin building in the fall and preparing to sail in the summer of 09'. I was a Professional Magician (specializing in micro-magic...heh) for over 20 yrs. and I am an avid electronics geek. I want to apologize now for any cockamanie idea I come up with that is not feasable, be easy as I am new to boats and boating. (presently taking navigation and sailing classes in Marina Del Rey to get certified,) I plan on using this boat for very short distances next year until I feel capable.
+
+I have a couple of ideas to share later as to the electrical system in Paradox, but right now I was wondering if anybody has thought of using an electric motor instead of gasoline? I know a trolling motor might not be enough power but teck has gotton better and I have seen all kinds of Micro-generators new to the market that might run an electric motor using way less gas than a standard. (a reg. genny 1000w will run approx 6hrs. on a gal. of gas)
+I found a seylar trolling motor for under $100 dollars on net that give 18 lbs. of thrust, I dont know enough yet about the subject but is this enough to move Paradox at least 3 knts?
+
+Rod

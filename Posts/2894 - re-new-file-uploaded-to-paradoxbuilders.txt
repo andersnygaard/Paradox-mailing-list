@@ -1,0 +1,9 @@
+From: Matt Noonan <men99@alum.hampshire.edu>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 4 Jul 2005 23:51:55 -0400
+Subject: Re: New file uploaded to paradoxbuilders
+
+You can get a barebones client for OS X right from the source: http://www.bittorrent.com
+This is what I use, but there are many other clients to be had with a Google search. Bitcomet isn't needed -- any Bittorrent client will work.
+
+Matt

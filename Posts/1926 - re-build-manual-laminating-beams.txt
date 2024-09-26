@@ -1,0 +1,19 @@
+From: DC <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 14 Feb 2004 11:08:02 -0000
+Subject: Re: Build Manual, Laminating Beams
+
+You are entirely correct Steve. Thicker laminates will indeed spring back more than thinner. Sorry about that, and thanks for catching it. I will edit the content of the text right away.
+
+You might try a few different thicknesses. Off the cuff, I would say that 3mm is awfully thin and will require many more clamps than necessary. I used 5mm honduras mahogany strips and found that I had to use between 30 and 40 clamps for each beam, to produce a uniform lamination. In retrospect, I should have used 7-8mm. At any rate, the thinner the laminates, the stronger the lamination; not that that is an issue with these beams, they are really substantial.
+
+If you have a stack of 3mm material on hand that you must use, you might use a full length clamp pad of 6-8mm material (wood or steel) to reduce the number of clamps. Just be sure to put a layer of masking tape on the surface in contact with the beam, and wax it up. 
+
+Don't worry at all about pre bending the material. Once it's laminated and the epoxy has at least partially cured, springback will be negligable. I did find that I had enough springback to warrant sawing the top edge of each beam to match the template.
+
+"The Gougeon Brothers on Boat Construction" is a fantastic resource for any kind of work which incorporates epoxy. Here's a link to an article on laminating, on the WEST System website.
+http://westsystem.com/webpages/usesforepoxy/laminatedboatshelter.htm
+
+Thanks for catching my mistake. Have fun with your project, and if you can, perhaps you would photograph some of your build details to post for the group. I'm afraid that my writing could benefit tremendously from good technical photographs.
+
+DC

@@ -1,0 +1,44 @@
+From: rkg_82 <rkg82@sfr.fr>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 09 Dec 2010 17:05:05 -0000
+Subject: Re: resorcinol
+
+Further to this discussion, I performed the following experiment early this year with a 3-meter long 70 x 120 mm piece of clear, straight, seasoned Douglas Fir.
+
+The purpose was to test the application and strength of the bond in a scarf joint when working at the limit of minimum application temperature in my basement workshop.
+
+All materials were stabilized eight hours prior to gluing at an ambient temperature of 14-15 °C, 15 °C being the minimum limit for application specified by the manufacturers of the resorcinol (Bostich) and epoxy (Sicomin).
+
+NOTE: The Sicomin epoxy, made in France, is comparable, apaprently, to better known brands in the U.K. and the U.S. It is used extensively here by professional and amateur boat builders here. I have been using it quite happily for the past two years (http://sicomin.com/home.asp?DisplayLang=3Den).
+
+For the test, I ripped the piece of Douglas fir lengthwise to obtain two identical 70 x 60 mm lengths. I made an 8:1 proportional diagonal cut along the 50 mm face of each piece, at a point midway along their lengths.
+
+During application, relative humidity was low. Initial cure temperature was 15°C, falling to 10°C over the next 12 hours, and stable at that level over the 7-day cure.
+
+Surfaces to be glued were roughened with a steel wire brush applied in a crisscross pattern, then glued "wet-in-wet", that is, primed respectively with resorcinol and unthickened epoxy, followed about 10 minutes later by an additional application of the same resorcinol for the one and slightly thickened epoxy for the other. Any apparent gaps in the joints did not exceed 1 mm. This falls well within the 2 mm gap limit specified for the resorcinol I used.
+
+Pressure was applied using 6 clamps for each piece, tightened for the Resorcinol joint as tight as I could get it by hand. Pressure on the epoxied piece was just sufficient for squeeze out to begin.
+
+The pieces were allowed to cure in place until the following weekend, when I performed a stress test. The pieces were tied down at their ends while positioned in parallel over two sawhorses, and lead weight was applied directly to the joint area, approximately 70 x 480 mm.
+
+The epoxied joint failed at about 65 Kg. The resorcinol joint made a single distinct crack at about 75 Kg, but did not fail. I abandoned at about 85 Kg, not having the means to apply more pressure with any reasonable accuracy (roughly +/- 5 Kg). I then turned over the piece and gradually applied pressure on the opposite side. There was no visible or audible sign of stress.
+
+Upon inspection, there was no apparent sign of cracking on either piece beyond their respective joints. There was no apparent sign of failure in or around the resorcinol joint. On the other, broken, piece, it was not the epoxy itself that failed, but rather the wood fiber beyond the epoxy joint, along the grain of the wood. This I have read is typical of failure reported by manufacturers and users.
+
+What this suggests to me is that, compared to the epoxy, the resorcinol remained more flexible when under stress, spreading the load more evenly to the surrounding wood fiber. Perhaps at low temperatures it penetrates the surrounding wood fiber more deeply and gradually, being less viscous than my unthickened epoxy. The requirement to apply significantly more pressure to a resorcinol joint during the cure suggests this, too.
+
+However, there was that single crack, clearly audible, so I assume there must be some internal damage to the resorcinol joint or to the surrounding wood that might lead to failure at some point.
+
+For the moment, though, the epoxied piece is broken, and the piece with the resorcinol joint continues to bend in opposite directions when moderate to heavy pressure is applied by hand, similar to strongly drawing an oar through the water.
+
+I'm certainly no expert in these matters, however.
+
+There is some evidence on the 'net supporting the superiority of resorcinol for gluing in certain conditions, and in the Paradox plans Matt Layden clearly specifies use of either epoxy or resorcinol for such purposes.
+
+Where I live, high temperatures and intense sunlight is common between spring and fall, and surface temperatures on media such as painted wood or plastic can exceed 40°C during the day. At this temperature, epoxy appears to soften significantly until the temperature drops, and may be subject to drift when in a softened state. I do not know if repeated cycles of softening and hardening damages the bond, but resorcinol bonds apparently are much more resistant to extreme temperatures.
+
+After a number of other tests earlier this year, I ended up using resorcinol to glue all of my spars, and the yuloh. I have also successfully gluing a failed epoxy joint with resorcinol. I have found no information concerning the viability of such a bond, but the joint seems strong, and cannot be pulled apart unless you pound away at it with a hammer and chisel.
+
+I'll be working on the rudder next, and may well continue using resorcinol elsewhere on the boat whenever I can keep gaps within the maximum tolerance of 2 mm and apply sufficient pressure during the cure of the resorcinol bond.
+
+Finally, I did not find preparing, applying, or cleaning up to be any more difficult than when working with epoxy. On the contrary, the resorcinol I use is soluble in water when in an uncured state, and cleaning up spills is easy.

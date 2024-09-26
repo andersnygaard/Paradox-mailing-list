@@ -1,0 +1,8 @@
+From: Chris Curtis <ccurtis-keyword-sailboat.a927b9@mval.net> 
+To: paradoxbuilders@yahoogroups.com 
+Date: Thu, 29 Mar 2007 15:38:19 -0700 
+Subject: Re: Cabin Fans
+
+Computer fans run on 12V DC. If you choose one of the larger fans as they run at a slower RPM. You can also install a Zener Diode to reduce the voltage to 9V to slow them down even more. They are very quiet this way. Go to www.startech.com for technical info. However, I'd buy from eBay, you'll save a bunch.
+
+Chris Curtis

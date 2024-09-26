@@ -1,0 +1,21 @@
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 14 Dec 2009 13:04:59 -0800 (PST)
+Subject: Re: larger paradox
+
+In the files section of the group there is an article about enlarging Paradox
+
+Larger Paradox
+
+Some comments and numbers for a 20% larger (16.5 ft.) Paradox
+
+Andrew
+
+From: JeffreyM <JMichalsbr@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sunday, December 13, 2009, 1:13 PM
+Subject: [paradoxbuilders] larger paradox
+
+Just got the plans. Dreaming is on steroids. Just thinking out loud here: suppose I wanted a bigger Paradox but without the humongous displacement (2321lb for a 20% larger boat). Suppose I only wanted more living space, and were willing to live without more beam. (Yes, I know about the trick of cutting down the opening in the forward bulkhead for increased footroom.) How difficult would it be to lengthen the living area by about 2ft, lengthening the hull overall but keeping the ends the way they are and not messing with the beam. How hard would it be to work out new dimensions for the sides? could I simply add a 2ft chunk of hull in the living area at the widest and deepest part--flat-bottomed so I wouldn't need advanced 3D modelling skills to work out new panel shapes? Am I right in figuring that the displacement would go up by about 390lb (treating below-waterline portion of this added bit as a 2'X4'X0.75' box)?
+
+Jeff MB

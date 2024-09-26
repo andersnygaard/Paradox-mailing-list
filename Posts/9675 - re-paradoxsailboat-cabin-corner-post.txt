@@ -1,0 +1,31 @@
+From: "alastair" <paradox@as6jg.freeuk.com>
+To: paradoxsailboat@groups.io
+Date: Mon, 23 Mar 2020 10:35:30 -0000
+Subject: Re: [paradoxsailboat] cabin corner post
+
+
+On 23 Mar 2020 at 1:35, Sybe Starkenburg via Groups.Io wrote:
+
+Hi All,
+I am starting the cabin parts. The corner post details says that the
+for'd cornerpost angle is 30 degrees. I'm confused here. The angle
+would be the asine of 100/245=24 degrees. What do I see wrong here?
+Can you help? Sybe Starkenburg Montagu South Africa
+
+The 30 degrees is on the cross section of the post, not it's angle to 
+the vertical. It takes into account the angle between the side window 
+and the front window.
+
+--
+Sail when you can, row when you must, motor only
+when you have to be at work in the morning.
+
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>
+
+
+
+-- 
+This email has been checked for viruses by AVG.
+https://www.avg.com

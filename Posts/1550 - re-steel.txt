@@ -1,0 +1,11 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 27 Dec 2003 11:08:38 +0000
+Subject: Re: Steel?
+
+Paradox is quite sensitive to trim. The ballast in Paradox (from sheet 5 of the plans) is 70 - 180kg of lead. This is not because the build weight may vary by 110kg, it is that the ballast must be adjusted to take account of the weight of stores carried. So 110kg of lead ballast is still necessary with a steel bottom, unless you fancy the idea of grinding away the bottom when you load up for a long trip :-)
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

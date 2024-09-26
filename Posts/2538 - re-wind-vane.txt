@@ -1,0 +1,13 @@
+From: "Glen C. Mxwell" <ifida@alltel.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: wind vane
+Date: Thu, 27 Jan 2005 08:30:01 -0800
+
+
+I'll be sure and pass on anything I come up with Steve, There is a wealth of info on the net but the primary problem with Paradox is that the boom hangs so far over the rudder and pretty much eliminates using a vertical axis vane. 
+
+My thoughts have been on a horizontal axis vane (boom would just deflect the vane during tacking and jibing) driving a servo tab mounted on standoffs on the left-hand side of the rudder. This would allow the blade to retract as designed. 
+
+I pretty much have everything worked out in my head and am waiting to build a transom and rudder mockup to finalize the experiment. Will keep the group posted with results as they become available.
+
+Glen

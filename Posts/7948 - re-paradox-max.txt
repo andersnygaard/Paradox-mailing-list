@@ -1,0 +1,15 @@
+From: graeme19121984@yahoo.com.au  
+To: paradoxbuilders@yahoogroups.com  
+Date: 07 Mar 2014 04:39:58 -0800  
+Subject: Re: Paradox Max
+
+Malcolm, 
+
+I believe you are correct - I've chased a designer rabbit down a wrong burrow there, here's the correct link: https://groups.yahoo.com/neo/groups/dwforum/conversations/messages/7948. 
+
+The 4th power it is then for stability. Complicating things though are allowances for things like hull weight increasing by somewhat less than the 3rd power, presuming that scantlings were not all increased by 20%, so changing KB, KG, KM spacing by something other than the linear increase. The ballast could be increased to set the hull on its lines if the hull comes out relatively light which will change those relationships also, pointing them towards increasing stability.
+
+Following the conceptual mode of thinking then, the heeling effect of wind velocity on the sails will scale by the 3rd power, no? And with respect to a 4th power scaling of stability: will the lee chine runner then be readily heeled to similar functional angles of the unscaled boat?
+
+Thanks,  
+Graeme

@@ -1,0 +1,12 @@
+From: roger chan <light369369@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Wire maintenance in Mast
+Date: Sat, 13 Jul 2002 00:33:54 -0700 (PDT)
+
+I noticed that one of the freqently replaced item on
+sailboat is electrical wiring due to corrosion.
+If the lighting wiring and the Mast-head light wiring
+are epoxy to the interior of the mast. Does it
+mean one have to cut the Mast open each time to
+replace these wirings?? (Or is there a Paradox design
+feature which allow one to do this that I overlook? )

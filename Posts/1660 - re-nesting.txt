@@ -1,0 +1,53 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Tue, 30 Dec 2003 15:28:34 -0500
+Subject: Re: nesting
+
+Good job Glen and thanks. I think more people will find a dfx file easier to work with.
+
+Bill Longyard
+
+
+Great link Bill, Thanks! I down loaded "Crossroads" and converted the VRML file to DFX format then imported it into "Intellicad 2000" with no problems. I will post both the Hull file and the 3D DXF file to the files section.
+
+Tailwinds
+
+Glen
+
+Great program. I'm glad you mentioned it Glen. In fact, are you aware that Hulls files can be imported into to AutoCad? Check out this page because it might make things simpler.
+
+http://webpages.charter.net/rickmalagodi/Hulls%20to%20ACAD%20Tutorial/Hulls%20to%20AutoCad%20in%203%20Easy%20Steps.htm
+
+It would also be great if you could put your Paradox offsets into the Files section. I think many people would benefit from them.
+
+Bill Longyard
+
+
+----------------------------------------------------------------------------
+Yahoo! Groups Links
+
+a.. To visit your group on the web, go to:
+http://groups.yahoo.com/group/paradoxbuilders/
+
+b.. To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+c.. Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. 
+
+
+---
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.550 / Virus Database: 342 - Release Date: 12/11/2003
+
+
+------------------------------------------------------------------------------
+Yahoo! Groups Links
+
+a.. To visit your group on the web, go to:
+http://groups.yahoo.com/group/paradoxbuilders/
+
+b.. To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+c.. Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.

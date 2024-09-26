@@ -1,0 +1,18 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 29 Jul 2003 08:49:47 -0000
+Subject: Re: HAM savvy?
+
+WOW! Pactor III! Something about which I may only dream, as the price is way too much for me. Thanks for the heads up on that. Maybe the technoweenies will be dumping their cool, but obsolete Pactor IIs. I don't even own a DVD player yet. I'm sure that as soon as I get one, the next format will arrive.
+
+Weatherfax is really easy and cheap. I knew several people who were experimenting with freeware, using their laptop soundcards. I used a demodulator and software, which worked great. I could have used my Kam Plus, but never had the need. Weatherfax can be had from a cheap shortwave receiver. Just plug the demodulator, or TNC, or computer cable into the headphone jack.
+
+Regarding the legality of Ham for Marine SSB, you are correct that it is technically illegal, however there are freq filters which can be installed inside today's Ham rigs which will tighten the on-frequency requirement of marine SSB. This works in practice, if not to the letter of the law. 
+
+I most recently used an Icom M700pro which was a legal marine SSB, with the added capability of amateur freqs. It was a fantastic rig, though quite basic. My biggest complaint was that there were no facilities for decreasing power output (nice for digital modes). I've been eyeing the Icom IC-706MkIIG for a while, but there will likely be something else out there by the time I get around to getting another rig. 
+
+TelMex runs a real racket. $1.00USD/minute from Mexico to the States (1999-2000). Perhaps they've decreased since then. I'm certain that many other nations exhibit more honor in this respect.
+
+The Amateur Radio exams are nice things to work on in the NW wintertime: a mug of hot cocoa and the rain pelting the windows. The internet study aids are WONDERFUL!!! The code requirements were decreased considerably, a few years back.
+
+DC

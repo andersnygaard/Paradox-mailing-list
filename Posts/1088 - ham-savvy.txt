@@ -1,0 +1,23 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: HAM savvy?
+Date: Sat, 19 Jul 2003 17:59:30 -0000
+
+I know that Dave and Mindy have used an Outbacker antenna aboard
+Little Cruiser. I don't have any experience with this antenna, but I'm
+sure that provided it is kept clean, and lowered while underway, it is
+a fine solution.
+
+It seems like the lightning protection system of the Paradox design,
+would lend itself well to a multiband HF rig with an auto tuner. The
+groundplane is already there.  Just fasten the leadwire to the metal
+installed in the mast. Right? This assumes of course, that the
+lightning protection would be disabled for radio operations, and
+enabled for lightning prone situations. I imagine that the auto tuner
+could be a significant source of reserve floatation if it were
+properly sealed and fastened as high as possible on the forward face
+of Blkd #2.
+
+Thoughts?
+
+DC

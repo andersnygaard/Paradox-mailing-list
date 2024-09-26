@@ -1,0 +1,7 @@
+From: "stephendyahn" <yahns@wavecable.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 27 Feb 2012 23:27:31 -0000
+Subject: Re: CA?
+
+I'm just making a guess here. Matt may have chosen CA over CLR because the lateral resistance of the chine runners is a bit murky. We all know its there and works well but the formal engineering implied by CLR is something hard to backup or precisly define. So therefor matt put in CA as that is definable. I repeat this is just my surmise.
+Steve Yahn

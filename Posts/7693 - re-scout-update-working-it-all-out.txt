@@ -1,0 +1,19 @@
+From: John Starkie <john.starkie@talk21.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 1 Oct 2013 08:18:51 +0100
+Subject: Re: Scout Update... Working it all out...
+
+GPS gives Course over the Ground, as you rightly say: it will give a misleading tacking angle because you are tacking through the water, not over the ground. To measure tacking angle you need a compass.
+
+I'm not sure why adding an engine changes your lighting requirement? Paradox is less than 7 metres and capable of less than 7 knots (unless you're adding a silly-big engine) so an all-round white is OK. IRPCS Rule 23, d, is quite clear, as is Rule 25. Incidentally, Rule 25 doesn't explicitly allow your sailing boat to use an all-round white, but perhaps the implication is there! Since you are clearly (and quite rightly) a stickler for the Rules, do you carry a black ball (Rule 30, a) and a black cone (Rule 25, e)?
+
+http://www.dft.gov.uk/mca/msn_1781-2.pdf
+
+Of course, it's possible that your local harbour rules modify the IRPCS, but I doubt it.
+
+Are you using a real yuloh or a sculling oar? Slieve McGalliard has some useful information about the yuloh: http://www.junkrigassociation.org/slieve
+
+John
+
+PS
+All of the above is intended to be friendly and helpful, not critical.

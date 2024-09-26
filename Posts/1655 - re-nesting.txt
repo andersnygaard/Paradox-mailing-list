@@ -1,0 +1,12 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 30 Dec 2003 09:44:54 -0500
+Subject: Re: nesting
+
+Great program. I'm glad you mentioned it Glen. In fact, are you aware that Hulls files can be imported into to AutoCad? Check out this page because it might make things simpler.
+
+http://webpages.charter.net/rickmalagodi/Hulls%20to%20ACAD%20Tutorial/Hulls%20to%20AutoCad%20in%203%20Easy%20Steps.htm
+
+It would also be great if you could put your Paradox offsets into the Files section. I think many people would benefit from them.
+
+Bill Longyard

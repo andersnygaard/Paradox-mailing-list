@@ -1,0 +1,34 @@
+From: "Deric Tallman" <ftallman2000@yahoo.com>
+To: paradoxsailboat@groups.io, Jeff Patterson <Coppotter@gmail.com>
+Date: Tue, 21 Jun 2022 21:31:47 +0000 (UTC)
+Subject: Re: [paradoxsailboat] Shaping Rudder Blade
+
+Hello Tony,
+
+I own Don's paradox and I modified the rudder.
+I built up the leading edge with g flex epoxy because the rudder occasionally acts like a depth finder.
+Now it can take a hit on a rock and not have water seep into the wood of the rudder. This means the that the accuracy of the measurements of Don's rudder are no longer to spec.
+If there is a loss on speed it's not noticable but the rudder is robust.
+The flat edge of the rudder is about .25 of an inch width.
+I'm sharing so you have more information to help you in problem solving and decision making.
+
+Regarding the tapering of the rudder.Guide lines, like contour depth lines on a chart can be used to create a taper.
+For the most part, the rudder Don made is basically a flat blade. It's not dynamically shaped as one might image.
+Just some info. Hope it helps.
+
+Deric
+
+
+On Tue, Jun 21, 2022 at 17:05, Jeff Patterson<Coppotter@gmail.com> wrote:
+I would look for a catalogue of NACA airfoil sections. Find one that closely matches your design parameters; and then use that template to make full size patterns or gauges to form the rudder.
+Jeff
+
+
+On Tue, Jun 21, 2022, 12:12 PM <tony1mind@gmail.com> wrote:
+Hi All, building a Paradox in Thailand. Im loving Dons guide but totally baffled by the guide on Shaping the Rudder blade if someone could please set me straight.
+
+The leading edge should be a radius; (What size is the radius diameter? )from the tangent of that radius the line curves to the blades maximum thickness, which is approximately one third of the way back from the leading edge,(I think I understand this, just want the leading edge radius size to start with) from there it should curve downward to end, not in a sharp tip, but a small flat at the trailing edge. (Curve downward to a small flat, what is the width of that small flat ?) To make the foil it's best to rethink the idea of it being a continuous curve, and think of it as a series of flats. The strange looking template is made to discover the peaks of the flats. (Peaks ? I see on Dons sketch "Mark this distance on the rudder blade for the firs Peak" What is that distance ? I see 2 other Peaks marked in the illustration, how to you come up with those peaks? what are the measurements ?)
+
+To make the blade, first make a series of flats, (Makes sense but I can't figure out how to mark those flats and peaks on the template or blade) connected to a round front. Draw the finished shape on cardboard full size. Matt provides the shape on Drawing #11. (Dont see any dimensions provided) Follow the steps in the illustration. (The shape has been exaggerated to make the point) Convert the curve to a series of flats, pick up the peaks, and transfer those peaks to the rudder blade. (Pick up the peaks ?) Draw lines with sharpie pen, the peaks on the blade surface. (Can't visualize how this is done)
+
+Is the shape of the rudder basically done by eye ? Would love any help you can give, thanks in advance. Tony

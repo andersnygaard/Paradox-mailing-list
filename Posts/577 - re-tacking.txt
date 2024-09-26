@@ -1,0 +1,59 @@
+From: LJGeib@aol.com
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: tacking
+Date: Fri, 12 Jul 2002 03:23:11 EDT
+
+
+David,
+
+you said:
+
+Larry, you're advocating that a boat have a lee helm? Noooooo! that's a recipe for disaster. A boat's helm should be neutral towards weather, so that if you let go of the tiller/wheel, she will (preferably slowly) head up into the wind. Otherwise, you risk a knock down
+
+I disagree. If a boat is stable heading into the wind when you let go the tiller it just won't tack. Yes, it should have a neutral or weather helm in the normal sailing angles to the wind (maybe 50 degrees off the wind) when it is under way, but not when it is not moving and pointed close to the wind. with enough weight foreward, it will NEVER fall off, but will merely drift backwards downwind.
+ Think of a badmitton shuttlecock. These things come about *REALLY* well, and it is because the weight distribution relative to lateral plane is very favorable to tacking. 
+Look at Gavin Atkin's RULES for designers. NONE orf them recommend a sail plan aft of the center of displacement and lateral plane of a boat.
+
+
+ The design in question, a Paradox, is Known to function properly when trimmed and sailed by others. Think about the actions you had to take to get a boat in irons or at anchor to fall off on a tack. You probably spent a lot of time backwinding the main or paddling inefectively to get the boat to come about. Once you gain some foreward momentum, the major lateral planes of the boat come into play. at this point, I agree, a neutral or weather helm is 
+what you are striving for. A lee helm is harder to recover from in (some) dire conditions. weather helm is certainly safer if you tend to react like a deer in the headlights to a Knockdown. I don't think neutral helm is any 
+safer than slight to moderate lee helm, you're still going over.
+
+On the other hand, think about those inspiring books by Francis Chichester and others. Those force 10 conditions came up and what did they do? They let go the tiller, maybe threw some warps over the stearn and let the boat have 
+its head DOWNWIND. They didn't fight a lee helm due windage of the bare 
+poles foreward.What caused this stable condition? Mass well UPWIND of windage 
+or really strong (total) lee helm.
+
+ The aforementioned situation I described with the babes (Ah yes, I will die 
+with a smile on my face :-) was a catamaran that sailed just fine until I 
+tried to bring it about, and then absolutely would not come about until I 
+ordered some of my "crew" aft. People on the dock 50 yards away were waving 
+Teqila's at us and I couldn't tack up to it until a lightbulb went of and I 
+gave the redistribution orders.. That's why I remember the lesson so well!
+On this boat is was pretty easy to see the effect because it was lightly 
+loaded with respect to its windage and the crew comprised a major portion of 
+the total displacement of the boat..Previous to this I sailed (other peoples) 
+large displacement boats that had crew weight as a very small component of 
+total mass. I had never really thought about what it was that made a boat 
+come about because all the trimming had been done for me by the designer of 
+the boat. he placed the lateral trim of the boat's lails AHEAD of the lateral 
+plane of the hull and its mass. 
+
+Another thing to consider-- Weather helm is often caused by the change in the 
+immersed hull shape as a boat heels. The (skinnier) bow is driven down into 
+the water , or rather the stearn is lifted relative to it, and the immersed 
+profile becomes asymetrical. This is what causes weather helm.  This more 
+pronounced in beamier 
+boats and tends to mask weight distribution effects.I venture that some 
+fat boats could be very badly trimmed and still have weather helm.
+On a paradox this effect would no doubt be lessened. because it is not so beamy.
+
+Do an experiment. Take your normally trimmed boat and but an extra 500lbs.in 
+the bow and sail it, then put that same weight in the stearn. Sail it a lot, 
+tack it a lot. Do large, sweeping tacks, especially slowly. try to tack 
+upwind right off a moring under both conditions. Get back to me after that 
+and we'll discuss the results. Weather or lee  helm at speed is more a 
+function of lateral planes of the hull and sails and hull shape than weight 
+distribution, with tacking it is the reverse.
+
+Larry

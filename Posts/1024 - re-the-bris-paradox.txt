@@ -1,0 +1,14 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: The BRIS Paradox
+Date: Fri, 20 Jun 2003 17:34:00 -0000
+
+Thanks for your kind welcome,
+
+Divinycell comes in several densities. The type used by Sven is called H60, where "60" stands for density 60 kg/m3 (i.e. 0.06). This is also what I use, except for bulkheads (H100) and rudder (H200). So, there is very little weight here, which is to be expected from the core material in a sandwich construction. The lamination, though, is quite heavy. The glassfibre cloth specified by Sven is 630 g/m2 and the polyester 213 g/m2. The cloth "swallows" about the corresponding weight of epoxi. Thus, a double glassfibre laminate weights about 4x630=2520 g/m2. Then add perhaps an extra epoxi layer with filler to get a nice finish, then some extra epoxi still, because it is not easy for an amateur to soak the cloth with the amount epoxi that the manufacturer thinks should be enough, 1.5 kg/m2 for the Divinycell and I end up at about 7.5 kg/m2 for my 15mm bulkheads, e.g. Which roughly equals the weight of the 12mm plywood specified by Matt, assuming a density of 0.62, which the sheets I have lying in my shop happen to have. Then, lots of timber are excluded (45x45mm, e.g., weights about 0.87 kg/m). On the other hand all bulkheads and dividers etc. must be taped to sides, bottom and deck with extra cloth and epoxi. On the other other hand, the insides of sides and deck will be single laminated, etc., etc. The bottom line is: it's not easy to calculate weight, but "my" Paradox will probably be lighter than the original.
+
+Concerning photos, bulkheads are perhaps not much to show. I have some pictures though, it's only that my digital darling daughter who is in charge of that department has moved from home (sob) and I need her help. I'll try to upload some later on.
+
+Today we celebrate midsummer nights eve. It's not the astronomical midsummer, but our beloved parliament thought some years ago that our economy would benefit if midsummer day always occurred on a Saturday.
+
+Kjell Karlsson

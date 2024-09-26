@@ -1,0 +1,33 @@
+From: paradox@as6jg.freeuk.com
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 17 Oct 2019 11:56:05 +0100
+Subject: Re: The end is nigh...again!
+
+I'm still here, and will follow where you lead.
+
+But, I really hate web based systems, so would probably only contribute if the system included email.
+
+Thanks for your efforts.
+
+On 16 Oct 2019 at 21:16, paradox@mattsplatt.com [paradoxbuilders] wrote:
+
+It turns out there's an API I can hit directly with a script. :-)
+
+I've got 80% of the messages downloaded already, and I think the
+files/photos/etc will be easy too. I have it running with a few
+seconds delay between requests so it doesn't get blocked.
+
+This will get everything in a database format I can make direct use
+of, so I'll see what I can cobble together in terms of an archive and
+forum we can all continue to use.
+
+How many of you are still here, and will use such a thing if I create
+one?
+
+--
+Sail when you can, row when you must, motor only
+when you have to be at work in the morning.
+
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

@@ -1,0 +1,60 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 27 Nov 2003 20:05:26 +0000
+Subject: Re: Mast Construction help
+
+To:             	paradoxbuilders@yahoogroups.com
+From:           	"Paul" <kayaker37@hotmail.com>
+Date sent:      	Thu, 27 Nov 2003 00:10:30 -0000
+Subject:        	[paradoxbuilders] Mast Construction help
+Send reply to:  	paradoxbuilders@yahoogroups.com
+
+
+This had me puzzled for a while too.
+
+No! The left is the front, rotated about line labelled 86
+
+In the plan there are 3 uprights shown with wood grain. The left one 
+is the section of the front of the mast. The centre one is the section 
+of the rear of the mast. These two together represent the side view 
+of the mast. The third one is the section of the side cheek. Only 
+one is shown as they are symmetrical about the line marked CL.
+
+If you cut the plan up the 500-900-900-900-800 line this may 
+become clearer. on one piece is a side view section, on the other 
+is the stbd half of a rear view section.
+
+The dimensions down the left are the full width of the mast fore-aft. 
+Next across are dimensions on the wood. These are the thickness 
+of the wood and are the same for both fore and aft timbers, which is 
+why there are no dims on the aft timber.
+
+The dims on the wood to the right are the thickness of the port &amp; 
+stbd timbers. The remaining dimension is from the centreline to the 
+inside of the timber.
+
+The bottom 500mm of the mast is shown both parallel (86 
+dimension, dashed line) and tapered (not dimensioned) as this will 
+be cut down to fit whatever size the socket in the mast step turns 
+out to be.
+
+To assemble follow Dons advice. Lay the rear timber on it's back 
+(which is straight) and glue on a side piece. When cured bend and 
+glue the front timber. Make the end plugs, fit wires etc and then 
+glue on the other side. Finally round off the corners.
+
+A tip for fitting the mast. I made the mast step and the vent trunk 
+(with one side removable) attached to bulkhead 2 before 
+assembling the hull. This allowed me to set up the mast and 
+bulkhead horizontally, on trestles, while fitting the mast to the step 
+and partners. Useful if you have to work indoors and don't have a 20 
+ft high roof. When the deck is finally on just cut the hole to match 
+the partners.
+
+I hope all this makes some sort of sense. If not come back and we 
+will try again :-)
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

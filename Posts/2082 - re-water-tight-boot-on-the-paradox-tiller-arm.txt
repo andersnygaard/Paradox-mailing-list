@@ -1,0 +1,12 @@
+From: "boat142" <robertplabbe@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 14 May 2004 12:11:16 -0000
+Subject: Re: water tight boot on the Paradox tiller arm
+
+What was being discussed by DC was keeping a parachute sea anchor 45 degrees off the starbord side of the bow. You cannot do that if you raise the rudder, as you need to keep the rudder in a continuous 45 degree port turn to keep the boat off axis from the parachute sea anchor; This is equivalent to continuously keeping the boat in turn and I said that it would continually stress the rudder by the force of a 14' long moment arm (from the ow to the rudder). Has the rudder assembly been designed to sustain the stress of a 30 hour long left turn ? 
+
+It you tie from the bow, you should have a look at the main ventilation port, on the deck in front of the windshield; Since the bow his designed to not climb on the waves and has very little boyancy, if you do not do like DC and keep the boat 45 degrees off axis, your bow will dig into the water, the incoming sea will hit the windshield and flod the mainvent trunk; The trunk will overflow by great quantities of water; This water, because your drogue/anchor is pulling the boat into the wave, will flow to the forward stateroom, away from the bildge pump, will further sink the bow, in an operation similar to the seamen running to the front of the submarine to assist it in its dive. 
+
+The more the bow will sink, the greater the angle of attack of the main vent port will be in face of the incoming sea and the greater the water ingress will be, in an accelerated maner. Althought Paradox was designed to be boyant, I am not sure that the calculations took into account the force of a line pulling it down under by the bow, where there is about no boyancy, at least much less then at the wide stern ... In face of this situation, you will have to push the sliding hatch FORWARD into the incoming sea, crawl to the bow to CUT the anchor/drogue line; Then you will be catapulted backwards, your backboen most likely hiting the opened sliding hatch -
+
+Cheers, Robert

@@ -1,0 +1,15 @@
+From: "openboat@as5jg.freeuk.com" 
+To: paradoxbuilders@yahoogroups.com 
+Subject: Re: Outboards and fuel storage onboard Paradox 
+Date: Sat, 12 Apr 2008 11:41:19 +0100 
+
+Hello folks,
+
+I'd just like to point out - though I'm sure that you already know - that batteries when being charged up give off highly flamible/explosive Hydrogen gas.
+
+The sensible solution, for boat use, is to pay the extra and get a sealed battery (Gell Cell or AGM). My AGM has no vents at all and claims it can be mounted at any attitude, and will work under water (though I hope never to test that particular claim).
+
+Hoping for calm nights,
+Al
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

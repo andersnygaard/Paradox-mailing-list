@@ -1,0 +1,20 @@
+To: John Doe 
+From: Jane Smith 
+Date: September 23, 2021 
+Subject: Meeting Recap 
+
+Hi John, 
+
+Thank you for meeting with me yesterday afternoon to discuss the upcoming project. It was great to connect and talk through some of the details.
+
+As a follow-up to our meeting, I wanted to recap some of our discussion points:
+
+- Project timeline: We agreed to aim for a completion date of November 15th and identified some key milestones along the way. I will be sending you an updated project plan within the next few days. 
+- Budget: I will be working on a more detailed budget breakdown and will share it with you soon. 
+- Team Roles: We discussed team roles and determined that your team will lead the development and my team will focus on design. 
+- Communication: We touched briefly on communication channels and agreed to set up a weekly check-in meeting to keep each other updated on progress.
+
+Please let me know if I missed anything from our meeting or if you have any other questions or concerns. 
+
+Best regards, 
+Jane

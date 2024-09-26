@@ -1,0 +1,15 @@
+From: =?UTF-8?B?RnLDqWTDqXJpYyBCb3N0?= <frederic.bost@ienn.fr>
+To: paradoxsailboat@groups.io
+Subject: Re: mast
+Date: Wed, 09 Jun 2021 00:53:19 -0700
+
+Hi,
+
+On the drawings, you may find the sheet characteristics on page #1 and reef line details on page #9. Both are specified as 6mm or 1/4" Dacron on those drawings.
+I guess that halyard diameter should be the same, but I cannot find it on the drawings.
+
+On the other hands, the previous contributor is right to mention that the material list is specifying on item#25: 5/16" Dacron line for tiller, halyard and sheet.=C2=A0 1/4" Dacron for reef line.
+
+Hope it helps.
+
+Regards, Frederic.

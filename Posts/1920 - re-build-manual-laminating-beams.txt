@@ -1,0 +1,26 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 13 Feb 2004 04:20:50 -0000
+Subject: Re: Build Manual, Laminating Beams
+
+Glen and Al, thanks for the words of encouragement. Al, I've inserted a note on accuracy within the text. This will complete the "Laminating Beams" portion of the build manual. Any comments, criticism, thoughts? Fire away.
+
+DECK BEAM TEMPLATE:
+
+Jigging up and laminating the deck beams and cabin and hatch beams is a good place to get started with the construction of this design.
+
+See sheet #7, bulkhead #2. On this view, it can be seen that measurements have been provided to the TOP of the deckbeam, and that the "deck beam crown is typical throughout ship". This will be the basis for the development of the deck beam template, and the deck beam laminating jig.
+
+On the upper left corner of sheet #10, the camber will be found for the cabin and hatch beams.
+
+For the deck beam template, obtain a 200mm x 1220mm piece of suitable material (doorskin, or cheap 6mm smooth, light colored plywood, or...), and draw a base line and a centerline (CL) with a fine tip pen, such as a ballpoint. The base line should be 10-20mm below the top, and the CL should be in the center of the sheet. Mark out the 100mm divisions from the centerline. These lines should be drawn with the aid of a straight-edge and a square. Attention to perfection at this stage will be appreciated later on. 
+
+(NOTE ON ACCURACY): Careful execution of templates will insure parts consistant with the design. While a few millimeters difference may appear inconsequential in the finished product, some errors in boatbuilding become cumulative. An error incurred at the beginning of construction will often become an increased challenge as the work progresses. It is up to the individual builder to determine the level of fit and finish upon which to strive. As the builder gains experience, so too does the builder gain knowledge on the applications of various "tricks of the trade", or shortcuts.
+
+Measuring from the baseline, mark each 100mm division with the position of the top of the deckbeam. Make these marks as small as possible to insure accuracy. When both sides of the CL have been marked, stand back and look at the tick marks. They should appear symmetrical, with no obvious humps or hollows. There's certainly no harm in remeasuring everything to check your work.
+
+With a batten of sufficient length and flexibility, a fair line can be drawn through all of the deck beam tick marks. Place the template material on a supportive surface, like a bench or a flat piece of plywood on sawhorses. Hammer a brad into each tick mark, into the supportive surface below, while keeping a length of the brad above the surface of the template. The protruding brad will allow the batten to be sprung around the tick mark. A good batten is a terrible thing to waste, so do try not to pound a brad through your batten.
+
+Spring the batten around the brads and look for any obvious gaps between the batten and any brad. A brad or a weight will be needed at each end of the batten, to keep it from springing away. Make any fine adjustments to the brads or batten to achieve a fair and symmetrical line. When all looks well, mark the deck beam line on the template. Use a pen or mechanical pencil to keep the line as fine as possible.
+
+Leaving the line, cut out the deck beam template with whatever means you choose. Finish the edge with a sanding board or block, always mindful of the line. When the edge of the template has been completed, the line should still be visible as a mere sliver, and the edge should be fair and square. Mark the template as such so you don't mistakenly grab the material to use for another purpose later

@@ -1,0 +1,9 @@
+From: Susan Davis <futabachan@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Scarf joint?
+Date: Tue, 19 Mar 2002 15:04:05 -0000
+
+On drawing #6, there's a scarf joint specified just forward of bulkhead #3. Does this need to actually be scarfed, or can I get away with just using a butt block? It looks like the butt would be hidden behind the flotation/insulation foam....
+
+-- Sue --
+(and a hypothetical bottom butt would be hidden in the storage compartments or water tank)

@@ -1,0 +1,26 @@
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: larger paradox
+Date: Tue, 15 Dec 2009 20:38:53 -0800 (PST)
+
+Dear Group,
+
+I found an interesting short explanation about scaling up a boat by Michalak from Duckworks. He describes scaling up his AF2 sailboat into the AF4 Grand, http://www.duckworksbbs.com/plans/jim/af4/grande/index.htm
+
+Since the process would be similar for scaling up the Paradox I have posted the article here.
+
+AF4GRANDE, POWER SKIFF, 21.5' X 6.5', 700 POUNDS EMPTY
+
+Af4 Grande is a 20% scaleup of the original  AF4. Scaling a design can be interesting. If the design is scaled up by a factor of 1.2 as it was here then the areas of all the panels are increased by a factor of 1.2 squared (1.2 times 1.2) which is 1.44. With a plywood boat, if you keep the panel thicknesses the same as the original, you would expect the hull weight to also increase by that amount.
+
+In the case of AF4G that is about what I did. I used the same skin thicknesses that Max Wawrzyniak used on his AF4, 5/8" bottom and 3/8" elsewhere. He said the weight of the bare hull was about 425 pounds. So I would expect the 20% scaleup to weigh about 1.44 x 425 = 612 pounds. In this case, it isn't quite so simple and I'm guessing the bare AF4G hull would weigh about 700 pounds since the larger boat has built-in seats and another bulkhead and some thicker framing. By the way, I would expect the cost of the project both in labor and materials to increase in the same proportion as weight.
+
+With that weight in mind, we might add 120 pounds for a motor larger than AF4's 10 or 15 hp and a bit of fuel. So the minimum weight now is about 820 pounds. Let's add another 80 pounds of misc. gear and we're up to 900 pounds without crew. Add maybe 500 pounds for a small family and then we have an all-up weight of 1400 pounds.
+
+There seems to be a general rule of thumb for powerboats that it takes a horse for every 50 pounds of weight to plane, and then you need 28 hp for this boat. The Coast Guard gives advice about powering boats, and this one would max at 35 hp based on length, width, and the fact that it has a flat bottom which can be prone to handling problems if overpowered. On the other hand, this boat used solo and stripped might weigh in at 1000 pounds total and do quite well with 20 hp. In my experience with AF4, these hulls will plane with less than a horse for each 50 pounds. AF4 planes with about 7 hp at about 600 pounds total, a horse for 85 pounds. But if you try to plane it with 7 hp you have to run full throttle all the time. Better to run a 12 hp motor at 60% throttle. Using the same number for the 1400 pound AF4G, the 28 hp motor might plane the loaded boat at 60% throttle. All this is preliminary guesswork.
+
+Here is another interesting thing about the straight 20% scaleup. All of the volumes increase by a factor of 1.2 cubed (1.2 x 1.2 x 1.2) which is 1.73. So the interior volume of the AF4G is 73% greater than that of the AF4. Not only that but the volume of water the boat displaces can be in the same proportion which means it can be heavier by 73% and look the same in the water. 
+
+So scaling up a boat gives big increases in room and capacity. On the other hand, scaling a boat down can result in a shocking decrease in capacity. For example, if you were to scale down a 15' rowing dory by 20% to 12.5', you might expect the capacity to go from say 400 pounds to 230 pounds (400/1.73=230) and it quickly becomes barely a one-person boat!
+
+Construction is simple nail and glue like the original AF4. AF4 Grande needs nine sheets of 3/8" plywood and five sheets of 5/8" plywood. I don't think these boats need epoxy coatings if they are stored under cover. The chine corners need to be armored with fiberglass set in epoxy, and inner seams given a fillet of thickened epoxy to keep water from creeping into the seams.

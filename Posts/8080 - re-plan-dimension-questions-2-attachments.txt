@@ -1,0 +1,15 @@
+From: John Starkie <john.starkie@talk21.com>
+To: "paradoxbuilders@yahoogroups.com" <paradoxbuilders@yahoogroups.com>
+Subject: Re: PLAN DIMENSION QUESTIONS [2 Attachments]
+Date: Sat, 29 Nov 2014 09:56:46 +0000
+
+"all radius" except the crown of the desk?
+BH 3 needs two holes for the tiller lines.
+CL ht of transom on Drg 8:  459 plus 25mm deck beam
+
+It's normal (but quite wrong) to use a consistent curve for all the deck beams:  as the beam changes the ht of crown will change.   If you use the same radius the deck will not be fair,  the planks will not lie fair and you will need to shim and shave the beams.
+
+Best wishes,
+
+John
+Sailing at Brancaster

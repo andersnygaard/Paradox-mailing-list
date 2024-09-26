@@ -1,0 +1,22 @@
+From: "Chris Ostlind" <Chris@Wedgesail.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Fri, 10 Jun 2005 12:07:11 -0600
+Subject: Re: Mini Paradox
+
+Hi Ray,
+
+I don't think you're going to get anywhere near a level of resistance efficiency with runners on the inner surfaces of a cat's hulls. Here's why:
+
+The boat will typically not sail level unless it is in the very lightest of conditions and the rest of the time it will have one hull depressed more significantly than the other. The sizes of the runners on the inner surface of the un-weighted hull will be fully engaged in the surface turbulence as well as the bow wake of the other hull, making its benefit questionable.
+
+I would think that if you are planning on the resistance effect from both hulls in order to address leeway, you would be better off making the outboard runners bigger to compensate for the perceived loss of the runner structures on the inner hull surfaces.
+
+You'll have to calculate the average amount of heel from the forces on the rig and position the runners on the surface to take full advantage of the largest section of the operational heel curve.
+
+I'm sure you've seen beach cats in which a molded keel form is included as an appendage on the lowest surface of the hull. To me, these act in the same fashion as do chine runners as they remove the need for moveable (and vulnerable) structures such as centerboards and daggerboards. 
+
+If that type of surface was incorporated into your cat hull design, and the hulls were canted to bring them to optimum  angles in the widest variety of sailing scenarios, you would do away with the need for a board of some sort and still retain the beaching, hard ground stability, etc., that cats are known for.
+
+Designing for this potential is not any more complicated than drawing a flat hull once the benefit is addressed fully. You can still retain all the interior volume you wish without having to fiddle with boards and their trunks.
+
+Chris

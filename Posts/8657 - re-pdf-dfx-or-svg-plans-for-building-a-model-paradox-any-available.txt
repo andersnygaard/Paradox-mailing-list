@@ -1,0 +1,19 @@
+From: kbgwp@yahoo.com
+To: paradoxbuilders@yahoogroups.com
+Date: 11 Feb 2016 09:32:56 -0800
+Subject: Re: pdf, dfx or svg plans for building a model Paradox - any available?
+
+The plans for Paradox are mostly to scale. Printing and cutting them out can get you a paper model. The bulkheads are 1:5 scale and the hull is 1:10 scale so you would need to change the scale when printing which might be as easy as printing the bulkhead pages 2 per page. Not sure, I didn't try that.
+
+If you are a member of the Enigma sailboat group, you can download DXF files for the Engima 360.
+
+Enigma sailboat:
+https://groups.yahoo.com/neo/groups/enigma_sailboat/info
+
+Actually, now that I look, there are CAD files RIGHT HERE in this group's Files section.
+Paradox Builders:
+https://groups.yahoo.com/neo/groups/paradoxbuilders/files/Cad%20Files/
+
+I couldn't open the 3D one since I don't have a 3D CAD program but the 2D drawing opened with a free QCAD program.
+
+Brian

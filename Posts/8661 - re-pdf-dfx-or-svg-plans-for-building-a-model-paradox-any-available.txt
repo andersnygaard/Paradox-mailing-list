@@ -1,0 +1,9 @@
+From: kbgwp@yahoo.com
+Date: 13 Feb 2016 11:21:01 -0800
+Subject: Re: pdf, dfx or svg plans for building a model Paradox - any available?
+
+If the 2D CAD file would work, I scaled that drawing down to 1 tenth scale and then turned it into a PDF file put in the files section where the CAD files were.
+
+I didn't try this but it should work.  I used QCAD to make the changes and convert it to a printable PDF.
+
+Brian

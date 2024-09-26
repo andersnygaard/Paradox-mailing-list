@@ -1,0 +1,8 @@
+From: "Steve" <sdhender@sbcglobal.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 14 Mar 2004 23:43:12 -0000
+Subject: Beams and Bulkheads
+
+While working on the laminated beams, a thought occurred to me and I would like to get the opinion of some other Paradox builders and any others with design expertise. I've not yet marked or cut the bulkheads. So, what if I used my deck beams to draw the curvature of the top of the bulkheads, rather than drawing the bulkheads according to the plans and then trimming the beams to match the bulkheads? The difference will be slight as there is only about two mm of "springback" on each end of the beams when they come out of the form.
+
+Steve

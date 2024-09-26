@@ -1,0 +1,49 @@
+From: "stephendyahn" <yahns@wavecable.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 14 Apr 2010 17:36:46 -0000
+Subject: Re: Internal mast wiring
+
+There are many alloys of bronze. Sometimes they may be work hardened somewhat during forming in the mill. But in a general way no, heating won't cause weakening or sofening after heating and cooling. Or a very tiny amount, in any case. Steve
+
+
+From: randoneur <pdmartin@...>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 14 Apr 2010 14:43:41 -0000
+Subject: Internal mast wiring
+
+Thanks to both, a conduit of some sorts seems like the foolproof way ahead.
+
+
+On a different subject, does heating bronze rod (to bend it) cause it to become softer and/or weaker?
+
+I'm talking of the furling rod.
+
+Pete
+
+
+
+From: stephendyahn <yahns@>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 12 Apr 2010 20:03:23 -0000
+Subject: Re: Internal mast wiring
+
+I put a nylon tube inside my mast when I glued it shut. It is slippery and hard. I did this so I could easily change the wires someday if needed. It's 1/2 inch dia. I have not used it yet however.
+Steve Yahn
+
+
+From: randoneur <pdmartin@...>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 12 Apr 2010 17:42:23 -0000
+Subject: Internal mast wiring
+
+I'm sure this must be an old question, but as I'm about to add the final side panel to my mast I thought I'd better ask about what others have done about internal cables and, more importantly their entry and exit.
+ 
+I'm going to run a length of RG58 coax for a VHF antenna together with wiring for lights (may put 4 core in just to have a couple of spares!).
+Obviously these exit the mast at the top somewhere below the solid top section, and in a location which will not foul the halyard or the yard.
+ 
+At the bottom I can't see any easy way to route the wiring below deck level that won't seriously be a lot of hassle when inserting and removing the mast. I'm inclined to bring the cables out above deck and just bring them inside via the vent trunk. I can't say I've noticed what others have done. I'm also concerned about water ingress through either top or bottom entries. I suppose I'll just have to apply some flexible sealant.
+ 
+What do you think?
+ 
+Pete
+http://www.freewebs.com/paradoxbuild

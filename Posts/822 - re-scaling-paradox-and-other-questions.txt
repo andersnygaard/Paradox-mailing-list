@@ -1,0 +1,33 @@
+From: "mat_man22 <mat_man@ureach.com>" <mat_man@ureach.com>
+Date: Fri, 10 Jan 2003 06:40:06 -0000
+Subject: Re: Scaling Paradox and Other Questions
+To: paradoxbuilders@yahoogroups.com
+
+The general rule is that you can scale only the length + OR - 10% without problems. For anything larger, it gets much more complicated and it would be best to get a designer. A lot of designs can be found for larger sharpies.
+
+If I just "had" to use a larger scale I would follow the rule below.
+
+In "Principles of Yacht Design" by Lars Larsson, at the following link (at the bottom of the page) he talks about scaling up the length by 1.5 and the beam and freeboard by 1.33
+
+http://makeashorterlink.com/?L23531803
+
+is equal to:
+
+http://www.amazon.com/exec/obidos/tg/detail/-/0071353933/ref=lib_rd_ss_TT07/102-6352174-3465723?v=glance&amp;s=books&amp;vi=reader&amp;img=20#reader-link
+
+For chine runners on a larger design, you would not want to get too beamy because you need the correct amount heeling for the chines to work properly. Stability goes up by the cube of the beam.
+
+As a general rule, an external ballasted boat is more seaworthy than one with internal ballast.
+
+Have you seen Benford's 26' bilge keeled dory.
+
+http://www.benford.us/images/26-2.gif
+http://www.benford.us/dories/26.html
+
+I would like to see Sourdough, the 23' version.
+
+As a general rule, a dory is more seaworthy than a sharpie (with ballast). 
+
+Asbestos flame suit on, waiting for the flames....
+
+Mat

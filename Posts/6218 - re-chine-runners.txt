@@ -1,0 +1,114 @@
+From: "barrattneil" <barrattneil@hotmail.com>
+Date: Thu, 03 Dec 2009 23:39:29 -0000
+Subject: Re: Chine Runners
+To: paradoxbuilders@yahoogroups.com
+
+Hi Chris
+
+It was you who introduced me to Dave and Anke.I can't get the triloboats site to work,but from memory the boat has a flat bottom in its midsection and therefore the CR's had no curvature.Also recall the boat wouldn't tack with chinerunners alone,and its bow is well clear of the water.
+I think most of the pictures of the Enigma 360 I've seen show its bow touching the water(its past my bedtime already so I can't go searching)but those of the 460(and some of Swamp Thing)show them flying.
+I would guess you could trim a Robbsboat or Bolger sharpie so they would work with CR's,alhough then you could end up with a WLL shorter than optimal,maybe a CLR in the wrong spot and a whole snowballing of unintended consequences!
+I'm sure Layden,Bolger and Michalak all understand this a lot more than I do,so Chris,I will have to allow someone more knowledgeable than me to pass judgement!
+Cheers Neil   
+
+
+
+From: "TheM" <ccurtis-keyword-crusing.65bae6@...>
+Date: Thu, 03 Dec 2009 19:59:48 -0000
+Subject: Re: Chine Runners
+To: paradoxbuilders@yahoogroups.com
+
+The Triloboat chinerunners were close to the surface. Dave (the designer) even told me at one point he thought they did not work well because they were not deep enough. The Robbsboat has the same hull depth (when properly loaded) as the Paradox, and so I would expect that the CR's would work on her. I don't think the dragging bow has anything to do with the CR's. You may notice that the Enigma (both versions) now sports a Bolger flying bow (just like the Robbsboat, AS19, AS29, etc, etc). Ultimately, I think it is the heavily rockered (giving you some depth in the water) hull and the CR's in combo that provides the LWR. The real reason for not dragging your bow is easy tacking/turning in low wind conditions. It allows for a shorter WLL, hence faster tacking in ghosting conditions. When there is enough wind, it does not matter. The other side of that coin, is the pounding you get (when flying your bow) in big water. Everything is a freakin trade-off as usual.
+
+On Paradox, Enigma, and 460, the peak of the rocker is slightly aft of the center of the boat. This is to optimize where the CR's are doing their work. It may be that on the Robbsboat (it has a symmetrical rocker) the CR's may be a bot too far forward, again due to the rocker peak being somewhat further forward (than a Paradox, etc!).
+
+Just my opinion, it did not cost anything! If I'm incorrect, please enlighten me (in a civilized way if possible!!!).
+
+Chris Curtis
+
+
+
+From: "barrattneil" <barrattneil@>
+Date: Thu, 03 Dec 2009 19:38:05 -0000
+Subject: Re: Chine Runners
+To: paradoxbuilders@yahoogroups.com
+
+The chinerunner article is in the May 2009 archive on Svens site.
+The builders of the triloboat 16 tried chinerunners and found them to be ineffective.Some kind of intuition suggests that having the bow immersed is important for the boat to grip,which is of course impossible with a boxboat.
+I designed a chinerunner boat which was a scaled down Paradox/Enigma and would reach a similar depth of immersion with only my own 250kg weight.From memory it was 7ft 10ins long and 33 ins wide.I made a full size cardboard model and it fitted me OK but it looked very strange and highsided.I had a feeling it would be unstable because it would be impossible too get my weight low enough.Its a concept I still can't let go of though.
+Cheers Neil 
+
+
+
+From: "Nels A" <arvent@>
+Date: Thu, 3 Dec 2009 19:18:19 -0000
+Subject: [paradox] Re: Mother of all leeboards
+To: paradoxbuilders@yahoogroups.com
+
+I would be very surprised if chine runners would be  all that effective
+on a PDR, or even for that matter a Robbsboat. Matt has written an
+article about them for "Small Boat Advisor" and it was posted on Sven's
+website but seems to have been deleted now.
+ 
+From what I recall, they require a relatively heavy displacement hull
+with a fair amount of rocker amidships in a hull design that creates
+some lift by itself. Meaning it has a flat bottom will little flare on
+the topsides. So the hull itself aids in preventing leeway and the chine
+runners act as end-plates to provide even more resistance to leeway.
+ 
+If one is considering a light,  easy to transport design, those
+characteristics are counter intuitive in my view. A leeboard or
+centerboard are the most effective options, which I am quite certain
+both Matt and Michalak are well aware of.
+ 
+It was Phil Bolger who first demonstrated the effectiveness of
+end-plates on shallow rudders. They prevent the water flow off the
+rudder from passing downward and make the rudder more effective, by
+resisting that flow. He felt it would also work on the bottom of a
+shallow keel, but would be subjected to damage when grounding or loading
+onto a trailer. A "wing keel" also works but was banned in the America's
+cup.
+ 
+A  centerboard with an adjustable wing on the bottom that stays parallel
+to water flow as it is raised would be ideal, but the mechanisms to make
+that happen without jamming up if grounding with it down have been a
+challenge for designers.
+ 
+Nels
+
+
+
+From: "barrattneil" <barrattneil@>
+Date: Thu, 03 Dec 2009 18:27:50 -0000
+Subject: [paradox] Re: Mother of all leeboards
+To: paradoxbuilders@yahoogroups.com
+
+For a pd racer with a cabin look at the youtube video of Jason Nabors Tenacious Turtle.
+I think chine runners are the easiest leeway preventer to build.I had a leeboard break.I'm not sure how well chine runners would work on a box boat.
+A light boat like this is very easy to manoever on a small trailer.It is much easier than cartopping if you sail alone.
+Cheers Neil
+
+
+
+From: "ladycathyofwales" <catherine.james@>
+Date: Thu, 3 Dec 2009 18:55:15 -0000
+Subject: [paradox] Re: Bow floaters & Square cleats
+To: paradoxbuilders@yahoogroups.com
+
+The problem with your proposal, at least from my point of view,
+is that you are simplifying the parts that are already simple
+while leaving the hard parts hard.
+
+Chine runners still look to me like one of the harder parts
+of Paradox, at least in comparison with simple leeboards or a
+drop-down daggerboard a la PDRacer.
+
+On the other hand, I have no qualms about building a deck and
+cabin for a box-boat -- simple!
+
+Cathy
+
+sandinmytea wrote:
+> If you are interested in making it more simple than Paradox,
+> but not too simple, why not scale down the Paradox design a
+> bit and try an Enigma-like chine runner sharpie?

@@ -1,0 +1,9 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Sun, 28 Dec 2003 19:33:14 -0500
+Subject: Re: Stitch 'n Glue
+
+
+The windows could be make out of thicker material, but that isn't the best solution.  The best would be to make smaller windows, say three per side.  On a Siren 17 I had, which had long windows, I added aluminum angle support brackets on the inside middle of each one.  I attached the angle to the cabin above and below the window, and put a piece of rubber between the plexiglas and the angle to aborb some of the shock load.  If building from scratch I'd go the three window route so as to not have all my eggs in one basket.  Windows do get stove in.  (See Kenichie Horie's story as an example.)
+
+Bill Longyard

@@ -1,0 +1,10 @@
+From: "Glen Maxwell" <ifida@nefcom.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Stretch Paradox
+Date: Sun, 18 Nov 2001 15:45:06 -0800
+
+Hi Charles,
+
+Stretching was addressed in earlier posts, I think the pros and cons were well covered. Matt say's just multiply by the enlargment factor (15 % in your case). you shouldn't have any problem until you exceed 25% and then you will have to rethink bulkhead placement and scantlings. If you have a copy of Dave Gerr's "Elements of Boat Strenght" you can follow his scantling recomendations. Hope this helps.
+
+Tailwinds Glen

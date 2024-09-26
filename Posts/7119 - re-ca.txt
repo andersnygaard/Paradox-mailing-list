@@ -1,0 +1,37 @@
+From: John Gilbert <gilberj55@yahoo.ca>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 15 Mar 2012 22:39:15 -0700 (PDT)
+Subject: Re: CA?
+
+Nice to hear from you Dave. You are one of the resident experts and the only one who knows Matt personally, and has sailed several of his boats. I for one miss having you around to comment, and miss the fairly regular blog updates you used to make. Life changes and all that I understand but I still miss seeing what you have to say.
+
+From: boldav38 <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com 
+Date: Thursday, March 15, 2012 3:12:37 PM
+Subject: [paradoxbuilders] Re: CA?
+
+I don't believe Matt had to make any changes to Elusion's rig because the chine runners on the newest boat are similarly long to those on Paradox, and of course he is very familar with that design. I noticed this detail right away when I saw Elusion for the first time at Fort Desoto, Florida in 2010 and I had Enigma there for comparison on the same beach. Of course it could be just luck that he got it right, and I did notice that Swamp Thing also had her mast raked back somewhat too. However, I'm not sure if this was done later. Incidentally, I'm still working on getting Swamp Thing back on the water so that I can see how she sail compared to her sister ships. One thing I changed was to add 1/4" to the width of the chine runners. This modificatione was suggested to me by Matt, and I'm curious as to what improvements it will make to the original design. 
+
+Dave
+
+In paradoxbuilders@yahoogroups.com, John Gilbert <gilberj55@...> wrote:
+
+> I think Matt got the balance about right on Paradox more by chance (educated guess) than anything else. I note the Enigma 3.6 and 4.6 both had to rake the mast aft considerably to get balance, and these modifications were made after initial sailing trials. It seems Matt was not entirely clear himself on the various relationships between the Lateral Resistance of the hull, rudder and Centre of Effort of the sail. I do not know if there was the same problem with the Elusion.
+
+From: davidandrewallen <dallen@...>
+To: paradoxbuilders@yahoogroups.com 
+Date: Friday, March 2, 2012 8:12:39 AM
+Subject: [paradoxbuilders] Re: CA?
+
+That's it! Thanks Jeff.
+
+You were right, I did not take the rudder into account. And yes, the centroid moved forward approximately 50 mm with the hull heeled about 25 degrees.
+
+So this seems to be what Matt did. His CA seems to mean the Center of Area, including the rudder, when the hull is heeled 25 degrees or thereabouts.
+
+Thanks,
+David
+
+--- In paradoxbuilders@yahoogroups.com, Jeffrey Michals-Brown <JMichalsbr@> wrote:
+>
+> Just out of curiosity, did you take the rudder into account in determining the centroid?  I'd expect the centroid to move forward with heel as the amount immersed hull side increases without change in the rudder area.

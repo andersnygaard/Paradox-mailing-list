@@ -1,0 +1,12 @@
+From: creditscorenz@yahoo.com.au
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Ballast Tanks Thought Experiment
+Date: 29 Feb 2016 11:16:15 -0800
+
+After thinking about this a little more, I would drill the ballast tank wall on a slight downwards angle and extend the pipe right across the tank to exit near the inside wall at the tank bottom. That way when the boat is heeled 90 degrees or more the pipe will no longer be in the water and there wouldn't be much pressure on the expandable plug. As long as the pipe is reasonably rigid (and larger diameter pipes are generally more rigid) it should stay on the tank floor without floating upwards over time. I guess I could use epoxy and tape to secure it to the tank bottom anyway. 
+
+---
+
+In paradoxbuilders@yahoogroups.com, <creditscorenz@...> wrote:
+
+2. Install large diameter pipe (I'm thinking 32mm or 1.25 inches) flush to the inside of the tank wall using a gentle curve into the tank. Thread a garden hose (18mm or 3/4 inch) down through the large diameter pipe and use that to fill the tanks.  Filling the tanks to overflowing and then withdrawing the garden hose will allow the water level to drop enough to cap off the large diameter pipe.

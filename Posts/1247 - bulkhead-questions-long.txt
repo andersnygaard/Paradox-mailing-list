@@ -1,0 +1,45 @@
+From: "Paul" <kayaker37@hotmail.com>
+Date: Sat, 08 Nov 2003 04:55:29 -0000
+Subject: Bulkhead questions (long)
+To: paradoxbuilders@yahoogroups.com
+
+I have started studying the plans to make sure I understand what is involved in building Paradox. I have Don's Building Paradox articles, but these are more specific beginner's questions, as I have only built a few kayaks, and these plans are much more involved.
+
+Bulkhead 1:
+
+- I assume "Bottom Bevel left standing" means an "outy" bevel. I would follow Jim Michalak's advice in his "Bulkhead Bevels" article in his newsletters. Basically bevel the cleats, and not the plywood. This leaves a small missing triangle of plywood where the extra material should have been, but he just fills the gap with epoxy, basically to seal the end grain. 
+- The bottoms are beveled but not the sides?
+- Is the plywood curved, but the cleat straight? Is the plywood curved out and the cleat straight so we don't have to bevel the cleat?
+- On Bulkhead 1 is the opening curve dimensions marked somewhere or do you just roughly cut a rounded shape staying within the rectangular box dimensions shown? I ask because Bulkhead 2 gives a radius of 100mm to the curves. Or just scale up from the sheet?
+- Do the cleats go under the deck beam, or the deck beam between the side cleats? I guess I would laminate the deck beam longer and trim back to the plywood edge, thus going over the cleats. Since there is a cutout for the sheer clamp, I guess it doesn't make much difference.
+- Little Jim's web page shows vertical cleats that are not on the plans?
+
+Bulkhead 2:
+
+- What is a Limber hole? Is this for drainage? Any particular radius, or whatever looks right?
+- There is a 6mm "ply scab" shown. But there is a cleat shown over it. Is 6mm of ply removed from the 12mm ply bulkhead so the "scab" can fit into it, so the cleat fits flush over this? 
+- The tiller rope holes are marked 25 followed by a o with a / through it, as well as a smaller wiring hole. What does the symbol mean,and what should the radius be of the wiring hole? It has the same dimensions, but is smaller.
+- The vertical cleats are beveled on top, I assume for safety reasons. 45 degrees sound right?
+- There is a V shaped piece of filler wood between the V shaped cleats. Should that be ply or hardwood?
+- 2mm dados? I assume that's a slot to slide in dividers. Seems very small? Probably makes more sense later on.
+- The 19mm wide dado is 1mm away from the centerline? Marked at 20mm line.
+- The vertical cleats on the forward face stop short of the bottom. Any particular distance?
+
+Bulkhead 3:
+
+- No side cleats?
+
+Bulkhead 4:
+
+- No side curve. Why are the sides not beveled then?
+
+Transom:
+
+- Looks like a side curve, but no dimensions indicated? It says "bevels left standing" and points to bottom and sides. If the sides are beveled here I don't understand why the sides of the bulkheads aren't beveled.
+- There is no dimension for the height of the deck beam, but since the deck beams all have the same curvature, this should be easy to figure out. I get about 57mm. Laminate all deck beams first, then cut plywood to match?
+- What is the shape of the tiller opening? There is a small drawing of the back of the boat with a kidney shaped opening.
+- In Don's article he mentions cutting a cleat to clear the insulation. What cleats need to be cut?
+- What is a carline?
+
+Getting overwhelmed,
+Paul

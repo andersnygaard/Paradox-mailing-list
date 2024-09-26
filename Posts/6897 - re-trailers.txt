@@ -1,0 +1,38 @@
+From: "openboat@as6jg.freeuk.com"
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 13 Jul 2011 21:27:04 +0100
+Subject: Re: Trailers
+
+It sounds as if your wish list is much the same as mine was. My trailer works ok, except for loading the boat back onto the trailer on soft ground (mods are in the pipeline to fix this).
+
+Come and have a look at it and I will explain the finer points.
+
+
+On 12 Jul 2011 at 21:14, james hall wrote:
+
+Hi Folks
+
+Not often I post on here so I'd better introduce myself first. I'm the chap who bought Faith from Bill Serjeant a few years ago and I'm based in the UK. I don't qualify as Paradox builder but am a Paradox user, so I hope that you'll tolerate me on here.
+
+I'm hoping to get a week or so on the water next month and have been checking over the boat to get things ready. This morning had a good look around the trailer and was horrified to find that the 'axle beam', a hollow galvanised square tube which runs across the trailer and connects the suspension units together has a serious longitudinal crack at both ends. It's as though the rubber suspension medium has tried to expand and has burst the square tube open. I presume that it's s consequence of the torque applied due to the weight of the boat. The trailer is rated by the manufacturer at 750 kg and is loaded to very nearly that, so is working at near its full capacity. I've welded a steel plate at each end to strengthen it, but the metal is very thin and where the welding heat has burnt the galvanising, off the corrosion will get going and I reckon that the end of the road is nigh.
+
+The 'indispension' units are so stiff that they give hardly any springing, so the ride is very harsh. If you jack the frame to take the weight off the trailer wheels and let the jack down sharply there is no perceptible movement of the 'suspension' arm. When arriving at the end of the journey the contents of the boat are scattered about everywhere, as if a bomb has gone off. Such a hard ride can't do the boat structure any good either. I'm sure that the hardness of the ride has contributed to the cracking on the axle. The only merit that I can see in these 'indespension' units is that they provide a quick and convenient bolt on method of making a trailer. In use on the road they're dreadful. 
+
+So, the time has come to make a trailer. I took the rear axle unit off a scrap van that I had in the yard and hope to use that as the basis of my new project. I've put a few pics on photos section so that you can see what the axle looks like. You'll notice that the axle beam is dropped below the hubs to give a lower load height . Unfortunately, the distance between the springs is slightly less than the Paradox's beam so it won't be possible to fit the boat between them. The vehicle from which the unit was taken was designed to carry a ton, so the load rating will be about right and I'm sure it will give a nice soft ride.
+
+I'm seeking ideas for this trailer project as I've never made a boat trailer before. It would be nice if things could be arranged so that the boat could be slid or rolled off the trailer even if there was no water, so I could launch on the beach when the tide was out. Also it is important that the boat can be launched or recovered without dunking the wheels and brakes when on a ramp, so needs to able to slide off rather than float off. If you have suggestions for achieving this that would be helpful. Are rollers better than bunks? Would bunks covered with slippery plastic work better? Is a breakback design with a hinged section worthwhile?
+
+Btw, I tested the strength of the rudder today. Was thinking that if the boat was unloaded onto dry land stern first, the rudder might have to support the rear end of the boat on the ground while the bow was being slid off the trailer. Jacked it up to give it a strength test. It just creaked a bit while it slid up slightly on the pintles.. So success - the rudder can take it,
+
+
+Looking forward to your thoughts
+
+Jim Hall
+
+--
+
+Hoping for calm nights
+
+Alastair Law,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

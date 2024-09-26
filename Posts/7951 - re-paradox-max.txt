@@ -1,0 +1,10 @@
+From: <phil_e.stine@yahoo.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: 11 Mar 2014 17:15:51 -0700
+Subject: Re: Paradox Max
+
+Graeme,
+
+I don't agree with you on that 40% increase in the height of the sail center of effort. The 40% is the increase in sail AREA, not in the vertical dimension, which is 20%. The COA will shift aft somewhat as well, but I can't calculate the exact distances without the sail dimensions. Also, I believe that the actual increase in COA height will be slightly less than 20% due to the shape of the sail.
+
+Also, it appears that you were using 170% as the proportional increase in length and for the overall dimensional changes in the rig rather than the 120%.

@@ -1,0 +1,24 @@
+From: Peter Martin <paradoxpete.pdm@gmail.com>
+Date: Tue, 28 Jul 2015 18:50:02 +0100
+Subject: Re: Sail rigging
+To: paradoxbuilders@yahoogroups.com
+
+It sounds like something is binding in the roller mechanism. The position of the boom should be irrelevant as it's connected through a universal joint.
+Does the boom rotate freely in all positions?
+Do you have the retaining screw in place to keep the boom on the furling strop? (I don't).
+Is it binding?
+
+A topping lift will make everything so much easier as it takes the weight of the boom off the halyard.
+I'd recommend giving one a try. Most people use one.
+
+Here's a good example of how the topping lift is set up (and a nice furling demo too):
+https://youtu.be/_tW_E6L2xoU
+
+From your description, it sounds like the attachment point to your yard is too far forward.
+Do you have the correct taper on your boom?
+
+Furling is definitely an acquired technique; you have to juggle both halyard and downhaul tensions at the same time. Once you have it however it should become straight forward.
+
+Keep playing!
+
+Pete

@@ -1,0 +1,26 @@
+From: okiebobby@ymail.com
+To: paradoxbuilders@yahoogroups.com
+Date: 20 Sep 2015 14:51:05 -0700
+Subject: Tortured Plywood rendezviews with Stem.
+
+Okay the side panels have been bent into place. As far as I can tell, everything is within 1mm of where it is supposed to be before installing the stem. Everything is lashed down tight.
+
+It's raining, and I've taken a break before remaking the stem. While waiting for a weather window, I thought about sharing some rookie mistakes. Please keep in mind: I'm building to 85% of scale. Am not good about staying within the lines. And have never built a boat before.
+
+This should have been obvious, but I was not expecting the panels forward of bulkhead #1 to bulge out like a pregnant women. Granted I'm using 3/8" panels instead of 1/2", but I bet 1/2" would still flex some when squeezed by a Spanish windlass or similar strap (I originally used ratcheting tie-down straps). As the strap constricts it moves from being a rectangle to an oval; the panels are forced to conform to this shape. This resulted in large gaps on both the port and starboard side of the stem. See the following high-tech diagram:
+ 
+Problem: (V) 
+
+High-tech diagram key: Each parenthesis represents a side panel. The V represents the stem. All the space between the V and each parenthesis is the gap, which took me by surprise.
+
+I wrestled with this an embarrassing long time, until I realized what was going on. Then I needed to find a way to draw the panels in at the middle of the bow and not just the top and bottom. I tried more straps, not good enough. I tried clamps, but the bow's wedge resisted their hold. Eventually I went with zip-ties; so obvious - Why didn't I use zip-ties from the beginning? Oh yeah, I remember, I'm a freak'n beancounter - not a shipwright. The zip-ties drew the panels in just like stitches, resulting in the need for another high-tech diagram:
+ 
+Solution: \V/
+
+Summary: So (V) was bad, and \V/ is good. Fortunately, I didn't go with (0), which was the fallback plan. Don't even ask about (0), but I think Derek Clark's article in Duckworks magazine hints a little to (0). Here is a link to his article: Duckworks Magazine http://duckworksmagazine.com/06/projects/paradox/index.htm
+
+Another mistake was trying to take a shortcut that resulted in the longway around. Since I'm building to a different scale, I've pushed bulkead#2 forward, pulled bulkhead#4 backward, and eliminated bulked#1. I had planned on placing a mold to replace bulkhead #1, to keep the shape correct, but I got lazy and thought I could do without it. Well, while struggling with the stem gap, I ended up inserting a form, and feel much better.
+
+While I'm confessing: I originally made the stem from some scrap white wood. I'll be building a new one out of Douglas fir, just so I won't be kicking myself in a few years if it were to wrought or fail. The boat is starting to become more of a child than a thing, and I don't want to risk it (both strength and wrought wise). We're talking a $5 or $10 savings, which could result in a butt load of problems. Definitely not worth the risk.
+
+I've told you the bad and the ugly, now for the good. I know this is just pure luck, but my Paradox 357 appears to be within a millimeter of 357 cm. I've had my fingers crossed for a while. Feeling very good about this vessel's potential. I am also crossing my fingers that a 3.57m Paradox will result in a better boat for me, than a 3.6m Enigma. They all have Matt Layden's nautical DNA, so it has to be good.

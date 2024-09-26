@@ -1,0 +1,39 @@
+From: "daved" <daved@vokurka.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Fri, 1 Jul 2005 08:14:16 -0700
+Subject: Re: Tack tiedown, and dangerous assumptions
+
+Say Al,
+Could you take a before and after photographs?
+Cheers Daved
+
+Hi all,
+
+It is hard to do, but I have to admit to making a serious error in my analysis of the paradox rig.
+
+I had convinced myself that, once I had fitted the topping lift, that the only time the tack tie down strut was in compression was when the sail was furled and the rig was in the process of being stowed.  
+
+I therefore wasn't too particular with the construction of the strut and initially made it from ordinary 12mm copper water pipe. Where this was split at the top it was a bit flimsy, but it only had to be strong in tension......!  
+
+This worked fine for two seasons, until the last trip out last year. When I got ashore at the end of the trip I found the forked end crumpled. I put it down to an unintentional jibe in a force 5 when setting off back to the slip.  
+
+Over the winter I straightened the offending piece and beefed it up by soldering a second piece of split pipe to the outside.
+
+On my first trip this season I again found the forked end crumpled. I wondered if it had happened when running downwind (force 6) with the boom out to stbd. I felt it possible that the strut could get bent round the mast when the boom went forward of the beam.  
+
+If my analysis was correct what was wanted was a strut that could take a bit of bending without damage, while still offering some support while stowing the rig. I therefore built a strut from thick walled rubber hose.
+
+It was while testing this that I discovered that my original assumptions were incorrect. When sailing reefed the strut not only has to support the weight of the boom, with the sail wrapped round it, but also the extra tension in the reefing line. In my first season I rarely sailed in weather requiring a reef, and I have recently been setting the rig up much tighter than before. This load was simply too much for the lightweight material.  
+
+Which all goes to show that it is dangerous to assume you understand what is going on (theory). I have now constructed a much stronger strut which I will be testing in anger next weekend (practical). If you don't hear any more about it you will know that my theory and the practice are finally in agreement.  
+
+Hoping for calm nights
+Al      
+Yeovil, England.              
+
+Yahoo! Groups Links
+
+-- 
+No virus found in this incoming message.
+Checked by AVG Anti-Virus.
+Version: 7.0.323 / Virus Database: 267.8.7/34 - Release Date: 6/29/2005

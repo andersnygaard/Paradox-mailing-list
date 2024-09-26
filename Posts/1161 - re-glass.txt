@@ -1,0 +1,11 @@
+From: "Longyard William H." <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Date: Sun, 7 Sep 2003 10:45:09 -0400
+Subject: Re: Glass
+
+I'm not sure how much strength you'd add, but you'd certainly increase abrasion resistance. To add strength the best way would be to glass inside the boat, thus forming a glass sandwich with the plywood inside. Think of how an "I" beam works. The flats (flanges) provide the strength while the upright section (web) serves to simply space the flanges. On a ply/glass sandwich the glass (inside and out) serve as the flanges while the plywood is merely the web.
+
+Hull rigidity doesn't seem to be an issue with the Paradox, so I'm not sure this is necessary. Some "give" is also desirable (research Sven Lundin / Yrvind boats). If I were you I'd certainly consider another layer on the bottom and up the sides perhaps a foot.
+
+Bill Longyard
+(Author of A SPECK ON THE SEA, a book about small boat voyagers.)

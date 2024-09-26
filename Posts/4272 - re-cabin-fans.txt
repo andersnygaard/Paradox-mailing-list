@@ -1,0 +1,11 @@
+From: Chris Curtis <ccurtis-keyword-sailboat.a927b9@mval.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 30 Mar 2007 20:49:39 -0700
+Subject: Re: Cabin Fans
+
+The most modern computer fans are 6" diameter, and are very quiet.    
+Cheaply built PC's are still using the older 4.75" or smaller designs.   Next time you see a new full size Dell PC, with the front grill, notice how quiet it is!
+
+The one year old HP 620N I run as my home entertainment system  (running Kubuntu) even has the larger fans, running at low speed.   It's as quite as my Mac Mini, and my iBook G4.
+
+Chris Curtis

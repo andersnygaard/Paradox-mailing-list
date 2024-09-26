@@ -1,0 +1,26 @@
+From: johannes.rodin@gmail.com
+Date: 23 Aug 2014 03:36:10 -0700
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Best shape for Chine Runners?
+
+"How are you measuring aspect ratio of a chine runner?   which has no "leading edge"?"
+
+My chinerunners have a distinct length and a distinct width. L/W = aspect-ratio.
+
+It might not be the correct engineering term, but it works good enough for me.
+
+The chinerunners are winglets to shape and partially hinder the crossflow around the chine. The Paradox hull underwater-body is a lifting body like (space) reentry vehicles.
+
+The shape, aspect ratio, and size are all dependent on target speed (water flow over the lifting body), size and L/D of sail(s) and windage of the hull above the surface, acceptable leeway angle, etc.
+
+It is very easy to build a sailboat like the paradox with extreme upwind performance and speed, but everything is a tradeoff. I don´t think it would be a very nice cruising boat.
+
+If you make them shorter and wider (what i would call "higher aspect") they will create a higher pressure along the part of the hull adjacent to the chinerunner. That pressure will create a more pronounced vortex from the trailing edge and more drag.
+
+"The SR-71 featured chines, a pair of sharp edges leading aft from either side of the nose along the fuselage. These were not a feature on the early A-3 design; Dr. Frank Rodgers of the Scientific Engineering Institute, a CIA front organization, discovered that a cross-section of a sphere had a greatly reduced radar reflection, and adapted a cylindrical-shaped fuselage by stretching out the sides of the fuselage. After the advisory panel provisionally selected Convair's FISH design over the A-3 on the basis of RCS, Lockheed adopted chines for its A-4 through A-6 designs. Aerodynamicists discovered that the chines generated powerful vortices and created additional lift, leading to unexpected aerodynamic performance improvements. The angle of incidence of the delta wings could be reduced for greater stability and less drag at high speeds, and more weight carried, such as fuel. Landing speeds were also reduced, as the chines' vortices created turbulent flow over the wings at high angles of attack, making it harder to stall. The chines also acted like leading-edge extensions, which increase the agility of fighters such as the F-5, F-16, F/A-18, MiG-29, and Su-27. The addition of chines also enabled the removal of the planned canard foreplanes.
+
+Comopare this with the sharp chines on the Lockheed SR-71.
+
+Cheers,
+
+Johannes

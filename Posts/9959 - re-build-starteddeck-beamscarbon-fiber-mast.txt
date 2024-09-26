@@ -1,0 +1,12 @@
+To: paradoxsailboat@groups.io
+From: mes@hdiss.net
+Date: Sun, 05 Feb 2023 07:33:25 -0800
+Subject: Re: Build started/Deck beams/Carbon Fiber Mast/
+
+Hello,
+
+I wanted to share that carbon fiber conducts electricity. While this makes it a good material for a lightning rod, it's important to keep in mind if you have any masthead wiring. In those cases, it's best to treat the carbon fiber mast like it's a metal mast, not wood.
+
+Best regards,
+
+mes@hdiss.net

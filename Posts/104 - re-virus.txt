@@ -1,0 +1,10 @@
+From: Ron Eike <reike2@home.com>
+To: Les Lampman <paradoxbuilders@yahoogroups.com>
+Date: Sun, 18 Nov 2001 12:38:51 -0500
+Subject: Re: Virus
+
+Hi Les,
+
+That must have been what hit me too. Norton defines it as: WScript.KakWorm.dr virus.
+
+Ron                 reike2@home.com

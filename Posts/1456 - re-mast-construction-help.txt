@@ -1,0 +1,10 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Mast Construction help
+Date: Thu, 27 Nov 2003 02:35:39 -0000
+
+OK, I think I got it. It looked like the cross section was showing a full section, because the bottom of the mast was sharply curved in and didn't match it's dimensions (still don't know why), I assumed that was part of the cross section. 
+
+So the left part of the cross section is front, the right is the rear, both of which are superimposed over the side of the mast, which is straight at the back. The right vertical portion of the mast is an aft view.
+
+Paul

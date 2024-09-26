@@ -1,0 +1,12 @@
+From: Lawrence Geib <LJGeib@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 21 Jan 2007 20:59:17 -0800
+Subject: Re: Why not scale?
+
+If you have a Mac, a "Mac-ized" version of Openoffice is available at www.neoofice.org with a very nice Aqua interface.
+
+Though it's in Beta (03, I think) it is very stable and translates all the .doc and .xlt files I've thrown at it perfectly.
+
+Allowed me to mothball my windoze machine and I didn't need to pay for Microsoft bloatware.
+
+Larry

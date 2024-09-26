@@ -1,0 +1,15 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bulkhead questions (long)
+Date: Tue, 11 Nov 2003 20:45:30 -0000
+
+Hi Dc,
+
+Just to make sure I understand, looking at sheet 4 as an example. 
+Bulkhead 1 lies at 700mm, and the dimensioned face (as Jim Michalak 
+calls them), lies forward of the station line? So it's really the 
+outy bevels that we have to calculate from sheet 2 that determines 
+the actual dimensions of the bulkhead right at the station lines? No 
+wonder inny bevels are so much less confusing.
+
+Paul

@@ -1,0 +1,32 @@
+From: "Deric Tallman" <ftallman2000@yahoo.com>
+To: "paradoxsailboat@groups.io" <paradoxsailboat@groups.io>
+Date: Mon, 11 Jul 2022 15:43:15 +0000 (UTC)
+Subject: Re: [paradoxsailboat] Electrical set up
+
+update:
+Switch 5 is for running lights (LED)
+
+Regarding my Paradox electrical set up: (sharing ideas may help)
+
+Five switch distribution box for the following:
+1) Fan
+2) Locker lights
+3) Red Nav Lights
+4) 12v cigarette outlets (for autopilot, and/or water pump for tanks)
+5) Autopilot
+
+the dc panel has two 12v cig outlet for Garmin and phone.
+I have a solar panel on the bow deck 75watt.
+Connected to a Victron smart controller, use the phone app to monitor controller through blue tooth.
+
+Running lights are simple 12v led.
+DC Panel is on the port side, fan on port side, auto pilot on right side. Red LED cabin light on both sides. Locker LED light on deck ceiling forward and rear lockers.
+Each switch has internal fuse, and there is a pos and neg distribution wire bus in the batter locker.
+Start small and build from there. Perform best practice to heat shrink terminal connections.
+Carry extra electrical repair parts and supplies and fuses in case you need a repair.
+I have no anchor light at the top of the mast as the builder Don Elliot stuck to pure plans. No mods. I added the electrical mods.
+He did have a portable light to be hoisted up the mast and was the anchor light.
+When packing the mast inside the dox, there is not much room in my opinion. The anchor light would most likely become damaged under my use.
+
+Best,
+Deric

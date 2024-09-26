@@ -1,0 +1,20 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+Date: Fri, 10 Sep 2004 07:03:38 -0000
+Subject: Re: chinerunners
+
+Ahh, I see the problem. I don't see a solution though. Could you hammer it round the curve?
+
+That is my plan A, and also what my mechanical consultant is working on. But now I hesitate, after what John just said. He seems an experienced man.
+
+Grind it away then bond on a curved strip?
+Sounds impossible
+
+How about laminating a thickness along the edge with strips from the offcuts at bow and stern? Glue, rivet, braize or weld them on till there is sufficient thickness to grind the curve.
+
+That is, was, my plan B, glueing being the only alternative. Welding not possible due to the divinycell.
+
+Failing this I think you are going to find out the hard way if the curve has any hydrodynamic effect.
+
+My plan C, seemingly the most probable.
+
+Kjell

@@ -1,0 +1,17 @@
+From: "Sybe Starkenburg" <sybe34@yahoo.com>
+To: paradoxsailboat@groups.io
+Subject: cabin corner post
+Date: Mon, 23 Mar 2020 01:35:09 -0700
+
+Hi All,
+
+I am starting the cabin parts. The corner post details says that the for'd cornerpost angle is 30 degrees.
+
+I'm confused here. The angle would be the asine of 100/245=3D24 degrees.
+
+What do I see wrong here?
+
+Can you help?
+
+Sybe Starkenburg
+Montagu, South Africa

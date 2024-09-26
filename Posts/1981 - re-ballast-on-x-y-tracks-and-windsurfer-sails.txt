@@ -1,0 +1,6 @@
+From: "Craig" <with@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 25 Mar 2004 21:01:37 -0000
+Subject: Re: Ballast on X-Y tracks and Windsurfer sails. . .
+
+There could also be the added benefit of aiding in the self-righting of a boat during capsize if built in to the mechanism which locks the pulleys/ballast in position was built a safely device which allowed it to unlock (thus fall to one side) (especially if the ballast channels were concave). I would imagine one could accomplish this by designing the locking ratcheting mechanism as a ring that would fall off the retaining grooves when upside down and relock when right side up again. One would only need this to occur along the starboard/port axis, and it is akin to an automatic kayak inspired Eskimo roll.

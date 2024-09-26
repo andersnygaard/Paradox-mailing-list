@@ -1,0 +1,60 @@
+From: Ron Eike <reike2@home.com>
+To: David Beede <paradoxbuilders@yahoogroups.com>
+Subject: Re: Virus
+Date: Mon, 19 Nov 2001 09:37:48 -0500
+
+Hi David,
+
+I don't have a problem, Norton refused to pass the email, quarentined
+it instead. My old version of Norton AV didn't do email, Norton AV
+2002 does. I received 3 infected emails that day from this group.
+
+Ron                 reike2@home.com
+
+Monday, November 19, 2001, 8:19:12 AM, you wrote:
+
+Here's info on the fix.
+http://www.sarc.com/avcenter/venc/data/wscript.kakworm.fix.html
+
+
+
+
+Build yourself a boat!
+http://members.tripod.com/simplicityboats/
+   ----- Original Message ----- 
+   From: Ron Eike 
+   To: Les Lampman 
+   Sent: Sunday, November 18, 2001 12:38 PM
+   Subject: Re: [paradoxbuilders] Virus
+
+
+   Hi Les,
+
+   That must have been what hit me too. Norton defines it as: WScript.KakWorm.dr virus.
+
+   Ron                 reike2@home.com
+
+   Sunday, November 18, 2001, 11:39:54 AM, you wrote:
+
+   LL> David,
+
+   LL> I hit reply to your last message and it sent whatever is attached with the reply.
+
+   LL> Les Lampman
+   LL> Whidbey Island, Washington (State)
+   LL> USA
+
+   Yahoo! Groups Sponsor 
+         ADVERTISEMENT
+             
+       
+
+   To unsubscribe from this group, send an email to:
+   paradoxbuilders-unsubscribe@yahoogroups.com
+
+   Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. 
+
+
+
+
+

@@ -1,0 +1,31 @@
+From: "Dave Bolduc" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 28 May 2005 15:01:47 -0000
+Subject: Re: Introduction
+
+
+1. The intend is to stay mostly to the plan, but I will probably deviate in the cabin area, making smaller and thicker windows.
+
+1/4" in plenty strong, and the larger windows are really nice to have when you are sailing from down below. Good visibility and lighting is a real plus.
+
+2. I also plan on a more waterproof boot for the tiller, and I may eliminate the stern port.
+
+This is the arrangement that is used on both SWAMP THING and LITTLE CRUISER, and it works fine.  I've used coated fabrics for the boot, and they last for a couple seasons before replacement is needed.
+
+3. Another change I'm planning is the water tank construction. From what I have read, it's easy to make tanks out of cut up poly sheets and a plastic welder like http://www.harborfreight.com/cpi/ctaf/Displayitem.taf?itemnumber=41592.
+
+This is a neat idea, though, I haven't tried welding poly plastic.  The price is right on the welder so maybe I will give it a try too.
+
+4. I notice that most are using LEDs for a mast light, has anyone thought of using Cold Cathode Fluorescent (CCFL)?  The advantage is CCFL's are over three times more efficient than the best white LEDs-- 80 lumens per watt vs 23 lumens per watt!  CCFL are also dimmable like LEDs. The disadvantages of CCFL's are they won't start below -4F/-20C (but this is much better than standard fluorescent,) the ballast *may* be a source of radio frequency interference, and CCFLs they have a life of about 25K-50K hours (vs the theoretical 100K life for LEDs.) http://www.elwirecheap.com/coldcathodes.html sells complete kits for $12 and http://www.j-right.com/html/ccfl_lcd_backlighting.htm has some info.
+
+Another neat idea worth trying; though, white LEDs are pretty cheap to buy now at around $1 apiece. We use a homemade 8 bulb LED masthead light on LITTLE CRUISER ( http://www.microcruising.com/review.htm#low ).  At the moment I am working on an anchor light that is based on a $6 "solar" garden light that I got at BIG LOTS, a dollar store.  It's pretty nice for the money considering it has it's own miniature solar panel, two nicad batteries and an LED light. 
+
+5. What insulation are most using for their project?  From most of the pictures I have seen, most seem to be using the white expanded polystyrene (EPS.)  However, this stuff will absorb water (killing the insulation value more than the flotation properties) and I would think that at least extruded polystyrene (XEPS-- the blue or pink stuff) would be a much better choice, especially if you are sealing it against the wood (epoxy sealed or not) like in the plans.
+
+LITTLE CRUISER has Celotex brand insulation and SWAMP THING had white polystyrene. The Pink foam that you can get at HOME DEPOT would probably be better than the two that were used in our boats.
+
+6. PS: Does anyone know of good sources for quality plywood at a reasonable price in the Los Angeles area?
+
+Exterior grade plywood should be sufficient, but you will need to seal it with epoxy and fiberglass if you do not want the plywood to check.  Of course if you want to save money and you are not too particular about the boat's appearance, just painting it will work.  This is what Matt did on all of his boats prior to PARADOX.  If it was me, I would at least seal the boat in 6 oz glass for the topsides and 10-20 oz glass on the bottom, paying special attention to add extra layers to the chines.  Of course the best way is still to do it exactly as the plans state. 
+
+BRENT - The Usenet typo king. :)

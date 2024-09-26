@@ -1,0 +1,71 @@
+From: James Hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 8 Feb 2013 21:28:36 +0000 (GMT)
+Subject: Re: was about the yuloh - now buoyancy
+
+Thanks for the response Jeffery
+
+We already know the weight - the same thing as the displacement - which is given by the designer as approximately 640 kg. So no need to mess around measuring.
+
+Using the metric system, one kilogram of water is one litre. So, 640 kilograms of displaced water is 640 litres - yes it's that simple. Good, this metric system. Makes life easy.
+
+So if the boat is to be no more than, say, one third submerged - to enable recovery in a rough sea and to keep my delicate body from getting too wet - then the buoyancy required to keep 2/3rds of the boat above the water is 2/3 of 640 litres of trapped air.
+
+So, in rounded figures, more than 400 odd litres of trapped air. That's a hell of a lot of useful living space lost. I reckon that we'll have to compromise. How about if we settle for just enough floatation to prevent complete sinking and accept that self-recovery is impossible if we get a big hole in the bottom?
+
+Best
+
+Jim
+
+PS. no rain in this part of England today!
+
+From: Jeffrey Michals-Brown <JMichalsbr@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 8 Feb 2013 20:00:00
+Subject: Re: [paradoxbuilders] Re: was about the yuloh - now buoyancy
+
+Weigh the boat. (There is a nifty way to estimate the weight using a bathroom scale and tape measure, and shifting the boat on the trailer. Can't remember the details. Gotta Google it.) Calculate the buoyancy of the swamped boat by estimating its submerged volume with the water safely below the tiller opening. (As a start, use the plywood thicknessXarea for this part of the boat, times 63lb/ft3.) Any further flotation must be added at 1ft3 for each additional 63lb that must be buoyed. The flotation should be distributed fore-and-aft and of course, this flotation only works if it is immersed at that waterline - flotation under the deck (say), doesn't do anything until the boat is too low in the water to be self-rescued. And notice that any stuff you drag out of the boat that would not float on its own decreases your need for flotation by some tiny amount. Conversely, any stuff that would float is doing double-duty in a swamping - provided it is secured low in the hull.
+
+From: James Hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders <paradoxbuilders@yahoogroups.com>
+Date: Fri, Feb 8, 2013 12:56 pm
+Subject: Re: [paradoxbuilders] Re: was about the yuloh - now buoyancy
+
+Hello Dave
+
+Snap - as they say here.
+
+My Paradox came without foam floatation as Bill decided not to fit any while building. I can appreciate why, as it would take up a lot of valuable storage/living space if there were to be a useful amount.
+
+I have collected lots of empty plastic screw-top bottles of the kind that you buy mineral water and Coca Cola in and stowed them where I can in an attempt to provide some emergency buoyancy. In particular, the most forward compartment is stuffed full of them, as that space is less useful for storage of gear - being awkward to get to for an oldie like me.
+
+So I'm sure that the bow, at least, would float if the worst happened.
+
+The stern end is more problematic, as I'm reluctant to sacrifice good storage space there. I have some hollow plastic fenders stored there, a two-gallon water can- which is often only part full, my homemade portable toilet - which would float and lots of plastic containers with snap-on lids for dry food storage.
+
+So there is some emergency buoyancy there - but it's variable because its value depends on how much food I've eaten and water I've drunk... :-)
+
+I'm always adding stuff to the boat's inventory because I'm sure it will come in useful one day, but not very good at taking stuff out, so the boat is getting heavier. The biggies under the cabin sole include a 15 kg take-apart storm anchor and 15 meters of galvanized chain for it, tools and spare parts and more assorted ironmongery than you could imagine. There is a Honda outboard and a big battery fitted too.
+
+So it would be an interesting exercise to try and calculate or guess how much emergency buoyancy would be appropriate insurance if the boat was holed in a collision. You'd need the flooded boat to float pretty high up so the tiller slot was well above the waves if there was to be any chance of bailing her out.
+
+Like you, I'm sure it would be awkward to bail out with a bucket through the hatch so I too have fitted a manual bilge pump under the cabin sole.
+
+I wish I could train myself to stop adding more stuff...
+
+Best
+
+Jim
+
+From: boldav38 <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, Feb 8, 2013 15:44 pm
+Subject: [paradoxbuilders] Re: Grettings! New Paradox inductee here... Need help with Yuloh specs
+
+Jim I'm in the same boat as you, so to speak. I'm hoping to do some sailing in the future and I have been working on various upgrades to the Enigma design.
+
+Some of those changes included adding foam floatation, improving gear stowage, and installing a bilge pump. Unlike the Paradox design, Enigma relies on sealed compartments in the bow and the stern to provide adequate flotation should the boat become flooded. However, if the bow is holed or if one of those 5-gallon bucket hatches is lost, then the boat could be unrecoverable in a capsize or even sink.
+
+I remember when we initially took delivery of Enigma; one of the first things Matt told me was to never sail the boat without the hatches in place. I also recall seeing the bow and the stern compartments chock full of Arizona tea jugs. I guess Matt and his wife love their ice tea because there were a lot of plastic jugs in there. Of course, later I took these out to make room for gear, but it made me wonder what would happen if I lost the integrity of those waterproof compartments. It also reminded me of the benefits of having built-in foam flotation like you have aboard your Paradox. Therefore, I've added some foam under the deck for a little more piece of mind.
+
+Another thing I started working on was how to secure various pieces of heavy equipment like my tool box and anchor. Should my boat get knocked down or rolled over, I didn't want all that weighty stuff holding the boat upside down or trying to bash a hole in the thin-skinned hull. Again, it made me think of Paradox with its many safe compartments under the floorboards and its incredibly sturdy construction. In the

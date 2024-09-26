@@ -1,0 +1,31 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 10 Jan 2004 10:50:16 +0000
+Subject: Re: LED navigation lights part 2
+
+
+Yes, my calculations are based on 12V as I have no charging facility on Little Jim. If your charger runs at 14.4V then do the calcs for the resistor at that value. When not charging the light will be slightly dimmer, but I doubt you will be able to see the difference.
+
+The data sheet for the LED should give a maximum forward current. It is vital that this value is not exceeded as that will destroy the LED. From memory the value for the white was 30mA while the green was 25mA. So you see there is a bit of leeway if your voltage varies. If you have too large a voltage change between charging and discharging then I suppose you could put in a simple voltage regulator (from RS Components?) to stabilize it.
+
+To: paradoxbuilders@yahoogroups.com
+From: "DC" <kd7ixk@yahoo.com>
+Date: Sat, 10 Jan 2004 09:38:37 -0000
+Subject: [paradoxbuilders] Re: LED navigation lights part 2
+
+Hi Al.
+
+I've very much enjoyed your pieces on LED nav lights, particularly the bit regarding two wire installation for the anchor light and the tricolor. This polarity switching makes a lot of sense for remotely switched red/white combinations down below.
+
+Are your calculations based upon a power supply regulated to 12 volts? If not, what affect would a charging battery (say, 14.4 vdc) have on the LED clusters? What about an at rest, fully charged battery, at 12.6 vdc?
+
+According to COLREGS, our boats only require a white light be shown to avoid collisions. It is convention that a 360 degree masthead light is in accordance with the law, and as Glen points out, this all around white light provides many advantages, with regard both to safety and legality. With a few exceptions, other vessels must give way to an all around white.
+
+Also according to COLREGS, our boats must show side lights, steaming light, and stern light if under power. The stern light and steaming light may be combined as an all around white, but the side lights may not be comprised within a tricolor.
+
+DC
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

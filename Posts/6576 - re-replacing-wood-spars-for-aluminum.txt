@@ -1,0 +1,11 @@
+From: "copterpack" <gilbertvm@pandora.be>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 13 Sep 2010 17:12:45 -0000
+Subject: Re: replacing wood spars for aluminum
+
+I'm not sure what you mean by "considering that you have copied so much from Paradox" Al. Do you mean the reefing system or the whole boat?
+I understand what was meant now with "missing an axis".
+It's not a big deal to modify the lower part to the original idea of a piece of string to make the universal joint.
+The castor joint is steel and should be plenty strong to take the tensile load.
+
+regards,

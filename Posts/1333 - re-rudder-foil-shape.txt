@@ -1,0 +1,10 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Rudder Foil Shape
+Date: Sun, 16 Nov 2003 20:56:22 -0000
+
+
+
+Now it makes sense. The rudder foil is 2x12 not 2x24, for a total thickness of 24. So 24/400=.06. That explains why NACA 0006 looks the closest. 
+
+Paul

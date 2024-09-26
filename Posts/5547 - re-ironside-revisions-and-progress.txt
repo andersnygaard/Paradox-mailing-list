@@ -1,0 +1,33 @@
+From: "barnacleid" <barnacleid@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 24 Sep 2008 22:38:21 -0000
+Subject: Re: Ironside revisions and progress
+
+Hi Bill,
+
+Funny you should mention "autohelm" as I have been thinking about that item this past few days.
+
+Could you share a few details on yours and how it works for you? I am not familiar with how they work and find the vast majority of them to be quite expensive. How do you set it to hold a desired course? Does it work in concert with a compass or an interface to a GPS or what?
+
+I don't intend on going on long passages, but I get tired at times during the day and feel inclined to take a nap for a bit, when sailing a leisurely leg from one point to another.
+
+Will it work when motoring when the wind dies?
+
+Thanks in advance,
+
+Nels
+
+When I get a chance I'll take a photo and place it in 'Faith's album.
+
+The setup is simple:
+1)Fix the Autohelm on the port upper storage rack under the tiller line so that the Autohelm's steering rod is facing towards the bow.
+2)Attach the end of the rod, which should be in the halfway in/out position, to the port steering line with cords that reach both fore and aft by using rolling hitches.  These can easily be adjusted to be the right length, i.e., each cord about 10 inches.
+3)When the boat is sailing a steady, balanced course (obtained by adjusting the sail - there should be very slight weather helm), tension the cords onto the steering line by use of the rolling hitches and start the Autohelm.  That's it.  All of this takes but a few seconds. [Note: I made an attachment point at the end of the steering rod for the cords.]
+
+To release the cords from the steering line, just centralize the rolling hitches by sliding them together and undo them.  Unless they are centralized, and preferably undone, normal manual steering cannot be done, because the cords restrict the movement of the steering line.
+4)To change course, turn off the Autohelm and slacken the cords, then get the boat sailing on the new course, then re-tension the cords and start the Autohelm.
+5)Minor adjustments can be made without turning the Autohelm off, simply by pressing the 1 degree, minus or plus buttons, for port or starboard.  Bigger adjustments can be made by pressing the 10-degree minus or plus buttons, but the sail will also need adjusting.
+
+Normally the Autohelm will remain inactive until the boat is thrown off course by a wave or there is a change of wind direction; therefore little power is consumed.
+
+Bill.

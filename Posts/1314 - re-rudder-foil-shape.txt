@@ -1,0 +1,11 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Rudder Foil Shape
+Date: Sun, 16 Nov 2003 17:43:39 +0000
+
+As the rudder foil is 400mm long and 2x24mm ply thick (not counting the glue) it should be possible to make a 16.66% profile. So NACA 0015 (15%) would be a reasonable shape. I made mine AL 00XX, that is I attacked it with an angle grinder till it looked right.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

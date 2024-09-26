@@ -1,0 +1,22 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 26 Oct 2007 20:53:59 +0100
+Subject: Re: ballast placement
+
+Consider the static situation. If you have 2 lead brick on the centreline the cg of the lead bricks is also on the centreline. Now move them apart equally each side of the centreline. If you consider the 2 bricks to be a single object joined by a weightless bar the cg of the assembly is still on the centreline, so statically there is no difference in the righting moment.
+
+Now consider the dynamic situation. With the two bricks close together it is relatively easy to oscillate them about the centreline, but move them apart and the force needed to oscillate them rapidly increases (the moment of inertia has increased). The effect of this is to make it require a larger energy input to make the boat roll. Thus the boat is less lively on the water and much more comfortable to sit in.
+
+So the wider apart the ballast the more comfortable the ride.
+
+Does that help?
+
+On 26 Oct 2007 at 19:27, myss1400 wrote:
+
+Having trouble getting my head around having the lead ballast on each side of boat, Wouldnt the leeward ballast be leeward of the cenre of boyance. If all the weight was on the centre line of the boat as soon as it got a list on it would become righting power,what are your thoughts,Help me under stand. PETER, Auckland NZ
+
+Hoping for calm nights
+
+Al,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

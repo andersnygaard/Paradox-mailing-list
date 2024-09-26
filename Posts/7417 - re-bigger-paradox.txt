@@ -1,0 +1,25 @@
+From: "Glen C." <blueketch@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 20 Apr 2013 16:40:02 -0000
+Subject: Re: Bigger Paradox
+
+I would like to point out that I did all the relative computations for a larger Paradox 10 years ago and put them in a file in the Files section under Larger Paradox. What follows is a copy of that file so you don't have to go look it up. 
+
+The subject of a larger Paradox comes up regularly with the plea for a new set of drawings. Matt has given his blessings for a scaled up version and there is no need for a new set of plans when all the information needed is already on the plans as drawn. I set down and came up with some numbers for those interested in a larger version and they are as follows:
+ 
+        With and increase of 20% (multiply important dimensions by 1.2) you get:
+            LOA: 5.04m    16' 6.42"
+            LWL: 4.92m    16' 1.7"
+            Beam: 1.48m     4' 11.3"
+            Draft:  .276m         10.8"
+            Sail Area:            168 square ft.
+            Displacement:    2321 lbs
+            Prismatic coeff.:    .56
+            Displacement/ Length ratio: 261
+ 
+So those are the principal numbers but note the following:
+    There is only a 15" increase in the length of the living/sleeping area and a 10" increase in the width, which I agree is substantial and would allow for that extra person or the one who has stopped at McDonald's to often, but it is not such an increase in size that it would require a new interior layout. Also, because Paradox is so robustly designed the scantlings (lumber dimensions/sizes) are still useable at this scale (with the exception of the spars) but if you were in doubt just increase their size by a factor of 1.2. Since the water supply and stores locker are adequate, they could be left at their present levels and yield an increase in headroom of 7.5" under the hatch. Just to put things in perspective consider the increase in spacing of the bulkheads, from #0 to #1: 5.5", from #1 to #2: 6.3", from #2 to #3: 7.5", from #3 to #4: 7.5" and from #4 to the transom: 6.3". As you can see these numbers are just to small to justify a complete redesign. The most difficult part here was computing the new sail area (an increase of 68%) and displacement (a 60% increase) which would put her on her new lines (10.8") and maintain the same sail area to displacement ratio.
+ 
+By the way, if 16.5 ft is to big for you the magic number for a 16 footer is 1.16 and will yield a displacement of 2075 lbs and a sail area of 148sq ft.
+
+Glen

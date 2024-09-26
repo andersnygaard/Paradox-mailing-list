@@ -1,0 +1,8 @@
+From: "Dave Bolduc" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 20 Oct 2004 16:40:31 -0000
+Subject: Re: Chine runner efficiency.
+
+Colin, Matt's done a lot of experimentation using models along with his full size micro cruisers to determine the most efficient shape and size of his chine runners. When he first started using them on SWAMP THING, they were small and square shaped. However, over time they became larger and more triangular. This is what you now see in PARADOX. A couple years ago Matt did some more experiments and made the chine runners on one side of his PARADOX even larger than they appear today. He did a lot of test sailing with this configuration, first sailing on the stock chine runner and then comparing it to the larger one. After months of sailing he concluded that the larger size with its added drag and draft did not improve performance sufficiently to warrant making this change to the other side. Eventually, he ground down the larger chine runner to match the original one.
+
+I think the chine runners would probably work on your dory, but you will have to experiment a bit on their exact placement. On SWAMP THING, which is shaped a bit like a dory, they are located more amidship. Also remember that you boat will have to be sufficiently ballasted for them to sit low enough to be effective.

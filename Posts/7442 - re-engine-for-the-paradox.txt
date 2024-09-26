@@ -1,0 +1,12 @@
+From: "mattlippey" <paradox@mattsplatt.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 24 Apr 2013 10:07:15 -0000
+Subject: Re: Engine for the Paradox
+
+Could we not ballast the Paradox with deep cycle batteries instead of just lead, then install a solar panel on the foredeck to charge the batteries?
+
+With a couple of hundred kilograms of batteries (how much lead are you all carrying?), the trolling motor would have quite a range, and then the batteries could be charged by the solar panel in between uses.
+
+This would be much simpler than carrying petrol and running a petrol engine to turn a generator to charge the batteries to run an electric motor...  :-)  (and all the maintenance of each of those parts.)
+
+Matt

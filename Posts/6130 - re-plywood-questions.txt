@@ -1,0 +1,29 @@
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 27 Oct 2009 19:16:33 -0700 (PDT)
+Subject: Re: Plywood questions
+
+There might be another reason for doing that.
+
+If you elect to build the stretched version of Paradox according to ideas in the files section under Larger Paradox you will need additional structural integrity offered by thicker wood. 
+
+Thats why larger boats use the cold molded process of epoxying multiple layers of ply on a bias to each other. Depending on the stretching and insertion of additional bulkheads, one might use multiple layers of wood.
+
+Stretching more than 10% beyond plans in not for a novice. It changes Center of Buoyancy, Center of Gravity, Overall Buoyancy, Sailing Characteristoics, Hull strength and integrity, Materials requirements and a host of other things.
+
+The 12ft SF Pelican has been successfully stretched to 24feet.. WOW that's 100% ! 
+
+The .doc file about larger Paradox suggests it can be done. Additional bulkheads or ribs would have to be inserted to maintain hull strength and balast would have to be recalculated..
+
+Andrew
+
+From: fadeev.alexander <fadeev.alexander@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tuesday, October 27, 2009, 6:48 PM
+Subject: [paradoxbuilders] Re: Plywood questions
+
+Thanks Al.
+
+What kind of marine plywood did you use? How did it age?
+
+Would you use the ACX grade from the home centers (in any part of the boat).

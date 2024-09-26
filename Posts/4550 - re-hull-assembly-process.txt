@@ -1,0 +1,8 @@
+From: "rhaldridge" <knobmaker@cox.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 05 Jul 2007 00:00:13 -0000
+Subject: Re: Hull assembly process
+
+This is an excellent technique, which I did not figure out until I'd glued up my first side panel on the little catamaran I'm building.  I was using temporary screws to hold the panels tight to the stringers, and after offering up the scarfed planking to the side of the frame and putting a few strategic screws in, I marked the position of the stringers on the ply, and the chine log and sheer clamp.  That way, I figured, I could cut out the panel, then predrill holes in the ply where the stringers contact the ply, and know just where to put the screws when gluing up.  The problem I discovered was that re-driving the locating screws in to get the panels to the same position when glueing, the screws would bite into the stringers even if the holes did not line up, and so the first panel was slightly misaligned.  Fortunately, I'd been unsure of my skills and made the panel too big, so it could be planed down to fit, after the glue set. But the next panel, I used finishing nails as locator pins, as Al described, and subsequent panels fit perfectly.
+
+Ray

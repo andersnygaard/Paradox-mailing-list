@@ -1,0 +1,16 @@
+From: "Bert Vercauteren" <bertvercauteren@tiscali.be>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 2 Jan 2004 23:43:24 +0100
+Subject: Re: nesting
+
+Hi Glen,
+
+It would be very nice, if you could put the 3D-dxf in the files too. That way, I could probably import it into my boat design software -Nautilus- and compare it to the Paradox I modelled, based on the plans.
+
+By the way, my design program confirmed that Matt's stability calculation is 100% correct, assuming that his Vertical Center of Gravity is indeed that low. (about 120mm above DWL, if I remember well). I don't know if Matt has used a computer for his full stability calc, without one, it is a monstruous task, that was seldom undertaken in the pre computer era.
+
+I read the latest posts about flat bottomed, keelless boats with much interest. I agree that it's a safety factor in rough seas with no lee shore in sight. What keeps worrying me is the flat panels, both bottom and sides. A round hull kind of frustrates the power in the waves, while these flat panels look to me like envils, inviting the brute hammer, the force of a breaking wave. Perhaps that's why hard chined ducks are so rare:-) But maybe someone with storm experience aboard a Paradox can take away my fear. I have had a traditional European boat design education, so I can feel the safety in Sven Yrvind's latest design immediately, while Paradox looks like a 'monday morning' product, based at least on what they taught me...
+
+Happy New Year to all of you !!!
+
+Bert.

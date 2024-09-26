@@ -1,0 +1,139 @@
+From: "breier_c" <long-expeditions@arcor.de>
+Date: Sun, 21 Apr 2013 12:47:03 -0000
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bigger Paradox
+
+Hi Glen, 
+
+that's exactly what I think, one can rebuild any kind of boat, one just have to know what to do...
+I really like the advice from people which have the actual boat, because they are the best to judge whats good and what not! And if those people have a boat building background , perfect!
+I know there are for sure better boats but I just like the Paradox so much.....
+I still have plenty of time to do my research, because this year I am in Alaska &amp; Canada on a Trip anyway, so I will start building the boat in early 2014...
+Thanks to the Forum I have a lot of pictures to look at and can think about how to outfit my Paradox! Gosh, boats are fun.....
+
+Regards Chris
+
+--- In paradoxbuilders@yahoogroups.com, Glen Maxwell <blueketch@...> wrote:
+
+No Problem Chris,
+     As someone who has actually built and sailed a paradox and know 
+ Matt Layden personally I can assure you that you would have his 
+ blessing. He once told me that Paradox was infinitely scale-able (the 
+ caveat is having the knowledge to know how to address the myriad 
+ problems associated with an increase in scale). As a former professional 
+ boat builder I understand how to move bulkheads and where to add needed 
+ support in new areas and how to calculate new sail area and how to 
+ adjust displacement in order to maintain displacement ratios etc. I'm 
+ truly surprised at the number of people who will weigh in with advise on 
+ a subject without doing any real research on or really knowing what they 
+ are talking about. Be aware also of the academics who possess knowledge 
+ with no practical experience. Theory is fine until you get out there and 
+ find it doesn't apply to your situation. Only through experience, which, 
+ judging by your website, you have in spades, can you truly begain to 
+ understand what is important to your situation and what is not. Good 
+ luck on your upcoming adventure, I for one applaud you.
+Glen
+
+
+On 4/20/2013 6:30 PM, breier_c wrote:
+>
+> Hello Glen,
+> thank you so much, that really helps tremendously !
+> I agree, the Increase is not much, but just that much I need ...
+> You just made my day!
+> Regards from Germany Chris
+
+
+--- In paradoxbuilders@yahoogroups.com 
+> <mailto:paradoxbuilders%40yahoogroups.com>, "Glen C." <blueketch@> 
+> wrote:
+> >
+> >
+> > I would like to point out that I did all the relative computations 
+> > for a larger Paradox 10 years ago and put them in a file in the Files 
+> > section under Larger Paradox. What follows is a copy of that file so 
+> > you don't have to go look it up.
+> > >
+> > > The subject of a larger Paradox comes up regularly with the plea for 
+> > a new set of drawings. Matt has given his blessings for a scaled up 
+> > version and there is no need for a new set of plans when all the 
+> > information needed is already on the plans as drawn. I set down and 
+> > came up with some numbers for those interested in a larger version and 
+> > they are as follows:
+> > >
+> > > With and increase of 20% (multiply important dimensions by 1.2) you get:
+> > > LOA: 5.04m 16' 6.42"
+> > > LWL: 4.92m 16' 1.7"
+> > > Beam: 1.48m 4' 11.3"
+> > > Draft: .276m 10.8"
+> > > Sail Area: 168 square ft.
+> > > Displacement: 2321 lbs
+> > > Prismatic coeff.: .56
+> > > Displacement/ Length ratio: 261
+> > >
+> > > So those are the principal numbers but note the following:
+> > > There is only a 15" increase in the length of the living/sleeping 
+> > area and a 10" increase in the width, which I agree is substantial and 
+> > would allow for that extra person or the one who has stopped at 
+> > McDonald's to often, but it is not such an increase in size that it 
+> > would require a new interior layout. Also, because Paradox is so 
+> > robustly designed the scantlings (lumber dimensions/sizes) are still 
+> > useable at this scale (with the exception of the spars) but if you 
+> > were in doubt just increase their size by a factor of 1.2. Since the 
+> > water supply and stores locker are adequate, they could be left at 
+> > their present levels and yield an increase in headroom of 7.5" under 
+> > the hatch. Just to put things in perspective consider the increase in 
+> > spacing of the bulkheads, from #0 to #1: 5.5", from #1 to #2: 6.3", 
+> > from #2 to #3: 7.5", from #3 to #4: 7.5" and from #4 to the transom: 
+> > 6.3". As you can see these numbers are just to small to justify a 
+> > complete redesign. The most difficult part here was computing the new 
+> > sail area (an increase of 68%) and displacement (a 60% increase) which 
+> > would put her on her new lines (10.8") and maintain the same sail area 
+> > to displacement ratio.
+> > >
+> > > By the way, if 16.5 ft is to big for you the magic number for a 16 
+> > footer is 1.16 and will yield a displacement of 2075 lbs and a sail 
+> > area of 148sq ft.
+> > >
+> > > Glen
+> > >
+> > >
+> > >
+> > >
+> > > --- In paradoxbuilders@yahoogroups.com 
+> > <mailto:paradoxbuilders%40yahoogroups.com>, Eliseu Passos 
+> > <eliseupassos@> wrote:
+> > > >
+> > > > Hi Chris
+> > > > I want to know this paradox with 20% increase after it's done.
+> > > > Regards Eliseu
+> > > >
+> > > >
+> > > >
+> > > >
+> > > > ________________________________
+> > > > De: breier_c <long-expeditions@>
+> > > > Para: paradoxbuilders@yahoogroups.com 
+> > <mailto:paradoxbuilders%40yahoogroups.com>
+> > > > Enviadas: Sexta-feira, 19 de Abril de 2013 13:18
+> > > > Assunto: [paradoxbuilders] Re: Bigger Paradox
+> > > >
+> > > >
+> > > >
+> > > > =C2
+> > > >
+> > > > Hi
+> > > > no problem for me, it can be heavy, it can have more ballast and i 
+> > wont chance the Sail, because will go slow, that's the main reason to 
+> > get a Paradox !
+> > > > I did my homework, I think about that project for over 3 Years 
+> > now, and i Still think a Paradox is best for me and my way of travel!
+> > > > I NEED the space, so it has to be bigger.
+> > > > Constructive answers would be nice...
+> > > > Search for another boat wont help me much!
+> > > > Regards Chris
+> > > >
+> > > > --- In paradoxbuilders@yahoogroups.com 
+> > <mailto:paradoxbuilders%40yahoogroups.com>, Roberto Costa Sousa 
+> > <tecelagem2@> wrote:
+> > > >

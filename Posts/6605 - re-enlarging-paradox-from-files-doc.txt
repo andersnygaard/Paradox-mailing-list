@@ -1,0 +1,37 @@
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 4 Oct 2010 21:20:45 -0700 (PDT)
+Subject: Re: Enlarging Paradox.. from FILES doc.
+
+I think if one did enlarge Paradox the existing sail idea should change.. probably to a junk sail like John Welsford uses on SWAGGIE which is also sailed from inside. 
+
+Duckworks has a really nice article about making a junk sail for a small boat with everything worked out for the builder.
+http://www.duckworksmagazine.com/06/howto/junkrig/index.htm
+
+I agree that enlargement is more than just expanding by formula. According to Glen-L, there are material thicknesses to think of, added buoyancy, and structural stiffing to think about, when you stretch any boat more than 10% Of course they are talking about stretching boats with regular stations traditionally spaces 18 inches to 3 feet depending on the boat size and hull thickness. Seeing your hull flex in and out while underway can't be a good thing! LOL
+
+Andrew
+
+From: Nels A <arvent@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Monday, October 4, 2010, 5:28 PM
+Subject: [paradoxbuilders] Re: Enlarging Paradox.. from FILES doc.
+
+Hi Andrew,
+
+Great post! I would like to respond to the following excerpt.
+
+"The most difficult part here was computing the new sail
+area (an increase of 68%) and displacement (a 60% increase) which would
+put her on her new lines (10.8") and maintain the same sail area to
+displacement ratio."
+
+My observation is that increasing the sail area to that extent is going to end up with " a really big roll" of sail around the mast when reefed. Not sure how practical that would work out in reality. Seems I recall that when Sven looked at a bigger, longer version of his "Bris" design he changed it to a schooner rig with two reduced area sails. Getting those two masts into a "tidy" configuration lead to him giving up on that idea.
+
+The other factor is regarding the plywood cutting plan with a beam of almost 5' and a length that would require two scarfs to get that 16' 6.42" LOA.
+
+So one is taking a very simple design into an area that is going to take a whole lot of fiddling and adjusting to accomplish. Not saying it can't be done, just suggesting there is a lot more to it than multiplying everything by a factor of 1.2 or whatever.
+
+Both Bolger and Michalak take into consideration the innate challenge of fitting standard 8' X 4' plywood sheets into their designs and is a prime factor with the elegance of their plans both from an cost and degree of work required to reach a best "bang for the buck" in the finished product.
+
+Nels

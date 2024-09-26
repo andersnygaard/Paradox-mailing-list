@@ -1,0 +1,31 @@
+To: paradoxbuilders@yahoogroups.com
+From: Alastair <openboat@asjg.clara.co.uk>
+Date: Fri, 9 Jan 2004 19:43:09 +0000
+Subject: Re: LED navigation lights part 1
+
+Have a look at my building post (following this) to see if it adequately answers your questions.
+
+I got my LEDs, and resistors, from RS Components. (http://rswww.com)
+
+
+To: dclark52001 <dclark@woden.com>
+Date: Fri, 09 Jan 2004 17:16:48 -0000
+Subject: [paradoxbuilders] Re: LED navigation lights part 1
+Send reply to: paradoxbuilders@yahoogroups.com
+
+Thanks for starting this Al, and for making it easy to understand.
+When I spoke to you I remember you mentioning that you used 6 of 60 degree white LEDs. Would that be two rows of three in parallel?
+Presumably, for 240mW a half Watt resistor is of ample size? Lastly,
+what is the UK source for LEDs? Best wishes......Derek
+
+Now for the clever bit. If you put 3 of these LEDs in series the voltage dropped across the LEDs is 10.38V, leaving 1.62 to drop across the resistor. The current is still 20mA so the resistor must be 81 ohms. The total power is still 240mW but now we have three times the light output (less is lost as heat in the resistor).
+
+This is the philosophy that I followed in my nav light: Put as many LEDs in series as possible and maximise the output for minimum power drain.
+
+I have also used strings of three white LEDs for interior and locker lighting with great success.
+
+
+Hoping for calm nights,
+
+Al
+Yeovil, England.

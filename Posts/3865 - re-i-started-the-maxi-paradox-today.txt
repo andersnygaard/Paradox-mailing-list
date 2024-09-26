@@ -1,0 +1,36 @@
+From: LJGeib@aol.com
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 19 Aug 2006 22:25:52 EDT
+Subject: Re: I started the maxi paradox today
+
+Well, I meant the rig would be simpler. 
+
+But a birdsmouth mast is really pretty easy to build if you have a table saw. 
+It doesn't need to be round, either. You can make an oblong one by making two 
+opposite staves wider than the rest.
+
+8 staves 15mm x 30mm will yield nearly the right size for the boom
+
+There's a good website that shows the method :
+
+http://users2.ev1.net/~fshagan/bm.htm
+
+but the formula is simple:
+
+stave width =3D (desired diameter)/2.5
+stave thickness =3D (desired diameter)/ 5
+
+tapering is a little harder, but not much. Reducing the stave width   by 1/8 
+the difference in circumference is close enough. final planing and sanding 
+takes care of the rest. the resulting spar is very light, but for a boom, I'd 
+make the stave thickness as much as 20% thinner and leave the boom mostly 
+octogonal. the spar,however will be as much smaller as you reduce the stave 
+thickness, so don't forget to add that to the desired diameter.
+
+the hardest part   for me was the plugs at the ends for fittings. It took 
+quite a bit of trial and error to get them right. Fittng 8 sides at once isn't 
+easy. I amost resorted to sawing the mast I did lengthwise and glueing it back 
+together after fitting half-plugs, but after a couple of tries, patience won 
+out.
+
+Larry

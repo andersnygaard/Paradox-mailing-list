@@ -1,0 +1,8 @@
+From: "Jeffery Please" <apcf14@dsl.pipex.com>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Transom missing dimension
+Date: Tue, 6 Jan 2004 09:31:36 -0000
+
+On drawing 7#, bulkhead 2 has the curve dimensions for the master beam crop. This curve is common to all bulkheads. I would normally make a beam crop which would be used on all the bulkheads but as there are only four and the boat is small, I will mark out 2# and use that as my crop. It's just a simple matter of laying the cut out bulkhead 2 onto the plywood with the main dimensions drawn (bulkheads 1, 4 and the transom), lining up the centre lines and the deck marks and scribe. Simple and quick.
+
+Jeff UK

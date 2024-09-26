@@ -1,0 +1,18 @@
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Apr 2008 11:18:06 -0700 (PDT)
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+You should get excellent performance out of a battery of that type.
+
+You should check to see that you are not over charging or over discharging it, either situation can hurt the battery.
+
+Taking it below 10.5 volts to many times will slowly degrade the battery to the point that you can't charge it properly any longer. On the other hand even though these batteries can take more abuse than some other types of batteries you can kill them by consistently over charging.
+
+Here's a good link, perhaps you already have it. It gives a good common sense approach to maintaining these types of batteries and the main reasons for poor performance.
+
+http://www.electronicsteacher.com/battery-tutorial.php
+
+Denny ...
+
+Do You Yahoo!? Tired of spam? Yahoo! Mail has the best spam protection around http://mail.yahoo.com

@@ -1,0 +1,22 @@
+From: "Glen Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 30 Dec 2003 07:41:09 -0500
+Subject: Re: nesting
+
+Jack, do you have a copy of Gregg Carlson's "hull" program?
+If so it has a nesting function that you can use and I have already input the Paradox values into my copy and can forward you the file. With it you can enlarge the values and then output Txt file offsets and play with the nesting of developed panels. The program is freeware.
+
+Tailwinds
+
+Glen
+
+Yahoo! Groups Links
+To visit your group on the web, go to:
+http://groups.yahoo.com/group/paradoxbuilders/
+To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.
+
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.550 / Virus Database: 342 - Release Date: 12/11/2003

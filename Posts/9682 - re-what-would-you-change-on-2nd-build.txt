@@ -1,0 +1,12 @@
+From: "Simon B" <destsk@gmail.com>
+To: paradoxsailboat@groups.io
+Subject: Re: What would you change on 2nd build?
+Date: Thu, 16 Apr 2020 11:42:50 -0700
+
+All very good advice, thanks guys! So glad i posted this, i will probably buy better and bigger pulleys for vent trunk, have watertightness in mind and include "embedded" led lights (have some leftover led strip). Alastair, i have read your (?) advice to build hull last before starting build and that was hands down best boat building advice i have ever got :D Building vent trunk at the moment - it is so convenient on the table. Rudder next, spars are waiting on the shelf for sanding and finishing and i have all the space to move around.
+
+Brian - can you just drown piece of led strip in epoxy to make it waterproof or will it heat up too much? Also what all of you think would be best location for few mini spot lights in paradox?
+
+Nick, i would like to make my water tank in few pieces so i can take them out and fill. Don't want to have big tank with plumbing as it would be awkward to clean etc. I imagine two removable tanks on each side in original space, more like perfectly shaped 15 or so liter bottles. What do you think?
+
+Also i would like to have lightning conductor but i am worried to run it inside mast because i'm afraid mast would explode (break) with air inside expanding so quickly in worst case scenario when lightning strikes. So i was thinking heavier gouge (same you would use on house, 8mm copper) secured outside of mast in front so sail doesn't touch it. Any comments on that? Downside - it would weight 2+ kg wire only. I could go aluminum but it is more problematic to connect to copper plate on the bottom because of galvanic corrosion). Maybe i could get away with thinner wire (as per plans) but it would make me nervous to use something that is considered unsafe in housing applications?

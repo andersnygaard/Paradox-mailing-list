@@ -1,0 +1,16 @@
+From: "dr01allen" <davidallen@iname.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: yahoo derived spam
+Date: Fri, 29 Mar 2002 21:06:38 -0000
+
+It seems Yahoo! is once again trying to spam its users without consent. 
+They did some server rework last week, and the news is out that they have set *every* account to receive spam and to give out your email and phone number to marketing groups. This is bad! VERY BAD! :(
+
+Instructions to get yourself *out* of their latest scam:
+
+Go to the Yahoogroups page: http://www.groups.yahoo.com. 
+After you log in click on Account Info on the top right corner of the screen. 
+Enter your password when prompted, then below the listing of your email addresses, 
+you'll see a link for "Edit Marketing Preferences", click on that.  
+You'll see it's set to Yes (please send me spam) on every option.  
+Set them all to No, don't forget the two towards the bottom of the page about phone and snail mail spam and click the button to save it.

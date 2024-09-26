@@ -1,0 +1,14 @@
+From: "orpdh" <petehodges@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Wearing the Boat
+Date: Fri, 21 Dec 2001 17:02:24 -0000
+
+Thanks for your response!
+
+I think I may give a 1.1 version a shot.
+
+Now my only question is "What am I going to do with all that extra space :~)
+
+--- In paradoxbuilders@y..., "Glen Maxwell" <ifida@n...> wrote:
+Assuming you wanted to scale up a square from 100 sq ft to 110 sq feet you would work your self backwards by taking the square root of the finished product i.e. sq root of 110 =10.49, call it 10.5 square feet 10.5 X 10.5 = 110.25 ft. You would apply this type of logic to the sail by dividing it into squares to come up with the correct dimension for each side. The following numbers will be pretty close: Foot = 3514 instead of  3350, Luff = 2989 instead of 2850, Head = 2727 instead of 2600, leach = 3671 instead of 3500. I haven't done the actual area computations which involves finding the area of the two triangles formed by sail but you get the idea. 
+Glen

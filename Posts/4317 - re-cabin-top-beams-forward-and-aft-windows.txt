@@ -1,0 +1,43 @@
+From: "Dave Bolduc" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 11 Apr 2007 15:20:22 -0000
+Subject: Re: Cabin top beams, forward and aft windows
+
+Hi Jeff.  I would use your local sailmaker, but make sure that he understands that your lug sail will need a bit more draft than usual since it is a cruising boat and not a light weight daysailer.  You've probably already seen this post from Matt regarding the new Paradox sail, but I'll repost it here again so that you can show it to Caws Sails. Regards, Dave. 
+
+---------------------------------------------
+Hi everybody,
+
+I've been lurking on the outskirts of the group for a month or 2 and after talking with Glen, Larry and Dave at Cedar Key last weekend I thought I'd put in an appearance.
+
+Glen has been unhappy with his sail and we've discussed on a couple occasions what he might do to improve the current one or if he builds a new one from scratch.  I just made a new sail for Paradox this Feb.  The old sail is pretty tired but still useable, I wanted to get a new one on while there's still some life in the old so I can carry it as a spare.  Thought some of you might be interested in how it turned out.
+
+I experimented with the overall dimensions a little, shortening the foot to reduce the overhang of the boom, and raising the peak a little to get a higher aspect ratio.  The downside of these changes is a sail that doesn't reef and furl quite as nicely, which was more of a priority in the original design; there is a triangle of sail at the peak that doesn't roll up now and it has to be manually scrunched up and stuffed under the boom when stowing the sail.  Not a big deal but not as neat and clean as it was.  The upside is a slightly better setting and more weatherly sail, either full sail or reefed.  Below are the dimensions of the new sail if anyone wants to try it out.  I still stand by the ond sail as in the plans, it works fine and if you have one that is well cut there is no need to change it, but I would go with the new version again if making another.
+
+Foot:  3180mm
+Luff:  2630
+Leach:  3700
+Head:  2580
+Tack to Peak:  4150
+Throat to Clew:  4322
+
+These are the basic overall dimensions as you will lay them out on the loft floor, to the outside corners of the quadrilateral including the flattened head and foot sleeves.  You of course then deduct the width of the sleeve minus a seam width to arrive at the line of the sail itself.
+
+With 36" (914mm) cloth there are 3 seams which should be laid out at 90deg. from the leach ( If you want to do a vertical cut that is ok since this is such a low aspect sail, but virtually all the cloth available is designed for horizontal cut and this will be stronger and will stretch least and most predictably).  Wider cloth is commonly available now, but I'd still cut it down to the 914mm panel width to get more control over the shape.  I use a 25mm seam overlap, which is wide enough for 3 runs of zigzag stitching with room left over if you need to adjust the broadseaming later.  Lay out the broadseams as follows:
+
+Bottom seam:  65mm at luff, 25mm at 50%, 45mm at leach; curve should be very full at both ends and flattish in the middle
+Middle seam:  45mm at luff, 25mm at 45%, 37mm at leach; curve should be rather parabolic, stronger in middle than ends
+Top seam:  38mm at luff, 25mm at 40%, 33mm at leach; curve should be about a circular arc.
+
+Seam these up and lay the sail back on the marks on the floor.  The outline should then be corrected as follows:
+
+Foot round:  Total of 28mm, best to apply 14 mm to the sail and 14mm to the sleeve.  Maximum at 50% from tack.  Use a very full-ended curve similar to the bottom seam
+Head Round:  Total of 40mm, best to apply 20 to sail and 20 to sleeve.  Maximum at 35% from throator as seems best with respect to bend of yard.  Use a rather full-ended curve but nearer to a circular arc than the foot
+Luff round:  about 8-10mm at 40% up from tack, A cicular arc or slightly parabolic.  This round will flow back into the belly of the sail and the luff will become hollow in use.
+Leach hollow:  about 50mm at 60% up from clew; a parabolic curve, slightly stronger in top section than bottom.
+
+Note on head round:  This amount of shape works for me.  I'm using a hollow spruce yard that I believe is a little stiffer than the one detailed in the plans.  You may want to start with a little (10-15mm) more round in the head and 4 or 5mm more broadseam in the top seam to start with, since it is easier to flatten a sail than to make it fuller.  Or else if you find the head too flat you can stiffen the yard as has been mentioned here.
+
+The foot and head sleeves should get doublers at each end before being sewn on; let the doublers extend 25-30cm past the edge of the sleeve into the body of the sail on each side to become corner patches.  You can stagger the overlap a few cm so one side of the patch is larger than the other.  These 2 layers of corner patch are all you need, the corners of this sail are not heavily stressed.  I like to run the tack patch well up along the luff and 25cm or so aft, to make a wear patch where the sail bears on the mast when reefed.  Sew on the sleeves letting them run long, then trim back to align with luff and leach.
+
+I like to use a cut tabling on the leach (refer to your sailmaking book of preference if unfamiliar).  This means leaving an extra 20 or so cm of cloth at the leach during layout and seaming, then cutting this portion off and re-sewing it to become the leach tabling or hem.  I won't go into why here or I'd be typing all night; do it however you like.  In my version I cut the leach 25 mm outside the layout line and cut the tabling piece 105mm wide.  Lay the tabling piece on the sail in the same orientation as it was originally with the aft edges aligned but with the seams staggered slightly to avoid building up too much thickness.  Now stitch the tabling on, sewing EXACTLY, PRECISELY along the marked line of the leach ( which is 25mm forward of the cut edge).  Now fold the wider section of tabling 360 degrees all the way around the leach so that the 2 25mm flaps are enclosed between the sail

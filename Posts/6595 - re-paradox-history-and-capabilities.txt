@@ -1,0 +1,105 @@
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 2 Oct 2010 08:32:55 -0700 (PDT)
+Subject: Re: Paradox history and capabilities
+
+The properly loaded and ballasted Paradox will right it self completely under normal circumstances.
+
+The problem with self righting and self rescuing is that when a boat heels past a certain degree, the objects inside (like people) fall to the cabin roof and change the Center of Gravity to keep it from righting. Yes if the people can exit the boat without flooding it, then it will right itself and you can hopefully re-board. If the passengers are 'strapped to the floor' during bad weather than it should right itself with you in it. The paradox stability chart shows it to turn over at around 60 degrees or so of heel... becoming less likely to self right with loose interior contents past 70 degrees.
+
+In the pictures of the Paradox on top of the chart you can see the 2 arrows representing Center of Gravity and Center of Buoyancy. You can see how as they come closer to converge, self righting is less likely.
+
+Find that chart in the group page under FILES and then STUDY PLANS. The file is 
+
+parastab.jpg
+Paradox Stability Graf and data
+
+It is possible I am misinterpreting the chart, but i do not think so
+Andrew
+
+
+To: paradoxbuilders@yahoogroups.com
+From: Rodney Cannon <rdnycannon@yahoo.com>
+Date: Fri, 1 Oct 2010 21:49:19 -0700 (PDT)
+Subject: Re: [paradoxbuilders] Re: Paradox history and capabilities
+
+
+Wasn't Paradox designed to be self righting and self rescuing? Or am I missing something here. Cause I would have no problem adding a keel like that .... one that bolted on and then could be removed.
+Rod
+
+
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Sent: Fri, October 1, 2010 20:42:47 PM
+Subject: Re: [paradoxbuilders] Re: Paradox history and capabilities
+
+There is a vintage design for a racing sharpie called 'missile' that uses a small bolt on fin keel. This would make Paradox self righting and self rescuing just like Bolger's Micro. It is easily constructed and not costly.
+
+The SF Great Pelican which sailed from San Diego to Hilo Hawaii also had an external keel added for stability. It was a box keel filled with cement as I recall.
+
+Andrew
+
+To: paradoxbuilders@yahoogroups.com
+From: Rodney Cannon <rdnycannon@yahoo.com>
+Date: Fri, 1 Oct 2010 21:30:27 -0700 (PDT)
+Subject: Re: [paradoxbuilders] Re: Paradox history and capabilities
+
+
+
+Well,..... we may find out next year...... or .... maybe the following. I have been giving serious thought lately about taking mine to Hawaii when it is finished. (after the approp. trials... both human and vessel) I have heard thou that it is an easy trip depending on the timing... I will leave from Marina Del Rey here in Los Angeles if I do it. I had no idea you could get freeze dried food that cheaply. 
+
+I will not say when the build will be finished because unlike 2 yrs ago when I started I have no illusions that I even DO KNOW when it will be done. I guess in that way I have grown in my thinking about boat building in general. By the way, I am in love with this art of building boats. I am gonna find it difficult to decide some day whether to build or to sail. Both are so much fun!
+
+Rod
+
+
+From: Andres Espino <ima_very_cool_cowboy@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 1 Oct 2010 20:17:56 -0700 (PDT)
+Subject: Re: [paradoxbuilders] Re: Paradox history and capabilities
+
+
+Even that has changed... one can buy 30 days of meals with snacks and deserts all freeze dried and sealed in nitrogen pouches and in a single 5 gallon plastic bucket for under $80 at CostCo and many other places. With a hand pump lifeboat type watermaker one could feasibly cross long stretches in a Paradox.
+
+Andrew
+
+
+From: Nels A <arvent@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 1 Oct 2010 17:00:05 -0700
+Subject: [paradoxbuilders] Re: Paradox history and capabilities
+
+
+I would suggest that off-shore capability is very beneficial in a
+coastal cruiser. Sooner or later a sailor is going to want to make a
+jump over to a nearby island or cross a wide inlet or bay and these can
+turn into challenges as great as out on the ocean blue.
+
+In fact Sven Yrvind states that coasts can be more of a threat than the
+open ocean, especially if caught upwind near an unfamiliar rocky shoal
+infested headland. This is where a hull like Paradox really shines since
+it can sneak into a shallow tiny cove and remain upright in the surf as
+well even if the tide goes out. And the crew are safe and dry inside if
+they have everything snugged down according to the designed set-up.
+
+Phil Bolger suggested one time that the safest thing to do in a small
+design like this - if caught in a storm off a lee shore - might be to
+drop the sail, throw out the anchor and lie down in the lowest part of
+the boat. Of course if the boat is self-righting and shallow draft and
+water tight inside - like Parodox - you are already inside your "life
+boat"!
+
+It's only real drawback is limited storage for long off-shore voyages.
+
+Nels
+
+From: WilliamRich <williamrich1@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Sent: Mon, August 30, 2010 11:52:44 AM
+Subject: [paradoxbuilders] Paradox history and capabilities
+
+I'm new to this group, microcruising, and the Paradox --
+
+What are the design requirements of the Paradox and what does it's history suggest regarding open-ocean (bluewater) safety and comfort?
+
+Thanks

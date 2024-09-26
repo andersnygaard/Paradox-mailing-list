@@ -1,0 +1,44 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 9 Jan 2004 19:51:12 +0000
+Subject: LED navigation lights part 2
+
+This is the second part of my LED nav light discussion, the construction of the light itself. 
+
+It was a requirement of my build that the mast fit inside the hull for transport and storage. To achieve this the light needed to have as low a profile as possible. The ability to make it thin was the main reason I built my own light rather than buying one.
+
+The data sheets for the LEDs gives a value for luminous intensity (in candella). A search on the internet produced the values required to meet the legal requirements, so it was relatively easy to work out how many LEDs were required for each sector of the light. In my case it was as follows:
+Red sector - 3 LEDs
+Green sector - 5 LEDs
+White sector - 4 LEDs
+Anchor light - 6 LEDs
+
+It will be seen from this that the green LEDs are not as bright as the red.
+
+The data sheet gives a viewing angle for each LED, and I decided to use this to create the demarcation between sectors, rather than using opaque baffles. This almost certainly means that the change from say red to green will not be a sharp cut over, but will probably be no worse than some commercial lamps I have seen.
+
+Following the method outlined in my first document I divided the LEDs into 5 circuits:
+(Tricolour)
+1/ 5 green + 56 Ohm resistor
+2/ 3 white + 82 Ohm resistor
+3/ 3 red + 1 white + 150 Ohm resistor
+(Anchor)
+4/ 3 white + 82 Ohm resistor
+5/ 3 white + 82 Ohm resistor
+
+The three tricolour circuits were wired in parallel (720mW)
+The two anchor circuits were wired in parallel (480mW)
+These two circuits were then wired in reverse parallel so that when the battery polarity was one way round the tricolour would light, and when it was the other the anchor light would be on. Thus only two wires are needed up the mast.
+
+The actual construction of the circuits was on a couple of purpose-made circuit boards, each a disc about one inch diameter. One for the tricolour and one for the anchor light. The LEDs were located in the correct position, pointing out. The whole assembly was then potted in silicon rubber with the heads of the LEDs sticking out. See www.asjg.clara.co.uk/navlight/navlight_1.htm for some construction photos and the finished lamp. The housing is a couple of turned bits of plastic and a short length of perspex tube with a screw down the middle to hold it all together.
+
+As an added bonus the housing also retains the pin for the mast-head sheave.
+
+An alternative building method would be to assemble the LEDs onto the outside of a short cylinder with the wiring inside. This was my intended route before I found I had access to circuit board etching equipment
+
+So far the light has worked well and is impressively bright, brighter than the 12W filament bulb on my other boat.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

@@ -1,0 +1,25 @@
+From: "Larry Geib" <LJGeib@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: I started the maxi paradox today
+Date: Sun, 20 Aug 2006 03:35:25 -0000
+
+
+As soon as I punched the send button, I knew that was wrong. If you reduce the thickness 
+20%, the relationship between stave width and diameter stays the same!
+To prove it to myself, I drew it up in a CAD program and the width/diameter ratio stayed 
+the same.
+
+width=3D1
+thickness =3D .5
+diameter =3D 2.5
+
+and 
+
+width =3D1
+thickness =3D .4
+diameter =3D 2.5
+
+
+Spoke too soon,
+
+Larry

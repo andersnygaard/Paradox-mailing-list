@@ -1,0 +1,30 @@
+From: roger chan <light369369@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Wire maintenance in Mast
+Date: Mon, 15 Jul 2002 23:50:39 -0700 (PDT)
+
+Thanks for the idea! 
+
+--- Alastair <openboat@asjg.clara.co.uk> wrote:
+You have to sort this out for yourself. 
+
+My solution is to have a socket at the bottom of the
+mast which 
+can be extracted leaving a 20mm hole. At the top the
+wire comes 
+out through a hole just big enough for the wire and
+is then sealed in 
+place with silicone sealer. I hope this keeps out
+the water, but it 
+won't be tested in anger till next year.
+
+The wire just hangs inside the mast (with padding to
+stop slapping) 
+so should be easy to replace. I just used 5 amp
+flex. 
+
+Thanks,
+Roger Chan 
+
+Yahoo! Autos - Get free new car price quotes
+http://autos.yahoo.com

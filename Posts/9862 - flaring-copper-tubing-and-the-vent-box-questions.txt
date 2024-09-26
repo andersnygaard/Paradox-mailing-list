@@ -1,0 +1,18 @@
+From: "Paul Raymond" <kayaker37@gmail.com>
+To: paradoxsailboat@groups.io
+Subject: flaring copper tubing and the vent box questions
+Date: Tue, 26 Oct 2021 09:05:48 -0700
+
+Hello,
+
+I'm thinking of mocking up the top of the vent box to see how it fits together before committing to a build. At the top of the vent box, the 25mm piece of wood is supposed to be contoured to the deck. Would it be best to use a power planer for this?
+
+Also, the dimensions and positioning of the top vent and holes for the lines where the copper fairleads go are not shown in the plans. Can you give me your best estimate?
+
+I assume fairleads are made from 1/2" outer diameter copper tubing with 3/8" inner diameter that comes in a coil for plumbing. I thought this would require a flaring tool as used in plumbing connections. However, looking at the plans, it looks like the tubing is flared on both sides of the 25mm fir (not counting deck). Is it done in place as shown in this website with a cutoff handle pull knob or some other forming device?
+
+Thank you in advance for your help.
+
+Best regards,
+Paul 
+http://www.eyeinhand.com/2010/07/08/copper-grommet-fairleads/

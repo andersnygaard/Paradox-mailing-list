@@ -1,0 +1,19 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Chine logs
+Date: Mon, 18 Aug 2003 07:32:31 -0000
+
+
+Hi Al. Yes, the sheer clamps will be installed first. I have very little fear that they will be problematic; they're tiny compared to the chine logs. I wonder if Matt used green or air-dried lumber...
+
+I don't worry too much about shielding GPS signals with the foil faced foam. As of right now, I will plan to use the specified material on the hull sides and under deck. I'll probably try experimenting with a GPS receiver under a mock up cabintop (with foam), as this is the only location, which I feel may suffer from shielding. 
+
+Some of the Garmin GPS units are designed to be used within the confines of an automobile, which would seem to exhibit similar shielding characteristics as the interior of this boat, with foil faced foam. If all else fails, I can go old fashioned and mount an "external" antenna in the vent trunk...
+
+Since I haven't figured a way to make radar a practical addition to my boat, I must trust in a little Danish reflector like the one aboard Zoe, and I can't help but think that the foil faced insulation may be beneficial. 
+
+With the foil faced foam encapsulated between the hull/under deck, and a bonded veneer, I won't worry at all about electrolytic action between the bronze fasteners (through out the boat) and the aluminium. The foil should require less adhesive to achieve a good bond, than perhaps an unfaced foam, like polyurethane. Isocyanurate foam does not glue well without a facer anyway, so the foil helps in this respect. While it is more expensive than styrofoam, it is correspondingly more efficient.
+
+Lots of ways to go, and some may go without. Those are just some of my ideas. I welcome others.
+
+DC

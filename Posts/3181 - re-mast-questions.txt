@@ -1,0 +1,25 @@
+From: "williamserjeant" <william@serjeant5445.fslife.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 09 Oct 2005 09:04:43 -0000
+Subject: Re: Mast Questions
+
+Mast Questions
+
+I am in the process of building my Paradox mast. I've glued the sides to the back piece and I've shaped the front piece ready for assembly. I'm using shims glued to the sides to prevent the front piece falling between the sides when being assembled.
+
+The masthead light can be fitted centrally before I attach the front piece, but what is the best solution for leading the flex?
+
+I want it to lead internally through the mast; therefore I assume I need to make a channel for it through the top wooden masthead plug and down the inside of the front piece until it can exit into the interior of the mast. The difficulty, as I see it, is avoiding the area needed for the main halyard sheave. The location of this sheave is about in the middle of the masthead wooden plug; that's 70 millimetres from the top of the mast.
+
+I've studied photos of Glen's masthead and note that he has added an external housing for the flex.
+
+Where should the flex exit the mast? If the exit is above deck level, where does it go from there so that it can be attached to the battery terminals? As the mast is mounted and demounted for trailer sailing, there needs to be a plug and socket of sorts for the flex to be separated, but where is the best place for the plug and socket?
+
+Bill, you figured out the top routing from the pictures of Zoe. What I did at the bottom was to bring the flex out under deck level and connect it to a plug just under forward port deck. It has worked out fine, it's easy to connect and disconnect.
+
+Glen
+
+If there's a snug fit between the mast and the deck, how do you manage to get the flex through the hole in the deck at the same time the mast is being lowered into it?
+That's why I envisioned the flex leaving the mast above deck level.
+Obviously there's a way, unless I am misunderstanding something.
+Bill.

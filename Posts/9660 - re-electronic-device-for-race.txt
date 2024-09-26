@@ -1,0 +1,26 @@
+From: creditscorenz@yahoo.com.au
+To: paradoxsailboat@groups.io
+Subject: Re: Electronic device for race
+Date: Wed, 19 Feb 2020 17:52:46 -0800
+
+I began by using the Mk 1 rig and yes, I believe it was more stable than my current set-up. Not quarter of an hour stable though.
+
+I think I've made my Paradox more squirrelly with the sprit rig which stands about 1m taller than the Mk 1, but I'm prepared to accept it's less stable, due to the performance advantages I believe I've gained. To prove any of this, I'd have to sail against another stock Paradox, which brings us back to William's Paradox racing idea.
+
+I would be interested to sail against other Paradox's virtually (not for a prize, simply to compare performance) and maybe we could do it if:
+
+1. We agree on an identical equilateral triangle course that everybody uses. Each leg is 1 mile long. You have to do the course twice, clockwise and anti-clockwise. The course is limited to lakes to avoid currents which would muddy the results.
+2. Like in the Americas Cup you limit the maximum wind speed allowable to below a certain threshold (I'd suggest 15 knots), so that everybody is sailing with their full rig.
+3. You put that course into any package that is able to export GPX files (OpenCPN is just one of many).
+4. As you round each mark on the course you pause for a second and measure the wind speed in knots with a handheld reader (these are pretty cheap. I bought one the other day for about USD20) which you enter into the description field (just a round number e.g. 8, so that the data can easily be analysed) of your track, after you've finished your 'race'.
+5. You export the GPX file and send it to the group.
+
+My feeling is that though this wouldn't be perfect, it would give us an idea of how well we're sailing vs other Paradox's, since we could compare:
+a) Overall time to complete the course.
+b) Wind speed vs boat speed.
+c) Tacking angles.
+
+This exercise might be quite illuminating for all of us. In fact, why not... I'll set up a course on my local lake and sometime over the next few weeks, I'll do it and export the results to the group.
+
+Cheers,
+Rob.

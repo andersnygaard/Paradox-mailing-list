@@ -1,0 +1,16 @@
+From: "Glen C. Maxwell" <ifida@nefcom.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Getting the bottom on
+Date: Thu, 12 Jul 2001 15:20:24 -0400
+
+Al, 
+
+He is trying to say, depending on what is required to pull the ply down use a spacing of from 40 to 70 mm. On sections with little bending 70mm will be fine but you will need to tighten up the spacing to pull down areas like the bottom where it curves the most. It applies to which ever thickness are using at the time.
+
+Tailwinds 
+Glen
+
+To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.

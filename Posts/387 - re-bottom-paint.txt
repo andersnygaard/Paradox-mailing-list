@@ -1,0 +1,33 @@
+From: "David LeBlanc" <whisper@oz.net>
+Date: Mon, 25 Feb 2002 19:12:40 -0800
+Subject: Re: Bottom Paint
+
+What bottom paint you need depends on several factors:
+
+* Tropical or temperate water conditions
+* Hull material
+* Fresh vs. tidal vs. marine waters
+* Frequent haul-out vs. mostly in the water
+
+The warmer the water, the more biocide(s) you need in the paint, and the shorter the time it will tend to be effective.
+
+Wood and fiberglass have different paint requirements compared to aluminium or steel.
+
+Some anti-fouling paints are not permitted to be used in fresh water (mostly respecting tin-based paints especially for aluminium) except in very limited situations, such as anti-fouling outboard motors, i/o drives and transducers. Even in salt water tin-based paints are strictly controlled since it's a carcinogin that likes to accumulate in shellfish (if it doesn't just kill them altogether). Water salinity has an effect on bottom growth as does the amount of nutrients in the water (tidal areas with a lot of land run off seems to have higher potential for promoting marine growth compared to fresh or marine waters).
+
+Some paints will stop providing any protection if dried out after being immersed, or if they are not immersed soon enough.
+
+Check here for more discussion on paint alternatives: http://www.westmarine.com/webapp/commerce/command/ExecMacro/west_advisor.d2w/show_advisor?fn=antifouling_paints.htm&store_num=4
+
+(Don't take this as an endorsement of West Marine - I think there are generally less expensive sources. This article does have some good advice about applying bottom paints too.)
+
+If you don't want to read the above, it looks like a wood hulled sailboat that's hauled out frequently ("trailor sailor") would best have a copolymer ablative paint (with % of biocide - and cost, based on water temperature). A mere $34/Qt. from West :-) (which isn't really that far off the mark for bottom paint prices, but I bet the same paint they sell could be found for a few bucks less at a commercial fisherman's supply sort of place).
+
+I, having experienced what it's like to deal with a hull that was unproteced, would be very cautious about "just add cuprous oxide to epoxy" solutions: bottom paints have additional additives that provide a broader range of protection against more kinds of marine organisms compared to cuprous oxide alone. I'm particularly interested in these new "anti-slime" paints since "fuzz" grows even on conventional bottom paint and is a real performance killer.
+
+BTW, bottom paints are not "paint it and forget it" - in general, they need regular scrubbing, whether in or out of the water to help them do their jobs, although some formulations need this less then others. For a trailor sailor, the sooner you scrub after hauling out, the easier it is to get whatever might have accumulated off the bottom.
+
+Hope this helps...
+
+Dave LeBlanc
+Seattle, WA USA

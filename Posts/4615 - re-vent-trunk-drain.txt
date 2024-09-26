@@ -1,0 +1,31 @@
+From: Larry Geib <LJGeib@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 6 Aug 2007 18:04:56 -0700
+Subject: Re: Vent Trunk Drain
+
+That depends on whether your metric pipe is inside or outside diameter.
+
+In the US, nominal pipe diameter is inside diameter for pipe under 12" ( it can vary a bit by manufacturer).. Outside diameter depends on the Schedule of the pipe. Schedule 40 is about 33.78 mm +-. Larger than 12", it is outside diameter. The schedule of a pipe is actually related to the pressure it can handle, so actual diameter depends on the material the pipe is made from. Most house plumbing is schedule 40 (usually white) and is becoming fairly standard so fittings from different manufacturers can be used. In some areas, plumbing in inaccessible areas (pools, inside concrete enclosures) is required to be schedule 80 (usually dark grey and not to be confused with a lighter grey that is used for electrical conduit).
+
+There is some history behind this. Originally, pipe sizes were standard when they were made of iron. When plastic came into use, some manufacturers standardized to the iron sizes (IPS), some didn't. Iron pipe used to come in different wall sizes, std,xs, xxs,, xh, and xxh were all options. Some manufacturers chose to work to the iron sizes rather than pressure schedule. Then they assign the appropriate schedule after the design is set.
+
+There is a chart on pipe schedule here:
+http://en.wikipedia.org/wiki/Nominal_Pipe_Size
+
+Tubing, on the other hand, is always  measured by outside diameter. I'm not clear to me how the inside diameter is figured for tubing. Usually, it seems, the tubing wall is some even english size.
+
+Larry
+
+
+On Aug 6, 2007, at 2:50 PM, randoneur wrote:
+
+Matt specifies 1" dia pipe for the VT drain.
+Here in the good old UK, standard PVC plumbing comes in 22mm, 32mm and 40mm size. I have a length of 22mm left over from my last bathroom refurbishment which I was considering using, but too be honest, it looks a bit small for the job in hand. If one were to ship a load of green water, I could imagine the VT filling up quite quickly. Would a 22mm pipe be adequate to keep the VT empty under such conditions? Should I go for 32mm which I reckon will just about fit if my drilling is accurate enough?
+
+Thanks
+
+Pete
+http://www.freewebs.com/paradoxbuild/
+
+
+Yahoo! Groups Links

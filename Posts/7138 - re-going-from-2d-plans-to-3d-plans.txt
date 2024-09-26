@@ -1,0 +1,50 @@
+From: "openboat@as6jg.freeuk.com"
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 25 Mar 2012 13:43:36 +0100
+Subject: Re: Going from 2d plans to 3d plans
+
+Is Google Sketchup available for free distribution? If so:
+
+Someone could draw up the 3d models using Sketchup and send them to Dave.
+
+Then Dave could include the Sketchup program files and the 3d data files on the DVD he sends out with the plans.
+
+Simple, no copyright or data security problems.
+
+
+On 23 Mar 2012 at 12:56, Fernando wrote:
+
+If you think about it, the paper plans of paradox are 2D representations of the parts and that was the only way designers had in the past to explain each part. It is much easier going from 3D to 3D though. Many parts I have difficulty in understanding in 2d, like the mast or the cabin top. Easier, much easier in 3d, you might understand it but many builders don't get it. 
+
+Should we stay without epoxy only because 100 years ago it was not possible? No gps? No power tool only to stay with traditional boat building methods? The paradox challenges many sailing conventional and standard practices, why not this too and improve it?
+
+Many people did something like this, they build models, others made 3d models too. Reading old posts I found many references to CAD models of paradox. 
+
+3d is difficult? Not anymore with Google Sketchup. It is so easy. I got the idea for using google sketchup from a post by Stephen Yahn in 2008. Thanks Stephen.
+
+Using sketchup, only make a line and type the millimeters. Then push or pull to form a 3d shape. So if all parts of paradox were made this way, we could zoom in and out, print from many positions each part and take dimensions from any point in it. 
+
+How it would work..
+
+Dave would create a group only for 3d models and approve members only after they bought the plans. There they could download the 3d models and help to make the parts using Google Sketch up.
+
+http://sketchup.google.com/
+
+
+I have made an example of Bulkhead 1 using the exact millimeters, no offset of 5mm or cuts for sheer clamps or chine logs. After installing the software, open it and check at every line dimension by right clicking in it and reading the information. Zoom in and out, look around it. 
+
+Bulkhead 1 in Google Sketchup
+http://groups.yahoo.com/group/paradoxbuilders/files/Goingto3Dplans/
+
+What do you think? :)
+
+Thank you
+
+Fernando
+
+-- 
+Hoping for calm nights
+
+Alastair Law,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

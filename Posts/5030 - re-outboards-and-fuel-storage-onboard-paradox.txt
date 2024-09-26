@@ -1,0 +1,139 @@
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 11 Apr 2008 17:09:46 -0700 (PDT)
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+I would use one of these Alan, an Air-X Marine Mx-1 Wind Generator. 
+
+http://www.defender.com/product.jsp?path=-1%7C328%7C337248&amp;id=336586
+
+400 watts at 12 volts in 9 mph of wind, should be adequate for what we are discussing. I've seen them as cheap as 500 dollars from some discount houses.
+
+This generator and 4 very good batteries could be used to replace the lead ballast in a Paradox and supply plenty of power for all the little things on a boat that size.
+
+Denny ...
+
+--- Alan <logicaid@xtra.co.nz> wrote:
+
+Hi,
+
+Don't wish to be a doomsayer, but-
+Unfortunately the numbers do not add up when looking at
+electric power as your only system.
+Solar panels wont be adequate for replenishing batteries
+if these are to be used for propulsion and cooking,
+and a wind generator would need to have blades of 6' and
+upwards in order to get any useful amount of
+power-impossible on a tiny
+Paradox-size boat.
+You could get upto 100watts from a pedal-powered
+generator...
+or a water-powered one if sailing with plenty of
+wind might
+be useful without slowing you down too much. Some of
+these are
+designed to be towed behind the boat, so no
+complicated transom 
+mounting required.
+If the micro-wave mentioned is only about 50%
+efficient, I'd expect
+a simple immersion heating element could be more
+efficient if used
+in a very well insulated container to reduce heat
+losses. A resistive 
+(immersion heater) element is 100% efficient-all the
+power it uses 
+ends up as heat- so if you manage to not lose any of
+that, I think it 
+would be a better bet. Perhaps make up something
+using a thermos as 
+the heated vessel?
+Having said all this, an electric cooker of some
+sort could be good 
+to have as a VERY occasional thing if conditions
+were so bad that the 
+gimballed gas stove was not safe to use.
+Cheers,
+Alan.
+
+--- In paradoxbuilders@yahoogroups.com, Dennis 
+Mingear <dennismingear@...> wrote:
+
+This is exactly the reason that I think electric
+auxiliary power is a better option on something this
+small. The stove is always going to be to close to the
+outboard fuel supply for my tastes.
+
+My idea was to replace a large amount of the useless
+lead ballast with some very useful deep cycle
+batteries. A small wind generator would be adequate
+for charging the battery bank and the batteries could
+be used for a lot more than just running the electric
+outboard.
+
+Some of the new radar system a very small and
+light weight. An amateur radio for calls home. And of
+course a way to keep the ever essential computer/gps
+navigation system alive. 
+
+And a small inverter and you can also have a limited
+amount of AC on board for other essentials.
+
+On something as small as the Paradox I think that
+everything needs to provide some added value,
+including the ballast.
+
+When the Paradox is docked in the side yard next to
+the house the wind generator and battery bank can
+provide some useful backup power when needed,
+which is all too often in my area.
+
+Just my two cents worth ... Denny
+
+--- Greg <corporal_nobbs2003@...> wrote:
+
+Bill and all,
+
+I have been reading for the second time Gerry
+Speiss's account of his 
+west to east Atlantic crossing as well as following
+Bill Sergeant's 
+cruising blog aboard Faith, both of which I'm
+enjoying immensely.
+
+In Gerry's book he makes notes about his distress at
+the odour of 
+fuel in the cabin space of Yanky Girl despite the
+fact that his fuel 
+cans were not leaking. I read that Bill has recently
+lost the filler 
+cap for his Honda outboard overboard!
+
+All of which prompted my cuurent line of thinking
+about the location 
+of fuel on board Paradox.
+
+As I'm at the pre-build stage at the moment, it
+would be nice to 
+design a space in her stern for fuel storage but
+avoid the smell of 
+fuel in the cabin.
+
+Could fuel 'bins' be built in the port and starboard
+quarters much 
+like the water tanks in Paradox's design, where
+filler caps and vents 
+would be placed on the quarter deck and sealed off
+from the cabin 
+space?
+
+Bill, how are you finding this situation aboard
+Faith? How are others 
+dealing with it aboard their micro cruisers?
+
+Greg
+
+__________________________________________________
+Do You Yahoo!?
+Tired of spam?  Yahoo! Mail has the best spam protection around 
+http://mail.yahoo.com

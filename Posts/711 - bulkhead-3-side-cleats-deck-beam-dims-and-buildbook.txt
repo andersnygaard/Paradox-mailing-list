@@ -1,0 +1,12 @@
+From: "Paul V." <admin@cruisenews.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Bulkhead 3 side cleats? Deck Beam dims and BuildBook
+Date: Sat, 28 Sep 2002 11:28:36 -0000
+
+There do not appear to be any side cleats on bulkhead 3. Is this correct? 3 is the 18mm ply bulkhead with no deck beam (middle of cabin).
+
+Also, the deck beam dimensions are not specified on all the drawings. I am assuming 25x45 is used on all bulkheads with deck beams. I willprobably laminate two pieces of 12mm ply to make a deck beam. Does anyone know the radius of the deck? Dimensions are shown for the deck curve, but it would be easier and more accurate to pull a radius and draw the arc.
+
+I added a BuildBook folder in the file section, to post buildingnotes. I am still in the planning stage, haven't made any sawdust yet.
+
+Paul V

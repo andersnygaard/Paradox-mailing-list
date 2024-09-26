@@ -1,0 +1,16 @@
+From: openboat@as4jg.freeuk.com 
+Date: Sun, 03 Jul 2005 20:10:57 +0100 
+Subject: Re: Tack tiedown, and dangerous assumptions 
+
+We don't have that pipe here, or it comes under a different description.
+
+On the plans it describes it as <1/4" SCH.40 Brass Pipe Spacer (14mm O.D.) 220mm long>.
+
+Is this 1/4" bore with 4mm wall thickness? And if so how do you get the <Tack Strop 8mm> though it?
+
+On another point, the <220mm long> depends on the bending of the 12mm brass bar, the position of the tack tie down hole in the deck and the height and shape of the cabin top. Make it long and cut it to size on assembly, mine needed to be 250mm.
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

@@ -1,0 +1,10 @@
+From: "dclark52001" <dclark@woden.com>
+Date: Fri, 09 Jan 2004 17:16:48 -0000
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: LED navigation lights part 1
+
+Thanks for starting this Al, and for making it easy to understand.
+When I spoke to you I remember you mentioning that you used 6 of 60 degree white LEDs. Would that be two rows of three in parallel?
+Presumably, for 240mW a half Watt resistor is of ample size?
+Lastly, what is the UK source for LEDs?
+Best wishes......Derek

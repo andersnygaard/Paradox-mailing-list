@@ -1,0 +1,8 @@
+From: Rick Langer <farreach@optonline.net>
+Date: Wed, 24 Apr 2013 09:08:08 -0400
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Engine for the Paradox
+
+Nice simple solution,  but I don't think there's enough space available on the surface of a Paradox to get much more than a trickle charge to the batteries from solar panels. Maybe a wind turbine would do a better job.   Matt makes a good point  "This would be much simpler than carrying petrol and running a petrol engine to turn a generator to charge the batteries to run an electric motor... :-) (and all the maintenance of each of those parts.)". Instead of going through all this why not just use an outboard?  The SuperCharger is pretty cool though, just doesn't seem to work for this application.  I think it would work well for charging my RV batteries, which currently I'm doing so by plugging my camper into my AC generator and charging the 12 volt batteries through the converter.  This is not very efficient and a bit slow.  Solar panels do a much better job, but the camper has enough surface for 200 watts worth of panels. 
+
+Rick

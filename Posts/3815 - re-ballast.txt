@@ -1,0 +1,13 @@
+From: David Beard <dlb@dixie-net.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Aug 2006 09:28:29 -0500
+Subject: Re: Ballast
+
+
+Hi All,
+
+What I'm looking for is numbers and how to calculate a stability curve under power. I have tried it with all types of ballast configurations and really can't tell that much difference other than the lighter the better for power.
+
+Thanks,
+
+David Beard

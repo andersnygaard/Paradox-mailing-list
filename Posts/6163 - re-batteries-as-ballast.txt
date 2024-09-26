@@ -1,0 +1,27 @@
+From: "" <openboat@as6jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Batteries as ballast
+Date: Sat, 21 Nov 2009 09:25:08 -0000
+
+
+In the opinion of current owners, is there room in the design of Paradox for there to be batteries, in addition to (or rather than) water or lead pigs as ballast?
+
+I ask because batteries are ridiculously heavy. Every time I think about adding lead to a boat, I can't help but figure that it makes sense to chuck the godawful heavy things in instead.
+
+Another factor, is that there are some excellent marine electric engine options out there nowadays. I can't help but feel that there is room in the design for a modest electric propulsion engine (inboard, outboard) vs. the idea of fuel and an outboard which seems to be the current way to go. Electric is also quiet!
+
+As for fumes and ventilation, good AGM batteries could make up for this. There are numerous sizes and designs. A small ventilation system could be incorporated into the current system as well.
+
+As far as ballast, it would still be quite necessary to have plenty on hand to adjust as needed, but Paradox carries quite a bit so I imagine that wouldn't be a problem if the right measurements and thought went into it.
+
+Stupid idea?
+
+I hope not, as it is what I have done. I have fitted an 80AH AGM battery (12kg) just forward of bulkhead 3 where it sits nicely in the gap between the water tank and the side. It sticks up into the living space, but doesn't get in the way. I use it to drive a small trolling motor which will push me about 8 miles at 2 knots. The motor is normally stored inboard (beware of proximity to compass). I have used it only rarely as I prefer to use the yuloh for short distances, but when I have used it I have been very glad to have it.
+
+Of course it powers/charges all my other electronics as well.
+
+Hoping for calm nights
+
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

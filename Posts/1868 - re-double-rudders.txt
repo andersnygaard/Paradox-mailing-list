@@ -1,0 +1,17 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Double Rudders
+Date: Sat, 24 Jan 2004 15:01:25 -0500
+
+Bill,
+
+Before answering that I would have to know what type of sailing you intend to do?
+
+If you were doing simple one or two day cruises I would recommend auto-pilot over wind powered self-steering.  A single deep cycle battery would provide plenty of juice to run an auto-pilot for a few days in a well-balanced boat. The Paradox design lends itself to auto-pilot because the actuator could easily be mounted inside the hull to the tiller and kept out of the weather. I've used auto-pilot on a 17ft cruiser I had and loved it.  Even for crossing a lake!
+
+For longer voyages a wind powered self-steerer would be more practical for obvious reasons (no juice, nothing to fail). However, simple self-steerers like the type Marin-Marie or John Riding used are notoriously unreliable, and the smaller the boat the less practical they are.  You keep adding features to these contraptions until they are no longer simple, reliable, or even feasible on a small boat.  Vane/paddle gear are the best, but you'd have to build your own for such a small boat.  The vane and the paddle are no problem, the real challenge is in the gearing and linkage.  (I recommend John Letcher's book Self-Steering for Sailing Craft as the best book on the subject, and the one most likely to help you design something that will work on a small boat.)
+
+I also would consider the auto-pilot solution even for a long distance cruiser.  Why/ How?  Simplicity and cost.  Auto-pilots are much cheaper than other self-steerers, and easy to use.  They may fail, but so may other gear.  Carrying a spare auto-pilot doesn't take up any more room than carrying a spare paddle or vane for a self-steerer.  What about power requirements?  There are very small generators that take up less than a cubic foot and could be used to recharge a deep cycle battery.  Alternatively you could mount a wind generator on the transom.
+
+My 2 cents.  Good luck,
+Bill Longyard

@@ -1,0 +1,10 @@
+From: phil_e.stine@yahoo.com 
+To: paradoxbuilders@yahoogroups.com
+Date: 07 Feb 2017 04:22:08 +0000 
+Subject: Re: Stretched Paradoxes Sailing?
+
+Are you speaking of Manatee, by batejarcat? IIRC, he was from South America. LIke you say, he was charging along on his construction, and then he was just gone.
+
+I'm curious about the details -- how much sail area, how much ballast, etc.
+
+For instance, it seems obvious that you increase the mass and displacement by the cube of the ratio, but is that really true in practice? Do you increase the sail area by the square or the cube of the ratio, or just by trial and error? If you need 170 square feet of sail, how do you arrange that, because area increases by the square. Do you increase the length of the spars or the mast beyond the design parameters?

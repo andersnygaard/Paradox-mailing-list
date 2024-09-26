@@ -1,0 +1,27 @@
+From: Malcolm Phillips <malcolmdphillips@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 6 Mar 2014 13:39:17 -0500
+Subject: Re: Paradox Max
+
+I want to question the scaling of stability.
+
+You said it scales to the square, but I thought it scaled to the fourth power.
+
+Bigger boat are usually more stable that smaller boats.
+
+Conceptually thinking of a multihull, the mass scales the the third power,
+and add another power for the righting arm.
+
+thanks
+
+Malcolm
+
+
+
+On Thu, Mar 6, 2014 at 2:37 AM, <graeme19121984@yahoo.com.au> wrote:
+
+
+
+Weather helm and hydro drag are increased.
+
+Lee helm... hydro drag, leeway, and m.o.b risks are increased.

@@ -1,0 +1,73 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Steel?
+Date: Mon, 29 Dec 2003 08:19:49 -0000
+
+Well Jack, seems like you've certainly stirred up some controversy.
+Could be you're a troll? I'll give you the benefit of the doubt.
+
+I personally think that a Paradox design, built in steel would be a
+horrible mistake. This design was drawn and calculated for
+plywood/epoxy/glass composite. Matt has suggested that anyone is free
+to construct to the Paradox lines with whichever material one desires,
+but he also warns that the calculations for centers and different
+material weight be figured. I fear that some neophytes may go off half
+cocked and arrive at a vessel which tarnishes the design. 
+
+Steel is a wonderful material, as is aluminium, carbon, kevlar, etc.,
+etc... All of these materials have been used to build notable boats
+and aircraft, but this is inconsequential to the very fact that the
+design was drawn for plywood/epoxy/glass composite; incidentally, also
+used to build some aircraft... so what?
+
+Seems to me that the use of sheetmetal for the sides would require
+quite extensive framing, perhaps (5) flatbar longitudinals per side.
+That's a lot of welding and associated distortion, requiring extensive
+fairing. These flatbar longitudinals would dramatically reduce the
+interior volume available for stowage. Same goes for a steel bottom.
+Of course, all these longitudinals will require blasting and
+finishing, and will inevitably catch water. You could have a
+commercial outfit spray in a uniform polyurethane foam over the
+longitudinals, which would require a ceiling installation (more
+weight), but then when the sheetmetal gets dented, as it will (after
+all, this is the same gauge as autobodies), you will not be able to
+repair/re-fair with a welder unless the interior surface is exposed.
+Yup, rip out all of that ceiling and foam, and then be prepared to
+reblast and reprime the repaired area before reinsulating and receiling.
+Foam board insulation (and buoyancy, you'll need a lot) could be
+employed, but that will only serve to catch water (condensation)
+against the steel, eventually leading to the need for repairs. Foam
+board would also lack the structural qualities of sprayed polyurethane
+foam. 
+
+Steel is only as good as the finish protecting it. How would you deal
+with the exposure of the steel due to bouncing off rocks, grounding on
+engine blocks, even just regular beaching on sand. The Paradox design
+shows an 18mm plywood bottom, sheathed with (3) layers of 24oz roving.
+This construction is darn near bulletproof, and extremely simple to
+repair any cosmetic damage.
+
+I personally love metal for constructing heavy displacement monohulls
+of around 30' and larger. For multihulls, I prefer cedar or foam cored
+epoxy/fabric. For the Paradox and other designs, I prefer to stick
+with the design materials. As you have not even received your Paradox
+plans yet, how is it that you feel qualified to speculate on an
+alternate material, let alone the designed geometry? Have you
+considered consulting with a yacht designer regarding tiny steel
+boats? Have you any experience with steel boat building? Why don't you
+look for a more suitable design for your aspirations for a tiny steel
+boat?
+
+The Paradox design is proven. This is the culmination of years of real
+world testing. Al says it best: "WHY TURN A SILK PURSE INTO A SOW'S
+EAR?" 
+
+Jack, learn from those who have gone before you. There is a wealth of
+knowledge on this board, and within the boatbuilding community. Wait
+for your plans. Study them thoroughly. Read through the archives. At
+last, should you decide to proceed with your ill advised route of
+steel construction, DO THE CALCULATIONS. I won't say that it can't be
+done, I just question the motivation. Steel construction would not
+produce a better boat.
+
+DC

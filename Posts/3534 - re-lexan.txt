@@ -1,0 +1,48 @@
+From: LJGeib@aol.com
+Date: Sat, 1 Apr 2006 10:16:18 EST
+Subject: Re: Lexan
+To: paradoxbuilders@yahoogroups.com
+
+Bill,
+
+you might try :
+
+http://www.gcip.co.uk/EP/ep.htm
+
+in the UK. It was my first hit on Google-- here in he USA!
+
+They list Perspex as an acrylic sheet. I have never used that brand, Lexan is 
+a Polycarbonate, and Lexan is DuPon't name for their version. Look at 
+datasheets there for both products.
+
+Polycarbonates are much tougher. They are often used for bulletproof 
+applications in banks, shatterproof eyewear, and for face guards for hockey masks and 
+(US) football helmets-- very tough.
+
+Acrylics ar more brittle. they will crack more easily on impact or by 
+stressing the sheet, (too much pressure on a screw, for instance), but they can be a 
+little easier to see through and will polish up more easily if scratched.
+
+They work a little differently, too. You can "polish" an acrylic edge by 
+using a heat source such as a propane torch (PRACTICE FIRST), and can be easily 
+bent with a heat gun. Polycarbonates will just char and burn with high heat, and 
+the amatuer will get only marginal success by cold bending. I have tryed 
+thermoforming it, but the temps involved are close to the heat that ruins the 
+product.
+
+If you have the stuff laser cut, the acrylic will have a nice smooth edge, 
+the Polycarbonate will be charred and when that is scraped off, the edge will 
+have a sanded look.
+
+Both are used in boats. Just be aware that acrylics can't take any structural 
+stresses. Also, make sure to get a plastic with a UV coating or it will turn 
+cloudy much more quickly. some boat owners will claim that acrylics will stay 
+clear longer. I don't know. This is probably more of an issue in the tropics
+
+I've use Lexan Exell D which is UV coated with good success. Even used a 
+piece for a window in the bottom of one boat to see the fishies. It can get 
+scratched quite a bit, but because it has nearly the same refractive index as water, 
+you will still be able to see OK.
+
+
+Larry

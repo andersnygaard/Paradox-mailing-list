@@ -1,0 +1,18 @@
+From: creditscorenz@yahoo.com.au
+To: paradoxbuilders@yahoogroups.com
+Date: 17 Oct 2019 01:15:41 +0000
+Subject: Re: The end is nigh...again!
+
+Hi Matt,
+
+That's pretty cool. Can you provide a link that describes the API? For fun I'll have a go with my own tiny group which went defunct years ago.
+
+I'd also be interested in anything you decide to self-host. Of late, the activity on this group has been sporadic. I post a video link and there's a bit of activity and then it goes quiet for long periods of time, so my feeling is that there's no more than 100 people actively following what happens here. As far as builds in progress, perhaps there's 2?
+
+How you choose to self-host is an interesting question. The group format is a sort of combined bulletin board / mailing list / cms. That's quite a stack to self-host. The software is easy enough to find (http://groupserver.org/ is one example written in Python using Zope and SQL Relay, although I haven't downloaded it to check it out), but, I wouldn't want to expose myself to the email security issues of a mailing list, yet without that, you won't get active community engagement. Neither would I want my server getting clogged with masses of photos, videos and other content which would soon saturate my bandwidth capacity, but again those things are expected to be available.
+
+There's no free lunches, that's for sure!
+
+Cheers,
+
+Rob.

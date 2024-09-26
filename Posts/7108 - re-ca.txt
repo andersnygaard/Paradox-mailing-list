@@ -1,0 +1,9 @@
+From: "davidandrewallen" <dallen@lull.us>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 28 Feb 2012 09:42:06 -0000
+Subject: Re: CA?
+
+Thank you both for your answers.
+Center of Area was my first thought. But I'm playing around with Paradox in CAD, and my CAD program placed the centroid about 675mm forward of where Matt wrote "CA". That's why I was wondering if it was something else.
+I'm checking my work to see if I did something wrong.
+David

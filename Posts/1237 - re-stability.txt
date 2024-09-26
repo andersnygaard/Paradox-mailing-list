@@ -1,0 +1,15 @@
+From: Becel Philippe <becel.philippe@wanadoo.fr>
+Date: Wed, 5 Nov 2003 21:25:23 +0100
+Subject: Re: Stability
+To: paradoxbuilders@yahoogroups.com
+
+Some months ago, in June, in the smallboat group, Don Elliot gave an article with the stability curve of Paradox, that shows that the range of positive stability of Paradox is about 160 degrees.
+
+Philippe
+
+Yahoo! Groups Sponsor
+
+To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.

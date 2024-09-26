@@ -1,0 +1,15 @@
+From: "randoneur" <pdmartin@ukonline.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Internal mast wiring
+Date: Sat, 10 Apr 2010 18:47:44 -0000
+
+I'm sure this must be an old question, but as I'm about to add the final side panel to my mast I thought I'd better ask about what others have done about internal cables and, more importantly their entry and exit.
+
+I'm going to run a length of RG58 coax for a VHF antenna together with wiring for lights (may put 4 core in just to have a couple of spares!. Obviously these exit the mast at the top somewhere below the solid top section, and in a location which will not foul the halyard or the yard.
+
+At the bottom I can't see any easy way to route the wiring below deck level that won't seriously be a lot of hassle when inserting and removing the mast. I'm inclined to bring the cables out above deck and just bring them inside via the vent trunk. I can't say I've noticed what others have done. I'm also concerned about water ingress through either top or bottom entries. I suppose I'll just have to apply some flexible sealant.
+
+What do you think?
+
+Pete
+http://www.freewebs.com/paradoxbuild

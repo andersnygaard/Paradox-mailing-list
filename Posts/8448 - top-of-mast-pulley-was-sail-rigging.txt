@@ -1,0 +1,18 @@
+From: =?iso-8859-1?Q?Andr=E9-Fran=E7ois_Bourbeau?= <bourbeau@videotron.ca>
+To: paradoxbuilders@yahoogroups.com
+Subject: Top of mast pulley (was Sail rigging)
+Date: Wed, 19 Aug 2015 19:28:29 -0400
+
+Good day all,
+
+I need to build a new mast for Iota, since the original built in 2010 is now slightly cracked about two thirds of the way up. Which brings up an issue which Jim just brought to light when he suggests that 
+
+=ABIf I were building a Paradox I'd avoid cutting a slot in the upper part of the mast for the halyard pulley sheave... Mine has never broken - yet - but it looks like a weakness to my eyes which could have been avoided..=BB
+
+Iota=92s mast pulley was not set up as per plan and does not have a halyard pulley sheave. Instead, a stainless steel strap surrounds the mast at the top and a small pulley is attached to that strap. I now believe that Matt=92s original setup with the pulley centred inside the mast has a reason. Iota=92s system (as would Jim=92s suggestion of attaching the pulley to a short rope) sets the pulley outside the mast=92s center line, and therefore contributes to bending the mast more than as per plan. I believe this is what cracked Iota=92s mast. So contrary to Jim, I was thinking of building my new mast according to plan.
+
+Any other opinions? Is the fact that the pull comes from outside the mast enough of a contributing factor to mast bend so we should avoid it? It certainly is easier to build the mast without the slot=85 Perhaps Iota=92s mast was built with less than perfect wood?
+
+All opinions are welcomed!
+
+Andre-Francois

@@ -1,0 +1,10 @@
+From: Glen Maxwell <ifida@nefcom.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 30 Jun 2002 18:21:33 -0700
+Subject: Re: paradox (aluminum)
+
+Very true Al, however Paradox would lend herself well to aluminum construction if Walt has the requisite skills to weld it up. 
+Walt, I suggest doing a study to determine the sq ft weight of the wood scantlings verse aluminum. This would give you the thickness you would need and let you know if the material would be to thin to be practical. I would think 3/16 inch would be about right if the weight tallies. Me thinks anything less would be prone to denting to easy. Also consider the correct alloy for salt water (5083,5086,5456). The superstructure and interior plates/framing could use 6061 but as it contains .25% copper you wouldn't want it submersed. The 5000 series alloys contain no copper. I would think that if you could keep within 10% of the weight of wood you would have a winner. You would of course have to deal with the condensation problem but the ventilation system of paradox might make that concern mute. I for one would like to hear how the numbers crunch out.
+
+Tailwinds 
+Glen

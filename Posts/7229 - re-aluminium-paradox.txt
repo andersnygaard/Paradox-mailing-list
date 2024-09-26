@@ -1,0 +1,14 @@
+From: Rick Morel <rick.morel@att.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 14 Sep 2012 19:22:17 -0500
+Subject: Re: Aluminium Paradox
+
+First, let me say that 1. My dad rebuilt airplanes and I've built several experimental aircraft, including several all aluminum. 2. I'm in South Louisiana, where many aluminum boats are built, including those by Breaux Brother's Enterprises, who make boats for international customers and government agencies.
+
+Do NOT use 6061-T6 for anything on a boat except for mast, boom, spreaders and sometimes lifeline stanchions. This is what those items are made of. Do NOT weld it. It will lose it's Temper (the "T6" part). Allen, the skin of airliners, and any airplanes, are not 6061-T6, but are 2025, a much stronger, but  more brittle, alloy. Please take this in the spirit of a friendly correction, I mean no malice at all. 6061-T6 is used only as extrusions, such as angle, I-Beam, tube, etc., on aircraft. Ultralights use it in tubular form.
+
+For boats, use marine grade aluminum, such as 5083 or 5086. This is made for marine use, IOW saltwater, and to be welded. Plus it's a lot less expensive than the aircraft grades.
+
+I have not built any aluminum boats, but have friends that had an aluminum airboat building company, and now work for aluminum boat-building companies. If there's interest, I'd be glad to talk with them and get info as to thickness and any other knowledge they have. I would think 1/8" would be ideal from other boats I've seen, but again, I really don't have any firsthand experience with aluminum boats, just aircraft.
+
+Rick

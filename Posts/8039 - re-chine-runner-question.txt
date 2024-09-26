@@ -1,0 +1,15 @@
+From: johannes.rodin@gmail.com
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Chine runner question
+Date: 19 Sep 2014 07:01:56 -0700
+
+Hello,
+
+"so where's the improvement coming from?"
+
+Since everything is interconnected in many ways, i would say that the slight improvement comes from "higher aspect ratio CRs but also narrower beam and more rocker". I don´t think it is a good idea to only make the hull narrower or add more rocker. If the hull is made more slender, you loose righting moment compared to the wet surface of the hull, but the hull will be more efficient at slightly higher speed due to less wave making resistance (dominates the total resistance at higher speeds).
+
+When trying to make a more weatherly hull based on the Paradox, I made it more slender, which makes it more efficient at higher speed, and more efficient as a foil for pointing ability, but I had to add depth (rocker) to get a slightly lower center of vertical gravity and more displacement to add righting moment. I made the chine runners wider because it is much easier to grind them down in size with my belt-sander than trying to make them bigger after the hull is built, sanded, painted etc. The chine runners are too big at the moment, and I will reduce their size by about 20% before the next test sail.
+
+Cheers,
+Johannes

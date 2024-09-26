@@ -1,0 +1,44 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 19 Jun 2003 15:36:58 -0000
+Subject: Re: LED array navigation lights?
+
+Hey David, why don't you exercise your finger and just delete the
+cross-posted copies? Then again, you could simply change your
+preferences in favor of the daily digest(s). Chill, dude.
+
+Anyone trying to use kerosene running lights is just plain nuts!
+That's probably one of the many reasons why Susan asked about LEDs.
+Kerosene is hellishly expensive when used for this application and
+causes far more problems than most folks would be willing to
+withstand. Aboard a small boat, safety concerns would be the chief set
+of problems. A kerosene anchor light is technically illegal unless it
+is hoisted to the masthead (above, actually). I have been confronted
+by Coasties and cops on numerous occasions on this very issue. Yeah, I
+know what the Pardeys have written... they're wrong.
+
+LEDs are incredibly cheap when viewed as a package solution. They
+require a minuscule amount of power, which can be supplied by small
+gauge wiring (cheap), a small battery (cheap), and recharged by a
+small solar panel (cheap). An LED will last for something on the order
+of 10,000 hours; far longer than a kerosene running lamp, unless it is
+kept in its proper place, as bookends on the mantle. An LED won't soot
+up sails, deck, or chimney.
+
+I don't recall having read that Susan wanted to use LED running lights
+in lieu of a proper lookout. 
+
+Susan, if you don't want to go to the trouble of building your own LED
+arrays, you can go to Defender Industries, West Marine, etc... and
+purchase some Hella LED nav lights, which are USCG approved. Also,
+while there, you can find LED arrays to use within conventional nav
+lights. I've had poor results in performance and longevity, from the
+dry cell dinghy lights. What type of dry cells do you have in mind to
+use as your power source?
+
+Are you building an example of Paradox? Technically speaking, an all
+around white light at the masthead will satisfy the requirements for
+both running and anchor lights, unless you intend to use an outboard
+motor.
+
+DC

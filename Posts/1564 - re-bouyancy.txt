@@ -1,0 +1,16 @@
+From: "Nels" <arvent@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 27 Dec 2003 19:27:07 -0000
+Subject: Re: Bouyancy
+
+
+I have what might be some dumb questions here, but there are  some things that I have difficulty in visualising. (This happens whenever I look at plans:-)
+
+The chine logs - and to a lesser degree  - the sheer clamps have a curvature in two planes. Starting aft and going forward, they curve outward then, inward and upward at the same time. Can this be easily accomplished using square one inch tubing? And make even consistent fair curves on both pairs? Then you still have all the welded framing at the bulkheads. Then you have to bend on the topsides and hold them in place for welding.
+
+Using wood - once they are in place, the chine logs are beveled to match the bottom and the sheer clamps beveled to match the deck camber. Is this beveling ignored in using steel fab? Are the deck beams going to be wood or metal as they have to be cambered?
+
+It's just not clear for me how all this is easily done in a couple of hours as claimed.
+
+Cheers,
+Nels

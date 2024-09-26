@@ -1,0 +1,15 @@
+From: "Alan" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 14 Apr 2008 10:38:23 -0000
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+Hi Ray,
+
+Whatever you do, don't attempt to use a motorcycle battery-
+unless its a SLA or Gelcell type, which I don't think they are 
+usually. The ordinary ones are not meant for constant discharge to 
+low levels and will be ruined by this treatment in short order!
+Even less than a half-dozen cycles down to flat will be enough to 
+kill it, whereas the SLA types are often spec'd for several hundred.
+Cheers,
+Alan.

@@ -1,0 +1,21 @@
+From: "Paul V." <admin@cruisenews.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Deck Beam
+Date: Wed, 23 Oct 2002 01:32:45 -0000
+
+Seven is the correct number, I was planning to make an extra, possibly for supporting the cabin roof and a hinged hatch instead of a sliding hatch.  One extra is also in case I find any defects in the others.
+
+A. Deck Beams, 25x45 laminated to curve on dwg #7
+Bulkhead, Chord length (approximate)
+#1, 720
+#2, 1102
+#4, 1090
+Transom, 820
+
+Intermediate Deck Beams, 25x45 laminated to curve on dwg #7
+Name, Chord length (approixmate)
+Fwd, 930
+Aft, 955
+Cabin frame, 950?
+
+Paul V

@@ -1,0 +1,10 @@
+From: "Stephen Yahn" <yahns@wavecable.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 13 Nov 2007 23:51:50 -0000
+Subject: Re: Vane gear
+
+Hi all
+
+Windvane steering systems have trouble with booms which share the same space. There is an interferance zone. There are two systems of vanes. Verticle axis and horizontal axis. The vertical axis type is certainly and always unforgiving in a colision with the boom in this zone. The horizontal axis vane can be slapped around a bit with the boom and mostly always recover afterwards. During the very few times when the horizontal axis is at right angles to the boom there is a chance for breakage. Unless the vane is flexable. There are now some excellent materials for this. They are indestructable fiberglass rods used for stuntkite making. With a little searching on the internet one could find a kite shop that sells the rods and tubes of various sizes and compositions for just this sort of thing. I was just now looking at a book SELF-STEERING UNDERSAIL by PETER CHRISTIAN FORTHMANN. It was right next to my other book KITEWORKS by Maxwell Eden. I put the two together while thinking of the Paradox and Glen Maxwell's boat. I hope this might be a usefull idea.
+
+Best, Steve Yahn

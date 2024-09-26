@@ -1,0 +1,17 @@
+From: Keith Jacko <nrixez@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 19 Mar 2009 14:50:39 -0700 (PDT)
+Subject: Re: Bolger as-29 paradox hybrid
+
+Andrew,
+
+It's my understanding that the chines for the AS29 are formed from a 90 degree angle between the side of the hull and the bottom of the hull, and that the curve of the side of the hull is equal to the curve of the bottom of the hull. This means the chines, which definitely form a curve, are forming a curve through a plane. Therefore the equivalent of chine runners could be made that would also sweep through that same plane... they'd be stubby little bilge keels coming right out of the chine and pointed down at a 45 degree angle. Being planar, no matter how long or deep you made them they'd present a straight surface to the water, not a half-moon as you mentioned.
+
+If this is difficult to visualize, think of a rudder sticking straight down into the water that has a rounded off end. The rounded off end is curved, but it's curved through a plane. Now make that rudder ridiculously wide... then cut the end off such that the cut closely follows the original curve of the end of the rudder. Take that crescent moon shape that you cut off of the ridiculously wide rudder, turn it 45 degrees, and glue it onto the chine of an AS29. Voila, a "chine runner" that presents a straight surface to the water as the boat sails.
+
+Based on the hull shape of the Paradox, I don't believe the chines are planar for that boat. Which means oddly enough that the deeper rocker of the AS29 would equate to a straight chine runner, while the shallow rocker of the Paradox would end up making a curved chine runner (assuming the chine runners follow the chines exactly).
+
+Anyhow, none of this really means chine runners would work well for an AS29... that I can't answer. It'd be neat if it was tried though and the information was shared. :)
+
+Best regards,
+-keith

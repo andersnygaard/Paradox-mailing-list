@@ -1,0 +1,15 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com 
+Subject: Re: Hello, beginner logistics question and rowing thoughts 
+Date: Sat, 30 Jun 2007 09:55:28 +0100
+
+I would check the numbers, if I were you. The smallest of the Minn Kota motors consumes about 30 amps. If you run it for one hour you would need your trickle charger (100mA?) to run at full output for 300 hours (ignoring losses) to recharge the battery.
+
+The yuloh is ideal for navigating in tight spaces.
+
+If you insist on having a motor then get a proper one that will actually do what you want. Several builders use the Honda 2hp and report good performance. You just have to put up with the disadvantages.
+
+Hoping for calm nights
+
+Al, Yeovil, England.
+<http://www.little.jim.freeuk.com>

@@ -1,0 +1,38 @@
+From: Glen Maxwell <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: LED navigation lights part 1
+Date: Thu, 8 Jan 2004 20:17:19 -0500
+
+Great post Al!
+
+Tailwinds
+
+Glen
+
+
+Hi everyone,
+
+Derek Clark and others have suggested that I write a piece on my LED navigation light. I shall do this in two parts. The first will cover my understanding of LEDs in general, and the second will cover the construction of the light. My understanding is mainly empirical, so if anyone spots an error please jump in and correct me.
+
+The first thing to be aware of is that LEDs behave differently to filament bulbs. Filament bulbs are voltage driven, that is you feed it a voltage and it automatically controls the current. With LEDs you have to control the current. You also have to connect them the right way round.
+
+For any LED you use it is important to know two pieces of information, the forward voltage and the operating current. For my nav light, the white LEDs had a forward voltage of 3.46V whereas the red were 1.84V and the green were 2.2V. The operating current for all were 20mA (this seems to be the norm for most LEDs).
+
+If you were to monitor the voltage across, and the current through an LED while applying a slowly increasing voltage, the following would be observed:
+
+Supply below forward voltage - supply voltage across LED - 0A through LED - no light
+Supply at forward voltage - Forward voltage across LED - 20mA through LED - bright light
+Supply slightly above forward voltage - Forward voltage across LED - greater than 20mA through LED - bright light
+Supply greater than forward voltage - LED destroyed due to increased current
+
+The simple way to control the current is with a resistor. For a supply voltage of 12V (yours may be 13.6V or greater if you have a charging system) with my white LED 3.46V is dropped across the LED, so the remaining 8.54 must be dropped across a resistor. The desired current flow is 20mA (0.020A) so from Ohms law (V=3DIR) the resistance should be 427 ohms (or the nearest convenient larger value). The power consumption (V*I) is 240mW.
+
+Now for the clever bit. If you put 3 of these LEDs in series the voltage dropped across the LEDs is 10.38V, leaving 1.62 to drop across the resistor. The current is still 20mA so the resistor must be 81 ohms. The total power is still 240mW but now we have three times the light output (less is lost as heat in the resistor).
+
+This is the philosophy that I followed in my nav light: Put as many LEDs in series as possible and maximize the output for minimum power drain.
+
+I have also used strings of three white LEDs for interior and locker lighting with great success.
+
+Hoping for calm nights,
+Al,
+Yeovil, England.

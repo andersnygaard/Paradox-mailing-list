@@ -1,0 +1,14 @@
+From: Larry Geib <LJGeib@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 4 Apr 2007 15:54:07 -0700
+Subject: Re: Progress on building 'Faith', my Paradox Sailboat
+
+I haven't tried it with a yuloh, but I did a fish drive application once, and it worked well.
+
+Look into using Acetal (Delrin) as the socket surface. very tough, very low friction (it's used as a bearing surface often), It can be machined with ordinary woodworking tools- sharp carbide will cut cleaner.
+
+One drawback- if you buy custom blocks of it, it will probably cost you a bundle. your best bet is to go to a plastics supply house that has a good scrap bin.
+
+If you can't find Acetal in the scrap bin, use UHMW (Ultra High Molecular Weight) polyethylene. It's almost as good, though it won't machine quite as cleanly unless your tools are very sharp and use low tool pressure.
+
+Larry

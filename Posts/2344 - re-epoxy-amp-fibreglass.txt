@@ -1,0 +1,29 @@
+From: "Dave Bolduc" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 16 Oct 2004 19:01:00 -0000
+Subject: Re: Epoxy & Fibreglass
+
+I would just try to keep things simple for this project. Cover the topsides with 4 oz glass, and then put several layers of 10 oz glass or some woven roving on the bottom. I wouldn't bother going any lighter than the 4 oz above the waterline. It probably won't hold up that well, and it's too easy to sand through. The Kevlar might not be the best choice for your project since it is a little tricky to use and rather expensive. Kevlar is generally buried under fiberglass in this application because it can't be sanded directly. If you do happen to nick it while fairing the hull, it'll just get all fuzzy, and you'll get nowhere. It is this property that makes it so abrasion resistant. I found that the easiest way to fix this mistake is to repeated put CA glue (instant glue) on the spot and then to sand it with 400 grit wet dry sandpaper. The process is repeated several times until the kevlar is smooth again. Last of all, you'll want to put a "patch" of fiberglass or filler over the Kevlar to finish up the job.
+
+--- Original message ---
+From: "dclark52001" <dclark@w...> 
+Date: Wed, 13 Oct 2004 10:41:35 -0000 
+To: paradoxbuilders@yahoogroups.com 
+Subject: [pb] Epoxy & Fibreglass 
+
+Thanks for the help Dave but I am England based. My ply is Far Eastern in origin (exterior grade). I am expecting to deliberately ground the boat so the bottom is one area where I won't be skimping. I'll try to locate Kevlar here. I take it that it goes on over the fibreglass? Assuming that the outer layers of my ply aren't fir is checking then still going to be a problem? Or, can I use a really light weight fibreglass on the topsides and thus use less epoxy? Cheers......Derek
+
+The PARADOX plans call for 3 layers of 24 oz woven roving on the bottom and 6 -7.5 oz E glass on the topsides. This regimen will provide a tremendous amount of abrasion resistance on the bottom and some scuff resistance for the topsides. Of course all that woven roving is going to suck up a lot of epoxy so if you want to reduce the bottom layup, then you might just get away with only one layer, understanding of course that you won't be able to take too much pounding on the bottom.
+
+I personally wouldn't just seal the topsides in epoxy because I've found through experience that this won't be sufficient to prevent checking in fir plywood. For this reason I am now covering both LITTLE CRUISER and SWAMP THING in fiberglass and epoxy. Incidentally, my plans are to cover the topsides with 4 oz glass on both boats. In addition, LITTLE CRUISER will get a layer of 5 oz kevlar along with a layer of 10 oz glass on her bottom. I've done some informal tests with this kevlar/glass layup, and it's amazing how much wear the kevlar can take. Even though I can get Kevlar for a fairly reasonable price as "seconds" from http://johnrsweet.com/Kevlar.html, I don't know if I'll use the kevlar on SWAMP THING because the stuff is still expensive. I may just use several layers of 10 oz glass instead. I guess I'll decide what to do when I get there.
+
+Incidentally, LITTLE CRUISER'S rudder blade and centerboard are already covered with 6 oz S glass, and they also have up to two layers of 1.7 oz kevlar and one layer of 4 oz glass on their leading edges. SWAMP THING will have the same thing done to her rudder blade. Of course a better way to protect the rudder is to put some bronze rod into the leading edge. This is what Matt has done with his boat, and it is absolutely bombproof. Well good luck with your PARADOX.
+
+On this business of epoxing or not. I'm getting a little confused. 
+Obviously the bottom needs glassing to offset abrasion. What is 
+the best cloth weight and type to use?
+Secondly, I hope to make use of the UK's inland canals and did think of glassing the sides against abrasion, but having seen Al Law's 'Little Jim' it looks to me that the chine runners would protect the sides. Do others agree? 
+Finally, is it worth putting a coat of epoxy on the top and sides, without fibreglass, as a 'waterproofing' before painting?
+I am using West Systems (easy to get) and am planning one or two extended liveaboard journeys measured in months and many shorter cruises but the boat will usually be trailered.
+Thanks for any help.
+Derek

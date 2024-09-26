@@ -1,0 +1,161 @@
+From: "Glen Maxwell" <ifida@alltel.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Aussie Paradox update
+Date: Sat, 23 Aug 2003 08:08:39 -0400
+
+
+Great post Andrew, thanks for the new pictures, looks like she is coming right along.
+
+Tailwinds
+
+Glen
+
+
+Hi all
+
+I've posted new photos under Aussie Paradox including a test fit 
+sleeping 2 up.
+
+A few construction notes
+
+Frames 
+See my previous posts for a description of the solid 25mm ply frames 
+and transom.
+
+Chine logs & Sheer clamps
+I used 19mm Meranti  - 2 laminations for chine, single for sheer all 
+cut to same dimensions 17deg and 40 mm face.  The bevels were cut 
+with a 184mm handheld circular saw run against a homemade 1800 long 
+stationary fence - I dont have a tablesaw and knew I couldnt cut 
+accurately with the standard saw fence.  The pieces were difficult
+for one person to bend and twist into location and to get the exact 
+length right.  A couple of very short pieces of stock had to be 
+knocked in at the transom to make up the length. The size stock I 
+used is the maximum size I would recommend for dry meranti.
+
+Sides 
+After glueing in the chine logs an sheer clamp I found the sides 
+could still be flexed a little so I decided to laminate an extra 4mm 
+thickness of ply on the sides (4mm chosen as the maximum my hand 
+stapler would go through).  Hundred of staples were used to hold
+the outer ply on while the resin set.  They were removed a few hours 
+after glueing and the tiny holes will be filled before glassing.  The 
+scarf joins are nicely covered and no fastenings show through.  My 
+12mm was 5ply CC Hoop Exterior and the 4mm is AC Kauri Exterior, both 
+to Australian standard 2271 
+
+Chine runners
+I laminated the chine runners in place from three plys of 19mm 
+stock.   I just used a constant bevel along the entire length and 
+planed the ends fair into the sides.  They look very fair to me and I 
+have no doubt they will act as effective end plates channeling water
+along the heeled sides.  They are pretty close to the plans in 
+projection from the chine.
+
+Bottom
+I wasnt brave enough to try bending 18mm ply so I gave the bottom the 
+same treatment as the sides.  The 16mm bottom felt stiff enough 
+before glassing.  Both 12mm (7ply) and 4mm are AC exterior Kauri 
+which is stiffer than the Hoop used in the sides.  I used a single 
+layer of biaxial glass which had CSM stiched to one side and was 
+1270mm wide and about 880 gm per square metre total.  Im no 
+glassfibre expert but I think this kind of cloth is brilliant 
+stuff.   The resultant layup is 2 - 2.5mm.  I added a lot of aluminium
+powder to the final coats of epoxy.  Glassing the bottom drank about  
+6 kg of epoxy and I guess a similar amount was used to glue the 4mm 
+ply to the sides and bottom.  I'm still figuring how and where I
+will 
+install a ground plate as I dont want to drill any holes in
+the bottom.  I was able to turn the hull alone but let it drop safely 
+onto a thick mattress.
+
+Vent trunk 
+I made the sides and aft face from 12mm ply (doubled at the top of 
+the aft face).  Double ply webs extend either side of the aft face 
+and very stiffly support the carlins and cabin front.  I made the 
+starboard side in two parts with the top glued permanently and the
+bottom (below baffle) removable for access.
+
+Interior panels
+Forward - the forward bin sides are located by cheap nylon door clips 
+which shouldnt be able to move when the sole is locked down.
+
+Mid- I splayed my tank framing slightly towards frame 3 to provide 
+better support for 3 floor panels which run perpendicular to the 
+framing.  Mid bins omitted for more sleeping area and space for crew 
+when sailing.  A short fixed front panel is used to hinge a mid
+panel which pivots up to just below the cleat pad and can be held 
+open by a swing tab behind the pad. Two turn buttons on fixed back 
+panel lock the mid panel down.  This panel will be firmly screwed 
+down to hold ballast  in place. 
+
+Aft - floor bins same as plans attach to side bins which slot in to 
+framing and are adequately retained by nylon door clips - I've 
+drilled one hole at each frame for retaining screws but dont think 
+they will be required.  My seat supports are padded out 4mm to
+hopefully avoid scratches on the side bin paint.  My seat is 400 wide 
+concave section of 3 laminations of 6mm ply.  It is very stiff and 
+will be much more comfortable than the 10 inch plank in  the plans.  
+
+The seat stows in a 25mm gap between my open frame 4 and a removable 
+table located under the rudder (screwed to three floor stringers).  
+With the seat stowed the berth is 1925mm plus toe room both sides of 
+the vent trunk (from my two up test toe room greatly improves 
+comfort). The table is low to allow cooking at anchor using a cheap 
+low profile butane table top cooker.  Fiddles on the table allow
+30litre airtight drums to be tied down securely and used for 
+lightweight stowage and backup buoyancy.  Standard plastic hand 
+basins fit snugly under the table and there isuseful accessable  
+space behind.  The table will be very useful for food preparation and 
+wine glasses (drums moved forward).
+
+Interior finish
+I've tried not to sand too much epoxy off the insides so a few 
+drips have been left on the bottom.  I'm going to use a quality 
+builders oil based undercoat and gloss topcoat over all surfaces including 
+below the waterline - I think painted epoxy will be much slower to 
+deteriorate even on surfaces which dont receive much UV. 
+
+I couldnt bear the thought of using a crumbley polyeurethane foam or 
+polystyrene for insulation or buoyancy  so I am trying another 
+builders product - a flexible and compressable closed cell 
+polyethylene foam normally used as an expansion joint and moisture 
+barrier in brick walls.  The trade name is Abelflex by Davco and it 
+is supposed to be quite durable and compatable with all sealant 
+types.   It comes in 10mm thick rolls with smooth skin of various 
+widths.  I am using 2 x 25metre rolls - 250mm and 300mm wide so should
+have little wastage.  This will leave me well insulated but a little 
+short on buoyancy.  
+
+Rudder blade - I laminated a 250 x 100 x 10 rectangle of used lead 
+roof flashing into the bottom of the blade instead of casting the 
+lead ballast.  I started out measuring the profile but then just 
+decided to fair the blade by eye.  The transition between  the 
+symetric part below the stock and the assymetric part which fairs 
+into the stock is neat.  I made the blade only 900mm overall.
+
+Rudder stock - a measuring cock up (by me - no one else to blame) 
+resulted in the bottom pintle being 20mm too far back in the stock.  
+I had to extend the lower gudgeon and make a pad to mount the top 
+transom gudgeon.  It all fits now but I may have to change
+the pivot point if the rudder turns out to be overbalanced.
+
+I could go on but you will have to wait for more
+
+Happy building and sailing 
+
+Andrew
+
+
+Yahoo! Groups Sponsor 
+ADVERTISEMENT
+
+To unsubscribe from this group, send an email to:
+paradoxbuilders-unsubscribe@yahoogroups.com
+
+Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. 
+
+---
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.509 / Virus Database: 306 - Release Date: 8/14/2003

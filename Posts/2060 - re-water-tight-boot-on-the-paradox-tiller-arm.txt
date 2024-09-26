@@ -1,0 +1,22 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 10 May 2004 06:21:01 -0000
+Subject: Re: water tight boot on the Paradox tiller
+
+First Robert, it's a "tiller", not a tiller "arm". It's "what", not "wath".
+
+It seems that you are assuming a single wave pattern within your hypothetical storm, which incidently often lasts much longer than 30 hours. In my experience, single wave patterns are of little concern. It is when multiple wave trains are experienced when the going gets dicey. In such cases, the independent wave trains will cause chaos, including breaking waves, sometimes in great pyramidal displays. To be sure, a series drogue is much better able to help the boat cope with these conditions than the old fashioned drogue or streamed warps. Unfortunately, the more fragile stern is still exposed in either case. Aboard a double ender with significant wetted surface and lateral plane, and a keel hung rudder, I would try a series drogue with high expectations for success. 
+
+The deployment of a series drogue by its very nature, exposes to the seas, the larger mass of the stern of a boat, including but not limited to, the rudder, the transom (including the tiller port and the Beckson access plate), the after house plexiglass, etc...
+
+Contrast this with the deployment of a parachute anchor, streamed broad off the bow (45 degrees off the bow). In this orientation, the stalled wetted surface area of the hull will create a slick to windward. The boat presents its strongest geometry to the seas, ie: bow and corner of the house. To leeward, the after corner of the house, and the quarter are presented. The rudder is better protected, and so is the Paradox's unique all-weather ventilation design. In this orientation, no flat planes are presented, while running off, whether streaming warps or laying to a series drogue, large flat planes are presented.
+
+I would not trust a tiller boot to remain intact with the stern presented to storm conditions. To insure full motion, a boot must be loose between its fastenings on the transom, and its fastenings on the tiller. Look at the shifter boot in a car as an example. This looseness will allow hydraulic pressure to develop if the transom is slammed by green water. This pressure could be sufficient to cause damage to the boot, and perhaps the rudder hardware. One never knows for certain just what condition the stitching or material is in until it gives way. I can not imagine what you are thinking with regard to a seacock, thru-hull, and check valve(?) to drain the vent baffle.
+
+The aft ventilation design allows for passive ventilation in fair weather and foul alike. Installing a dorade type vent, or a mushroom, would necessitate the removal or otherwise disablement of the ventilation system in the event of storm conditions. When does one close up the boat? 6 hours before green water hits the deck, or six minutes after? Perhaps you would rather wait until a big greeny finds an open companionway hatch while you are struggling to remove the cowl and fit its deckplate. How long do you figure the vent will stay in place with the sweep of the sheet? A PVC cowl vent will just remove itself, while a mushroom vent will shed its top. Neither are built to withstand great abuse. With the as-designed system, there is ALWAYS ventilation, and with proper care, no appreciable water will find its way below.
+
+At least one of the hand-ringer storm survival books records crew accounts of boats encountering pressure differentials between the interior and exterior. With positive, passive ventilation (intake and exhaust), pressure is equalized, preventing conditions which some crews have credited for blown out houses, portlights, skylights, etc...
+
+I am willing to bet that the USCG has exactly ZERO experience with the Paradox design (or her fledgling type), in storm conditions or calms. While studies have been undertaken on storm tactics, including the series drogue, every single boat calls for different tactics, and ONLY experience will put the sailor in the situation in which these tactics may be learned. You may speculate until the sea cows come home, but in the end, only experience counts. Even then, you may never encounter storm conditions. Fortunately for us all, weather forecasting and its communication have become incredibly reliable.
+
+DC

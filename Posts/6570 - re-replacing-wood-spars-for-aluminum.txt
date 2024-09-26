@@ -1,0 +1,11 @@
+From: "logicaid" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 13 Sep 2010 02:35:26 -0000
+Subject: Re: replacing wood spars for aluminum
+
+Hi,
+
+I think Pete means the shape when partly furled? ie reefed. The original tapered boom is to keep the shape of the sail correct when reduced in area, as well as to take up all the slack (=3Dthe droop) when completely rolled-up. What you could do is to simulate the original shape by attaching tapered strip(s) to the boom. These could be wood or maybe even dense foam...
+
+Cheers,
+Alan.

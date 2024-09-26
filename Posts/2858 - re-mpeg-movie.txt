@@ -1,0 +1,12 @@
+From: John Gardiner <alex29@cox.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 28 Jun 2005 07:25:03 -0400
+Subject: Re: mpeg movie
+
+Hi Adolf,
+
+You just have to find out where bitcomet saves the files to, default is C:/ProgramFiles/BitComet/Downloads and you should be able to play it in windows media player, winamp, ect ect.
+
+Jack
+
+Adolf wrote:

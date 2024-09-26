@@ -1,0 +1,32 @@
+To: paradoxbuilders@yahoogroups.com
+From: "Glen Maxwell" <ifida@alltel.net>
+Date: Tue, 30 Dec 2003 15:07:44 -0500
+Subject: Re: nesting
+
+Great link Bill, Thanks! I down loaded "Crossroads" and converted the VRML file to DFX format then imported it into "Intellicad 2000" with no problems. I will post both the Hull file and the 3D DXF file to the files section.
+
+Tailwinds
+
+Glen
+
+Yahoo! Groups Sponsor 
+  ADVERTISEMENT
+  
+ 
+ 
+------------------------------------------------------------------------------
+Yahoo! Groups Links
+
+  a.. To visit your group on the web, go to:
+  http://groups.yahoo.com/group/paradoxbuilders/
+    
+  b.. To unsubscribe from this group, send an email to:
+  paradoxbuilders-unsubscribe@yahoogroups.com
+    
+  c.. Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. 
+
+
+---
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.550 / Virus Database: 342 - Release Date: 12/11/2003

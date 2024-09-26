@@ -1,0 +1,22 @@
+From: "Richard Peeters" <r.peeters@pandora.be>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 11 Apr 2005 12:35:56 -0000
+Subject: chine runners
+
+Hi guys,
+
+I am designing a waterballasted boat with a box keel.
+I'd like to add chine runners and I am wondering where to put them best: at the chines or at the sides of the boxkeel?
+
+
+!                   !
+!                   !
+!                   !
+-------      --------
+       !    !  
+       !    !
+      --------  or here?
+
+
+Thanks
+Richard

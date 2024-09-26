@@ -1,0 +1,14 @@
+From: "Dave Bolduc" <mbolduc@triad.rr.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 14 Apr 2008 04:41:27 -0000
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+On Little Cruiser we use a 32 ah deep cycle SLA battery that is recharged by up to 40 watts (2 amp/hr) of power from 3 solar panels. This setup is sufficient to power everything including a 100 watt HF radio. On the other hand, we have a 7.2 ah gel cell for Swamp Thing which is charged by a single 10 watt (0.5 amp/hr) solar panel.  This is a very minimal power system, and it is only intended for charging/running a few small devices like a cell phone, a GPS, an ipod, and a few LED lights (preferably not all at the same time).  
+
+As for cooking, we like using gas stoves like the ones you find in camping stores. In our experience, a single one pound cannister of fuel can last for up to a week of cooking. For a 3 month long cruise we usually bring 12 cannisters, and often we come home with 1-2 spares because we eat out some of the time.
+
+In regards to fuel, we carry up to 9 gallons of gasoline at the start of our longer trips. This translates to about 36 hours of continuous motoring on our 3.5hp outboard, traveling at an average speed of 4.5 knots with minimal wind. Unfortunately, this fuel is carried inside the boat which isn't the ideal or recommended way to do it, but it has worked so far. One of the precautions we take is that if we smell ANY FUMES whatsoever, we don't light our stove obviously or even use a single electrical device until the fumes are evacuated and the source of the smell removed. 
+
+Lastly, we've noted over the years that it's important to keep things as simple as possible while cruising; otherwise, you may find that you will spend a fair bit of your time maintaining and even repairing these complicated systems.
+
+Dave

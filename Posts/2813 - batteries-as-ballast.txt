@@ -1,0 +1,32 @@
+From: BllFs6@aol.com
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 14 Jun 2005 14:52:54 EDT
+Subject: Batteries as ballast?
+
+Hi all..
+
+sorry if this question is a bit too generic for this forum...
+
+I have a real interest in small, simple, "squareish" daysailers/micro cruisers....
+
+And I have noted 2 things....
+
+First, many of them often have a fair bit of lead ballast to increase stability and sailing performance.
+
+Second, many sailors seem to have an almost loathing hatred of outboard motors, though personally I don't find them to be that obnoxious....
+
+So, this brings up a question.....are any of these smaller designs "compatible" with using batteries for some/all of the ballast and thereby allowing the use of an electric trolling motor rather than an old 2/4 stroke?
+
+Better yet, anybody know of any micro designs where such an arrangement has been designed in?
+
+For example, off the top of my head....Boldger's Old Shoe, my favorite tiny square boat, requires about 200 pounds of ballast.....thats the equivalent of 2 to 3 deep cycle batteries.... so say 2 batteries at 12 volts and about 100 amp hours each....so 24 volts at 100 amp hours....max safe long term discharge rate is 20 amps, so 5 hours running time...amps times volts = 480 watts...480/760 =.6 hp....so you could have a smidge over a half hp continous for 5 hours....and up to about 1 hp for relatively short burst (WAG 15 minutes out of every hour operation)...And half a hp is still a lot more power than any? human can put out continously...much less a typical outa shape person like myself....
+
+Now obviously if your going on a many multiday trip, 5 hours of a half hp wont do much and you still better be good at using the wind or carry a 2/4stroke to boot....but for 1 to 3 day sailing trips (which is what 90 percent of the people do 90 percent of the time anyway) it would be sufficient or at least a nice "hail marry" propulsion source when the sails are useless and that darn fossil fuel eater wont start or run. It would also be pretty nice for silent running when trying to get closer to the more timid types of wildlife. And having a substantial battery bank would be a godsend for those of us trying to sleep in the warmer/more bug infested climates by allowing the use of a small fan during the sleeping hours.
+
+The electric propulsion in the example above would still get you anywhere from 10 to 20 miles travel distance, which if your only coastal/protected waters cruising could be very helpful when needed (sure would beat rowing it!)
+
+Just as thought as it sure seems like a waste to carry all that ballast as truely dead weight....
+
+take care
+
+Blll

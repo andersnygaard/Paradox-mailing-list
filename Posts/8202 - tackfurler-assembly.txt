@@ -1,0 +1,17 @@
+From: dlesper <dlesper@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Tack/Furler Assembly
+Date: Wed, 15 Apr 2015 11:17:04 -0700
+
+Hi everyone,
+
+I was recently at my local foundry picking up bronze stock for the tack/furler assembly, when the shopkeeper said the retail cost of the metal and the cost for fabrication plus materiel would be the same (about Cdn$60) because of the simplicity of the fabrication required. (If you're interested in them doing the work for you, they have a copy of the tack/furler drawing and are familiar with the assembly; 1-877-900-5656 in Victoria, Canada)
+
+In reviewing the drawing the shopkeeper was asking about the purpose in splitting the solid rod where it meets the spacer pipe. The only reasons we can think of is to secure the tack line to it, though the plan shows just a stopper knot.
+
+Has everyone "y"'d their rod in this fashion? Please tell me about your furler assembly construction and why you choose your method.
+
+If we can't find any good reason to "y" it, we'll just bolt it straight through with u shape cut-outs on the spacer pipe to allow the rod to pivot.
+
+Thanks everyone,
+Darren

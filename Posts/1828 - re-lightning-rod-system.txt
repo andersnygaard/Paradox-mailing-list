@@ -1,0 +1,18 @@
+From: "Glen Maxwell" <ifida@alltel.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: Lightning rod system
+Date: Fri, 16 Jan 2004 18:48:16 -0500
+
+Hi Steve,
+
+You have a completely incorrect idea of how the lighting rod works. It does not attract lighting it repels it. This is an over simplification of the system but here goes. First it really shouldn't be called a lighting rod but rather a de-ionization rod. If you watch lighting in the sky you will notice that the strike wanders all over the sky and not straight down. This is because the charge is traveling where the ions in the air are and they are usually falling. The rod grounds the air above the tip and effectively shorts the ions in the area around the boat (roughly 20 degrees all the way around) to ground, therefore there is no path for the lighting to strike, it has to go else where, the area under the point is referred to as the cone of protection. With a system like the one designed you should never have to worry about a strike.
+
+As an example, on my last boat I had a system just like Matt's design with the exception that the system was grounded to a pair of aluminum skegs ahead of the rudders (catamaran). I had never sustained any strikes what so ever and the boat was moored in Jacksonville FL, a lighting capital. One haul out I tired of the skegs corroding away so I faired them with bondo and encapsulated them with epoxy. About six weeks later I went sailing and discovered my radio wasn't working and some of the other electronics as well. I wrote everything off to age of equipment and replaced it. About 2 months went by and damned if my new radio failed to work and a CD player also had given up the ghost. While out sailing I was pondering the problem and happen to look aloft at the antenna, it was gone, toast, fried, nothing left but the mount. It didn't take to long for me to realize what I had done and as soon as I returned to the mooring I went over the side with a sharp knife and scraped the devil out of the epoxy on those skegs to remove it. Everything was still under warranty so off it went for replacement. Never had another problem after that.
+
+Tailwinds
+
+Glen
+
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.550 / Virus Database: 342 - Release Date: 12/11/2003

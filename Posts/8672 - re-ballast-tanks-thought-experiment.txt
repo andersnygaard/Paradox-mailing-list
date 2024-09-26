@@ -1,0 +1,16 @@
+From: tom sorensen <tdsoren@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Ballast Tanks Thought Experiment
+Date: Mon, 29 Feb 2016 08:36:29 -0800
+
+
+Rob,
+
+Have you got room between the top of the tank and the deck where the pipe terminates to install a Ball valve? ThaT way you could leave it flush and open on deck. As to the breather tube, if there's a large temperature swing on the tank after filling you could have an issue. You can either design in a little air space in the tank to allow for water expansion, or do a second very small tube as a breather.
+
+I've considered using a hand operated diaphragm pump to empty ballast tanks while afloat. It could double as your bilge pump with proper piping and valves.
+
+tom
+
+tom sorensen
+tdsoren@yahoo.com.au

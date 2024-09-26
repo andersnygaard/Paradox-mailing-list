@@ -1,0 +1,33 @@
+From: John Starkie <john.starkie@talk21.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 13 Dec 2013 10:08:41 +0000 (GMT)
+Subject: Re: Mast is offset?
+
+Apart from being able to access the forward compartment,
+I suspect that the geometry of the mast position, the boom and the way the boom support swings down to the left is carefully calculated.
+If you move anything you'll need to redesign the boom support,
+and the way the control lines pass through the drain and into the 'cabin'.
+I think.
+
+John
+
+From: "paradox@as6jg.freeuk.com" <paradox@as6jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com 
+Date: Fri, 13 Dec 2013 09:42:00 +0000 (GMT)
+Subject: Re: [paradoxbuilders] RE: Mast is offset?
+
+On 12 Dec 2013 at 20:38, phil_e.stine@yahoo.com wrote:
+
+> I would still like to know if anyone has tried putting the boom on the
+> starboard side.
+
+Why would you? If you look at the force vectors the lateral position 
+of the sail make very little difference. Being able to quickly stow 
+the sail can be invaluable. 
+
+--
+Hoping for calm nights
+
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

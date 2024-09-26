@@ -1,0 +1,38 @@
+From: "alastair" <paradox@as6jg.freeuk.com>
+To: paradoxsailboat@groups.io
+Date: Mon, 10 Feb 2020 10:43:02 -0000
+Subject: Re: [paradoxsailboat] Abel Tasman Trip Report
+
+My understanding of the lateral resistance on the Paradox is that, apart from the rudder, most comes from the hull acting as a lifting body. The chine runners simply behave like a fence discouraging the water from moving from the high to the low pressure side.
+
+For chine runners to work like this the hull has to have the rocker and the curve of the side panel matched to produce the lifting body effect.
+
+As to drag, I was once holding a Paradox in what must have been at least a 3 knot current. I could easily hold it with my little finger.
+
+On 9 Feb 2020 at 22:54, Graeme Kenyon wrote:
+
+Thanks for the feedback Chris and William. I am a little unsure of the meanings of "do not hold your breath" and "I would like to see that the chin runners have no effect" - but I take it that you are saying, fairly strongly, that the chine runners are not going to be very effective at providing lateral resistance? And together with Rob=B4s comment that they add noticeable drag when using the yuloh, I am wondering if I have made a mistake by putting chine runners on my scow.
+ 
+The hull is still upside-down and it is not too late (with some difficulty) for me to remove them, and if things are as bad as that, then perhaps I should.
+ 
+I added chine runners because the deeply immersed flat-bottom/flat-sided hull seemed similar enough to Paradox to suggest that they might be of some benefit, though I never expected them to be a replacement for centreboards. I was also pleased that structurally they bolster the two off-centreboard cases which I have built into each side of the vessel and which otherwise would depend on the hull side only as their outer wall.
+ 
+So, I am expecting only a small benefit, which I had hoped would be enough to justify what I hoped would be only a small amount of drag. I was never expecting chine runners to be "magic."
+ 
+However I am a bit concerned now, and would greatly appreciate any serious comment on whether I should or should not remove them - I am realistic in not expecting huge benefit to windward (though hopefully enough to actually make progress with boards up, if necessary) - am I realistic in expecting not too much extra drag?
+ 
+PS I made a model of the hull for testing lateral resistance with and without the chine runners. In practice, with limited facilities, I found it impossible to carry out any useful test. I could, however, go back and just test for drag, and I think I might do that and will report back if you are interested.
+ 
+PPS Rob I=B4ve just seen your latest post. The thing is, they are already made and in place, I am expecting not a lot but perhaps some lateral resistance benefit - is the drag created sufficient, in your mind, that I should remove them from my hull while the build is still in progress? (I think you have actually seen my hull with the runners in place, so you will know what I mean.)
+ 
+Thanks for all this feedback
+ 
+Graeme
+
+
+--
+Sail when you can, row when you must, motor only when you have to be at work in the morning.
+
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

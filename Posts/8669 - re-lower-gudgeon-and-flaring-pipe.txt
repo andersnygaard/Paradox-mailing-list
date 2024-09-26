@@ -1,0 +1,16 @@
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 26 Feb 2016 13:00:48 +0000 (UTC)
+Subject: Re: Lower Gudgeon and Flaring Pipe
+
+Depends on what you need, Rob.
+
+A car battery is designed to give a high current for a short period to provide the cranking power that starting a car requires. While a deep cycle battery is designed to give you a steady current flow . The method of construction is different in each case. One has lots of thin plates while the other has fewer but thicker plates.
+
+A car battery will be damaged if you discharge it more than 50 per cent of its capacity and its life will be short if you make a habit of running it low.. A deep cycle one will last you longer then. Although any battery will suvive for longer if kept fully charges for most of the time
+
+If you have an 80 a/h battery, you can realistically use less than 40 a/h, due to ineffeciencies, anyway.
+
+Best
+Jim
+http://jimtimes.wordpress.com/

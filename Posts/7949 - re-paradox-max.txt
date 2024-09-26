@@ -1,0 +1,18 @@
+From: Malcolm Phillips <malcolmdphillips@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 7 Mar 2014 13:51:04 -0500
+Subject: Re: Paradox Max
+
+I agree that heeling moment scales to the 3rd power and stability to the 4th power, and so the scaled boat and the chine runner will be less heeled that the unscaled boat.
+You may be able to enlarge the sail slightly? Or reef it later.
+-Malcolm
+
+On Fri, Mar 7, 2014 at 7:39 AM, <graeme19121984@yahoo.com.au> wrote:
+
+Malcolm I believe you are correct - I've chased a designer rabbit down a wrong burrow there, thanks. The 4th power it is then for stability. Complicating things though are allowances for things like hull weight increasing by somewhat less than the 3rd power, presuming that scantlings were not all increased by 20%, so changing KB, KG, KM spacing by something other than the linear increase. the ballast could be increased to set the hull on its lines if the hull comes out relatively light which will change those relationships also, pointing them towards increasing stability.
+
+Following the conceptual mode of thinking then, the heeling effect of wind velocity on the sails will scale by the 3rd power, no? And with respect to a 4th power scaling of stability: will the lee chine runner then be readily heeled to similar functional angles of the unscaled boat?
+
+thanks
+
+Graeme

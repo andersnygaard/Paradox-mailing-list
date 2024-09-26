@@ -1,0 +1,43 @@
+From: "barnacleid" <william@serjeant5445.fslife.co.uk>
+Date: Sun, 11 Mar 2007 15:23:09 -0000
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Yuloh - thank you
+
+Hi Bill,
+
+I appreciate your responses regarding my Yuloh questions. I felt the more curved side of the blade should be underneath,(forward) so as to achieve lift like an aeroplane wing, but I was confused by poor photos which gave the impression the more curved side was uppermost.
+
+Cheers,
+Bill.
+
+Hi Bill,
+
+I use an old Chinese style yuloh, from the handle to the blade tip it has about 150mm curve (like a bow) - it is the same length as the one drawn on the plans. The blade is 150mm wide and is flat on the underside (forward) and curved on the top edge. It does not need a rope to the handle and works well. I got the design from the Mariners Catalog, volume 3. Hope this is not too confusing.
+
+Regards,
+Hugh
+
+Well, thanks for that. It seems to me that yulohs with more curve longitudinally are easier to work. Al is of the opinion that the cross-section of the blade is not significantly important. You may be interested in Simon Fishwick's comments on my smallsailboats yahoo group which I've pasted below:
+
+Bill
+Worcester's classic drawing of a yuloh in use can be found at
+http://www.ayrs.org/yuloh.gif.
+
+The important features are:
+
+1. The plane of the blade is "parallel" to the transom, not perpendicular to it.
+
+2. When in use, the blade pushes downwards and forwards, so the lower/forward face is convex, the upper/after face is flat or concave. The force of the blade is resisted by the fulcrum, and the rope.
+
+3. The attachment point of the rope to the handle needs to be below the projected axis of the blade (looking side view). This can be achieved either by a curved (as Worcester) or an L-shaped handle.
+
+4. The yuloh is commonly driven by pulling and pushing on the rope. Because the attachment point is offset, this twists the blade so it drives the boat through the water. The amount of offset affects the "gearing" of the yuloh - low offset = low gear = a low angle of attack of the blade, means you can use a large(r) blade area to produce large(r) drive force for the same effort; large offset = high gear.
+
+50mm offset doesn't sound like much to me, unless you're using an L-shaped handle (in which case the curve is simply to give the whole lot some stability). There probably though are subtleties (like where you hold the rope) that I am ignorant of.
+
+Hope this helps.
+
+Simon
+
+Thanks again,
+Bill.

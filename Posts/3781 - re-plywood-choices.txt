@@ -1,0 +1,17 @@
+From: "Nels" <arvent@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 21 Jul 2006 20:01:47 -0000
+Subject: Re: Plywood Choices
+
+Seems like laminating the sides, you would just need to seal the sheet edges --
+a butt would add hardly any strength, I'd think. After all, your gluing surface 
+would already go from about 36 square inches (3/4" x 48") for a butt or about 
+384" square for a scarf to over 4600 square inches :)
+
+You may also be able to pre-bend the bottom by adding weights to each end and 
+raising the middle.
+
+The next logical progression might be to make your own foam-cored plywood by 
+setting up a vacuum bagging system.
+
+Nels

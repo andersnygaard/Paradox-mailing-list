@@ -1,0 +1,95 @@
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Vane Gear
+Date: Wed, 18 Jul 2007 11:09:25 -0700 (PDT)
+
+Wow! Glen, very nice. Thanks for all of the pictures. I need a couple more on how the windvane drives the ruddervane, but maybe I need to go to the URL you provided and look at their examples before I completely "get it", the rest is just amazing.
+
+Makes you want to build and sail a Paradox so that you can have one of these autopilots! 
+
+(;^0
+
+Denny ...
+
+Hello Group
+
+I took Zoe out Sunday 8 July to try out the wind vane again and once out 
+into clear air and deeper water I deployed the vane gear oar and began 
+testing. I naturally ran into minor problems like the oar tiller wanting 
+to jump out of the vane out-put crank, the wind blowing the vane blade 
+out of alignment when it went farther than the out-put crank would allow 
+and some missing screws which had vibrated lose on the trip down. After 
+sorting out and correcting all the problems if only temporarily, the 
+gear began to work well and hold a course better than I had hoped for. I 
+was truly amazed at how little the vane moved and how quickly it 
+corrected the course. Watching the end of the tiller I could see that it 
+was only moving about an inch at the max and generally about a half inch 
+or less. Its greatest movements occurring in the gusts when Zoe heeled 
+over or when I moved about in the boat.
+
+I broke out my little wind gage and measured 16mph gusting to 19mph. On 
+the VHF weather channel they were forecasting 16kts gusting to 25 so 
+things did appear right.
+
+I uncoupled the gear and tacked from starboard to port and took up a 
+heading of due south. That turned out to be a close reach and Zoe pick 
+up her skirts and charged off at 5.3kts according to the GPS. I got her 
+helm tied down to hold us more or less on course and engaged the vane 
+gear. After allowing a minute or so for everything to settle down I 
+checked the compass and found our heading to be about a 165 degrees. 
+Taking up the course setting lines, I began to experiment with 
+correcting our course and sure enough with a small amount of fiddling 
+around as I first over shot and then under shot I was able to get a 
+pretty steady course of 180 degrees plus or minus a couple of degrees. 
+The gear held a far steadier heading then I could have unless I stayed 
+put in one spot.
+Anyone who has ever tried a tiller tamer or any other device to hold 
+your heading soon finds that, yes they work assuming you dont move. 
+Therein lies the real value of an auto-pilot, it frees you to move 
+around. No longer a hostage to the helm you are able to crawl around and 
+dig into lockers, study the chart, fix dinner and such without having to 
+constantly monitor the compass.
+I must admit, as I sailed along south watching the wake streaming 
+straight behind us, I was pretty proud of myself for putting this 
+contraption together. Pulling out the camera, I shot a three minute mpeg 
+movie to put on the web site. All too soon I had to uncouple everything 
+and head in. My daughter was sitting with her mom while I was out 
+testing and upon my arrival home she still had a two hour drive home 
+herself. As excited as I was and longing to play with my new toy for the 
+rest of the afternoon, I felt it wouldnt be fair.
+
+So whats left to do? I need to install a wind blade stop to keep strong 
+winds from blowing the blade out of alignment. A spring attached to the 
+oar carrier and hooked over the oar tiller will solve another little 
+problem. Installing larger engagement lines when they come in. Devising 
+a way to adjust the friction on the wind blade carrier tube from the 
+hatch. More testing to finalize the design and then put everything down 
+on paper with instructions on how to assemble one.
+
+I tried to upload the movie so I could link to it from here but after a 
+couple of hours and only 16% upload I gave up. Dial up connections 
+really suck! To make things worse the phone company has no idea when they will get faster service out here in the sticks of North Florida.
+
+For those not familiar with this type of wind vane, a short introduction 
+is in order. First the vane assembly is of the upside down variety. 
+These are supposed to be affected by heel angle much less than the 
+vertical models. The oar assembly is mounted on the rudder head and to 
+engage the gear the oar is secured so that it cant swing when the oar 
+is deflected. Since the oar cant swing out it imparts the load onto the 
+head of the rudder and deflects it instead. Therefore, there are no 
+tiller lines or other encumbrances to clutter up the helm. The controls 
+consist of a down-haul line and an up-haul line to flip the oar blade in 
+and out of the water, a course setting line, a friction adjuster and the 
+two engagement lines which are set at the same time. There are pictures 
+of the assembly in the Paradoxbuilders file section under Zoes Vane 
+Gear. During the learning curve I referenced one website more than any 
+other, it can be found here: 
+http://www.mindspring.com/~waltmur/Self-Steering/advanced.htm While this 
+particular vane gear was designed by me to fit the Paradox you can adapt 
+and mix and match gear components to fit your particular needs once a 
+working knowledge has been gained from all the info provided from the 
+above site.
+
+Smooth Sailing
+
+Glen

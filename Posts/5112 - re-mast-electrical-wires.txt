@@ -1,0 +1,17 @@
+From: William Crawford <rowdy@txcyber.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 10 Jun 2008 17:45:57 -0500
+Subject: Re: Mast electrical wires
+
+Steven,
+
+I'm not a paradox builder but I did run across the same problem on my "store bought" boat. Seems the connector corroded and I found in attempting to replace, the manufacture glassed the wiring in the hull. So I was forced to replace all the wiring from the mast/hull penetration to the breaker box in the stern. This is an older boat and not wanting to spend big money on it, I found that the molded trailer wire connections work just fine. The female has a large flange for easy sealing and several inches of penetration and also has a spring-loaded door to keep water out when its not being used. It was cheap therefore cheap to replace if the sea is not so kind. The male side is injection molded too and I bet with a bit of silicone grease every now and then, it will last a good while. Most trailer supply houses will have this and they come in many cable configurations. Another benefit is the ability to pull more circuits than needed for future uses. Wooden boats and fiberglass boats share a common problem is a ground wire be it common or separately run has to be used. Please note that I do not have nor have I seen a set of plans for the Paradox and what I describe maybe overkill. Anyway those trailer light connectors are made to take some abuse from the mud and the rain and might do the trick. My 2 cents....
+
+Bill
+
+On Jun 10, 2008, at 12:03 PM, Stephen Yahn wrote:
+
+I'm asking for some help. I'm making my mast now and I bought the wire I want to use. The lower connection for the anchor light has me stumped. Is the connection best made above deck or below. And, how waterproof does it need to be. All my previous boats had no wiring. You guys who have done this already, is there any thing you could tell me?
+
+Best
+Steve Yahn

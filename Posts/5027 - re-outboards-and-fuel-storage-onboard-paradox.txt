@@ -1,0 +1,33 @@
+From: "Alan" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 11 Apr 2008 22:43:21 -0000
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+Hi,
+
+Don't wish to be a doomsayer, but-
+Unfortunately the numbers do not add up when looking at
+electric power as your only system.
+Solar panels wont be adequate for replenishing batteries
+if these are to be used for propulsion and cooking, and
+a wind generator would need to have blades of 6' and upwards
+in order to get any useful amount of power-impossible on a tiny
+Paradox-size boat.
+You could get upto 100watts from a pedal-powered generator...
+or a water-powered one if sailing with plenty of wind might
+be useful without slowing you down too much. Some of these are
+designed to be towed behind the boat, so no complicated transom 
+mounting required.
+If the micro-wave mentioned is only about 50% efficient, I'd expect
+a simple immersion heating element could be more efficient if used
+in a very well insulated container to reduce heat losses. A resistive 
+(immersion heater) element is 100% efficient-all the power it uses 
+ends up as heat- so if you manage to not lose any of that, I think it 
+would be a better bet. Perhaps make up something using a thermos as 
+the heated vessel?
+Having said all this, an electric cooker of some sort could be good 
+to have as a VERY occasional thing if conditions were so bad that the 
+gimballed gas stove was not safe to use.
+
+Cheers,
+Alan.

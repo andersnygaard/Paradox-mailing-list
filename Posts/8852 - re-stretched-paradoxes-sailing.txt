@@ -1,0 +1,36 @@
+From: yahoomail@curtisteam.org
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Stretched Paradoxes Sailing?
+Date: 07 Feb 2017 01:28:29 +0000
+
+Stretched Paradoxes come up often. A few years ago a German chap was building a beautiful enlarged Paradox, he got close to finishing, and then he was gone! Don't forget however that the Lil Cruiser, and the Enigma 460 (Fantasma) which I own are both really just stretched Paradoxes. I'd venture to say any relatively heavy narrow decked sharpie under 20 or so feet will sail a bit like a Paradox, but it must be narrow. Still, as someone who also owns a paradox I do think there is something to say about how perfect the Doxs is for just one human. Making it bigger for just one seems to me to distract more than add.
+
+I ran my lesser displacement e460 against what is now my Paradox (Tardis) when it was being piloted by Sean Mulligan and he had Lezle Hansen along for the ride too. Over a few miles in fairly strong wind I was able to catch up to them. Not surprising however, they were heavily loaded, I less so with a longer water line. The performance differences were minimal and all scratching edges.
+
+Chris Curtis
+
+---
+
+In paradoxbuilders@yahoogroups.com
+
+I have not seen polars for an extended Paradox -then again, I have never seen polars for a Paradox proper either, so I can say that the larger boat will easily perform as well as the smaller one -within the huge margin of error that is the known performance. That may sound useless but it is all the scientific fact that is available.
+
+Useful efforts
+
+-Design a cheap simple anemometer that can be used with GPS to measure and document performance. I have been thinking about doing this for a while.
+
+Two levels
+
+   -one would be a 3d printed sensor to work with cheap bike computers -stand alone system, under $50
+
+   -upgraded system would use a tablet for data acquisition via USB. It would have more available channels for wind direction, water speed, wind at the top of the mast and at the bow or the boom...and might serve as an intelligent autohelm.
+
+Any interest?
+
+-Sailboats for people with back problems is a significant market, or rather there are many who want to sail but don't because of back problems. We discuss this often on boatdesign.net and there are several significant handicap sailor programs. If you are serious about sailing with back problems, follow the handicap sailor designs.
+
+http://www.boatdesign.net/forums/boat-building/sv14-disabled-sailors-56649.html
+
+http://www.boatdesign.net/forums/boat-building/sv14-disabled-sailors-56649.html
+
+There are a number of sit-in mini keel boats and tiny trimarans are great if you are looking for performance.

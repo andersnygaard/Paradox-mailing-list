@@ -1,0 +1,32 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Cabin Top forward beam.
+Date: Mon, 27 Oct 2008 22:49:29 -0000
+
+On 27 Oct 2008 at 22:20, Pete wrote:
+
+I've been busy putting together the cabin superstructure. Now the
+thing that has me puzzled is the f'wd beam. The bottom of the window
+is curved, and yet the upper beam is shown as straight. This leads to
+a quite pronounced rolling bevel on the corner posts. I'm thinking
+that it would be easier to put some curvature into the upper f'wd
+beam. I don't have any lexan yet so don't know how flexible it will be
+to bend to this curve, but at present it doesn't seem quite right.
+I've cut a piece of cardboard but it's not stiff enough to properly
+follow the compound curve.
+
+Am I barking up the wrong tree?
+
+You are, a little. The upper beam is straight in the plan view, but 
+is curved in the front view, so the actual shape is quite 
+complicated. I sorted this by standing in the boat, with an angle 
+grinder and coarse sanding disc, and sighting between the roof beam 
+and the deck beam to produce a freehand profile. 
+
+It would appear to have worked ok :-)
+
+Hoping for calm nights
+
+Al,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

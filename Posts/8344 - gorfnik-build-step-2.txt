@@ -1,0 +1,17 @@
+From: bourbeau@videotron.ca
+To: paradoxbuilders@yahoogroups.com
+Date: 26 Jul 2015 13:07:12 -0700
+Subject: Gorfnik build Step 2
+
+Since you can't screw into 1/4 inch plywood, I glued an extra piece of plywood in the four places I would later need to screw into: inspection hatches, cabin front and rear support posts, seat. Also, support blocks for the port and starboard leeboards. The extra strength here proved to be necessary when the leeboards smashed into rocks while sailing, so I was glad they were overbuilt.
+
+Crucial measurements:
+
+- Leeboard pivot: centred at 47 inches from front of boat
+- Rear cabin post: rear edge at 12 inches from rear of boat
+- Front cabin post at deck (40 degree angle): front edge 42 inches from front of boat
+- Inspection/storage hatches (6 inch diameter): center at 56 inches from front of boat
+- Seat support: top of support at 9 inches from deck and 9 inches from bottom horizontal line. Support extends from 61 inches to 79 inches from front of boat.
+- Back rest support (12 degree angle): plywood piece must extend 7 inches in front of rear cabin post at the bottom and 1 inch at the top.
+
+André-François

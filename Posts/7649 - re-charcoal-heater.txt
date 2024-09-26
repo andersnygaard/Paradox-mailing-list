@@ -1,0 +1,52 @@
+From: kbgwp@yahoo.com
+To: paradoxbuilders@yahoogroups.com
+Date: 02 Sep 2013 16:12:54 -0700
+Subject: Re: Charcoal Heater
+
+Thanks again Jim,
+
+I think I will use my method of cutting out sheet metal to come up with the design I will eventually make. Your method using copper pipe will probably be used for my final design. That large of copper pipe is a bit too expensive for me to use as prototypes but if I'm understanding you correctly, the copper has held up fine and should take less brazing than my method. 
+
+I made my drawing 5 inches long mainly because I could fit all the full size parts on one sheet of 8-1/2 x 11 paper. I'll probably play around with sizes a little more to see what looks like it will work. 
+
+How much larger would you recommend? Both diameter and length or just diameter? 
+
+Brian in PA
+
+
+I just added some more pictures to Jim's charcoal heater folder with my first test build of my version of the heater. This one was just a test to see how it would work and was not meant to actually be used in a boat.
+
+I made it out of some scrap aluminum flashing and taped it together using aluminum duct tape.
+
+After a quick test burn (no pictures of the burn...sorry) the tape's glue and paint burned off but it did seem to work and threw off some heat. In a small area, I expect it would help heat the area a little. Enough to take the chill off anyway.
+
+I only used a couple vaseline soaked cotton balls to get it started and some softwood square scraps of wood and some twigs. It took pretty constant feeding to keep it burning with this fuel. I expect that charcoal would have burnt with less smoke and a little longer burn time but I didn't try it.
+
+This test proved to me that the design would probably work for what it was designed for. A tiny solid fuel heater for a small boat. I also didn't have the flexible pipe chimney so I figure it would have drawn better with a longer chimney and doors of some kind. My aluminum tape top door was the first to fall off as it burned.
+
+As Jim stated somewhere on this forum, it might be nicer if it was a little bigger to hold more fuel but for the small size of this 2" diameter X 5" high heater, it appeared to work good enough for some quick heat without taking up much space at all and it should be easy enough to store when not needed.
+
+Brian in PA
+
+
+I just added a CAD drawing for a version of this heater I came up with. I have not tried it except for paper models. The plan is for making a 2" diameter X 5" high Micro Charcoal Heater out of flat sheet metal like stainless steel. I'm thinking maybe a cheap stainless steel stock pot from the dollar store might work as the metal although it is fairly thin. It would have to be brazed or silver soldered together unless you have access to a TIG welder. There is a 1" diameter X 2" high section for connecting a 1" flexible exhaust pipe for a flue.
+
+Pipe would probably be easier but this might be another option. I didn't draw up anything for the doors. You will have to figure that part out for yourself.
+
+Brian in PA
+
+
+Thanks Jim,
+
+The little heater looked like a great, simple design to take the chill off without taking up much space. Looking at the pictures I'm guessing 4 or 5 inches high. For the sliding doors I'm guessing a section of pipe was split with the cut edges bent back as handles. I'm also guessing that gloves or maybe even a wrench is used to adjust them to keep from burning yourself. It also seems like the charcoal needs to be broken up a little to fit in. I read a message that said you feed it with a teaspoon.
+
+If I got anything wrong let me know. I'm figuring sizes don't have to be real precise as long as it works.
+
+I think just having a Paradox (built or bought) means you have a lot to offer to the group. I just now got the plans and still don't know if I will build it or maybe one of Matt's other designs. It does look like a great little cruising/camping boat.
+
+Brian in PA
+
+
+I was looking through the group photos and saw the homemade charcoal heater by Jim (Flexwing462). I wonder if anyone else attempted to build one. If Jim is still active in this group, I wonder if he still uses his.
+
+Brian in PA

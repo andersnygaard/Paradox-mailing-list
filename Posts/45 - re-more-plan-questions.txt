@@ -1,0 +1,14 @@
+From: "Don Elliott" <delliott@tomah.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: More plan questions
+Date: Sat, 28 Jul 2001 23:18:30 -0000
+
+Hi Al, 
+
+There is a bin panel on the starboard side between bulkheads #1 and #2 only one on the port. The starboard cleat for is shown on bulkhead #2 in dotted lines 370mm off the cl. The cleat for bulkhead #1 is not shown on the bulkhead detail, but it is shown on dwg #3 and #4. Both panels between #1 and #2 do not have top shelf, but are simply open. 
+
+It is best to fit the bulkhead # 1 starboard cleat on final assembly, but I didn't, I scaled the drawing and fitted it to that dim and bevel. You can scale the drawing (#3-#4)easily as it is in 1=10 scale lay a metric ruler and you shall see that the dim on bulkhead # 1 is 220 mm,the bevel is direct. For the bulkhead drawings, do this, say to check a dim, if it scales 100 mm the scale should read 2 cm if its 250 mm it should scale 5 cm etc., its scale is one to five.
+
+The bin panels on the port and starboad have vertical cleats both on the #1 and #2 bulkheads (4 total), a battery goes behind that panel on that side (the port), the panel runs longitudinally and the floor is hinged on that panels side, it has a toggle ,dwg #4 (starboard) that allows the floor to rise to up in the direction of the port panel. Be careful when working on these panels when the sides and bottom are on, if you aren't you'll drill a hole in the hull panels and/or the bottom. 
+
+Don

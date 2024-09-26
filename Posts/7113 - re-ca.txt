@@ -1,0 +1,13 @@
+From: "davidandrewallen" <dallen@lull.us>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 02 Mar 2012 16:12:39 -0000
+Subject: Re: CA?
+
+That's it! Thanks Jeff.
+
+You were right, I did not take the rudder into account. And yes, the centroid moved forward approximately 50 mm with the hull heeled about 25 degrees.
+
+So this seems to be what Matt did. His CA seems to mean the Center of Area, including the rudder, when the hull is heeled 25 degrees or thereabouts.
+
+Thanks,
+David

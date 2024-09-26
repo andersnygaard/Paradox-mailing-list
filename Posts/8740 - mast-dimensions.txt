@@ -1,0 +1,14 @@
+From: William Johnston <williamjohnston95@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Mast dimensions
+Date: 13 May 2016 13:47:10 -0700
+
+Hi,
+
+I am rebuilding my mast and I think I figured out why my mast is so heavy. My mast measures 76MM X 127MM at the deck. If I am reading the drawing correctly (#12) it should be 86MM X 70MM at the deck. Is that correct?
+
+I think the drawing is showing the forward board being 86MM wide at the deck and 20MM thick. Does the leading or forward board cover the 86MM? If so, that doesn't go along with the drawing on page 74 of Don Elliott's manual. Or am I completely confused? I think his construction drawing shows the sides to measure 86MM wide and 24MM thick at the deck with the forward and aft boards fitting inside the side boards.
+
+So is the aft board the one that measures 39MM at the deck and 17MM at the top? The #12 drawing showing the "section at deck" has me confused.
+
+HELP!!

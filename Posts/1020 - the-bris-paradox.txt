@@ -1,0 +1,50 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+To: paradoxbuilders@yahoogroups.com
+Subject: The BRIS Paradox
+Date: Thu, 19 Jun 2003 21:05:43 -0000
+
+Hello Paradox collegues
+
+I have followed this group for quite some time, but haven't felt mature enough to make an entry, until now.
+
+Summary:
+I spent most of my spare time 1969-84 with old wooden sailing boats. The last ten of those years with a beautiful 15 meter yawl, 12 ton lead and mahogany. Since the time working with them tended to be longer than actually sailing, I got tired of it, bought a cottage in the Stockholm archipelagoe and during the next ten years me and my family used first a little aluminum motor boat, later to be exchanged to a plastic one.
+
+During this period I discovered following laws of nature:
+1. Big boat, big trouble. Small boat, small trouble.
+2. Wood and water are incompatible.
+3. Aluminum and human flesh are incompatible.
+4. Plastic is fantastic.
+5. Water should be kept outside the boat.
+
+Since I'm from Sweden and besides sailing also interested in odd people, I came across Sven Lundin (aka Yrvind) already in the mid-70:s, and have followed him ever since. During the island-cottage-period, about -92, I thought it would be nice to have a small open sailing dingy and asked Sven for drawings, using the BRIS-concept. With the help of his friend Rolf Eliasson's computer Sven sent me hull-drawings on a 4.2x1.4 m BRIS-mutant. (Btw., Rolf is the one who has written Sven's book of choice on yacht design, namely "Yacht Design", together with Lars Larsson. Nice book, but difficult).
+
+So I started by building a workshop to build BRIS in (actually, someone else did this). When everything was set, me and the family got tired of suburban life and maintaining two houses, so we sold everything and moved out to the woods in the Stockholm outskirts.
+And built a shop to build, etc.
+
+Eventually, the hull was completed, using Sven's sandwich-method; polyester/divinycell/glassfiber.  Unfortunately, completed was also Sven's description and I encountered difficulties in my progress, in spite of many calls to Sven.
+
+During this head-scratching period, the plinths on which my shop rested gave in, leaving the shop on the stomach on the ground. Two years and two lawyers later my present, large and in all respects fabulous shop was completed.
+
+In -98 I got to know about Matt Layden and the Paradox, through Sven. He had by then met Matt and sailed Paradox and also written an article in a swedish boat magazine about the whole thing. By that time six years had passed since I first decided about a small boat, though, the prerequisites and my demands had changed and immediately I saw the Paradox I knew that this is the thing, and got the plans from Matt. The year after, me and my family went to Florida for vacation and I was about to see Matt and THE boat, after Sven made my introduction to The Man himself. Florida was 40 centigrades (I wouldn't know about the fahrenheits) and 1200 forest fires raged (yes, it was that summer). The snowy swedish family didn't think going south from Orlando was such a good idea, north sounded better, so I missed Matt (which I to this day regret).
+
+Parallel working with BRIS, I began thinking about Paradox, and, like so many of you guys (and dolls), how to convert it to a two-person- boat. I discussed it with Sven repeatedly, who encouraged me and thought Matt was a brilliant fellow and the Paradox would suit me perfect. 
+
+Finally I arrived at an outstanding solution to all the scaling problems and presented it to Sven, when he visited my shop. "It sounds nice and will work out find", said he, in his usual gentle way, digging out his special mini calculator from his special customized shoulder bag he always carries. "You will get a 50% heavier and quite another boat, of course..."
+
+OK then, so Matt's plans it is. BUT, referring to the laws of nature I discovered and my practizing with the BRIS-building, I insisted in the BRIS material. Which was blessed by Sven and through Sven also by Matt.
+
+As I saw it, the basis for to be true to the design (under the circumstances) was to take the bulkhead measures exact, since almost the whole boat is constructed around them. Since the BRIS material is considerably thicker than the plywood specified, that leaves me with a Paradox about 55 mm beamier, slightly longer and higher. Eventually, when it came to it, there were some other changes, some due to the material, some to me. Hopefully they won't change the overall performance, but than again...
+
+So, these are changes (so far):
+1. Divinycell, laminated with polyester on the outside and glassfibre on the inside. Divinycell thickness; bulkheads 15mm, sides and deck 30mm, bottom 50mm, cabin sole 10mm, for. sole 5mm, vent trunc  15+5mm, most of the rest 5mm. The epoxi is of course the best there is, the swedish NM-epoxi.
+2. No foam insulation therefor necesssary.
+3. Almost no cleats, logs, beams or floor timbers necessary. Just those minor ones holding bin sides, cabin soles etc. which are laminated in epoxi/glassfibre.
+4. No water tank (see law 5). The waters where I sail, the Baltic sea and our lakes, have low or no salinity and could be used to almost everything except drinking. This makes more storage room so that,
+5. The lower part of the bin shelves are excluded. After hull assembly, the corresponding part of bulkhead 3 can be excluded (actually, for strength, most bulkheads might be excluded). Regarding pt. 2, this makes the cabin sole "much" wider, at a maximum of 1140mm at bulkhead 3. Considering that the standard width of a sea-berth is 550mm, perhaps the cabin now sleeps two persons, at least if they love each other. 
+(For a starter, I built a full scale card board model and invited my wife to test-lie with me, and got an approval).
+6. A stainless steel sheet of 3mm (or possibly 4mm) thickness covering the bottom corresponding the length of the chine runners, also composing the bottom of the chine runners (the rest to be sculptured of epoxi and glassfibre filler). Thus providing some of the ballast weight in the right place. In my sailing universe there is no tide, so beachability is not a major concern. On the other hand we have large shallow areas in the archipelagoes with lots of rocks and stones, thus making part of this lovely area difficult to access. Here the possibility to just sail on in 20cm water, would be fantastic, feeling on occasional bump on the steel.
+7. Mast, yard and boom in carbon fibre. See law 2. One of Sven's major dogmas is reducing the "mass inertia momentum" (don't know about the language here), that is, at any cost minimize the weight in the periphery; for, aft, rigging. The mast will be cylindrical, diameter 60mm, calculated and manufactured by Sven's supplier. Yard and boom probably conical, haven't decided yet, very expensive to make the yard double ended cone. 
+8. Exclude the lightning-conductor. Having visited Florida twice in the summer, I understand why Matt has put it there. Up here amongst the ice-bergs we have other concerns. On the other hand, I might just as well include it, just for the beauty of the ingenious design. It would be easy just to bolt the battery cable to the stainless steel sheet. Does anyone know if the conductivity of stainless steel is sufficient for this purpose? The area is at least proportionately vast.
+
+Thus my thoughts wandered and on this new years day I started working. With my usual lethargic tempo the bulkheads with all their parafernalia are now completed, waiting for sides and

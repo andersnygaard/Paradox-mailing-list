@@ -1,0 +1,119 @@
+From: "openboat@as5jg.freeuk.com"
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Paradox Plans - the studying of.
+Date: Sun, 06 Apr 2008 11:55:13 +0100
+
+
+On 5 Apr 2008 at 22:17, Greg wrote:
+
+
+Right!
+
+I got the plans in my sticky mitts on April 1st - April fools day :o) 
+ominous or what?
+
+Got them embalmed in clear sticky backed plastic and photo copied 
+them twice so I can make notes. (did any of the UK guys notice the 
+difference in USA paper sizes to A3? chopped off the left and right 
+margins! - just a niggle!) :o) 
+
+It's now that I'm beginning to put paradox together in my head by 
+pouring over the drawings.
+
+I've got the mast drawings sussed after much head scratching and 
+searching on the net for help.
+
+Four things are causing me problems at the moment.
+
+1. The stem piece block seems to be missing dimensions for the back 
+face? Am I expected to use trigonometry and work back from the front 
+face measurement using the 29 degrees on the cross section on sheet 7?
+  
+Don't worry about getting this, or the bulkhead cleats, accurate 
+before assembly. Make them oversize and then trim the bevels during 
+the trial assembly. I worked it all out in 3D CAD and made it 
+perfectly, then, on assembly, found I had a big gap to fill with 
+epoxy (epoxy is your friend).
+
+2. The base of the vent trunk and how the mast sits is giving me 
+trouble. Can any of you guys direct me to photo's of that area?
+
+You can get an idea of what my mast step looks like at 
+http://www.little.jim.freeuk.com/ and click on 'Trial Assembly'.
+
+I simply built up the shape using offcuts and epoxy, leaving a square 
+recess for the mast foot, then trimmed it off with an angle grinder 
+and coarse sanding disc.
+  
+I would recommend that you build the mast first, and fit the vent 
+trunk to bulkhead 2 before assembly. This allows you to set up the 
+mast and bulkhead horizontally on trestles and do multiple trial fits 
+as you do the final trim on the mast step and partners. Much easier 
+than lifting the mast in and out on the part finished hull.
+
+3. The cabin framing structure is giving me a headache in that I'm 
+having trouble visualising how the bottom and top side rails of the 
+side frame on sheet 10 marry with the laminated deck framing pieces 
+at the front and rear of the cabin structure. 
+
+Just butt them together and fair in with epoxy
+
+Sheet 3 (middle left) shows a plan view of the port side corner of 
+the front laminated piece where the front screen attaches, do the 
+bottom face of the corner posts sit in that notch flush with the 
+deck,with the side rails butting up against the back faces? 
+
+Once you have the cabin side frames made (sheet 10) and present them 
+to the ends of the front and rear laminated pieces it is obvious how 
+it all fits.
+
+Is the the joint at the top of the corner posts treated in a similar 
+way?
+
+Yes, just trim the top of the corner posts and the roof beam to fit 
+together. It is easier to do than to explain :-)
+
+4. The tack strop on sheet 9 runs inside the brass pipe spacer and 
+hence on through a flared copper tube line entry in the deck. My 
+question is will the edge of the tube dig into the deck surface? How 
+has that joint been dealt with on completed boats?
+  
+Yes, it does some damage to the deck. I flared out the bottom of the 
+strut and built up a pad of epoxy round the deck entry. I think Bill 
+fitted a tufnol pad. A metal washer could easily be fitted.
+
+The damage on little Jim is mostly restricted to wearing through the 
+paint. Most of the time, while sailing, the tie down is in tension 
+and the strut is held off the deck. The only time when there is 
+prolonged contact is when sailing with a deep reef (which I try to 
+avoid).
+
+I think as long as the bottom of the strut does not have sharp edges 
+it will not be a major problem. The fact that you have seen it as a 
+potential problem now probably means you will avoid it.
+
+I'll apologise in advance for what you fellow might see as dumb 
+questions but my Ma always says 'if you don't ask you don't get!' 
+
+Your going to get lots of questions in the future.
+
+Any and all offers of help will be greatly received.
+
+Don't worry about the dumb questions. I remember the confusion that I 
+had when I first stared. But take heart, as you approach each step, 
+because you are building on what you have done before, it will 
+quickly become obvious what has to be done next.
+
+As an aside, I would recommend that you make all the bits and pieces 
+(rudder, mast etc) first. There are 2 advantages to this. The first 
+is physical. It is easier to work on them without the completed boat 
+clogging up your work space. The second is psychological. You get to 
+see a finished piece of your boat early on and when the hull is 
+finally completed you are ready to launch immediately.
+
+
+Hoping for calm nights
+
+Al,      
+Yeovil, England.
+http://www.little.jim.freeuk.com

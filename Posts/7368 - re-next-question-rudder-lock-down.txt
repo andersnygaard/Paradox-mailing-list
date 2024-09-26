@@ -1,0 +1,34 @@
+From: "openboat@as6jg.freeuk.com"
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 02 Mar 2013 22:29:02 -0000
+Subject: Re: Next Question - rudder lock-down??
+
+On 2 Mar 2013 at 14:25, Dmitry Orlov wrote:
+
+I don't know whether anyone has tried it on Paradox, but here is the
+system Chris Morejohn and I came up with for his 32-foot sharpie
+Hogfish. Weighing down the rudder blade doesn't work, for a couple of
+reasons. For one, the force is in the wrong direction. To get a
+balanced helm the rudder blade has to pivot slightly forward, and you
+can't do that with gravity. 
+
+As the weight on the Paradox blade is at the rear edge it does cause 
+the blade to go beyond the vertical. It can't go too far as it then 
+fouls on the bottom of the transom. 
+
+For another, when the boat is
+charlie-horsing in chop, the weighted rudder blade builds up angular
+momentum on the upswing, causing it to jump up. This makes for an
+absolutely unmanageable helm.
+
+Remember, on the Paradox, the rudder forms part of the lateral 
+resistance. With the blade fastened to the side of the stock, as soon 
+as the blade is loaded, the friction is such that the blade would be 
+very unlikely to move unless it hits something. I have certainly 
+never noticed this effect.
+
+-- 
+Hoping for calm nights
+Alastair Law,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

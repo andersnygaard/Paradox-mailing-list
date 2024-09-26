@@ -1,0 +1,20 @@
+From: Peter Martin <paradoxpete.pdm@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 1 Oct 2013 13:49:19 +0100
+Subject: Re: Scout Update... Working it all out...
+
+Sean,
+Looks like you're having fun.
+I'll be interesting to see the results of your further tests.
+
+I blogged about this a few years ago here:
+http://paradoxbuild-johanna.blogspot.co.uk/2011/07/does-paradox-sail-upwind.html
+
+Since then I have had plenty of additioanll data to analyse.
+None of it detracts from the original conclusion, that for a small heavy cruising boat,  upwind performance is comaprable or better than anything else in her size/class.
+
+Pete
+
+On Tue, Oct 1, 2013 at 8:59 AM, <nebwest2@aol.com> wrote:
+
+I think I have to disagree with you john on the tacking angle and using the GPS COG function to figure it out.  COG gives you your true direction of travel and automatically accounts for leeway and or tide or current. I am sailing in an area with little to no current or tide. I don't really care so much about the compass heading of the boat when I have the ability to use COG. Compass heading and true course are often quite different heading hard on the wind due to leeway. What I want to know is the true split between the COG on each tack and that paints a picture for me of the true tacking angle.

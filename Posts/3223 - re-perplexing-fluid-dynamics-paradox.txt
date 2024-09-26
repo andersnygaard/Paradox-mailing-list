@@ -1,0 +1,23 @@
+From: "" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Perplexing Fluid Dynamics Paradox
+Date: Wed, 09 Nov 2005 20:58:18 -0000
+
+As a practising research engineer for many years I much prefer the more practical approach. CFD may be able to give you the definitive answer (if your initial assumptions are right) but it isn't nearly as much fun as getting in there and measuring it for real.
+
+(Hic!)
+
+
+
+On 9 Nov 2005 at 19:37, Nels wrote:
+
+While researching a subject that has perplexed me and other  tipplers for years, I came across a computer software design group that is on the cutting edge of delving into the most challenging tasks in fluid dynamics simulations.
+
+http://www.fluent.com/about/news/pr/pr5.htm
+
+Cheers (hic) Nels
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

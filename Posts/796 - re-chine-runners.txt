@@ -1,0 +1,12 @@
+From: Alastair <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 18 Dec 2002 22:35:12 +0000
+Subject: Re: Chine runners
+
+I don't understand your question. The paradox was designed from the start to use chine runners. They, and the rudder, provide all the lateral resistance. The heeling is countered by the hull shape and ballast as in other craft. If you do the calcs Paradox comes out as a heavy displacement craft.
+
+In a craft with a keel the keel promotes heeling as the force of the water is assisting the force on the sails. It is the ballast at the bottom of the keel (or in the bilges) that counters heeling.
+
+Hoping for calm nights,
+Al
+Yeovil, England.

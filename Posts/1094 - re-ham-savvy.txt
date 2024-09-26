@@ -1,0 +1,23 @@
+From: "David LeBlanc" <whisper@oz.net>
+To: <paradoxbuilders@yahoogroups.com>
+Subject: Re: HAM savvy?
+Date: Tue, 29 Jul 2003 00:45:44 -0700
+
+Never licensed (close a few times) long-time amateur radio enthusiast here,
+also ex Radioman in the USN. I have the tech theory, but not the code or the
+money to set up a station.
+
+There's now a (proprietary) Pactor III that supports 9,600 baud (2x Pactor
+II and 4x Pactor I), but the TNC/modem cost is over $1,100 (but it doubles
+as a we-fax interface), whether used in commercial or amateur service. BTW,
+Sailmail requires the use of a certified commercial radio telephone: a ham
+rig would not be legal to use in this service.
+
+Errrr.... recent reports are that "to the US" phone rates are $.20 or so
+from most places anymore. When I was in the USN at the end of the 60's, it
+was $1/min from Australia to the US.
+
+I'm not trying to be argumentative. Ham is a Good Thing! :)
+
+David LeBlanc
+Seattle, WA USA

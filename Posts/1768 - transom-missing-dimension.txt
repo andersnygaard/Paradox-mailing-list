@@ -1,0 +1,10 @@
+From: "Jack" <alex29@cox.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 05 Jan 2004 18:06:43 -0000
+Subject: Transom missing dimension
+
+Hi,
+
+I'm laying out the transom and I cannot find the dimension for the top of the radius of the transom. I have the lowest point of the radius but not the top, the lines and arrows are drawn with no numbers. Thanks for any input.
+
+Jack

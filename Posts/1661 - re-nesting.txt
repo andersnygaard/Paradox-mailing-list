@@ -1,0 +1,16 @@
+From: Glen Maxwell <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 30 Dec 2003 15:30:53 -0500
+Subject: Re: nesting
+
+Ok, the files have been uploaded into the Files section under CAD files. You will need the "Hull Designer" program from Gregg Carlson (free) which can be found here: http://www.carlsondesign.com/#Fun_Shareware for the Paradox.Hul file and a 3D Cad program (intellicad 2000 is great) for the 3D Paradox.dxf file. Have Fun!
+
+Tailwinds
+
+Glen
+
+---
+
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.550 / Virus Database: 342 - Release Date: 12/11/2003

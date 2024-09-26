@@ -1,0 +1,72 @@
+From: Jeff <apcf14@dsl.pipex.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 25 Jun 2008 09:02:52 +0100
+Subject: Re: Alternative auxiliary power...
+
+
+Of course Nils we could always take up Golf.
+
+But as Al said in that he could quite happily scull with his Yuloh for several hours doing a steady two knots seems fine with me.
+The trouble starts when the skipper wants to go a set number of miles in a set amount of time.
+If that is the case then perhaps the skipper should look at his or her reason for boating and think about a motor cruiser.
+Getting on the water for me is to have some "Me" time and switch off from normal life.
+One should always be ready to change the destination if the situation changes, which is normally the weather.
+I am slowly making a Yuloh based on a modified Japanese model, and as the transom on NOLI is narrower than PARADOX I don't think an outboard motor would fit on her transom anyway.
+
+Jeff UK
+
+
+From: Nels 
+To: paradoxbuilders@yahoogroups.com 
+Date: Tuesday, June 24, 2008 4:07 PM
+Subject: [paradoxbuilders] Re: Alternative auxiliary power...
+
+--- In paradoxbuilders@yahoogroups.com, "Alan" <logicaid@...> wrote:
+>
+> Hi,
+> If you grab almost any can of food, say baked-beans, you will read
+> that there are let's say 2000kj of energy in there, or about 500 food 
+> calories. If you then do a conversion or two, you can workout that's 
+> about the same as 500watt-hours. 
+> If Al's outboard uses 15amps @ 12volts =3D180watts, it will go about 2.7 
+> hours on the amount of energy in the baked-bean can, and doing 2knots.
+> The average human can probably do about the same speed in a boat this
+> size, by rowing, sculling, or using a yuloh.
+> Since it is known that Mr Average can comfortably produce 100watts 
+> output power, he should be able to keep going for at least the same 
+> time on the same can of food, and in theory about 5 hours!
+> 'Food for thought' eh?
+> The human body is actually quite efficient, and you have to have it 
+> with you anyway...
+> Cheers,
+> Alan.
+> 
+> BTW Chocolate has more than 5 times the calories of baked-beans, so if
+> your 'fuel-tank' space is small, take chocolate!
+
+Sorry  the above is far from being factual, because it does not factor in the amount of energy the body uses to convert the beans into a form of energy it can actually utilize. The process of digestion and assimilation and distribution through the bloodstream uses considerable energy.
+
+Also while rowing, the body is using energy to stay alive, like keep the lungs pumping, the heart beating the bioelectrical and biochemical processes that are constantly running the nervous system (and hopefully the brain) as well as the muscles as well as rebuilding new cells as well as  separating out and eliminating all the waste, including lactic acid from the muscle cells. 
+
+It may be using energy to produce sweat to keep the body te mperature in an extremely narrow temperature range for operating efficiency, producing melatonin to protect the skin from  the dangerous narrow band of rays of the sun, and even keeping your hair growing to protect you from bugs:-) Some foods actually use more energy to eliminate than what they produce.  And not just Chinese food either:-)
+
+Of course the human body, like a battery has energy storage capacity in the form of blood glucose and fat, but these reserves take energy to get them flowing into the system as well. And like a deep cycle storage battery you can do serious damage if you run it down too far. 
+
+By camparison a small 4-stroke outboard like Bill uses, together with 5 liters of gas has an order of magnitude greater amount of potential energy per pound and is probably far more simple to get up and running (Usually) than Bill.
+
+Also if you take the combined weight and expense of two batteries, solar panels, wind generator, a trolling motor, and all the wires and connectors that go with it - you will go far further, faster with the equivalent weight in a small gas outboard and fuel and it will cost considerably less, and is a lot easier to set up.
+
+Now if you add a gas/petrol gen-set, things get really messy as you have to carry gas/petrol and eliminate CO fumes, as well as potentially hydrogen off-gassing from the batteries.
+
+Solar panels are notoriously optimistic in their generating claims, and along with the wind generator are affected by the sails. Wind generators hardly ever work in marinas which by design are in sheltered areas and solar panels love to collect a coating of dust and salt.
+
+However - don't let my words deter anyone from trying!
+
+Nels
+
+
+-- 
+I am using the free version of SPAMfighter for private users.
+It has removed 84791 spam emails to date.
+Paying users do not have this message in their emails.
+Get the free SPAMfighter here: http://www.spamfighter.com/len

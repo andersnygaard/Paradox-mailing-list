@@ -1,0 +1,15 @@
+From: "dclark52001" <dclark@woden.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 27 Dec 2003 13:07:05 -0000
+Subject: Bouyancy
+
+Hi,
+
+Can somebody help me out with these questions, please?
+
+What exactly is meant by buoyancy for a Paradox? Is it that if full of water it will float with the deck level with the sea surface?
+
+When you build in a particular material how do you work out how much foam you need for buoyancy? Do different types of foam give different levels of buoyancy?
+
+Cheers,
+Derek

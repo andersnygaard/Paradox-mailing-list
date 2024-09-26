@@ -1,0 +1,8 @@
+From: Mark Balogh <mark@baloghsaildesigns.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 28 Mar 2006 11:19:51 -0500
+Subject: Re: A heavy question-ballast.
+
+I hope you don't mind if I chime in.  There are two effects from the placement of the lead on either side. The primary effect as dead weight or ballast is that as long as the ballast is half to each side and spaced about the same distances from the centerline, the net effect is that the center of gravity of the lead is centered. This weight keeps the boat in the water on its lines where its hull form can supply the stability rather than acting as righting moment like movable live ballast which is shifted tack to tack.   The other effect of spacing out the ballast is that weight away from the center of buoyancy to the sides will slightly dampen rolling.  As a general rule boats that have the weight in the extreme ends, especially the bow and stern, are slower but since the spacing athwartship is small the performance change is small.   Having the lead one half on either side will have an effect little different from having it centered.
+
+Mark

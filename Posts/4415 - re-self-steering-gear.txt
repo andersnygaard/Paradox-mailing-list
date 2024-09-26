@@ -1,0 +1,38 @@
+From: "barnacleid" <barnacleid@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 May 2007 20:51:17 -0000
+Subject: Re: Self -Steering -gear
+
+This topic has interested me for a long time. I would like to throw 
+out, to everyone, an idea I read about once. I have not tried it 
+myself yet.
+
+Anyway it is like this. To the aft side of the rudder 
+axis you add a weight. It is in the form of a generaly horizontal 
+shaft and a movable weight riding or sliding upon it. There is a 
+lockscrew to fix it in position. This is above the waterline. You 
+adjust the position of the weight on the shaft nearer to or farther 
+from the rudder axis to control the amount coarse corection.
+
+Why this works is that as the hull heels the center of forward effort 
+(as viewed from above ) of the sail moves a bit to leeward of the 
+center of resistance of the hull. The hull is relatively upwind of 
+this and so the bow will want to round up to windward. Now what 
+happens with this additional device is that the weight will fall 
+down to leeward as the hull heels and input a fallingoff influence 
+to the coarse and achieve a ballance!
+
+A hundred years ago this tactic was used on model sailboats. Joshua Slocumbe saw this and 
+gave him couragement to try his own ingenuity. Or so I read. This 
+weight idea "FITS" with the lead weight in the trailing edge of the 
+rudderblade as Matt has shown on the plans. It not only sinks the 
+bouyant wood rudder but also adds auto steering too. Or so it seems 
+to me. 
+
+Steve Yahn
+
+This could be a factor when going to windward in Paradox, but some 
+people lock the steering line, in which case the lead weight would 
+have no effect.
+
+Bill.

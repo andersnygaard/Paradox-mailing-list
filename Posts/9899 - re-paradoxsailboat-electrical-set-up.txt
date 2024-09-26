@@ -1,0 +1,33 @@
+From: tony1mind@gmail.com
+Date: Mon, 11 Jul 2022 10:59:40 -0400
+Subject: Re: [paradoxsailboat] Electrical set up
+To: paradoxsailboat@groups.io
+
+Wonderful, thanks Eerik this is just the kind of detail that I need. I may come back with more questions later. Thanks again for all the replies on this subject.
+
+On Sun, Jul 10, 2022 at 10:05 AM Eerik Mee <eerikmee@gmail.com> wrote:
+
+Hi Tony,
+
+Start with identifying of what electrical equipment you need on your boat. You will probably need
+
+* Anchor light on mast top
+* you may want to install navigation lights, but where I sail, just mast top light is enough for that for boats under 7m
+* Cabin lights + lights for aft and fwd compartments. I have used a led strip inserted into transparent hose, and ends sealed with silicone.
+* A fuse box, yes, sometimes the fuses are integrated to a switch box
+* Switches. I have a block together with voltmeter, 2 USB ports and a "car" socket.
+* you also need some navigation device. I use a phone for this, and I have 2 phones with me when I go out.
+* I have a fish finder/depth finder also.
+* You may want to have a ventilator (https://daveskaife.wordpress.com/2014/09/15/comfortable-microcruising-ventilation/)
+* Radio? I have a handheld radio on board, which I can charge from the car socket and that also works on AA batteries.
+* then of course a power source in form a a battery, preferable some deep cycle type, charger and extension cable to charge in the marinas
+* solar panels with a controller. I have installed 2x50W panels, 1 on fore deck and 1 on cabin top, and made the hatch with acrylic top, so that the cabin top panel works in both cases, the hatch open or closed.
+* I have also installed an electric outboard for maneuvering in marinas. I show my electrical system in this video, electrical part starts at 5:45; and there are some articles on daveskife blog about his electrical system https://daveskaife.wordpress.com/2014/11/03/my-electrical-system/.
+
+Regards,
+Eerik
+
+On Sat, Jul 9, 2022 at 8:05 PM <tony1mind@gmail.com> wrote:
+
+Im a total novice when it comes to the electrical set up for a boat. Does anyone have a diagram, list of items needed etc for the Paradox ?
+Im assuming from what Ive read I'll need a 12V lithium battery, some kind of fuse box, switches, wiring to mast and side lights, I need to be able to charge my phone, I mean I really don't know where to start. I may need to go to a local electrical place here in Phuket that could design the whole thing for me including the solar panels but I'd like to learn how to do it myself if possible. Can anyone share their exact setup ? Thanks. Tony

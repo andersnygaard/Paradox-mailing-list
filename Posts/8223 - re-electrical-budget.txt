@@ -1,0 +1,8 @@
+From: creditscorenz@yahoo.com.au
+To: paradoxbuilders@yahoogroups.com
+Date: 09 May 2015 18:18:20 -0700
+Subject: Re: Electrical budget
+
+I've heard that tiller pilots are power hungry and unreliable to boot, so I was going to play around with various sheet to tiller setups and see what I can get to work. Other contributors have noted that they have had good results doing that, for instance Geoff Davis has had success just using occy strap as he notes here:
+
+This suggestion by Paulo looks intriguing. It's a bit tricky to understand what his weather staysail is, but I think the idea is that the small flying jib lowers the gearing on the tiller and combined with a smaller less powerful bungy makes it much easier to balance the tiller for all courses than if you were just trying to balance the mainsail by itself. As Paulo notes it won't work directly downwind, but you would only need to alter course slightly away from downwind and it should work. His system also creates a slot effect between the main and the jib which might be advantageous.

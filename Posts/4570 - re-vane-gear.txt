@@ -1,0 +1,37 @@
+From: Dennis Mingear <dennismingear@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Vane Gear
+Date: Thu, 19 Jul 2007 08:46:30 -0700 (PDT)
+
+Thanks for the additional info Glen, following your progress has been fun and I'm looking forward to more on your boat and the autopilot.
+
+Have you discussed how you painted your Paradox online somewhere ?, and if so is it here or somewhere else?
+
+Your paint looks amazing in all of the pictures I've seen to date. I hope you don't mind, but I  may use some of your ideas on my Paradox.
+
+Plans our in the mail, I hope, sent money last week.
+ 
+Denny ...
+
+From: Glen C. Maxwell <ifida@alltel.net>
+Hello Everyone;
+
+First I'd like to thank those who have made such kind remarks about the vane gear and Zoe as well.
+
+Now to try and answer some of the questions:
+
+Ray, if I were you I would stick with the trim tab system, it is the simplest and lightest one out there. A word of caution would be that cats and tris normally have trouble with wind vanes because they accelerate so fast and move the apparent wind forward so quickly that a wind vane has trouble coping with the changes. In your case since you are building a small cruising cat you will probably be able to get away with one.
+
+Dennis, I think you are having a hard time conceptualizing how the motion of the wind vane gets to the oar blade. Basically, as the wind moves the vane the movement is transferred to the bell crank on its mounting shaft which is then transmitted, via a push rod, to a bell crank that converts the rotary motion of the vane to an up and down motion on a push rod inside the tall tube. That push rod comes out the bottom of the mount and pushes or pulls the out-put crank up or down thereby converting the up and down motion back to a rotary one. At the other end of the of the output crank there is a long slot like a tall letter U, the oar tiller rides in this slot and as the out-put crank rotates it moves the oar tiller in a left and right motion thereby turning the oar blade. When the oar blade deflects it wants to make the oar sweep right or left. This motion is the same one you get when you stick your hand out the window of a fast moving car and twist your wrist up and down. In a servo pendulum system this motion would be transmitted to the end of the yacht tiller via control lines. In my case, since I didn't want tiller lines and their associated friction, I lock the oar carrier from moving with a set of lines that lead inside to cam cleats. Now, since the oar can't sweep out, it rotates about the knot where the lines are tied to the oar carrier and forces the boat's rudder to move right or left because it is mounted to the top of the rudder. It was very hard for me to conceptualize this until I made a mock-up, then it was well I'll be, who thought this up.
+
+Bill, the answers to your questions are all yes. The tighter you make the steering rope the more friction you induce. If you have a set of plans, you will notice on the end of the tiller there is a U-shaped end, the purpose of which is to allow enough slack in the steering ropes to tie a knot in the end after passing through the tiller. After the knot is tied you push the line over the end and into the U removing the slack (very clever). I couldn't figure out why the tiller was shaped that way until I hooked up the lines. By popping the lines out of the U there is enough slack to remove the friction and let the vane drive the rudder.
+
+Hope this clears up some of the confusion.
+
+Glen
+
+Yahoo! Groups Links
+
+---------------------------------
+Be a better Globetrotter. Get better travel answers from someone who knows.
+Yahoo! Answers - Check it out.

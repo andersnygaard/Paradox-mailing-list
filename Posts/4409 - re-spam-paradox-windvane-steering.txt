@@ -1,0 +1,16 @@
+From: "Glen C. Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 09 May 2007 08:12:32 -0500
+Subject: Re: [SPAM] Paradox windvane steering
+
+Hi Bill,
+
+as Dave mentioned, the oar carrier was broken off by the main sheet while short tacking down Crystal River before I got a chance to try it out. The failure pointed out a weak spot in the design and the fix will be an easy one. I was able to check out the wind vane mechanism and it appears to work fine. Correcting the main sheet fouling will also be easy.
+
+Once the design is finalized and working correctly I will post drawings in the file section for those interested.
+
+The unit is a upside down vane, rudder head mounted type and the real challenge was to build something that would allow the main rudder to kick up and, as you mentioned clear the end of the boom. The first was solved by mounting the oar carrier on the top of the rudder and designing a mount for the vane carrier that would allow the main rudder blade to swing up in to it's normal configuration. It also had to be back far enough to clear the boom. All the design goals have been met and now it is just a matter of tweaking it. I think, had the oar carrier not been damaged by the main sheet, it would not have held up to the loads against the rudder anyway. I built a mock up transom and mounted it to the wall in my work shop while developing the gear so all went pretty easy when it came time to move the gear to the boat. Main sheet relocation was also required and the new position worked well. I'll  try to get some pictures up later today.
+
+Faith is looking great!
+
+Glen

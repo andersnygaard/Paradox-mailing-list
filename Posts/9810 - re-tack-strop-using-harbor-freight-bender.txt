@@ -1,0 +1,32 @@
+From: kayaker37@gmail.com
+To: paradoxsailboat@groups.io
+Subject: Re: tack strop using Harbor freight bender
+Date: Tue, 13 Jul 2021 07:42:45 -0700
+
+First off I'm not an experienced sailor, so here is my interpretation as to some of the functions of Paradox's tack strop. I'm unsure of the actual definition. I'm not sure if "tack strop" refers specifically to the vertical pipe, or the vertical pipe with curved rod, but I take it as both pieces (I may be wrong).
+
+Examining the portions of the curved piece first:
+- The top axle slides into a corresponding copper tube drilled into the end of the boom, allowing it to rotate, and hence furl the sail.
+- The first large curved section allows it to clear the furling drum, specifically the forward most disk.
+- The next straight section allows a thimble to be attached to guide the reefing line.
+
+In Steve Yahn's modification, the next small bend, and sharp curve that looks like a corner of a clothes hanger allows another axle to be formed to allow it to hinge with the vertical pipe, which makes up the lower half. Plans show the rod being split and drilled here for a screw to go through acting as an axle. Note that the original plans had the upper curved rod and lower pipe connected via a rope with knot.
+
+There have been variations of this mechanism on Miss Cindy, Bigornick, PDR(X), they use some variation of a topping lift. Paradox uses a vertical pipe, which allows, once furled, the rolled up boom to pivot to port, clearing the cabin allowing it and the sail to be stored on deck.
+
+This mechanism works with the Halyard as part of the overall furling system. When you want to raise the sail you have to "put pressure on the furling line with" your "foot while hoisting" and "use both hands for raising". When you want to furl, put "pressure on the halyard with your foot and use both hands for furling. (quoted portions in a message from Glen).
+
+The yard is tied to the Halyard, which acts as kind of a universal joint at the peak of the mast. The base of the vertical pipe (called a spacer pipe in the plans) is attached via "8mm 5/16 Dacron - thru spacer pipe, thru deck to cleat in vent trunk" (from plans), so basically a universal joint near the base of the mast. The tack strop assy (comprising upper and lower halves) can't be made from a solid piece, or as the sail moves fore/aft a little it would cause the rear end of the boom to raise up/down. Originally it was two halves attached by the Dacron line. From the thread below, someone mentions that when furling, the tack strop assy helps support the boom when letting out on the Halyard, and pulling on the reefing line. With the original Dacron line, there was an additional universal joint there. This allowed the tack strop to collapse too easily, making furling difficult. By putting an axle there, it allows the sail to move fore/aft (allows the boom to remain fairly even) slightly while preventing the tack strop from collapsing, and allows it to pivot the whole reefed boom to the deck, clearing the cabin.
+
+Some info was gleaned form here:
+https://groups.io/g/paradoxsailboat/topic/roller_reefing_question/56711748?p=3DCreated,,,20,1,0,0&amp;jump=3D1
+
+Interesting to note that Miss Cindy is a catamaran with identical twin sails, that when running, the sails are on the outside of the hull. There seems to be an additional line connected from the rear of the booms, to a point low on the forward outside part of the hull. So when running, and the sails are let out perpendicular to the sides of the hull, these lines are pulled tight to keep the ends of the boom from rising, as is the case with pictures of Paradox.
+
+The Paradox tack strop is designed for simplicity. There is a reduction of lines, which allow the sail to be raised and dropped, and stowed very quickly.
+
+Here is a link to the videos of furling/raising the sail on Enigma:
+Microcruising Enigma Roller 1
+https://youtu.be/2DVAnCQJqLI
+Microcruising Enigma Roller 2
+https://youtu.be/1NaNtUEMYgw

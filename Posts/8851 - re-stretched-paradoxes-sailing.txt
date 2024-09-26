@@ -1,0 +1,23 @@
+From: navkram@gmail.com
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Stretched Paradoxes Sailing?
+Date: 06 Feb 2017 20:00:09 +0000
+
+I have not seen polars for an extended Paradox -then again, I have never seen polars for a Paradox proper either, so I can say that the larger boat will easily perform as well as the smaller one -within the huge margin of error that is the known performance. That may sound useless but it is all the scientific fact that is available. 
+
+Useful efforts
+
+-Design a cheap simple anemometer that can be used with GPS to measure and document performance. I have been thinking about doing this for a while.  
+
+Two levels
+
+-one would be a 3d printed sensor to work with cheap bike computers -stand alone system, under $50
+
+-upgraded system would use a tablet for data acquisition via USB. It would have more available channels for wind direction, water speed, wind at the top of the mast and at the bow or the boom...and might serve as an intelligent autohelm.
+
+Any interest?
+
+-Sailboats for people with back problems is a significant market, or rather there are many who want to sail but don't because of back problems. We discuss this often on boatdesign.net and there are several significant handicap sailor programs. If you are serious about sailing with back problems, follow the handicap sailor designs.
+http://www.boatdesign.net/forums/boat-building/sv14-disabled-sailors-56649.html http://www.boatdesign.net/forums/boat-building/sv14-disabled-sailors-56649.html
+
+There are a number of sit-in mini keel boats and tiny trimarans are great if you are looking for performance.

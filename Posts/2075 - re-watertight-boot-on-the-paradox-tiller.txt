@@ -1,0 +1,96 @@
+From: "boat142" <robertplabbe@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 13 May 2004 00:36:35 -0000
+Subject: Re watertight boot on the Paradox tiller
+
+DC,
+
+In regards to your posting Digest 2084, in reply to my posting 2083, 
+The authorities on which I have based my observation were:
+
+Direct consultations with Matt Layden, Designer of Paradox 
+(2003.10.17);
+
+Report CG-D-20-87 (May 1987) U.S. Coast Guard Research & Development 
+Center, Avery Point, Groton Connecticut.
+
+The aforementioned research studies I believe 4 hull types: 
+Round bilge/fin keel, V bottom fin keel, hard chine flat bottom & I believe 
+soft chine full length keel sailboats. The research studied 
+the limits of parachute & cone sea anchors, waps and series sea drogues.
+
+The end result was the development of the series sea drogue to 
+overcome the shortcomings of the parachute sea anchor. And to 
+develop the proper rigging from the stern instead of from the bow.
+
+I will let the report speak for itself; However, the study ended in 
+1987 and the first Paradox plans were drawn in 1984. If you look at 
+the conclusions of the study, you will be able to appreciate that a 
+series sea drogue can be useful on Paradox. But you do not have to 
+agree with me.
+
+Matt Layden recommended that I use a heavy acrylic fabric such as 
+Sunbrella, Acrilan or similar for the tiller boot. He likewise 
+recommended that I install an aft deck small dorade or mushroom vent, 
+over the transom baffle, equipped with a heavy weather cover or cut 
+off for capsize protection, and finally that I install a separate 
+scupper to drain the baffle.
+
+A seacock is a through hull ball valve that stops water ingress while 
+permitting free drainage. It is used regularly on small sailboat 
+cockpit well draining systems.
+
+My use of the term "tiller arm" was accidental on digest 2083 and was 
+not pertinent to our exchange. (It relates to a two part tiller - 
+Tiller arm inside the hull / Tiller fork outside the hull, linking to 
+the compensated rudder - A study on establishing a pre-designed breaking 
+point, permitting to repair the tiller from inside the boat)
+
+My spelling/typing mistakes/errors are not motivated by lack of 
+respect for the English language or for the readers; They are the 
+result of the degree of command that I have on this language, 
+compounded by a slight handicap related to motility. Whenever I spot 
+a mistyping I back track and correct. - But I agree with you that it 
+is frustrating...
+
+I wish to assure you that on Paradox there is no problem of the cabin 
+trunk exploding because of an atmospheric pressure differential with 
+the outside, as there is a 120mm diameter hole in the deck, just in 
+front of the windshield, combine to the fact that the sliding hatch 
+loosely oscillated on its tracks, venting any pressure differential. 
+The are two other occasions when the transom tiller port is sealed 
+off: One, when Matt Layden stuffs firmly towels over the noisome 
+bug meeting and into the porthole to keep the following seas out and, 
+two, when the baffle is almost full of water that cannot be 
+compressed and takes too long to drain out to free the port for the 
+stabilization of the air pressure. In any event, the sliding hatch 
+will blow out before the pilot house explodes, as its curved framing 
+and loose fitting to the tracks will make it pop out, bleeding off 
+the excess air pressure; In this regard, I told Matt that I would 
+envisage a quick release strap system to batten down the hatch ( Not 
+to make it air or water tight, but to keep it tied to the boat if it 
+pops out in a bad storm)...
+
+I would use a 15ft/sec water jet to test the stern prior to rigging a 
+series sea drogue. This number comes from the above mentioned 
+research and I would trust it. The storm duration also comes from the 
+same study. The slightly raked transom on Paradox, its pronounced 
+hull bottom rocker, its width give it the necessary buoyancy for 
+hanging a series sea drogue. Conversely, its bow, with its sunken 
+forefoot stem is designed to do exactly the opposite (to prevent the 
+boat from aquaplaning and to interdict pounding of the hull. With 
+the stern rigged sea anchor, you will expect a plus/minus 10 degree 
+yaw, that swings around the compensated rudder vertical axis, vs the 
+14' long moment arm for a bow mounted parachute anchor that 
+continually stresses the rudder during the entire storm. Installing the 
+stern rigged series sea drogue is less dangerous than going to the 
+bow to install the parachute anchor....
+
+But as I said previously, I would prefer a temporary watertight boot 
+on the tiller, that I would leave rolled up above the bug netting 
+until required by a storm. This way, it would be in perfectly new 
+condition at the moment of its use and to boot I would benefit from 
+the open port for fair weather ventilation.
+
+Cheers,
+Robert

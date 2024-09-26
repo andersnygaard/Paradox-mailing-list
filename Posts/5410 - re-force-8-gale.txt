@@ -1,0 +1,31 @@
+From: openboat@as5jg.freeuk.com
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 04 Sep 2008 21:20:26 +0100
+Subject: Re: Force 8 gale
+
+On 4 Sep 2008 at 17:11, Nels wrote:
+
+I'm thinking it is the pipe that the tack strop feeds through - called a spacer pipe on the plans. Might get bent under stress?
+
+The only failure I had. I tried to do a cheep job on the strut without fully appreciating the loads it had to transmit. It bent!
+
+The "swivel rod" is a part that I have wondered about. It is held in place inside the end of the boom by that single #10 stop screw?
+
+Actually, in use, it is held in place by gravity (pushing the boom forward) For day or weekend sails I often don't tighten up the screw. It has never shown any signs of wanting to become disconnected.
+
+The biggest concern in my view would be about keeping that roller furling assembly running flawlessly if going a long way in heavy weather. 
+
+Because the boom is always pushing forward on the axle I domed the end of the axle bar. Then I brazed a cap over the end of a length of water pipe and bonded it into the boom (cap end first). The axle is a rattling fit in the pipe and sits against the end cap. With the aid of a smear of grease, it has shown no signs of doing anything except operate perfectly
+
+It will be interesting to see how Sven Yrvind goes about it as he is planning to use this rig on "Yrvind 1/2" which he is building.
+
+http://www.yrvind.com/present_project.html
+
+Will he go with wood or carbon fiber spars and maybe sealed bearings in the ends of the boom?
+
+Sealed bearing would IMHO be a retrograde step. Much easier for something to go wrong and much more difficult to fix when it does.
+
+Hoping for calm nights
+
+Al, Yeovil, England.
+<http://www.little.jim.freeuk.com>

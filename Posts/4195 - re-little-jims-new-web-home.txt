@@ -1,0 +1,28 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Little Jim's new web home
+Date: Tue, 30 Jan 2007 18:28:06 -0000
+
+Hi Al,
+
+Thanks for the new address. It opens up OK and works a treat, except when I use the back button to leave the new address:
+
+http://www.little.jim.freeuk.com/little_jim/little_jim.htm
+
+I'm finding the old address of:
+
+http://www.as4jg.freeuk.com/little_jim/little_jim.htm
+
+works just as well, without the problem of leaving the site by the use of the back button.
+
+Does anyone have a similar problem when it comes to leaving the new site with the back button?
+
+It's because I used the truncated version of the address, http://www.little.jim.freeuk.com (for simplicity). Because it then pulls up a dummy index page before loading the correct page you need to take 2 steps back to get out. If you use the full address, http://www.little.jim.freeuk.com/little_jim/little_jim.htm then only one back step is needed.
+
+Does that make sense?
+
+Hoping for calm nights
+
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

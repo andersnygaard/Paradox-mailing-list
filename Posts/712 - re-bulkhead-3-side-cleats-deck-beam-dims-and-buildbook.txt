@@ -1,0 +1,19 @@
+From:           	"Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 28 Sep 2002 13:12:08 +0000
+Subject: Re: Bulkhead 3 side cleats? Deck Beam dims and BuildBook
+
+Yes, this is correct. The side panel glues (and nails) onto the edge of this bulkhead
+
+The deck isn't a radius, more like a parabola. Use the dimensions on sheet 7 (bulkhead 2) to make a mold and laminate all the deck beams the same. These are then cut to length for each bulkhead.
+
+The roof beams are made the same way, but the curve is defined on sheet 10.
+
+I added a BuildBook folder in the file section, to post building notes.  I am still in the planning stage, haven't made any sawdust yet.
+
+Paul V
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

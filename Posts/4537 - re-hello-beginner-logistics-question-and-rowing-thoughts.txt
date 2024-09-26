@@ -1,0 +1,23 @@
+From: openboat@as5jg.freeuk.com
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 29 Jun 2007 20:49:05 +0100
+Subject: Re: Hello, beginner logistics question and rowing thoughts
+
+Here is another option:
+
+http://i43.photobucket.com/albums/e396/arbarnhart/handcrankprop.jpg
+
+Someone is currently selling them (this link will go stale pretty quickly):
+
+http://ottawa.craigslist.org/boa/358072043.html
+
+and in the description says he has a few and will ship. I don't think that would work as is for the Paradox, but it gets the gears turning (literally and figuratively). Another idea I have is to build or buy a hand crank 12V generator (the bare bones DIY is basically an old car generator form the junk yard hooked up to a battery) and use a really small trolling motor. I don't want a gas motor and I don't want a bank of batteries, but I am not averse to a motor like solution
+
+You must like hard work! First you want to create all the losses involved with converting mechanical energy to electrical energy. Then you want to create all the losses involved with converting electrical energy to mechanical energy. Then you want to create all the losses of converting rotation to forward thrust with a screw. Then any energy left over you can put to good use driving the boat forward.
+
+The simpler the system the fewer losses, and you don't get much simpler than a lever (oar).
+
+Hoping for calm nights
+
+Al, Yeovil, England.
+<http://www.little.jim.freeuk.com>

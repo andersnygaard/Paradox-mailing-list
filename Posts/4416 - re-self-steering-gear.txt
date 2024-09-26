@@ -1,0 +1,14 @@
+From: "gilberj55" <gilberj55@yahoo.ca>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 May 2007 23:52:17 -0000
+Subject: Re: Self -Steering -gear
+
+Hello,
+
+I have used this method on two sailing models with some success. A dynamic system is more reliable, that is using a sheet to tiller, and perhaps an elastic band to dampen the movement. I'd guess a dynamic system might be more or less necessary on a boat that has little course stability.
+
+My first model is a sort of Tahiti Ketch (~2 ft long) that my dad made when I was a boy. This boat has a lot of course stability (I still have it) so getting the rig well balanced is the first step and then the slight moment applied to the rudderhead by having a weight on the end of a long aft pointing threaded rod seemed to be all it needed. The heading would vary only slightly even in gusty conditions. I have often considered equipping it with radio control but there is a charm to having a mini-voyage, though you have to have a suitable chase boat, a canoe or rowing boat.
+
+The second is another small cruising boat, but with a shorter keel. For this one we found attaching the main sheet to an aft pointing tiller and an elastic to dampen the movement worked ok, still a little less able to handle gusty weather as well as the other.
+
+JG

@@ -1,0 +1,36 @@
+From: james hall <flexwing462@yahoo.co.uk>
+Date: Wed, 15 Apr 2015 20:49:09 +0100
+Subject: Re: Tack/Furler Assembly
+
+I think the splayed out split maybe isn't absolutely essential,  but helps this moving joint to hinge as intended,  in only one plane,  without the joint becoming too  floppy.
+
+BTW a stainless bolt with a mushroom shaped head is good for the pivot here, fitted so that the smooth shaped head is in contact with the deck and not the sharper threaded end while the sail is furled and lying along the side deck. Kinder to your deck paint. 
+
+The tack line is threaded through the tube with a stopper knot that sits in the split end of that item just below the pivot bolt. It doesn't touch the bronze rod.
+
+Best
+Jim
+http://jimtimes.wordpress.com/
+
+--------------------------------------------
+On Wed, 15/4/15, dlesper dlesper@yahoo.com [paradoxbuilders] <paradoxbuilders@yahoogroups.com> wrote:
+
+Subject: [paradoxbuilders] Tack/Furler Assembly
+To: paradoxbuilders@yahoogroups.com
+Date: Wednesday, 15 April, 2015, 19:17
+
+Hi everyone,
+
+I was recently at my local foundry picking up bronze stock for the tack/furler assembly, when the shopkeeper said the retail cost of the metal and the cost for fabrication plus materiel would be the same (about Cdn$60) because of the simplicity of the fabrication required. (If you're interested in them doing the work for you, they have a copy of the tack/furler drawing and are familiar with the assembly; 1-877-900-5656 in Victoria, Canada)
+
+In reviewing the drawing the shopkeeper was asking about the purpose in splitting the solid rod where it meets the spacer pipe. The only reasons we can think of is to secure the tack line to it, though the plan shows just a stopper knot.
+
+Has everyone "y"'d their rod in this fashion? Please tell me about your furler assembly construction and why you choose your method.
+
+If we can't find any good reason to "y" it, we'll just bolt it straight through with u shape cut-outs on the spacer pipe to allow the rod to pivot.
+
+Thanks everyone,
+Darren
+
+
+Yahoo Groups Links

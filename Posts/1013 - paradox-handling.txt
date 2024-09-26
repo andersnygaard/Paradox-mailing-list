@@ -1,0 +1,6 @@
+From: Jim Goeckermann <jim@sisqtel.net>
+To: paradoxbuilders@yahoogroups.com
+Subject: Paradox handling
+Date: Tue, 17 Jun 2003 16:32:49 -0700
+
+Not owning a Paradox, the only thought I can offer about sporadic handling difficulties actually comes from a Weekender. They discovered that sometimes in light winds, they had to use crew weight to simulate the tipping of the boat that heavier winds "would" have caused. Knowing that those edges have to "bite", it might be worth shifting your weight to the downwind side of the boat to see if handling improves. Jim

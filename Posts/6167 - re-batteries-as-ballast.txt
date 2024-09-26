@@ -1,0 +1,13 @@
+From: "logicaid" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 22 Nov 2009 23:45:19 -0000
+Subject: Re: Batteries as ballast
+
+Hi,
+
+If you were to use something around 16-18AHr, they are generally about 6 or 7" square
+but only about 3" wide, and if fully-sealed type, can be mounted flat, ie 3" high.
+Use say 10 of them, 5 per side, at around 14lbs each=3D140lbs.
+Hate to think what it would cost though!
+Cheers,
+Alan.

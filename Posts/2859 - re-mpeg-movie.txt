@@ -1,0 +1,12 @@
+From: "dclark52001" <dclark@woden.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Tue, 28 Jun 2005 16:56:23 -0000
+Subject: Re: mpeg movie
+
+What can Mac users view it on?
+
+Hi Adolf,
+
+You just have to find out where bitcomet saves the files to, default is C:/ProgramFiles/BitComet/Downloads and you should be able to play it in windows media player, winamp, ect ect.
+
+Jack

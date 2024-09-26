@@ -1,0 +1,18 @@
+From: delliott@tomah.com
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Fresh Water tanks
+Date: Sun, 16 Nov 2003 12:07:48 -0600
+
+Hello Derek, yes this can easily be done with Paradox's design.
+
+You go to a marine store and buy a standard bronze overboard hull valve, and install it in within the tank (It goes in the floor. The following sketch shows the detail. 
+
+http://www.tomah.com/delliott/water%20valve.jpg Copyright Don Elliott 2001
+
+Shown is a very different craft, however the idea is the same.
+
+Once launched, remove the water tank's deck plate, reach down in the tank and open the sea valve, and fill the tank, when water reaches the top of the tank, shut the valve, replace the tank's sealing cover. Paradox's venting system will be needed if you wish to drain the tank without removing the tanks deck plate
+
+To drain, once on the trailer, remove the deck plate, open the valve and drain the seawater.
+
+Paradox's tank is very special it is meant to be filled by rain water when shore water is not available, it is a cruiser and if long travel is required it is important to keep that feature. Fresh water while traveling is hard to come by. Hope this helps. Don

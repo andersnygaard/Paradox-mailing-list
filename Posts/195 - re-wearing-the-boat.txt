@@ -1,0 +1,18 @@
+From: "orpdh" <petehodges@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Wearing the Boat
+Date: Fri, 21 Dec 2001 14:41:22 -0000
+
+Hi Glen,
+
+1.1 works fine for height and width, but not for things that are on angles like the bulkheads, stem, pipe used in roller rigging and cabin supports.
+
+Now you are into either completely lofting it out and taking measurements off the drawings or using trigonometry.
+
+The sail area increase, for example, would be a good deal bigger than 10% if you multiplied all the dimensions by 1.1. Don't you want the area to be 10% bigger or each dimension?
+
+At its current dimensions, the width of the bottom of the hull = the width of a sheet of plywood. Adding 4" more on the width certainly creates more than a 10% increase in plywood cost.
+
+Alas, nothing is for free.
+
+Pete

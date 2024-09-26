@@ -1,0 +1,112 @@
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 6 Aug 2012 20:20:27 +0100 (BST)
+Subject: Re: Lug sail makers UK
+
+Hi All
+
+Many thanks for your responses.
+
+Pete, your info is encouraging.
+
+On the files of the Paradox Builders Yahoo site there are detailed instructions for making the mk11 sail which include the rounding and broadseaming allowances - which determine the sail camber -given by Matt Layden himself.
+
+Did you give the sail maker a copy of this doc.for his information? I presume that that is all the info that the maker would need as Matt would already be aware of how supple the yard is - if made exactly to drawing - and have incorporated this amount in the rounding specs. Or, does your sailmaker prefer to work it all out for himself using his knowledge and experience? How much camber would be ideal for our boats? Due to the heavy displacement, I would guess that something like 10 or 12 percent would be about right. And at what point would you put the max draught? At about 35 percent chord - which is the ideal for most sails; but what would be the effect of that when on the 'wrong' tack when the sail is pressing against the mast.? BTW does yours sail better on port tack than on starboard? It's a very noticeable difference on mine.
+
+There will be very few experienced sailmakers up for this type of job. as you have pointed out. Most will be geared up for producing standard Bm sails with 8 percent camber which are set out automatically by a computer program so an easy and profitable semi mass production flow going out the door. These guys will be unwilling to mess about with a project that they know nothing about and requires radical thought and is full of possible pitfalls.
+
+Your thought regarding a small jib is something which I've toyed with too. Backing it could certainly smarten up tacking. and the slot effect might improve windward performance. Roger Taylor has been successfully using a small dinghy jib on his junk rigged Coribee with an unstayed mast, and reckons that it gives him another knot or two.
+
+The mechanics would take a bit of sorting. The more you reef and rougher the water, the more likely the boat is to get stuck in irons and going nowhere so the more need for a little head sail to help things along. But that is when the yard is most likely to get snarled up with your new jib...
+
+So many questions, so many uncertainties, and unlike Bm or Gaff rig very little established wisdom to draw on and give any guidance.
+
+Jim
+
+--- 
+Original mail content:
+
+On Mon, 6/8/12, Peter Martin <paradoxpete.pdm@gmail.com> wrote:
+
+From: Peter Martin <paradoxpete.pdm@gmail.com>
+Subject: Re: [paradoxbuilders] Lug sail makers UK
+To: paradoxbuilders@yahoogroups.com
+Date: Monday, 6 August, 2012, 18:33
+
+Hi Jim,
+I just PM'd you with some info.
+
+For info, I bought my sail from Westaway Sails near Plymouth. They were 
+one of the few companies that actually responded to my request for 
+quotes. It was £450 when i got it 2 years ago.
+
+I can't fault the build quality and it fitted the spars exactly as specified.. It uses the mark 2 sail dimensions.
+
+Here's the contact details I have.
+
+JOHN POLLARD
+
+WESTAWAY SAILS
+the sail loft
+
+ivybridge
+
+plymouth 
+
+pl219du
+
+tel 01752 892560
+
+They did ask about yard stiffness in fact here is what I sent them:
+
+
+OK I've supported the yard at it's extremities and hung a 10kg weight at
+the very centre. I have measured the deflection at 5 points; Centre and
+plus and minus 500mm and 1000mm. I'll call these points 1-5, 1 being
+nearest the throat, 3 centre and 5 nearest the peak. These are the
+deflections:
+
+1 = 6mm
+2 = 16mm
+3 = 21 mm
+4 = 20 mm
+5 = 11 mm
+
+Hope that helps.
+Pete
+
+On Mon, Aug 6, 2012 at 5:39 PM,  <openboat@as6jg.freeuk.com> wrote:
+
+On 6 Aug 2012 at 15:13, flexwing462 wrote:
+
+
+> Alastair and Pete
+>
+> Any suggestions for who's best to supply a new well shaped sail?
+>
+> Trying to sail back to Poole from Oxey Lake against a f5 - 6 westerly
+> the other Sunday has made me so desperate to improve windward
+> performance that I'm prepared to put my hand in my pocket...
+
+
+Don't go to Quay Sails in Poole.
+
+I remember Jeff Please writing that there was a place on the IoW that
+knew about lug sails, but I can't find the post. Apparently they
+should ask you how much the yard flexes so that they can take that
+into account. Quay Sails didn't ask me and I had to fiddle about with
+my sail to correct that error (if you look on my early pictures you
+will see a nearly vertical crease in the upper part of the sail that
+was the result).
+
+When tacking in light winds at Seafair Pete, with his Mk2 sail,
+seemed to be gaining on me so that may be the one to go for.
+
+--
+
+Hoping for calm nights
+
+Alastair Law,
+Yeovil, England.
+
+<http://www.little.jim.freeuk.com>

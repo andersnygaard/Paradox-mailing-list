@@ -1,0 +1,17 @@
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 23 Jun 2003 21:24:41 -0000
+Subject: Plastic Paradox
+
+Glen, Bill, David, proaconstrictor, others
+
+One of the reasons why I was so enthusiastic about the Paradox was that it seemed an ideal design for the "Bris material". I didn't know about sharpies at that time. Building a Bris hull from Sven's sandwich is quite hard; sides comprised av three parts. But just two sides and one bottom...
+
+Having no intentions to be a constructor nor designer myself, I have personally just accepted Sven as a "guru" in the field. You should also know that Sven is trained in chemistry. When I read about his sandwich in his first book, quite a long time ago, I thought it sounded reasonable and knew that Sven had been, as always, meticulous in his research. What he says in that book (and returns to in his coming) is something like this:
+
+He wants his boat to be "globally stiff and locally flexible". I.e., to be stiff enough to take any weather without deformation, but still absorbe the energy from a local blow from a drifting log or a rock. That's why he chose the fiberglass on the inside, which elongates 4% to fracture and polyester on the outside (17%). The epoxy type from NM was chosen to match the tensile properties of the cloths. Like I wrote before, the fiberglass is thick, more than 600 g/m2, and 2 layers, the polyester 213 g/m2, 8-9 layers, even a lot thicker in the bottom. The latter is delivered by a swedish manufacturer using it in the making of tarpaulins, industrial gates and stuff. The core, Dyvinycell, is 50 mm thick, but for smaller, non-blue-water-sailers, he accepts 30 mm, which of course has closen cells. He is also anxious to after-cure the epoxy in at least 60 centigrades, to get the extra 6%, or so, strength.
+
+Hope this is not to be considered too much off-topic.It's kind of interesting though, to join two wilful designers like Matt and Sven like this.
+
+yours truly,
+Kjell Karlsson

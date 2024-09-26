@@ -1,0 +1,29 @@
+From: "" <openboat@as4jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 21 Jan 2006 19:16:13 -0000
+Subject: Re: More progress and another question
+
+If you mean an ordinary rowlock then be aware that there is high 
+likelihood of tangling with the sheet, which may lift it out, and 
+there will be significant wear on the oar, so good leathers are 
+needed. But many people scull using a rowlock. 
+
+If a rowlock socket is fitted it would be easy, later, to drop in the 
+designed pin (or some other system) if the rowlock was 
+unsatisfactory.
+
+On 21 Jan 2006 at 19:00, dclark52001 wrote:
+
+Today I made the yard. Took a look at my wood stock and realised that the boom with a dead 
+knot could be cut down. The dodgy bit with the knot is now near the end and the knot is half 
+the depth it was. I'm going to cut it out and fit a wedge shaped piece to replace it.
+
+Questions: Is there any reason why I can't mount the yuloh in a standard oar socket? Has 
+anybody any knowledge of the respective merits of 2hp Honda and Suzuki outboards?
+
+Cheers  ...  Derek
+
+Hoping for calm nights
+
+Al,      
+Yeovil, England.

@@ -1,0 +1,32 @@
+From: "Simon B" <destsk@gmail.com>
+To: paradoxsailboat@groups.io
+Subject: Plywood thickness question
+Date: Wed, 11 Dec 2019 14:29:46 -0800
+
+Hello,
+
+I'm excited to build my Paradox this winter, so I have tons of questions, I hope you don't mind.
+
+Plywood Thickness
+------------------
+I want to build it from Baltic birch plywood as it is the cheapest plywood here (I live in Lithuania). The kind I'm looking at is of very good quality, exterior grade with all ply's birch and glued with phenol formaldehyde glue, same as marine plywoods as far as I know. Overall I'm not concerned about the quality of plywood, but it is HEAVY. It is 1.33 the weight of Okoume.
+
+Paradox plans look like the Matt Layden designed boat to withstand collision with a container ship. It's way overspecified compared to other boats I've seen. So I was thinking of stepping down the plywood thickness ladder, so to speak:
+
+Instead of 18mm use 12mm, 12mm -> 9mm, 9mm -> 6.5mm, 6mm -> 4mm you get the idea.
+
+This way plywood weight would drop from 256 kg to 183 kg (counting only plywood, full sheets needed). Which is good I think and would come close to the weight I would get if I used Okoume and built to specs. Of course, you have to meet the 640 kg displacement criteria, so you will need weight anyway, but I can use lead and put it where weight will do more good instead of the deck, cabin top, etc.
+
+Bottom Thickness
+-----------------
+Would there be a difference if my bottom was 12 mm instead of 18 mm, what do you think? Also, 4 mm of fiberglass+epoxy on top (or bottom) of that is some kind of typo in plans, right? 3 layers of 24 oz cloth looks like a lot.
+
+Question for Boat Builders
+--------------------------
+I don't want to sound cocky; I certainly don't want to say I know how it should be done. Rather I would like to ask your thoughts - did you build to plans? What plywood and how much glass you put on the outside?
+
+Ballast Idea
+-------------
+Also, I was thinking of skipping the water ballast idea and filling that space with canned food, as I hope to do some extended cruising. Have any of you done that, and did you regret it?
+
+Thanks for any thoughts :) And thanks to those people who made all this Yahoo group transfer thing.

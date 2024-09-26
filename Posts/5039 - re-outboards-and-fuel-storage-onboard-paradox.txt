@@ -1,0 +1,19 @@
+From: "michaelsilvius" <isserfiq@gmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 12 Apr 2008 15:47:37 -0000
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+Be aware that as of late most gasoline blends contain at least some percentage of ethanol. Over time ethanol degrades epoxy and polyester. The only resin that up to now withstands this is Vinylester. So if you are building any wet fuel tanks (as opposed to fuel container lockers) keep this in mind. Otherwise it is not a matter of if it will leak but when.
+Michael
+
+---
+In paradoxbuilders@yahoogroups.com, "Pete" <pdmartin@...> wrote:
+
+My intention is to do exactly that. I will build a couple of vented lockers in each stern quarter with hatches onto the deck. An early mock up is here http://www.pdmartin.pwp.blueyonder.co.uk/images/fuel.jpg which gives a rough idea of where it will go.
+
+I will have to remove some of the vent baffle, and that would have been a lot easier to do at installation time. There is still plenty of room for the tiller to swing through it's complete arc. 
+
+I will also have the mainsheet run from a the decl level on the port quarter, back down through a fairlead in the deck above the baffle, similar to waht Glen has done to accomodate his self steering.
+
+Pete
+http://www.freewebs.com/paradoxbuild/

@@ -1,0 +1,30 @@
+To: paradoxbuilders@yahoogroups.com
+From: "" <openboat@as5jg.freeuk.com>
+Date: Fri, 09 Mar 2007 21:59:44 -0000
+Subject: Re: Yuloh
+
+I made my yuloh from a solid piece of spruce, but I failed to incorporate a 30mm longitudinal concave curve into it. I'm about to modify the yuloh, but drawing 3 shows at least a 50mm concave curve when measured from the centre of the yuloh at right angles to a straight line between the tip of the blade and the end of the shaft. Which is preferable?
+
+I don't think it really matters much. I made mine by laminating 2 bits together with weights on each end and a 30mm block of wood under the middle. A bit more curvature would make it nest on the deck better.
+
+One of the confusing instructions about the yuloh drawing on sheet 12, is the word `forward', represented by For'd because to my knowledge there is no forward part of yuloh, unless this is a designer nomenclature.
+
+For maximum forward thrust the blade would be vertical in the water and would have a forward face. In the real world the blade enters the water at something like 45 degrees, so the lower face is also the forward face.
+
+Quite clearly, the lower side, or under side of the blade has a greater cord (curvature) than the upper side. I've searched many places on the Internet, but nowhere can I find a clear picture or diagram showing this characteristic. I've also searched the archives of this group.
+
+When the yuloh is in use I assume the flatter side of the blade is uppermost, and yet from the poor photos on the Internet, the opposite would appear to be the case.
+
+This has left me confused.
+
+To produce lift a wing has one surface more curved, and therefore longer than the other. The fluid must pass over this surface faster than over the shorter and, according to Bernouilli, this causes a reduction in pressure and a force in that direction. The lifting surface of the blade is the lower/forward surface and this, therefore has more curvature. How much effect this actually has in practice is anyones guess.
+
+Am I correct in assuming the centre of the pivot socket is 1350 mm from the top of the shaft and 1650 mm from the tip of the blade?
+
+Yes, though I have just made a second socket in my yuloh about 100mm nearer the handle as I didn't feel I was doing much work with it as it was. I thought the increased gearing may enable me to scull the boat a little faster. I'll find out in a few weeks.
+
+Hoping for calm nights
+
+Al,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

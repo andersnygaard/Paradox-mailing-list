@@ -1,0 +1,26 @@
+From: Jeffrey Michals-Brown <JMichalsbr@aol.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 1 Mar 2012 08:52:03 -0500 (EST)
+Subject: Re: CA?
+
+Just out of curiosity, did you take the rudder into account in determining the centroid?  I'd expect the centroid to move forward with heel as the amount immersed hull side increases without change in the rudder area.
+
+From: openboat <openboat@as6jg.freeuk.com>
+To: paradoxbuilders <paradoxbuilders@yahoogroups.com>
+Sent: Thu, Mar 1, 2012 5:11 am
+Subject: Re: [paradoxbuilders] Re: CA?
+
+On 1 Mar 2012 at 1:18, davidandrewallen wrote:
+
+The design is cleverer than it looks at first sight!
+> 
+> So that still leaves the same question: What does CA stand for?
+
+Is it the horizontal position of the centre of area of the sail?
+
+-- 
+Hoping for calm nights
+
+Alastair Law, 
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

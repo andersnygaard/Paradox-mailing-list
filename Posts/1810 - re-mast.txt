@@ -1,0 +1,12 @@
+From: "William Longyard" <longyard@ix.netcom.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 10 Jan 2004 17:46:58 -0500
+Subject: Re: mast
+
+Derek,
+
+I have found that roughly speaking an aluminum mast of an equivalent diameter to a wooden mast will do the same work. If the minor axis of the aluminum extrusion is the same as what the Paradox plans call for in mast width I believe you will be okay. You should check all along the mast for any signs of weakness such as a series of circumferential holes or a "straightened" former bend.
+
+I prefer aluminum for masts because it is lighter, more reliable, needs no maintenance, can be easily loaded with accessories via pop-rivet, and any mast wiring is also simple. If you add a mast wire for lights, etc, be sure to make "Y"s out of cable ties about every foot along the wire before inserting into the mast. This will stop that annoying "pinging" sound at night from driving you, or others at a marina, mad.
+
+Bill Longyard

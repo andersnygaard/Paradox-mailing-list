@@ -1,0 +1,35 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 08 Sep 2004 19:15:37 +0000
+Subject: Re: chinerunners
+
+On my Paradox I put the sides on the bulkheads, cleaned up the bottom profile and fixed on the bottom ply. The ply stuck out beyond the sides and I trimmed this to the plan profile (adding a bit at the widest point as the ply sheet is just too narrow). I then filled in the wedge of the chine runners with wood blocks and epoxy. Once all this had cured I cleaned up the shape (including the bottom radius) with a sanding disc in an angle grinder. 
+
+Would it not be possible for you to do the same? You would lose a bit of metal at the radius, but if the bond is good that should be no problem.
+
+Actually I had always assumed that the radius was there to protect the edge of the bottom glass laminates rather than for a hydrodynamic reason.
+
+
+From: "kjellkkk" <gilljam.karlsson@swipnet.se>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 08 Sep 2004 07:10:05 -0000
+Subject: [paradoxbuilders] Re: chinerunners
+
+Perehaps I should explain my use of sheet metal.
+Since I am building my Paradox using the "Bris method"
+(fibreglass/divinycell/polyester), the making of the chine runners is
+not obvious. Since this material is lighter I also wanted ballast on
+the bottom, besides a abrasion surface and earth connection for the
+lightning rod. So it became 2mm bronze sheet, weighing 70kg, which I
+thought would be appropriate (please don't ask about the price). I
+have just glued it to the bottom using elastic epoxy. I have a
+neighbour with mechanical shop, trying to help me with some means to
+make that curvature, with a radius of about 15mm. It is very
+difficult, though, to bend that kind of sheet in two directions, so
+perhaps I have to give it up. My neighbour (a skilled mechanician) is
+still working with the problem.
+
+Hoping for calm nights
+
+Al
+Yeovil, England.

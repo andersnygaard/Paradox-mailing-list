@@ -1,0 +1,24 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: Bulkhead questions (long)
+Date: Wed, 12 Nov 2003 04:05:04 -0000
+
+Hi Paul.
+
+OK. I'll try to be clear. Sorry if I wasn't in previous posts. 
+
+Note first that on sheets 3 and 4, the relationship of stations and bulkheads are shown. Bulkheads 1 and 2 are forward of stations, while bulkheads 3 and 4 are aft of stations.
+
+Next, note on sheets 7 and 8, the bulkhead details are listed, including, "view from aft" or, "view from fwd". Using bulkhead #1 as an example, please note that it is "viewed from aft". As the after face of bulkhead #1 is the dimensioned face, and lies on the station line, the bulkhead is cut to the lines which you have plotted on your sheet of plywood from the bulkhead drawings. The dimensions shown on the bulkhead drawings are indeed, the net dimensions.
+
+Bevels can be taken off of sheet 2. Note that some bevels roll from chine to sheer. Spend a few minutes plotting all of the bevels from sheet 2 and then mark them. This way you'll be able to cut the cleats and floors after glancing at the corresponding bevels, which you marked on sheet 2. BEVELS ARE NO BIG DEAL.
+
+The bulkheads, cleats, and floors may be sawn out independently and then glued and fastened. My bulkhead cleats match camber on inboard and outboard edges, and are 35mm wide at the least width measurement. For instance, bulkhead #1's cleats started out at 25mm thick, by 48mm+/- wide before cutting camber and bevel. Thus, they net at 25mm thick, by 35mm wide **AT THEIR FWD FACE**. This makes fitting the foam board a consistant task and result, through each frame bay. "No surprises", is "um good". 
+
+I discovered that while the transom is shown with camber on it's side panel edges, the camber was not specified. I incorporated 5mm of camber to these edges, as well as the side panel edges of bulkhead #4. So far, so good, though camber to these edges is likely a superficial treatment. Search the archives for "camber" to view other folks' input on the issue. 
+
+It is simple to cut the bevels with skilsaw or jigsaw as the bulkhead is sawn from the sheet, or cut slightly oversize and then saw the bulkhead to your lines on a bandsaw after the piece is of a managable size. I used my bandsaw after zipping around with a skilsaw. Remember that the bevels are different from bulkhead/sides, bulkhead/bottom, and bulkhead/deck.
+
+Have fun.
+
+DC

@@ -1,0 +1,70 @@
+From: "howgegoboat" <howgegoboat@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 12 Nov 2007 19:59:54 -0000
+Subject: Re: Vane gear
+
+Hi Bill 
+what about this simple vane, 
+http://roach1948.blogspot.com/
+even i could understnd it, light weight and simple, looks the 
+business. 
+does not seem to work on a run, but ok an other points of sail, 
+yours James
+
+
+--- In paradoxbuilders@yahoogroups.com, "Glen C. Maxwell" 
+<ifida@...> wrote:
+Hey Bill,
+I'm afraid I'll be around for a while, the wife's illness steadily 
+worsens and she now needs full time care which of course impacts 
+building, sailing etc. The last time I got a chance to go out and 
+test the vane the winds were light and the gear performed poorly if at 
+all. I attribute this to the vane blade being too small so will enlarge 
+it and give it another try. I have also had some minor trouble with 
+assembly and am correcting them as they appear. I won't be doing any 
+drawings until I get everything working correctly and dependably.   As has 
+been mentioned the Paradox design is well balanced and will sail 
+herself for long periods of time. However if you find yourself crawling around 
+trying to find something she will be all over the place, thus the need 
+for some sort of autopilot. I use an Autohelm 800 connected to the 
+tiller lines and it works great but of course uses more power then I 
+like. It is great for short trips but not for more then about three 
+days. I made an adapter to connect to the tiller lines by drilling 
+a hole in a large washer that would fit under the rod end fitting on 
+the pilot. To the hole I attached a piece of line that I could tie to 
+the tiller line with a rolling hitch. Of course you will need a line 
+going fore and aft because you can’t push a rope. The pilot is mounted 
+on the edge of the starboard aft locker using a cradle to support the 
+outboard or rod end. The lines need to be long enough that you can slide 
+the rolling hitches together to un-couple the pilot and then pull them 
+away from each other and take out the slack in the tiller lines to 
+couple. Sounds complex but is actually very simple. I’ll see if I can 
+get a few pictures of the set up put together.
+
+Glen
+
+barnacleid wrote:
+> Hi Glen,
+> 
+> Are you around, or have you gone off sailing with your self-
+steering
+> gear?
+> 
+> I've been looking at various windvane gears with a view to adapting
+> one to Paradox. The easiest would be a Vectavane and Mr Vane would 
+be another possibility.
+> 
+> Are you completely happy with your gear, and have you been able to
+> find time for working on drawings of your windvane system?
+> 
+> While on the topic of self-steering systems, what type of electronic
+> gear did you use and was it linked to the tiller or to the steering
+> line?
+> 
+> Best wishes,
+> Bill. 
+
+-----------------------------------------------------------------------
+No virus found in this incoming message.
+Checked by AVG Free Edition. 
+Version: 7.5.503 / Virus Database: 269.15.24/1115 - Release Date: 11/7/2007 9:21 AM

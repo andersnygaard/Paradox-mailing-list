@@ -1,0 +1,12 @@
+From: "David Beard" <dlb@dixie-net.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Air Conditioning
+Date: Mon, 03 Jul 2006 18:28:25 -0000
+
+Hi All,
+
+I'm not sure if this is the right place for this, but here it goes. My company, Tecumseh products, has developed a small air conditioning system for golf carts, and I got to thinking, this would be great for small boats due to the plug and play, nothing extra needed, and small sizes.
+
+I have volunteered Whisper for a test platform. It is very compact and runs on DC current (24 Volt). I will be using a generator and it's probably not suited for Paradox, but for larger boats, it might be the answer. I will keep you posted.
+
+David Beard

@@ -1,0 +1,11 @@
+From: "Alan" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Sat, 28 Oct 2006 08:21:50 -0000
+Subject: Re: MastDrawing
+
+The rear section of the mast doesn't indicate the thickness dimensions as it goes up the mast. Would that be the same dimensions as the front section?
+
+The drawing is to scale, just that the vertical & horizontal scales are different. So, the thickness of the rear stave can be taken straight off the drawing. Certainly confusing at first, but once you 'click' to it, it seems quite clear!! I'm no expert, but have seen similar drawings before which helps.
+
+Cheers,
+Alan.

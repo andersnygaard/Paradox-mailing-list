@@ -1,0 +1,11 @@
+From: "Paul" <kayaker37@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Mon, 04 Jul 2005 13:40:04 -0000
+Subject: Re: New file uploaded to paradoxbuilders
+
+The video file is an .mpg file, however with each .mpg about 30Meg they are very large. 
+
+Most email programs can't handle this, being limited to a couple of Meg. The file section of Yahoo Groups is limited to around 30Meg. Uploading to a Geocities web site will hit the transfer limit on the first file. A Torrent file is merely a means of pointing to different people who have these files on their machine. So while Jack could probably use AOL messenger to transfer this directly, that would mean that you would have to also have AOL messenger. For each person that wanted it, Jack would have to send it to each person. This may get tiring if a hundred people wanted a copy, not to mention if he has limited bandwidth, his Internet Service Provider could complain. He would also have to be online if a particular person wanted it. If someone wanted a copy and Jack decided to go on vacation, as long as someone was running BitComet, they would still be able to get a copy. If more than one person was running BitComet, the file would be retrieved from multiple people at a much higher rate, than if just one person was sending it. So the larger the files are, and the more people who have it, it is very efficient. It is not uncommon to share 2Gigs worth of data this way. 
+
+So upload your boat videos!
+Paul

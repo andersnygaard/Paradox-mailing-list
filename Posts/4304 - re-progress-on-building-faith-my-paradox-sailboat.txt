@@ -1,0 +1,16 @@
+From: james hall <flexwing462@yahoo.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 5 Apr 2007 20:52:13 +0100 (BST)
+Subject: Re: Progress on building 'Faith', my Paradox Sailboat
+
+Hello Bill
+
+bearings where there is some  sliding friction work better if there are dissimilar materials involved.
+
+Hence your motorcar crankshaft made of a hard material (steel) running in a soft metal bearing (tin/lead etc)
+
+So I'd guess that a stainless steel ball working within a copper cup would be a reasonably good plan.
+
+Or, the stainless ball in self lubricating epoxy which the others have mentioned. You don't really want to use messy old grease, there do you?
+
+Jim Hall - Shaftesbury

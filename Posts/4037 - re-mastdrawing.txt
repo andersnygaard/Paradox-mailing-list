@@ -1,0 +1,26 @@
+From: "openboat@as5jg.freeuk.com"
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: MastDrawing
+Date: Fri, 27 Oct 2006 21:40:24 +0100
+
+On 27 Oct 2006 at 18:18, Harry wrote:
+
+Thanks I believe that I have been able to decipher the profile.
+From what I gather the left side of the profile would be the front of the mast and where it shows at the "section at deck" the right side would be the rear side of the mast, which is the straight portion.  And yes if you take away those arrows left of the centerline then all that of the right of the centerline indicates the dimensions of both the starboard and port side of the mast.
+I would imagine that you build the rear section of the mast first and join one of the sides to it that would give you the taper of the mast. Then join the front of the mast and put the plugs in the top and bottom and the copper ground strap as well before closing with the final side portion.
+
+That's how I did it.
+
+The rear section of the mast doesn't indicate the thickness dimensions as it goes up the mast. Would that be the same dimensions as the front section? 
+
+I assumed so.
+
+The "Section at Masthead" detail shows to install a halyard sheave but if you install a masthead light at the top of the mast where do you install the sheave relative from the top of the mast?
+
+I installed my light on top of the mast above the sheave. I had to make my own low-profile light so that the mast still fitted inside the hull for transport.
+
+Hoping for calm nights
+
+Al,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

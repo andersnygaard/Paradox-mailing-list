@@ -1,0 +1,12 @@
+From: "Paul V." <admin@cruisenews.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 04 Oct 2002 01:41:05 -0000
+Subject: Bulkhead side curves
+
+Bulkhead 1 has an offset of 5mm in its side.
+Bulkhead 2 has an offset of 7mm in its side.
+Bulkhead 3 has an offset of 5mm in its side.
+
+Bulkhead 4 and the transom show no offset. I assume these two have straight sides. Anyone have trouble getting the plywood sides to bend like this? Does the side nail up nicely to the bulkheads?
+
+I imagine this curve to the side gives a lot of stiffness to the plywood sides.

@@ -1,0 +1,62 @@
+From: Rodney Cannon <rdnycannon@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: rudder blade
+Date: Sun, 5 Oct 2008 11:50:41 -0700 (PDT)
+
+Ok... thanks for this... never woulda thought of blowing this section up for a template.=A0 Now last question for awhile as I now have enough answers to work some more........ What the heck is a DADO?=A0 On DWG #8 and in other places on the plans Matt mentions dados in places like for the tank dividers.=A0 What does he mean here?
+=A0
+Many thanks again,
+Rod
+
+
+From: <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: [paradoxbuilders] rudder blade
+Date: Sun, 5 Oct 2008 11:32:00
+
+On 5 Oct 2008 at 18:01, rdnycannon wrote:
+
+In the files section of this forum there is a folder called "rudder
+blade". I think the pictures of this rudder being leaded are for
+Little Cruiser? Is this right? Dave B. has provided the pics and
+they are alittle confusing to me as I don't know if this is for a
+different boat or is it showing an alternative method of putting lead
+in the blade for a paradox? The method and placement seem to be
+different then in the plans and illustrations in Don's manual. 
+
+I think it is probably LC's rudder, it is certainly not off a 
+Paradox.
+
+Also in putting the proper aerofoil onto the rudder blade I noticed
+the dimensions given for the smaller end (the end with the lead) is
+6mm. However there are no dimensions given for the end where the
+radius begins. (opposite small end) And do I only shape the blade to
+the waterline? Also do I shape the lead on the smaller edge down to
+6mm? I "think" I know some of the answers here but I would like to
+know for sure. 
+
+You could do worse than photocopy the section shown up to full size 
+and make some cardboard templates. For some reason aerofoils have 
+less drag with a square trailing edge rather than coming to a sharp 
+edge (much more robust as well).
+
+The blade needs to be flat where it rubs against the stock so shape 
+that side as far as you can then blend it into the flat face. On the 
+outside shape to above the water-line, but leave the radius, where 
+the groove for the uphaul is, at full thickness. Again make a smooth 
+blend from one shape to the other.
+
+After a couple of seasons I found the leading edge of the rudder was 
+showing signs of wear where it rubs on the bottom if you don't haul 
+it up soon enough. I have seen, on Duckworks, the suggestion that a 
+groove in the leading edge filled with a length of dacron rope soaked 
+in epoxy solves this. However my solution was to split a length of 
+copper water pipe and hammer this to shape round the leading edge and 
+bottom, bonding with epoxy. After 3 seasons it is showing no signs of 
+damage, though the paint keeps getting rubbed off.
+
+Hoping for calm nights
+
+Al, 
+Yeovil, England.
+<http://www.little. jim.freeuk. com>

@@ -1,0 +1,10 @@
+From: Jeff Patterson <Coppotter@gmail.com>
+Date: Sat, 9 Jul 2022 11:09:25 -0700
+Subject: Re: [paradoxsailboat] Electrical set up
+To: paradoxsailboat@groups.io
+
+Ive been thinking over the same issue. There is a small solar generator from Jackery that only weight about 3.8 lbs. Charge with adatper or solat panel. All the outlets and charging ports are built in and its small and easily removable. Jeff
+
+On Sat, Jul 9, 2022, 10:05 AM Tony <tony1mind@gmail.com> wrote:
+
+Im a total novice when it comes to the electrical set up for a boat. Does anyone have a diagram, list of items needed etc for the Paradox ? Im assuming from what Ive read I'll need a 12V lithium battery, some kind of fuse box, switches, wiring to mast and side lights, I need to be able to charge my phone, I mean I really don't know where to start. I may need to go to a local electrical place here in Phuket that could design the whole thing for me including the solar panels but I'd like to learn how to do it myself if possible. Can anyone share their exact setup ? Thanks. Tony

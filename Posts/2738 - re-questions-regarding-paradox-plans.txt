@@ -1,0 +1,19 @@
+From: "jameshanahan" <jameshanahan@yahoo.com.au>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 08 Jun 2005 07:15:30 -0000
+Subject: Re: Questions regarding Paradox plans.
+
+Brent,
+
+Woven roving (WR) is much easier to handle and laminate (especially with epoxy and if you are a first time user) than Bi-directional or Bi-axial fabric but it is not as strong. WR is a simple plain weave material i.e. one by one under and over weave. Bi-ax have all the lengthwise rovings laying over the top of the widthwise rovings so there is no bending of the fibres (under and over each other) and hence the greater strength. Some Bi-ax has a chopped strand mat (CSM) backing but most don't.
+
+Ideally multiple layers of WR should have a layer of CSM between them for interlaminar adhesion. Bi-ax does not require the intermediate CSM. If you wet out the CSM layer first you will find you will be able to roll the WR layer into it using little or no extra resin.
+
+In my professional experience, WR uses less resin and traps less air than Bi-ax and is much quicker to use. It will have a more pronounced weave impression and will need more subsequent filling prior to painting than bi-ax. However, if you use peel ply over the wet resin laminate, it will leave a much flatter surface once it (peel ply) is removed minimizing paint preparation. WR is much cheaper, too.
+
+The downside of WR is less strength and maybe less adhesion but considering you are using epoxy I cannot imagine these issues are significant. Coupled with the fact that the designer has specified WR, I would go with that.
+
+NB. You mention 6oz "matte". I would imagine the designer specifies 6oz "Cloth" not "matte" or "mat". They are very different animals. Mat usually refers to Chopped Strand Mat. 6oz cloth is a light plain weave woven roving.
+
+Hope this is helpful.
+Jim

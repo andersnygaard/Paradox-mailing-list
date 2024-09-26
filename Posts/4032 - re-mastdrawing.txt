@@ -1,0 +1,27 @@
+From: "" <openboat@as5jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: MastDrawing
+Date: Fri, 27 Oct 2006 15:44:05 +0100
+
+I believe there is a mistake on the mast drawing. To the left of the 
+labelled centreline, and touching it, there are a set of right-
+pointing arrow heads. Get some correcting fluid and paint them out.
+
+The Centreline and all to the right of it is a half section viewed 
+from the bow.
+
+All the geometry to the left of, but not including, the centreline is 
+a section viewed from the port side. (The rear face of the mast is 
+straight)
+
+At the bottom of the side view is a half section plan view at deck 
+level.
+
+Have a read of the above and look at the plans again and see if it 
+now makes sense. It took me a while to work it out.
+
+Hoping for calm nights
+
+Al,      
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

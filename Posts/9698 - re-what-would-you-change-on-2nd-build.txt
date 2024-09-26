@@ -1,0 +1,32 @@
+From: "Captain Ketch" <greatketch33@yahoo.com>
+To: paradoxsailboat@groups.io
+Date: Sat, 04 Jul 2020 05:55:33 -0700
+Subject: Re: What would you change on 2nd build?
+
+This is an update:
+
+" Put a recess in each of the seat runners so that when the seat is flipped up it drops into them and forms a nice comfortable sloping backrest. " - Alastair Law
+
+I did this on the seat supports and tested with a 6 hour sail across a local lake. Simple and great improvement. Leaning back on the seat placed as a back board was comfortable when I sat on the floor.
+
+" The cleats for the halyard and furling line are shown at the wrong angle. Make the fixing surface more horizontal so that the lines can be locked and released without having to move off the seat." - Alastair Law
+
+I removed the original cam cleat block and built a new one with the angle more horizontal and it was a huge improvement when managing lines for the sail. I added a cleat below the cam cleat to help take some pressure off the cam cleats. I am not sure that it was necessary but I had the space.
+
+" Use a single line for halyard and reefing, one end tied to the yard, the other to the furling drum. Then you don't have lots of loose rope " - Alastar Law
+
+I did not do this single line set up because when I tow the boat I have the boom resting on the port deck with the reefing line still connected to the cam cleat inside the cabin. The mast is removed and inserted through the aft hatch into the boat. I need two lines in order to make this set up work. My sail has a sail cover and with the reef line holding the drum end in a fixed position, the sheet line locked in a cleat inside the boat holds the aft end of the boom, I fix a lashing around the boom to a port mid ship cleat and the boom with sail stays in place.
+
+I did add DC panel and solar system. These are not changes but add ons. The DC panel controls the following:
+
+Button 1) Cabin Fan
+Button 2) Auto Pilot
+Button 3) Locker LED lights
+Button 4) Red Night time cabin light
+Button 5) Running Lights
+
+The Garmin GPS and phone are charged by directly plugging into the DC Panel.
+
+Fair winds paradoxians,
+Deric
+S/V Edge

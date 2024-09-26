@@ -1,0 +1,20 @@
+From: paradox@mattsplatt.com
+To: paradoxbuilders@yahoogroups.com
+Date: 17 Oct 2019 00:08:04 -0700
+Subject: Re: The end is nigh...again!
+
+...which leads me to the next question: Those of you who would like this group to stay active, would you prefer a true email list system much like this one has been, or a web-only system with an archive of these posts and files plus an ongoing forum?
+
+Rob has rightly pointed out that the nature of the community and our engagement in it will be very different if it stops being an email list.
+
+A web-only system can send email notifications, sure, but to actually participate you would have to go and visit the web site.
+
+I would happily host and even create the web side of things. A proper email list server is a very different beast, and I'm not sure I'd tackle that at the moment. I'll look into the options for running one of these and see how difficult it looks.
+
+'woodersonj' and Larry pointed out Groups.io, and I agree that looks like a good option. They have an easy migration path from Yahoo Groups, too.
+
+Interestingly, Groups.io has been created by Mark Fletcher, who wrote the original 'ONElist/eGroups' which Yahoo acquired in early 2000 and renamed to yahoo Groups! Mark created Groups.io because he wanted it done right and felt he had "unfinished business".
+
+There ya go. Sorry I've gone on a bit. More thoughts?
+
+Matt.

@@ -1,0 +1,12 @@
+From: "Alan" <logicaid@xtra.co.nz>
+To: paradoxbuilders@yahoogroups.com
+Date: Fri, 11 Apr 2008 22:50:54 -0000
+Subject: Re: Outboards and fuel storage onboard Paradox
+
+Hi,
+
+I agree, hydrogen shouldnt be a problem with gel-type cells.
+But another potential danger is the production of chlorine if (when!) saltwater gets all over your batteries and wiring, due to electrolysis of the water. Chlorine is very bad stuff, and I think the batteries would need to be in a housing made to be as waterproof as possible and perhaps also be able to be jettisoned if required in a swamping emergency.
+
+Cheers,
+Alan.

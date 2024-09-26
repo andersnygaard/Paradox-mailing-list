@@ -1,0 +1,83 @@
+From: Jack Gardiner <alex29@cox.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Sun, 22 Jan 2012 14:53:40 -0500
+Subject: Re: Reefing Drum drawing 9
+
+On 1/22/2012 2:33 PM, okiebobby@ymail.com wrote:
+
+A little help please. I suck at boatbuilding. I half suck at 
+woodworking, and double suck at all the rest that goes into building a 
+boat. Oh and I quadruple suck at anything involving metal.
+
+Here is what I think. Please tell me if I'm anywhere near the track, 
+much less on-track:
+
+A 1/2" hard copper water pipe is stuck into the tack end of the boom, 
+and will be the receiver for a 12mm brass rod.
+
+Q1) What type of adhesive holds the copper water pipe into the boom? 
+Or should it not be glued at all?
+
+Epoxy, you can add silica to make it more of a "glue" different silica 
+with different holding properties are avail
+
+I plan on ordering a 464 naval brass rod from Duckworks 
+http://www.duckworksbbs.com/materials/navbrass/rod/index.htm.
+
+Q2) I don't know what 464 naval brass is, but I'm assuming this rod 
+can be machined with a Dremel tool?
+
+carefull of naval brass, can be Very hard to machine, but then again, 
+will not wear easy, but remember what tools you have at your disposal, 
+sil. bronze is prob better choice, easy to work and very strong, I think 
+thats what matt had called for in the plans
+
+Q3) The end of the brass rod that sticks into the copper pipe, will 
+need a 5mm groove, 5mm from the end of the rod; which will receive a 
+stop screw? This grove can be cut with a Dremel tool?
+
+  yes, i used a hand held 4" grinder, its not that critical, just holds 
+the boom from sliding off, naval brass, may not be easy to work with a 
+dremel
+
+Q4) The end of the brass rod that is bolted to a 1/4" standard brass 
+pipe will need to be split in half? The rod can be split in half with 
+a Dremel tool or a hacksaw?
+
+  there are ways of doing this without having to split the rod, I think 
+in the files or photo section there is a set up I made, crude looking 
+but with a bit of work it works great, boats name is JillBaby
+
+Q5) The split ends of the brass rod are then bent into a V-shape, and 
+a 1/4" hole is drilled into them to receive a 1/4" bolt. A high speed 
+drill bit will be able to do this? Again, I haven't worked with this 
+brass before.
+
+with that modification above this is not needed
+
+Q6) Before all the above happens, the brass rod must be bent. The best 
+time to bend it is before it is cut to size? Should I take it to a 
+muffler shop for the bending? Or should I use a long steel pipe as 
+cheater bar? Would a conduit bender work?
+
+with a long enough lever you could move the earth ;) I dont know how the 
+brass will bend, but the sil bronze rod went easy enough, i would bend 
+first then cut to size
+
+Q7) How on earth is the thimble (Thank God Duckworks sells those too; 
+otherwise I would have been shopping at sewing store; not kidding.) 
+seized to the swivel rod (Oh "swivel rod", that's what this 
+thing-a-ma-bob is called.)? Or maybe even better, How on earth would I 
+attach the Racelite #201 block to the swivel rod?
+
+  think what you are talking about is again part of that mod i did to 
+that set up
+
+Q8) The tack strop spacer pipe made of 1/4" brass schedule .40 
+(standard) pipe will be easier or harder to work with than the brass 
+swivel rod discussed above?
+
+the pipe was very easy compared to the rod
+hopefully this helps, working from memory
+
+Jack

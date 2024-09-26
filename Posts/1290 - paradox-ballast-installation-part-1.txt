@@ -1,0 +1,40 @@
+From: "Don Elliott" <delliott@tomah.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: Paradox-Ballast installation part 1
+Date: Sat, 15 Nov 2003 11:22:01 -0000
+
+Paradox-Ballast installation part 1
+Written by Don Elliott
+
+This article shows Paradox's ballast installation. (For those concerned or have the booklet already the following pages and illustrations will be added to my `Building Paradox booklet'.)
+
+The purpose of this article is to provide a basic guide for the installation of Paradox's ballast, however others may wish, for whatever reasons to locate it or install it differently, for those the information given here can be adjusted to suit their needs. 
+
+The ballast weights location affects the trim of the craft so bear this in mind when placing it.  The ballast weights are separate units; these units are referred to as Pigs. Matt's plans for Paradox show how to install the ballast and the amount of ballast required is specified on the plans, this article describes it in slightly more detail. 70 to 180 kg (155 =96400 lbs) is specified for Paradox's range of ballast. If your overall stores are fairly light use the higher amount, if not use less. My choice was to use the maximum amount of ballast for I am a light traveler, adjust accordingly. However, the craft's displacement should not be exceeded in any case. (Displacement is the craft, with ballast, with stores, with gear and the crew, everything. It is not the weight of the craft empty.)
+
+The following sketch shows a suggested ballast pig layout. (Note: Do not handle uncovered lead pigs with your bare hands. Wash well after you have, no matter what.)
+http://www.tomah.com/delliott/ballast2.jpg Copyright 2003 Don Elliott
+
+The lead pigs weigh 18 kg (40 lbs) each, however they can be made to be less. The `Building Paradox booklet' shows how to make your own pigs easily. Notice in that sketch that there are three pigs located at each side of the forward end of the food locker, or 54 kg (120 lbs) each side. Forward of this, at each side of the water tanks are two more pigs (36 kg or 80 lbs), the remainder of ballast is not shown and would be located based on the craft floating trim. This give a total of 180 kg or 400 pounds of ballast, if you wish for less ballast make smaller pigs. All pigs should be located outboard if possible. Paradox is so heavy a craft that it seems fairly insensitive to trim ballast this means that only slight changes in location will be needed for this trimming process.
+
+Anything that is placed directly and permanently against Paradox's floor or plywood structure should be isolated from it to prevent rot. As I used a thin rubber mat under the ballast I took extra precautions. The following sketch shows the preparation for placing the lead pigs.
+http://www.tomah.com/delliott/ballast1.jpg Copyright 2003 Don Elliott
+
+My own Paradox was given two coats of epoxy on all the interior surfaces. This is consider to be adequate, however when any moisture could be left standing, more coats should be used, example at the bases of the bulkheads where they contact the floor, there place a epoxy fillet, (See Booklet) or use a brush to give that area at least a total of 4 coats minimum; any more than this is just wasting epoxy. 
+
+(Make sure Paradox's drain scuppers are not overlooked; these scuppers are shown on the plans.) (Two pigs were shown in the lower view of that sketch, it should have shown three, more on this in a later article.)
+
+The sketch shows I used fiberglass cloth (Two pieces) on the floor, this is the quickest way to build a water barrier, in addition it protects the floor from abrasion, however if the pigs are fastened down properly, they will never budge. My attitude is once I have built a craft I don't enjoy having to go back later fixing things, do it right and you save yourself grief down the line. 
+
+(The floor's surface, of course should be sanded prior to placing the fiberglass-saturated cloth. Mark the area where the cloth (Ballast) is to be placed so there is no fumbling trying to figure out where it should go when the cloth is wet.) 
+
+There are two ways to saturate the fiberglass cloth. One way is simply place the cloth directly on the floor's surface and apply the epoxy liquid to the top surface of the cloth; epoxy liquid has no problem penetrating two layers of cloth. 
+
+Another, somewhat neater method can be used; place both pieces of fiberglass cloth on a small piece of window or automobile glass, apply the epoxy, pick this wet thing up and lay it on the floor surface (This will also produce a smooth finish.), you will waste some epoxy with this method, but not much. Watch drips when moving the thing around. 
+
+Notice in that sketch the square plastic epoxy-mixing container.
+http://www.tomah.com/delliott/ballast1.jpg Copyright 2003 Don Elliott
+
+This is my personal favorite for working with epoxy. The corners allow accurate pouring, its flat wide bottom makes it stable, it is low compared to a cup, and this also makes it less tippy than a drinking cup. The upper wide flat surface allows one to place a stir stick or brush momentarily with out it tipping the container over. This container is easily cleaned and does not need to be replaced like paper cups. If epoxy happens to dry in the container, this hardened film can be lifted out in one big piece and you now have a clean surface. Pick carefully as some are made of a lesser grade of plastic. Don
+
+The next article will begin the lead pig installation. Don (To be continued)

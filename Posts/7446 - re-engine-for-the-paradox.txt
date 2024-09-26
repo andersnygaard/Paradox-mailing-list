@@ -1,0 +1,14 @@
+From: "" <openboat@as6jg.freeuk.com>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 24 Apr 2013 14:24:48 +0100
+Subject: Re: Engine for the Paradox
+
+Adding batteries is one solution for day sailing (though then you can charge up at home) but for continuous cruising the charging potential is more important. It must be possible to recharge whatever batteries you have with whatever is used from them each day or eventually you are stuck.
+
+A quick search of the net came up with a solar panel 740mm x 540mm, a comfortable fit on the foredeck in front of the mast. This is rated at 70 watts so under ideal conditions might be expected to produce nearly 6A at 12 volts. My (little) motor consumes 30A, so for every hour I run the motor I need 5 hours of ideal conditions (10? hours of real conditions) to keep the battery charged. It just doesn't work.
+
+--
+Hoping for calm nights
+Alastair Law,
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

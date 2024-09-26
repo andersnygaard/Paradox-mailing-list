@@ -1,0 +1,19 @@
+From: paradox@as6jg.freeuk.com
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: PLAN DIMENSION QUESTIONS [2 Attachments]
+Date: Sat, 29 Nov 2014 10:39:16 -0000
+
+I started drawing Paradox in cad a few days ago and I have a couple questions about dimensions, bulkhead deck curves and bulkhead openings
+
+Leave the deck beams a bit oversize and trim to fit on the deck trial fit.
+
+Due to the fact that the whole boat is massively strong, small changes like you propose for the b'hd openings will not be a problem.
+
+If you follow the building method of doing a trial fit (without glue) before each major component is fitted then everything must fit (though it may not be exactly as drawn. I too made a cad model before I started construction. The trouble with cad is that you need to know all the exact measurements. In real life there is quite a lot of flexibility and a few mm here or there don't matter.
+
+--
+Sail when you can, row when you must, motor when you have to be at work in the morning.
+
+Alastair Law
+Yeovil, England.
+<http://www.little.jim.freeuk.com>

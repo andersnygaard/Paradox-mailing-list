@@ -1,0 +1,18 @@
+From: "DC" <kd7ixk@yahoo.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: ballast 
+Date: Thu, 02 Oct 2003 22:13:41 -0000 
+
+I'm starting to think about what I want to do for ballast. As drawn, I can use smallish pig lead, outboard of the tanks. I'm also considering the possibility of lead as part of the chine runners, such as Glen has mentioned. As I'm just in the mulling about stage, I haven't yet gotten to figure out what the lead in this configuration would weigh (at most).
+
+The chine runners are drawn with filler pieces of wood. These fillers don't appear to offer any substantial structural significance, as the plywood and glass bottom, and the chine logs are herculean already. Milling these filler pieces to the specified dimensions, in single pieces, and then springing them in seems like a lot more hassle than is necessary for a nonstructural part.
+
+It should be fairly simple to build plaster molds (one per side) for pouring the lead. The runs could be straight, as the lead would easily bend to the rocker of the bottom and curve of the side. The bevels would be most important to maintain. Feather edges could be a bitch, and would likely stretch without enough hands. The lead could be epoxied to the adjacent plywood, and fastened from below. Glass would encapsulate the chine runners, just as drawn. The lead fillers would be pretty well protected from damage, as the plywood bottom would take the brunt of damage from launching, grounding, bumping, etc.
+
+This would free up the bilge spaces outboard of the tanks, for cleanliness and stowage. I would anticipate that trim ballast would be necessary on the stbd side due to the battery. Perhaps this trim ballast could be anticipated from the get go, and allowances to this end could be made with the chine runner filler pieces; no lead forward, on the port side.
+
+Maybe this is really a minor concern. Perhaps the benefits would be minor. Maybe it would even be simpler to build the chine runner fillers out of butted blocks, or even foam. Maybe it would be just as well to build a casting mold for the bilge spaces where the ballast is drawn. This last idea would be cleaner than pigs, which tend to collect dirt and dust between the pieces.
+
+Thoughts anyone?
+
+DC

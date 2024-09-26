@@ -1,0 +1,116 @@
+From: "Alastair" <openboat@asjg.clara.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Subject: Re: water tight boot on the Paradox tiller arm
+Date: Fri, 14 May 2004 19:30:22 +0000
+
+Great scenario, did you used to write for the Keystone Kops?
+
+From: "boat142" <robertplabbe@hotmail.com>
+To: paradoxbuilders@yahoogroups.com
+Subject: [paradoxbuilders] Re: water tight boot on the Paradox tiller arm
+Date sent: Fri, 14 May 2004 12:11:16 -0000
+
+What was being discussed by DC was keeping a parachute sea anchor 45 degrees off the starbord side of the bow. You cannot do that if you raise the rudder, as you need to keep the rudder in a continuous 45 degree port turn to keep the boat off axis from the parachute sea anchor; 
+
+I had assumed it was held at 45 deg by a bridle attached to the 
+bow and stern cleats.
+
+This is equivalent to continuously keeping the boat in  turn
+and I said that it would continually stress the rudder by the force of
+a 14' long moment arm (from the ow to the rudder). Has the rudder
+assembly been designed to sustain the stress of a 30 hour long left
+turn ? - You cannot hanga series sea drogue fromthe bow, because of
+its design: Part of its system consist in a "Y" shaped bridle that
+ties into each corner of the transom; This way, each corner sustains
+at any one time from 30% to 70% of the total line load. 
+
+Be careful with bridles, if the bridle is too short it is possible that 
+both the bridle lines will be seeing loads greater than the drogue 
+line.
+
+Then, at the
+bottom of the "V", where these two lines meet, they are joined to a
+shock absorber, to elimiate chocks as the word implies. From there,
+there is a long nylon line for two reasons: One, because of its
+elasticity and, two, so that the line takes on an horizontal axis in
+relation to the boat, to "tow" the boat horizontally. Then followsa
+series of 90 small drogues on a long line for the following reasons:
+Wave oscilations have very little catch on them and cause very little
+damage in closing and opening them; There are always some in open
+position. This is not true for the paracute sea anchor that
+desintegrates eventually, dew to this closing and opening to wave
+oscillations. If the parachute is in closed position when the braking
+wave strikes, it will not slow the boat that will be capsized. This
+will never hapen with the series sea drogue. Furthermore, the
+parachute occasionally finds itself in the through on the other side
+of the wave, on the surface with no retaining value, possibly right at
+the very moment of a breaking wave strike on the boat; This will never
+happen with the series sea drogue that is long enough to cover two
+waves with their through. If the parachute sea anchor is hit by a
+breaking wave, it will possibly be thrown over to the other side of
+the boat and then actually serve to ACCELERATE the boat instead of
+slowing it down; This will never happen with a series sea drogue
+because in the end its long line of drogues goes behond the
+breakingwave, anchoring to drogues to resist being thrown over the
+boat - Additionally, at the end of the series of drogues, there is an
+extension line that goes still further out, with an anchor (or weight)
+tied at the very end to keep everything in the water and operational;
+You do not have this safety feature on the parachute sea anchor.
+Contrarilly of wath has been said, the series sea drogue is not a
+trick to sell canvas and it was specificly designed to overcome the
+shortcomings of the parachute sea annchor. It has been tested in
+modeling, in tnaks and in full size real life situations. - It you tie
+from the bow, you should have a look at the main ventilation port, on
+the deck in front of the windshield; Since the bow his designed to not
+climb on the waves and has very little boyancy, if you do not do like
+DC and keep the boat 45 degrees off axis, your bow will dig into the
+water, the incoming sea will hit the windshield and flod the mainvent
+trunk; The trunk will overflow by great quantities of water; 
+
+During one of my less sensible trips I got into a position where 
+green water was repeatedly washing over the entire boat (an open 
+dinghy would have been swamped). While I could hear water 
+running into the vent trunk it was in relatively small quantities. The 
+drain had no problem and it ran out faster than it ran in.
+
+This
+water, because your drogue/anchor is pulling the boat into the wave,
+will flow to the forward stateroom, 
+
+For water to lie forward of bulkhead 2, on my boat. the bottom of 
+the transom would have to be about a foot out of the water, they 
+must have a jolly strong pull these drogues!
+
+away from the bildge pump, will
+further sink the bow, in an operation similar to the seamen running to
+the front of the submarine to assist it in its dive. The more the bow
+will sink, the greater the angle of attack of the main vent port will
+be in face of the incoming sea and the greater the water ingress will
+be, in an accelerated maner. Althought Paradox was designed to be
+boyant, I am not sure that the calculations took into account the
+force of a line pulling it down under by the bow, where there is about
+no boyancy, at least much less then at the wide stern ... In face of
+this situation, you will have to push the sliding hatch FORWARD into
+the incoming sea, crawl to the bow to CUT the anchor/drogue line; Then
+you will be catapulted backwards, your backboen most likely hiting the
+opened sliding hatch -
+
+I came up with 3 methods of anchoring by the bow without leaving 
+the cabin. The first one I tried worked so I don't know about the 
+other 2. I see no reason why any one of them would not work with 
+a drogue. I would not consider leaving the cabin while at sea a 
+sensible manoeuvre.
+
+The resulting bakc injury might just take away for a long enough
+period of time all physical force from your legs, just when you would
+need them to reboard the boat from the wrong end (away from the
+swimming step on the rudder) ...
+
+Haven't we already broken the rudder off? :->
+ 
+Cheers, Robert
+
+Hoping for calm nights
+
+Al      
+Yeovil, England.

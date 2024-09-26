@@ -1,0 +1,21 @@
+From: "Glen C. Maxwell" <ifida@alltel.net>
+To: paradoxbuilders@yahoogroups.com
+Date: Thu, 21 Aug 2008 18:57:33 -0400
+Subject: Re: Vane Gear was: Main sheet
+
+My system is a rudder head mounted one Mark, and at first it didn't make any since to me but after I built the mock up it became very clear. The way it works is hard to explain and much easier shown. Basically, imagine a servo pendulum system, as the servo blade moves it pulls lines, which are attached to the tiller, thus correcting the course. Now, if you mount the gear on top of the rudder head instead of the transom and lock the pendulum by securing it with a pair of control lines mounted near the center of it's shaft when it tries to move or swing it can't so the top of the shaft is forced one way or the other thereby deflecting the rudder and correcting the course. Try this, hold a pencil between your fingers at the eraser and swing it back and forth thus duplicating a servo pendulum motion. Now hold it by the middle and swing it back and forth and imagine the rudder head attached to the top of the pencil and you can see how simple the system is. Hope this makes it a bit more clear.
+
+The Cape Horn system is also very simple, remember the simpler any system is the less likely you are to have problems with it, and would be fairly easy to duplicate by the home builder.
+
+Glen
+
+mwatersworld wrote:
+Hi Glen,
+
+Thanks for your input. The surface area adjustments you made is useful information.
+
+I did look at the Cape Horn models (even though they almost cost more than a new Paradox!) and am intrigued by the swinging pendulum oar type. It is not clear to me from the photos of your set-up whether your oar swings or is fixed? I was considering building the Model 90-93, Jan Alkema invention---- RHM (Rudder Head Mount) on the Walt Murray website. This model claims to combine the advantages of a trim tab and a pendulum. Do you have any thoughts about the appropriateness of this model for a Paradox or of swinging pendulum style self steering vanes in general based on your experience.
+
+Thanks
+
+Mark

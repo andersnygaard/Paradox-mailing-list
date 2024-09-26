@@ -1,0 +1,15 @@
+From: creditscorenz@yahoo.com.au
+To: paradoxbuilders@yahoogroups.com
+Subject: Mast construction
+Date: 30 Jul 2014 22:30:43 -0700
+
+
+Hi,
+
+Bought the wood for my mast today. Going to start it shortly. Looking through the archives it seems quite a few people have abandoned the internal sheave at the top for an external one. Also a number of people have put electrical conduit inside the mast for the wiring and lightning conductor.
+
+Has that worked out or should I stick with the plans? An idea I had for radar visibility was to put tinfoil inside the mast cavity. I figured that would prevent the internal wires slapping too, although it might be difficult to draw the wires out if they need repairing. Realistically, would the internal wiring ever need repairing? I can definitely imagine the top light needing to be reterminated, so having some extra cable zig zagging inside the mast that you could draw up would be a good idea.
+
+Cheers,
+
+Rob.

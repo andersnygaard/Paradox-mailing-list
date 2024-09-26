@@ -1,0 +1,35 @@
+From: "randoneur" <pdmartin@ukonline.co.uk>
+To: paradoxbuilders@yahoogroups.com
+Date: Wed, 28 Oct 2009 21:59:06 -0000
+Subject: Mast Layout
+
+
+The mast layout is ALMOST making sense with the build guide info.
+
+Almost? 
+Let me tell you my story.
+I've had the plans and buid manual for well over 2 years. It was only this weekend that I suddendly made sense of the mast layout on sheet 12!
+Now that I can see it, I struggle to see what was so difficult.
+
+Why did it take so long? Well it's because I hadn't got to that critical stage yet!
+I ordered the wood to build the mast on Monday morning, so I'd spent quite a bit of time working out what timber I needed.
+On Sunday night I wrote down my requirements and then thought to myself, "let's just double check. I opened sheet 12 and realised that all this time I had been interpreting the plans incorrectly!
+
+The drawings are actually very simple, but the way it's drawn is slighly confusing.
+
+The mast is drawn as two seperate elevation views; the left hand one is a view from the port side, the right hand view is a view from fore or aft (it's the same both ways).
+
+Look at the plan. Take a piece of paper and place it so that it hides all the lines to the right of and including the 900 - 900 - 900 etc.
+The remaining section to the left (uncovered) is the mast section looking fom the port side, the wood shaded bits are a section of the front and rear panels. It is straight aft, and curves gentle on the forward face. The measurements of this piece are given i.e. starting form the top the widths are; 34, 54, 70, 80, 84, 84.
+The thickness of this board you cannot currently see, because it's hidden under the sheet of paper. If you slide your piece of paper over to the right and hide everything to the left of the 900-900 line, you will see the fore/aft view of the mast. Because the mast is symetrical in this plane, it's shown as half thickness (notice the CL marking). The very right hand measurements are the thickness of the sides.
+You will therefore see that the dimensions of the two idetical sides are (width x thickness):
+34x10, 54x14, 70x17, 80x19, 84x19 84x19(with slight taper at mast foot).
+
+Doing the same for the back and front of the mast we get the following:
+10x12, 22x16, 32x21, 36x23, 38x24, 38x24.
+Don't forget the half widths are shown on these pieces so the plans actually show, 5, 11, 16, 18, 19, 19 as the widths.  
+
+Hope that makes some sense! When you actually see in your head what  the plans are trying to portray it's really dead simple.
+
+Pete
+http://www.freewebs.com/paradoxbuild/

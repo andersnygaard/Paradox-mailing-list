@@ -1,0 +1,13 @@
+From: Nick Bell <nickbell1955@yahoo.com>
+Subject: Re: [paradoxsailboat] Shaping Rudder Blade
+Date: Sun, 17 Jul 2022 16:15:35 +0930
+To: paradoxsailboat@groups.io
+
+Ok, remember you need a flat area between the upper and lower parts of the rudder to hold the rudder flat around the axle bolt.
+If that area is too small, the rudder will rattle no matter how much tension you can get on the bolt (and still have it rotate around the bolt.)
+
+On 17 Jul 2022, at 3:19 pm, Simon B <destsk@gmail.com> wrote:
+
+Hello. I cut myself some guides from plywood (offset from NACA 0009 i think profile for the length of protruding router bit) and shaped my rudder with router. See video here: (starting from 6:45 - before that there's some glue up and random stuff, but in Lithuanian.
+
+https://youtu.be/MbeqORtrufM?t=3D407
